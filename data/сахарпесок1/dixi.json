@@ -1,0 +1,39 @@
+[
+    {
+        "title": null,
+        "class": null,
+        "pagenData": {
+            "element_count": "0",
+            "page": 1,
+            "pages_count": 0,
+            "page_size": 30,
+            "pagen_text": "Показать ещё -30 товаров",
+            "isLastPage": true
+        },
+        "cards": null,
+        "card_template": "{{#isSlider}}\n<div class=\"swiper-slide\" {{{displayNone}}}>\n{{/isSlider}}\n<article class=\"card bs-state{{^canBuy}} disabled-card{{/canBuy}}{{#hideAlko}} alko{{/hideAlko}}\" data-discount=\"{{{discount}}}\" data-section=\"{{{section}}}\" data-template=\"listing-card\" data-id=\"{{id}}\" product-id=\"{{xml_id}}\" data-bsk_state=\"{{bskState_f}}\">\n    <a class=\"card__link\" href=\"{{url}}\">\n        <div class=\"bookmark\" style=\"opacity: 0;\">\n            <svg >\n                <use href=\"/local/templates/dixy_ru/images/sprites.svg#bookmark\"></use>\n            </svg>\n        </div>\n        <div class=\"card-images\">\n            <img class=\"card-image\" width=\"94\" height=\"94\" data-src=\"{{src}}\" src=\"#\" loading=\"lazy\" alt=\"{{title}}\">\n            <div class=\"badges\">\n                {{#badges}}\n                <div class=\"badge {{class}}\">\n                    {{#title}}\n                    <span>{{{title}}}{{#is_favorite}}{{#img}}{{{img}}}{{/img}}{{/is_favorite}}</span>\n                    {{/title}}\n                </div>\n                {{/badges}}\n                {{#stickerBadge}}\n                <div class=\"badge green\">\n                    <span>{{{stickerBadge}}}\n                        <svg>\n                            <use xlink:href=\"/local/templates/dixy_ru/images/sprites.svg#sticker-dixy\"></use>\n                        </svg>\n                    </span>\n                </div>\n                {{/stickerBadge}}\n            </div>\n        </div>\n        <div class=\"card__info\">\n          <h3 class=\"card__title\">{{title}}</h3>\n        </div>\n    </a>\n    <div class=\"card__action{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\"{{#bskFields}} data-bsk_data=\"{{bskFields}}\"{{/bskFields}}>\n        {{^hideAlko}}\n          {{#bs-not}}\n              <button class=\"card__more\" aria-label=\"Кнопка Подробнее о товаре\">Подробнее</button>\n          {{/bs-not}}\n          {{#bs-del}}\n          <button class=\"card__del\" onclick=\"delCounterCount(this,'listingInitiator')\" aria-label=\"Кнопка Удалить из корзины\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#basket\"></use>\n            </svg>\n          </button>\n          {{/bs-del}}\n          {{#bs-in}}\n          <button class=\"card__minus\" onclick=\"countminus(this,'listingInitiator')\" aria-label=\"Кнопка Уменьшить количество товара\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#minus\"></use>\n            </svg>\n          </button>\n          {{/bs-in}}\n        {{/hideAlko}}\n        {{^crossPrice}}\n        <div class=\"card__price\">\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        {{#crossPrice}}\n        <div class=\"card__price {{status}}\">\n            <span class=\"card__price-crossed\" title=\"руб.\">{{{oldPrice}}}</span>\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        <div class=\"card__count{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\">\n          <input class=\"card__input\" type=\"text\" value=\"{{quantity}} {{symbol}}\" aria-label=\"Количество товара\">\n          {{#bs-limit}}<span class=\"card__count-text\">Больше нет</span>{{/bs-limit}}\n          <span class=\"card__text-disabled\">Раскупили</span>\n        </div>\n        <button class=\"card__plus{{#canBeFavoriteListing}}{{^is_favorite}} addFavorite{{/is_favorite}}{{/canBeFavoriteListing}}{{^hideAlko}}{{^bs-limit}}{{^bs-not}} active{{/bs-not}}{{/bs-limit}}{{/hideAlko}}{{^hideAlko}}{{#bs-limit}} disabled{{/bs-limit}}{{/hideAlko}}\"{{^canBeFavoriteListing}} onclick=\"countpluse(this,'listingInitiator')\"{{/canBeFavoriteListing}} aria-label=\"Кнопка добавить товар в корзину\">\n          <svg>\n            <use href=\"/local/templates/dixy_ru/images/sprites.svg#plus\"></use>\n          </svg>\n        </button>\n    </div>\n</article>\n{{#isSlider}}\n</div>\n{{/isSlider}}\n",
+        "filterData": false,
+        "seoFilter": null,
+        "externalResult": [
+            {
+                "search_info": {
+                    "taps": [],
+                    "sts": [],
+                    "query": "сахар песок 1",
+                    "empty": false
+                }
+            }
+        ],
+        "facetData": [],
+        "sectionData": [
+            {
+                "list_title": "Поиск по запросу:&nbsp;<span>сахар песок 1</span>",
+                "title": "Поиск",
+                "count": "0",
+                "format_count": "0 товаров",
+                "href": "/catalog/",
+                "items": []
+            }
+        ]
+    }
+]

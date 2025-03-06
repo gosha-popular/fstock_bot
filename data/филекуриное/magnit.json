@@ -1,0 +1,786 @@
+{
+    "category": null,
+    "correctedTerm": null,
+    "fastCategories": [],
+    "items": [
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/2QD9VbJLmgLdl4pYTtRIhe2_OQeOUnd7oM0LtoTPbk0/rs:fit:416:416/plain/s3://img-dostavka/uf/268/26802805ef6caea22d54264e66aa52fd/e1041cd30ca13d2b0ce9b6cadc90e227.jpeg@webp"
+                }
+            ],
+            "id": "1000233462",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Филе цыпленка-бройлера",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 33299,
+            "productId": "1000233462",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-03-10T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 37827,
+            "ratings": {
+                "commentsCount": 2111,
+                "rating": 4.6,
+                "scoresCount": 44669
+            },
+            "seoCode": "file_tsb_okhl_lotok_1_kg_v_lotok_ooo_soyuzptitseprom_5",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "900г",
+                "shelfWeight": 900,
+                "step": 900,
+                "unitLabel": "1кг",
+                "unitPrice": 36999
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/porpOFhesRfRJ7z0xhHuOKsGTLPrgr_QImrepcQHMuQ/rs:fit:416:416/plain/s3://img-dostavka/uf/4cc/4cc6c94245347c3e4cb883238dd2f696/12d2e5ae38bc6b1d65584318d26f22a4.jpeg@webp"
+                }
+            ],
+            "id": "1000233459",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Грудка цыпленка-бройлера в ассортименте",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 33598,
+            "productId": "1000233459",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-04-09T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 4358,
+            "ratings": {
+                "commentsCount": 570,
+                "rating": 4.6,
+                "scoresCount": 12323
+            },
+            "seoCode": "grudka_tsb_okhl_lotok_1_kg_v_lotok_ooo_soyuzptitseprom_5",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "1.20кг",
+                "shelfWeight": 1200,
+                "step": 1200,
+                "unitLabel": "1кг",
+                "unitPrice": 27999
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/-vbSxNZo8cmekVmv8ubMD0iwa3HXbDgck1zzPT8wkZ8/rs:fit:416:416/plain/s3://img-dostavka/uf/d23/d23a51ab80a42115d7433b1125e94398/8d75cb395d3e17db1c01a7a82ec7f914.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/hGXAiaQXy2emqjflftfh4oh8DD79XzXtn_Hb3wa6iGA/rs:fit:416:416/plain/s3://img-dostavka/uf/144/144136416257da2567fdecb16fef41ee/49412b4ece97b891882999968a9caa1f.jpeg@webp"
+                }
+            ],
+            "id": "1000516237",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Филе цыпленка-бройлера Петелинка малое 550г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 28999,
+            "productId": "1000516237",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 2,
+            "ratings": {
+                "commentsCount": 12,
+                "rating": 4.7,
+                "scoresCount": 95
+            },
+            "seoCode": "petelinka_file_maloe_tsb_okhl_550g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/mQxtq47f1HySRA_vo_dxVM7KqOgVHTqH258n1JZx9Js/rs:fit:416:416/plain/s3://img-dostavka/uf/168/1680a4e6007ea1d9738538c62136df5d/e9dcfd4da604460610cd4050fe2031fe.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/LSN79FTQkF7dFZbPuA68RsntpfMeB59BdGufNZEvOPw/rs:fit:416:416/plain/s3://img-dostavka/uf/cb6/cb6747ef461e019f963a94dc461f1a96/73a2b36be649b999d3562156f55a5e46.jpeg@webp"
+                }
+            ],
+            "id": "1921259012",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Филе цыпленка-бройлера Петелинка",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 44999,
+            "productId": "1921259012",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 4527,
+            "ratings": {
+                "commentsCount": 183,
+                "rating": 4.6,
+                "scoresCount": 3294
+            },
+            "seoCode": "file-grudki-petelinka-bez-kozhi",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "900г",
+                "shelfWeight": 900,
+                "step": 900,
+                "unitLabel": "1кг",
+                "unitPrice": 49999
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/76JjrHU3SVjjkZr0wj5_4Xm4JpVTmOP4FbeFN8LODuo/rs:fit:416:416/plain/s3://img-dostavka/uf/08b/08b1001f51bc87592212a1cfcfca2b0a/b580e13810cf5ae7a21de2ab560b6e26.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/TTPgmzpqpqy79PyKpgtymO0tpPp-dm_pkpDT79sZ-JE/rs:fit:416:416/plain/s3://img-dostavka/uf/d02/d022a3eed01d95b78240fc16bb01214d/8212ae56993771591c963f879d1b6522.png@webp"
+                }
+            ],
+            "id": "1000090903",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Сухая смесь Maggi На второе для Нежного Филе куриной грудки по-итальянски 30.6г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 10499,
+            "productId": "1000090903",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 43,
+            "ratings": {
+                "commentsCount": 42,
+                "rating": 4.9,
+                "scoresCount": 1063
+            },
+            "seoCode": "sukhaya_smes_maggi_na_vtoroe_dlya_nezhnogo_file_kurinoy_grudki_po_italyanski_30_6g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/CQzahffpxjnvJYI9r_V0nr_nbYqquK7wCgYE189xyuc/rs:fit:416:416/plain/s3://img-dostavka/uf/b3f/b3f6f120bae740da18bc463b08cf7603/8f9c3d86785216c0b1c8a1296a1758f5.jpeg@webp"
+                }
+            ],
+            "id": "1000177666",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Папа может Филейная из мяса птицы вареная весовая",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 8997,
+            "productId": "1000177666",
+            "promotion": {
+                "discountPercent": 52,
+                "endDate": "2025-03-11T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 18899
+            },
+            "quantity": 19289,
+            "ratings": {
+                "commentsCount": 20,
+                "rating": 4.6,
+                "scoresCount": 268
+            },
+            "seoCode": "papa_mozhet_kolbasa_fileynaya_iz_myas_ptits_var_v_p_o_ompk_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "300г",
+                "shelfWeight": 300,
+                "step": 300,
+                "unitLabel": "1кг",
+                "unitPrice": 29990
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/PVtW1sLs5_x4TwVZdjnFrJ_dftDUqsk7LFO7FnwxOyU/rs:fit:416:416/plain/s3://img-dostavka/uf/387/387d5ab14b6e1959d58d17de5f620b06/767e1d4ecead1fd3e1b16e1d3d321844.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/oRpAumpAhgqKNCTIcGVGqly7K8VSdMtChOgmmDLHUmo/rs:fit:416:416/plain/s3://img-dostavka/uf/e2e/e2e3abb854e4a7ca4db8aa5b2ada7662/21fd9b3785e0397555421cd70652ddc6.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/sCs6a3M394M973mHfN2jLiWrE8Kiko6EXz4-yhndKns/rs:fit:416:416/plain/s3://img-dostavka/uf/9b1/9b139770c766e865a2b7db93c49c6ffb/98ed2955ea4ca77e0fb48b702bb4e6e8.png@webp"
+                }
+            ],
+            "id": "1999900091",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Грудка цыплят гриль",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 17497,
+            "productId": "1999900091",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 0,
+            "ratings": {
+                "commentsCount": 19,
+                "rating": 4.5,
+                "scoresCount": 353
+            },
+            "seoCode": "grudka_tsyplyat_gril_sp_gm",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "250г",
+                "shelfWeight": 250,
+                "step": 250,
+                "unitLabel": "1кг",
+                "unitPrice": 69990
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/1KLk5EJIGOl-3FgYKvsahJcvVEiOq4mnaoNNr2Emrck/rs:fit:416:416/plain/s3://img-dostavka/uf/e91/e91ed0a6f447962e5df981062dae8235/c1e35b419d20988846368533357a0e23.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Fy5peZNp46rB2wBnz3eupxGjOnEqeqlkdj3_rKq3Pbg/rs:fit:416:416/plain/s3://img-dostavka/uf/db4/db4d2b666cdf65eb9ce4eb34852f888d/adbc4b5c3a63f13c183c33e41673407e.jpeg@webp"
+                }
+            ],
+            "id": "1000429872",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Шницель из филе грудки цыпленка-бройлера Мираторг 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 22999,
+            "productId": "1000429872",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 4,
+            "ratings": null,
+            "seoCode": "miratorg_shnitsel_iz_file_grudki_tsypl_broyler_400g_bryanskiy_4",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/TG97LAEvPtWkscfD-M4MdR17aZaFRimagUbkzxJAndU/rs:fit:416:416/plain/s3://img-dostavka/uf/546/546b693134f7734631ecd74a8750c380/d5401f120b464f37b3ffc51361fcc738.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/QLJly2hwfTp13oRYzdb2NsCqg7RqQ8tDOqbXXPVSB10/rs:fit:416:416/plain/s3://img-dostavka/uf/a95/a957c0c39dda0b59fce2669b39098841/44748eec527df6d39f914d0f0685609c.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/0uQeIYE17KIOcp4fUUxyCHriwtkbyHG2Uy7EFO8g7Vw/rs:fit:416:416/plain/s3://img-dostavka/uf/13e/13eacf9b643c176f5b15cdb9b393a733/2fafefd7dc7c7ae6a2d9de7f03387d3e.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/N9GflOI2rG-2jKN9cz4tmYJOIhMO8wrFCR6g2yheScY/rs:fit:416:416/plain/s3://img-dostavka/uf/138/138366bb92c68701e61436a010886471/40d0cb87f4200b0f6229c34ba4c99f32.jpeg@webp"
+                }
+            ],
+            "id": "1000166749",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Грудка Агрокомплекс Забава из мяса цыплят-бройлеров копчено-вареная весовая",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 87989,
+            "productId": "1000166749",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 11360,
+            "ratings": {
+                "commentsCount": 7,
+                "rating": 4.6,
+                "scoresCount": 95
+            },
+            "seoCode": "grudka_zabava_iz_myasa_tsyplyat_broyler_k_v_v_u_agrokompl",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "1.10кг",
+                "shelfWeight": 1100,
+                "step": 1100,
+                "unitLabel": "1кг",
+                "unitPrice": 79990
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Q3bKmLPUe09v9KrObB3i8Q0T-0kyk4GjuCRwBVKpFb8/rs:fit:416:416/plain/s3://img-dostavka/uf/7fb/7fb4c62a5e0fab693860a52e229f452d/11634a667df34ab6ab0624e9ffb6048e.jpeg@webp"
+                }
+            ],
+            "id": "1000460811",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Филе цыпленка-бройлера Мираторг нежное в маринаде 625г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 35999,
+            "productId": "1000460811",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 9,
+            "ratings": null,
+            "seoCode": "miratorg_file_nezhnoe_tsb_v_marinade_okhl_v_u_625g_bryanskiy_br",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/g6J40Y0l7F6ziSgx-regiSwbCpmZEr5dA3jyTwU25z0/rs:fit:416:416/plain/s3://img-dostavka/uf/17e/17e3f1a79ea01d971066cd3fa2d4088a/ae7fb1552f7573f9b00b4e38b418eeb3.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/wEv870-rH5qxpgKniLjfpLXiN0zC4eRWhknQ4IG9SLw/rs:fit:416:416/plain/s3://img-dostavka/uf/994/994c63ed5cccefe456f54bd24c8296b5/c3a3792a3694ccf7818700609a377d75.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/1Kx7VkoqxalXAjV8grs_q2wtti_H_SY-wzY8etOYrJU/rs:fit:416:416/plain/s3://img-dostavka/uf/08b/08b952ce79ebd86bcdd23ada8cd9d6cf/92efbd3ae73a378eb3b7d27f46a8b21b.jpeg@webp"
+                }
+            ],
+            "id": "1000308161",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Филе куриное в кляре",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 21998,
+            "productId": "1000308161",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 0,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.5,
+                "scoresCount": 49
+            },
+            "seoCode": "file_kurinoe_v_klyare_kulinariya",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "200г",
+                "shelfWeight": 200,
+                "step": 200,
+                "unitLabel": "1кг",
+                "unitPrice": 109990
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/mBA9u2UOdnXssDl_mzP6Tc5lNgb7PuiO5TDF_9dVbdc/rs:fit:416:416/plain/s3://img-dostavka/uf/e74/e74356cf3e927b32f964d46c8ca32cbe/90d910159182301cbccb8ae55cd6bd29.jpeg@webp"
+                }
+            ],
+            "id": "1000325074",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Пельмени Агрокомплекс с куриным филе 800г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 35999,
+            "productId": "1000325074",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 14,
+            "ratings": {
+                "commentsCount": 10,
+                "rating": 4.2,
+                "scoresCount": 77
+            },
+            "seoCode": "agrokompleks_pelmeni_21810_800g_floupak_ao_firma_agrokompleks_im_n_i_tkacheva_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/D4BOvYGPth6Lx9RDfep3XR-FN9C3zY2IAslo2KsHRCs/rs:fit:416:416/plain/s3://img-dostavka/uf/25e/25e08f06c04ea9abf4956edcc18d5938/d5514b3af972eb5a7ef11ff3d98c7d5f.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Cj2kEyBessvc4hSjSewKSDvrsnXzYzv646WWvC_pe5w/rs:fit:416:416/plain/s3://img-dostavka/uf/28d/28ded01dd28148283752f4bbdd8d61e7/bf446aa20c637e0899dfb3f2db33605c.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Fs2qL8XkqFqJJ3Bn4FP8FdbEYDW5_bZ11IDgYq0aBGw/rs:fit:416:416/plain/s3://img-dostavka/uf/2ef/2efe896dda18bb70dd6ce738d9d5f710/f3b0be0740a0d69a430c160962ed2626.png@webp"
+                }
+            ],
+            "id": "2118900030",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Пюре Бизнес меню картофельное с куриным филе 110г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11999,
+            "productId": "2118900030",
+            "promotion": {
+                "discountPercent": 14,
+                "endDate": "2025-03-18T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 13999
+            },
+            "quantity": 6,
+            "ratings": {
+                "commentsCount": 137,
+                "rating": 4.7,
+                "scoresCount": 1771
+            },
+            "seoCode": "pyure_kartofelnoe_biznes_menyu_s_kurinym_file_110g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/eg79w74upfB3WBlX0CNtwdVOiNtR7oTSKzWaIX5Z970/rs:fit:416:416/plain/s3://img-dostavka/uf/7cc/7cced05c11e18058127869cc1d2c27ee/5fa557e7a752993e1a4439a82668d460.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/4cP6to8KSh_bgEgBn879HhUP8sJjN_npDsfauMlIgsc/rs:fit:416:416/plain/s3://img-dostavka/uf/baa/baaddfccb81edbd70b42a18ec87979d9/89dd537c9b4495166ec98414c6b24924.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/YpQxoH6rg4kiD7XhM6bXs7pSKxyHafjBZH9w3m8JWO8/rs:fit:416:416/plain/s3://img-dostavka/uf/7ea/7eaaad76768f00addd85510b6e5c2d61/cdf00bda5025c3098442d8f0fdb559a4.jpeg@webp"
+                }
+            ],
+            "id": "1000424781",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Филе куриное Огонёк",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 22497,
+            "productId": "1000424781",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 0,
+            "ratings": {
+                "commentsCount": 20,
+                "rating": 4.5,
+                "scoresCount": 188
+            },
+            "seoCode": "file_kurinoe_ogonyek_kulinariya",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": true,
+                "minStep": 1,
+                "shelfLabel": "250г",
+                "shelfWeight": 250,
+                "step": 250,
+                "unitLabel": "1кг",
+                "unitPrice": 89990
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/bVbtCDu1Smx1Dge9jQLHRRdR0VGrNg8KuM7eEy3XWic/rs:fit:416:416/plain/s3://img-dostavka/uf/bb8/bb8e2eafd20e32e920a1eda751a0f527/e923f5ec450b7a0fa0dcb06cf8eb0f56.jpeg@webp"
+                }
+            ],
+            "id": "1000391635",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Мини-филе минтая Chef Polar в панировке 280г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 17999,
+            "productId": "1000391635",
+            "promotion": {
+                "discountPercent": 30,
+                "endDate": "2025-03-11T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 25999
+            },
+            "quantity": 11,
+            "ratings": {
+                "commentsCount": 13,
+                "rating": 4.6,
+                "scoresCount": 69
+            },
+            "seoCode": "chef_polar_mini_file_mintaya_v_panir_280g_k_up",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Z9SMGMj8wDchACKgcuELVQnPJ0UBzzKAYAK5ZgQKSAg/rs:fit:416:416/plain/s3://img-dostavka/uf/fb5/fb54c9bcbe36470f32c453ee434615f7/6297906d8258db29927034458ad0da11.jpeg@webp"
+                }
+            ],
+            "id": "1000547739",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Наггетсы Вязанка Сливушки с куриным филе и сыром 250г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 23980,
+            "productId": "1000547739",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 43,
+            "ratings": {
+                "commentsCount": 221,
+                "rating": 4.7,
+                "scoresCount": 2392
+            },
+            "seoCode": "vyazanka_slivushki_naggetsy_s_kurinym_file_i_syrom_250g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        }
+    ],
+    "pagination": {
+        "hasMore": false,
+        "limit": 36,
+        "offset": 0,
+        "totalCount": 16
+    },
+    "term": "филе куриное"
+}

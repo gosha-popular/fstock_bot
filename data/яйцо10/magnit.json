@@ -1,0 +1,410 @@
+{
+    "category": null,
+    "correctedTerm": null,
+    "fastCategories": [],
+    "items": [
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/0JBtgbxS83VortRuxHWBTHuKvrSqj1h-YXSrMLteuLg/rs:fit:416:416/plain/s3://img-dostavka/uf/95d/95d58e08498c91e21e9e2dbd3403571f/5628eea99d139785bb9f0856fc78b35c.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/2iD6-LqD-KebGTZchLmYfjN-Nc2h2qItlxvv4W01d5o/rs:fit:416:416/plain/s3://img-dostavka/uf/b10/b10ba69ae7011c2a0821ef032a39174e/f12484e6c8db7feb2aaf6bf358cbde56.jpeg@webp"
+                }
+            ],
+            "id": "2047000014",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Яйцо столовое C0 10шт",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 10999,
+            "productId": "2047000014",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-03-10T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 596,
+            "ratings": {
+                "commentsCount": 2975,
+                "rating": 4.7,
+                "scoresCount": 60539
+            },
+            "seoCode": "yaytso_kurinoe_stolovoe_so_10sht",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/YEXxyW80xAGMQagTPa5PbfUu_sDgfzjqdCItj1NJBEM/rs:fit:416:416/plain/s3://img-dostavka/uf/97e/97e2de9131b69edc08ea9b713f6e7fc6/5bdcb45b357253e46981e4e1fb0b74e1.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9hgPpo9GttStGFkEnBxn6pFwautb7z4xsvT9WhQygOk/rs:fit:416:416/plain/s3://img-dostavka/uf/5f5/5f56f5cb58d61da0154525fc60c054dd/8b47edc0c580c415422676c4eef4a077.png@webp"
+                }
+            ],
+            "id": "3454700001",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Яйцо столовое C1 10шт",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 9719,
+            "productId": "3454700001",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-03-17T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 418,
+            "ratings": {
+                "commentsCount": 2532,
+                "rating": 4.6,
+                "scoresCount": 69398
+            },
+            "seoCode": "yaytso_stolovoe_s1_10sht_boks_20",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Ux7JbdXqP5qmmQ1as7B2wNgiptrb_6Fb-jD6FwrmCCk/rs:fit:416:416/plain/s3://img-dostavka/uf/e67/e6730833ea584a5bfec424174bf75e0f/c51d0ca2dcc5f2007ad018e111ae1bfb.jpeg@webp"
+                }
+            ],
+            "id": "1000315734",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Яйца куриные Птицефабрика Новороссийск Станичные С1 10шт",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11999,
+            "productId": "1000315734",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 8,
+            "ratings": {
+                "commentsCount": 24,
+                "rating": 4.6,
+                "scoresCount": 576
+            },
+            "seoCode": "ptitsefabrika_novorossiysk_yaytsa_kurinye_stanichnye_s1_10sht_20",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/ywD1m9wBgtltEHzD0RHeJavpNY45SaqMwjjMU5WsI-E/rs:fit:416:416/plain/s3://img-dostavka/uf/67f/67faf48a635dfa2b8d2ada0cfdc39315/c60edd01ecc0cafc8ba06cd22ad56f76.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/mHGDcHo0kOia6SZAr8ypwxL3TURm6gdBuYA0uW_uN2c/rs:fit:416:416/plain/s3://img-dostavka/uf/19b/19bfab67a0aac78e1cfa05b97e20e2d2/74afb13c7cfae5762372f3a201e76193.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/QivQbG-4Jwm9wz_dQ0uIElgeUrPzaiF-o2uqQC9IDUM/rs:fit:416:416/plain/s3://img-dostavka/uf/d87/d87beb96fa3a771c5a6cc107582e7618/ab783190b334c4eadb144fde16d681f2.jpeg@webp"
+                }
+            ],
+            "id": "1000567215",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Яйцо куриное Тульская С1 10шт",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11399,
+            "productId": "1000567215",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 40,
+            "ratings": {
+                "commentsCount": 20,
+                "rating": 4.7,
+                "scoresCount": 491
+            },
+            "seoCode": "tulskaya_yaytso_kurinoe_s1_10_sht_boks",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Tvs2Dac9UcMNQBOeZ7Boxkr6ALFwP-AE0L0eguR8Smg/rs:fit:416:416/plain/s3://img-dostavka/uf/b7f/b7f6718af1eef1d24f4320ea1af6f661/9f8c10cbcfea18370197f610a422f2bc.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/GgCerghDjZyiTnYtuoRYaaXS_EKCjnBTu-Q6aNFY1FU/rs:fit:416:416/plain/s3://img-dostavka/uf/f76/f7653f93431008a9e835d5bfcabdef7c/14a419a38d9fe244343bedf4f784a793.jpeg@webp"
+                }
+            ],
+            "id": "1000424693",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Яйцо куриное Лето С2 10шт",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 9199,
+            "productId": "1000424693",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 63,
+            "ratings": {
+                "commentsCount": 11,
+                "rating": 4.7,
+                "scoresCount": 93
+            },
+            "seoCode": "leto_yaytso_kur_s2_10sht_boks",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Mh89-WgcvJmLOB7aBiAp4iamcxBMWzgsP4oNkp1MOlQ/rs:fit:416:416/plain/s3://img-dostavka/uf/2cb/2cb0b65d791e7f6f509e3468d8c54d3a/15dc10b08e30bd85c2e4a1b22d3a6c09.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/fujHJrzmdkEWKm7GKvWy3afIj99ZWtJG6MVeZIhvWOo/rs:fit:416:416/plain/s3://img-dostavka/uf/6f2/6f20ff7372c4c42f793e4acb1fde318c/c2decdb30b5e94ad5b3ff3559e0d8228.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/t9-4pzsw-EBQuw-prB-pBkB7DAAUMJoZrJfmYtJCLB0/rs:fit:416:416/plain/s3://img-dostavka/uf/5bc/5bc4a2301c3a6b17929909335ce16671/58eeb7fdf143ccb450f71a892dc94ab1.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/wzUc2H9tNpS6MsrAqOFK2827MqcrL7FN62syhH-QWl8/rs:fit:416:416/plain/s3://img-dostavka/uf/c50/c502b2a1010cd3280ee6310f5dbd9d41/ef9487e1a0a8f9cf2b81bf6a02a7f6da.png@webp"
+                }
+            ],
+            "id": "1000246228",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Яйца Лето С1 коричневые 10шт",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11499,
+            "productId": "1000246228",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 80,
+            "ratings": {
+                "commentsCount": 64,
+                "rating": 4.8,
+                "scoresCount": 1125
+            },
+            "seoCode": "leto_yaytsa_kurinoe_kategoriya_pervaya_10_0_65_kg_kartonnaya_upakovka_ooo_belyanka_16",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/vHXE8B33lsfxqFCWstfOXDlEhdx5kaBkfehlpkCTcUQ/rs:fit:416:416/plain/s3://img-dostavka/uf/b2b/b2bfcbae6f3ed02ecdaff94368de8869/e5788e69ef6183437de8c527d93b0b00.jpeg@webp"
+                }
+            ],
+            "id": "1000567216",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Яйцо куриное Тульская С0 10шт",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 12499,
+            "productId": "1000567216",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 66,
+            "ratings": {
+                "commentsCount": 62,
+                "rating": 4.8,
+                "scoresCount": 946
+            },
+            "seoCode": "tulskaya_yaytso_kurinoe_s0_10_sht_boks",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/YnTw6nrVo3kNTBaTyltTCZ7KrQsPVv2734vM1TltY_A/rs:fit:416:416/plain/s3://img-dostavka/uf/b2b/b2b8daf931a0672b64e810ef1d3422f5/7bdbf84d48a7f96cc04939314d70d7d9.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/2yWW5ymRV7HaP380kWzaJ8ZKTo4xN8kg_fpbH3qL1Sg/rs:fit:416:416/plain/s3://img-dostavka/uf/5ab/5ab984d24d10962cb57c211b384536f2/6d802e38c2d4244f988eadf1c98a3890.jpeg@webp"
+                }
+            ],
+            "id": "1000093546",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Шоколадное яйцо Kinder Макси 100г в ассортименте",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 44999,
+            "productId": "1000093546",
+            "promotion": {
+                "discountPercent": 13,
+                "endDate": "2025-03-11T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 51999
+            },
+            "quantity": 114,
+            "ratings": {
+                "commentsCount": 57,
+                "rating": 4.8,
+                "scoresCount": 1051
+            },
+            "seoCode": "kinder_shok_yaytso_maksi_shokolad_100g_ferrero_russiya_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        }
+    ],
+    "pagination": {
+        "hasMore": false,
+        "limit": 36,
+        "offset": 0,
+        "totalCount": 8
+    },
+    "term": "яйцо 10"
+}

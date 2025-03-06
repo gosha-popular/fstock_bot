@@ -1,0 +1,713 @@
+[
+    {
+        "title": null,
+        "class": null,
+        "pagenData": {
+            "element_count": "10",
+            "page": 1,
+            "pages_count": 1,
+            "page_size": 30,
+            "pagen_text": "Показать ещё -20 товаров",
+            "isLastPage": true
+        },
+        "cards": [
+            {
+                "id": "224405",
+                "xml_id": "ЦТ0042599",
+                "title": "Крупа Мистраль гречневая ядрица 900г",
+                "weight": "925 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/%D0%A6%D0%A20042599/",
+                "ratio": 1,
+                "src": "/upload/iblock/b90/bvos3ypkoa1fewdcbn9d77wt9e77cv51.webp",
+                "amount": 65,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 1,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/b90/bvos3ypkoa1fewdcbn9d77wt9e77cv51.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/867/32g79q8g560g48qv44ns27qwur8j9jm5.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/111/nd1zcgfuxzdwaa7aqalla1kf3bpyjmg5.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/fc1/hapvlj5xruynltc9ebb2rv4y9022ppz8.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/fd2/u9dymndu4znd150gi1aq4nptfs6l9ewo.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "224405 1 65 шт 0",
+                "status": "in-time",
+                "oldPrice": "139.<span>90</span><span class='rub'>руб.</span>",
+                "price": "94.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-32%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "94.99",
+                "oldPriceSimple": "139.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "211652",
+                "xml_id": "2000219613",
+                "title": "Крупа гречневая ядрица 900г",
+                "weight": "803 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/2000219613/",
+                "ratio": 1,
+                "src": "/upload/iblock/93d/azyzy827s8l80dglfwjz4tzfpbgr358e.webp",
+                "amount": 3,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 2,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/93d/azyzy827s8l80dglfwjz4tzfpbgr358e.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "211652 1 3 шт 0",
+                "price": "33.<span>99</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "33.99",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "219264",
+                "xml_id": "2000539995",
+                "title": "Крупа гречневая Пассим Алтайская 800г",
+                "weight": "805 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/2000539995/",
+                "ratio": 1,
+                "src": "/upload/iblock/b38/x2ekok5qd9mwatka63rziqhvw816gdox.webp",
+                "amount": 26,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 3,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/b38/x2ekok5qd9mwatka63rziqhvw816gdox.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/401/yy3lg1ya4fajqkk4yljc1nlkaose6f3l.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "219264 1 26 шт 0",
+                "status": "in-time",
+                "oldPrice": "89.<span>99</span><span class='rub'>руб.</span>",
+                "price": "69.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-22%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "69.99",
+                "oldPriceSimple": "89.99",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "210984",
+                "xml_id": "2000180341",
+                "title": "Крупа гречневая Зернышко к зернышку ядрица 900г",
+                "weight": "903 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/2000180341/",
+                "ratio": 1,
+                "src": "/upload/iblock/0b7/dxviwbuegq01pj0oe4o0ez4k81gl56q8.webp",
+                "amount": 22,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 4,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/0b7/dxviwbuegq01pj0oe4o0ez4k81gl56q8.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "210984 1 22 шт 0",
+                "price": "79.<span>99</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "79.99",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "216260",
+                "xml_id": "2000340530",
+                "title": "Крупа гречневая Мистраль зеленая, 450 г",
+                "weight": "475 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/2000340530/",
+                "ratio": 1,
+                "src": "/upload/iblock/78e/hinx0wpxkxm3ots9jrrfc3y7sdtlr7u4.webp",
+                "amount": 11,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 5,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/78e/hinx0wpxkxm3ots9jrrfc3y7sdtlr7u4.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/813/zp8w91uuj83865mesoxg2z0j6vztpmr0.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "216260 1 11 шт 0",
+                "status": "in-time",
+                "oldPrice": "159.<span>90</span><span class='rub'>руб.</span>",
+                "price": "119.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-25%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "119.90",
+                "oldPriceSimple": "159.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "213320",
+                "xml_id": "2000294696",
+                "title": "Крупа Makfa гречневая ядрица 800г",
+                "weight": "800 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/2000294696/",
+                "ratio": 1,
+                "src": "/upload/iblock/0f8/u095q4j4x2xrb9pfe2jj93zd9n9bgzqc.webp",
+                "amount": 21,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 6,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/0f8/u095q4j4x2xrb9pfe2jj93zd9n9bgzqc.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/d57/lyhdsxjqjng70rxedwnzztinpv4mwx0w.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/05e/45kaaotl1d16s8qf2ylbojx3w6v7znmm.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "213320 1 21 шт 0",
+                "status": "in-time",
+                "oldPrice": "109.<span>90</span><span class='rub'>руб.</span>",
+                "price": "79.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-27%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "79.99",
+                "oldPriceSimple": "109.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212487",
+                "xml_id": "2000272542",
+                "title": "Крупа Увелка гречневая в пакетах для варки 5х80г",
+                "weight": "458 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/2000272542/",
+                "ratio": 1,
+                "src": "/upload/iblock/bb7/y8mxnwd2ynczr3el6v0dwhbk7rvzi9zf.webp",
+                "amount": 9,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 7,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/bb7/y8mxnwd2ynczr3el6v0dwhbk7rvzi9zf.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/7c8/a44dy3whd1c2mn6i40s9wa6a0lnzin3i.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/216/5pdzbgkwa9z37gbu0jz7kn3snmpewhvg.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/fc5/34pvn4xmhcxuhv1ty5fkxctpix37va4e.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212487 1 9 шт 0",
+                "oldPrice": "79.<span>99</span><span class='rub'>руб.</span>",
+                "price": "79.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "violet violet-title",
+                        "title": "-12% по карте"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": false,
+                "priceSimple": "79.99",
+                "oldPriceSimple": "79.99",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "209665",
+                "xml_id": "1030037286",
+                "title": "Крупа Националь гречневая ядрица, 900 г",
+                "weight": "904 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/1030037286/",
+                "ratio": 1,
+                "src": "/upload/iblock/972/ls6x16z1u5dmkzf3wbvdtftmlfu71ucp.webp",
+                "amount": 8,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 8,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/972/ls6x16z1u5dmkzf3wbvdtftmlfu71ucp.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/d7a/5pwog3larzrtaq6es8q59kq4m44v5fdn.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209665 1 8 шт 0",
+                "price": "119.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "119.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "224178",
+                "xml_id": "DI00080511",
+                "title": "Крупа Агро-Альянс Экстра гречневая ядрица элитная 900г",
+                "weight": "904 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/DI00080511/",
+                "ratio": 1,
+                "src": "/upload/iblock/f3f/gwpprimdq2rx7vk95udk8bna6xdesil6.webp",
+                "amount": 10,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 9,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/f3f/gwpprimdq2rx7vk95udk8bna6xdesil6.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/28a/s9bw29sygiinx4255w44ka1hh6j80yd1.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "224178 1 10 шт 0",
+                "price": "132.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "132.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "213731",
+                "xml_id": "2000300392",
+                "title": "Крупа Зернышко к зернышку гречневая ядрица 5х80 г 400г",
+                "weight": "458 гр",
+                "url": "/catalog/bakaleya/krupy-bobovye/2000300392/",
+                "ratio": 1,
+                "src": "/upload/iblock/cec/w9tqal8quv7jlxmpkkoomrvws3rcyilz.webp",
+                "amount": 15,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Крупы, бобовые",
+                "parent_section": "Бакалея",
+                "index": 10,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/cec/w9tqal8quv7jlxmpkkoomrvws3rcyilz.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "213731 1 15 шт 0",
+                "status": "in-time",
+                "oldPrice": "69.<span>99</span><span class='rub'>руб.</span>",
+                "price": "59.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-14%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "59.99",
+                "oldPriceSimple": "69.99",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            }
+        ],
+        "card_template": "{{#isSlider}}\n<div class=\"swiper-slide\" {{{displayNone}}}>\n{{/isSlider}}\n<article class=\"card bs-state{{^canBuy}} disabled-card{{/canBuy}}{{#hideAlko}} alko{{/hideAlko}}\" data-discount=\"{{{discount}}}\" data-section=\"{{{section}}}\" data-template=\"listing-card\" data-id=\"{{id}}\" product-id=\"{{xml_id}}\" data-bsk_state=\"{{bskState_f}}\">\n    <a class=\"card__link\" href=\"{{url}}\">\n        <div class=\"bookmark\" style=\"opacity: 0;\">\n            <svg >\n                <use href=\"/local/templates/dixy_ru/images/sprites.svg#bookmark\"></use>\n            </svg>\n        </div>\n        <div class=\"card-images\">\n            <img class=\"card-image\" width=\"94\" height=\"94\" data-src=\"{{src}}\" src=\"#\" loading=\"lazy\" alt=\"{{title}}\">\n            <div class=\"badges\">\n                {{#badges}}\n                <div class=\"badge {{class}}\">\n                    {{#title}}\n                    <span>{{{title}}}{{#is_favorite}}{{#img}}{{{img}}}{{/img}}{{/is_favorite}}</span>\n                    {{/title}}\n                </div>\n                {{/badges}}\n                {{#stickerBadge}}\n                <div class=\"badge green\">\n                    <span>{{{stickerBadge}}}\n                        <svg>\n                            <use xlink:href=\"/local/templates/dixy_ru/images/sprites.svg#sticker-dixy\"></use>\n                        </svg>\n                    </span>\n                </div>\n                {{/stickerBadge}}\n            </div>\n        </div>\n        <div class=\"card__info\">\n          <h3 class=\"card__title\">{{title}}</h3>\n        </div>\n    </a>\n    <div class=\"card__action{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\"{{#bskFields}} data-bsk_data=\"{{bskFields}}\"{{/bskFields}}>\n        {{^hideAlko}}\n          {{#bs-not}}\n              <button class=\"card__more\" aria-label=\"Кнопка Подробнее о товаре\">Подробнее</button>\n          {{/bs-not}}\n          {{#bs-del}}\n          <button class=\"card__del\" onclick=\"delCounterCount(this,'listingInitiator')\" aria-label=\"Кнопка Удалить из корзины\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#basket\"></use>\n            </svg>\n          </button>\n          {{/bs-del}}\n          {{#bs-in}}\n          <button class=\"card__minus\" onclick=\"countminus(this,'listingInitiator')\" aria-label=\"Кнопка Уменьшить количество товара\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#minus\"></use>\n            </svg>\n          </button>\n          {{/bs-in}}\n        {{/hideAlko}}\n        {{^crossPrice}}\n        <div class=\"card__price\">\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        {{#crossPrice}}\n        <div class=\"card__price {{status}}\">\n            <span class=\"card__price-crossed\" title=\"руб.\">{{{oldPrice}}}</span>\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        <div class=\"card__count{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\">\n          <input class=\"card__input\" type=\"text\" value=\"{{quantity}} {{symbol}}\" aria-label=\"Количество товара\">\n          {{#bs-limit}}<span class=\"card__count-text\">Больше нет</span>{{/bs-limit}}\n          <span class=\"card__text-disabled\">Раскупили</span>\n        </div>\n        <button class=\"card__plus{{#canBeFavoriteListing}}{{^is_favorite}} addFavorite{{/is_favorite}}{{/canBeFavoriteListing}}{{^hideAlko}}{{^bs-limit}}{{^bs-not}} active{{/bs-not}}{{/bs-limit}}{{/hideAlko}}{{^hideAlko}}{{#bs-limit}} disabled{{/bs-limit}}{{/hideAlko}}\"{{^canBeFavoriteListing}} onclick=\"countpluse(this,'listingInitiator')\"{{/canBeFavoriteListing}} aria-label=\"Кнопка добавить товар в корзину\">\n          <svg>\n            <use href=\"/local/templates/dixy_ru/images/sprites.svg#plus\"></use>\n          </svg>\n        </button>\n    </div>\n</article>\n{{#isSlider}}\n</div>\n{{/isSlider}}\n",
+        "filterData": false,
+        "seoFilter": null,
+        "externalResult": [
+            {
+                "search_info": {
+                    "taps": [],
+                    "sts": [
+                        {
+                            "title": "гречневая крупа",
+                            "href": "/catalog/?q=гречневая крупа"
+                        }
+                    ],
+                    "query": "крупа гречневая",
+                    "empty": false
+                }
+            }
+        ],
+        "facetData": [
+            {
+                "name": "Цена",
+                "id": "price",
+                "identifier": "price",
+                "type": "digit",
+                "min": "33.99",
+                "max": "132.9"
+            },
+            {
+                "name": "Торговая марка",
+                "id": 8,
+                "identifier": "torgovaya-marka",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Националь",
+                        "title_to_lower": "националь",
+                        "count": "1",
+                        "id": "274"
+                    },
+                    {
+                        "title": "Увелка",
+                        "title_to_lower": "увелка",
+                        "count": "1",
+                        "id": "491"
+                    },
+                    {
+                        "title": "Makfa",
+                        "title_to_lower": "makfa",
+                        "count": "1",
+                        "id": "532"
+                    },
+                    {
+                        "title": "Мистраль",
+                        "title_to_lower": "мистраль",
+                        "count": "2",
+                        "id": "541"
+                    },
+                    {
+                        "title": "Агро-Альянс",
+                        "title_to_lower": "агро-альянс",
+                        "count": "1",
+                        "id": "820"
+                    },
+                    {
+                        "title": "Зернышко к зернышку",
+                        "title_to_lower": "зернышко к зернышку",
+                        "count": "2",
+                        "id": "980"
+                    },
+                    {
+                        "title": "Passim",
+                        "title_to_lower": "passim",
+                        "count": "1",
+                        "id": "1960"
+                    }
+                ]
+            },
+            {
+                "name": "Страна",
+                "id": 9,
+                "identifier": "strana",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Россия",
+                        "title_to_lower": "россия",
+                        "count": "10",
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "name": "Тип товара",
+                "id": 10,
+                "identifier": "tip-tovara",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Гречка",
+                        "title_to_lower": "гречка",
+                        "count": "9",
+                        "id": "275"
+                    },
+                    {
+                        "title": "Крупа гречневая",
+                        "title_to_lower": "крупа гречневая",
+                        "count": "1",
+                        "id": "1856"
+                    }
+                ]
+            }
+        ],
+        "sectionData": [
+            {
+                "list_title": "Поиск по запросу:&nbsp;<span>крупа гречневая</span>",
+                "title": "Поиск",
+                "count": "10",
+                "format_count": "10 товаров",
+                "href": "/catalog/",
+                "items": [
+                    {
+                        "title": "Крупы, бобовые",
+                        "href": "/catalog/bakaleya/krupy-bobovye/?q=крупа гречневая",
+                        "count": "10",
+                        "hideAlko": false,
+                        "active": false
+                    }
+                ]
+            }
+        ]
+    }
+]

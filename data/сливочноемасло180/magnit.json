@@ -1,0 +1,917 @@
+{
+    "category": null,
+    "correctedTerm": null,
+    "fastCategories": [],
+    "items": [
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/VSZJc9giXYhL6Mcop_5SAoy8Eeaurol0PbcnwdqS0as/rs:fit:416:416/plain/s3://img-dostavka/uf/45c/45c10168a1aa1e3ff70e2be61d09267d/1860bbc74d0f5f656efb57f4c17417d9.jpeg@webp"
+                }
+            ],
+            "id": "1821421011",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Волгодонское Традиционное 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 25999,
+            "productId": "1821421011",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 33,
+            "ratings": {
+                "commentsCount": 104,
+                "rating": 4.8,
+                "scoresCount": 1292
+            },
+            "seoCode": "volgodonskoe_maslo_sliv_82_5_180g_fl_p_belyy_medved_18",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/BYaRKQFhOL27fEH3n6WmsveIzVmX6we3KpxhE_tkQGg/rs:fit:416:416/plain/s3://img-dostavka/uf/320/3209a460dd156aa04954b3aabd2e7691/37efc68b499a9c794152e0e20818e196.jpeg@webp"
+                }
+            ],
+            "id": "1000081784",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Крестьянское 72.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 12999,
+            "productId": "1000081784",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 171,
+            "ratings": {
+                "commentsCount": 240,
+                "rating": 4.5,
+                "scoresCount": 4082
+            },
+            "seoCode": "maslo_krestyanskoe_sliv_72_5_180g_fol_mol_kompaniya_20",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Tgyh3-WdP0layc7ZOEgu8aQGdpqyzS5Es4OsZ7Cwr9A/rs:fit:416:416/plain/s3://img-dostavka/uf/e38/e38f240c0ef82b6268306156eb539806/54302a84d3bd1561be41e2fe4b0bbdb9.jpeg@webp"
+                }
+            ],
+            "id": "1000424620",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Вкуснотеево Крестьянское 72.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 21999,
+            "productId": "1000424620",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 147,
+            "ratings": {
+                "commentsCount": 38,
+                "rating": 4.8,
+                "scoresCount": 430
+            },
+            "seoCode": "vkusnoteevo_maslo_slivochnoe_krestyanskoe_72_5_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/nXFVy6x4aw4tVN7065vlKtbwI94fDnIIHQHkaakBeRY/rs:fit:416:416/plain/s3://img-dostavka/uf/95d/95d440d68af204cd98c7b47106c45d69/878621b0316519c21bf2b3c3a33afae6.jpeg@webp"
+                }
+            ],
+            "id": "1000570330",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Традиционное 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 13999,
+            "productId": "1000570330",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 193,
+            "ratings": {
+                "commentsCount": 71,
+                "rating": 4.5,
+                "scoresCount": 911
+            },
+            "seoCode": "maslo_traditsionnoe_sliv_82_5_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/o9ERFQxWmO8QnlksxpRg31MMEqLLA3Wv4iMloszBYaA/rs:fit:416:416/plain/s3://img-dostavka/uf/fb3/fb31d2e2144039c7b1eebf697eaffb21/76ace492d242a46e279143e297470fcd.jpeg@webp"
+                }
+            ],
+            "id": "1000228650",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Чабан 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 28999,
+            "productId": "1000228650",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 30,
+            "ratings": {
+                "commentsCount": 16,
+                "rating": 4.8,
+                "scoresCount": 268
+            },
+            "seoCode": "chaban_maslo_slivochnoe_82_5_180g_folga_nalchikskiy_mk_13",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/eOSwXAhl0ocyFsF1ASx8Li9uyeDgmHqJonpRtf7gf0w/rs:fit:416:416/plain/s3://img-dostavka/uf/523/52351216ed1ece8d834800f383d09cbd/beb8c83ec6c2f51e88cdbf0a5595c5d5.png@webp"
+                }
+            ],
+            "id": "1000437138",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Schonfeld 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 23999,
+            "productId": "1000437138",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 30,
+            "ratings": {
+                "commentsCount": 6,
+                "rating": 4.7,
+                "scoresCount": 80
+            },
+            "seoCode": "schonfeld_maslo_slivochnoe_82_5_180g_fol_lyubimyy_gorod",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/IHe-uyRuFwKkyK5RtOl370L6Q_s0rYNCnIemNo5ub34/rs:fit:416:416/plain/s3://img-dostavka/uf/626/62646b1cbe7add808f9159b06866fb7f/7c63f050f43160bcd2bb203eb22f0a7b.jpeg@webp"
+                }
+            ],
+            "id": "1000420986",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное традиционное Золотая пчелка 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 16999,
+            "productId": "1000420986",
+            "promotion": {
+                "discountPercent": 19,
+                "endDate": "2025-04-16T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 20999
+            },
+            "quantity": 220,
+            "ratings": {
+                "commentsCount": 23,
+                "rating": 4.5,
+                "scoresCount": 135
+            },
+            "seoCode": "maslo_slivochn_traditsion_zolotaya_pchelka_82_5_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/RPmk0YoDv-v_9poIzQNGmncMj_n0KdMZ94orDlk8IXk/rs:fit:416:416/plain/s3://img-dostavka/uf/dfa/dfa559242840b08eea982e822f705977/cc2247073609f5aef5ba19aee871cf58.jpeg@webp"
+                }
+            ],
+            "id": "1000194807",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Белорусское 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 25999,
+            "productId": "1000194807",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 72,
+            "ratings": {
+                "commentsCount": 311,
+                "rating": 4.8,
+                "scoresCount": 2855
+            },
+            "seoCode": "maslo_belorusskoe_sl_sliv_nesol_82_5_180g_fol_shchuchinskiy_20",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/xSjJJLjZ6HSpuAwIxUTxGj5GooGXzFh1OqgCaSD3hgQ/rs:fit:416:416/plain/s3://img-dostavka/uf/5eb/5ebb098b714a625c255babcccbc08d6b/61669e2f6a11cf8255476cc51741f07d.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/E4r_HlUuKQS8piQugDbnK0ADfqtaaWsUk-KYotIwk1g/rs:fit:416:416/plain/s3://img-dostavka/uf/cb6/cb67a1338926ae0022c21398f964775b/b76080d1c550766248fbb732e5434041.png@webp"
+                }
+            ],
+            "id": "3181241105",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Домик в деревне Крестьянское 72.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 22999,
+            "productId": "3181241105",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-04-22T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 4,
+            "ratings": {
+                "commentsCount": 346,
+                "rating": 4.7,
+                "scoresCount": 5797
+            },
+            "seoCode": "moloko_domik_v_derevne_maslo_krestyanskoe_72_5_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/HoPDfq35iSlH9lH1COQ82GzNS9rGl-nYy9gHmTGQR3U/rs:fit:416:416/plain/s3://img-dostavka/uf/4b9/4b9121d7bc423441684e99e35b4bec57/eb707fd87495b48294ebe22a5b698ac5.jpeg@webp"
+                }
+            ],
+            "id": "1000238540",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Рогачевъ Традиционное 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 24499,
+            "productId": "1000238540",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-05-13T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 39,
+            "ratings": {
+                "commentsCount": 37,
+                "rating": 4.7,
+                "scoresCount": 301
+            },
+            "seoCode": "rogachev_maslo_slivochnoe_traditsionnoe_82_5_180g_folga_20",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/wxhhdytDLKSQycdDH-XkIO0ZhKIIpdGfTvQpHAOgFQo/rs:fit:416:416/plain/s3://img-dostavka/uf/446/44696be066464eda3ad6e2beb3832b68/d02e78eeb0a79f6f6d78ee60ac01d7d6.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/gV5CV4C26n24UgF1w6XhiCpjFGjksXofj6CFYcRoIFs/rs:fit:416:416/plain/s3://img-dostavka/uf/9fb/9fb25a04da917e6b5d4ab3d4f6c861c3/891add03bfe8970f500009358537c10c.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/3raup-2QN7gy3VbLzCT7jivwJ3kfaAXyA3izgDpqOyM/rs:fit:416:416/plain/s3://img-dostavka/uf/95d/95d079d3d7a61a5b1945d751504c1b0d/c18825deef6e6b78848c860fb03c9da0.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/VNKJSIqZQfKqVEhlI1v4l-XQv31h4mblNTdHrVSfn40/rs:fit:416:416/plain/s3://img-dostavka/uf/5b1/5b11885720e89f952b3928007f52787c/fe11f973af6a83ac1fc8091ca0eedb22.jpeg@webp"
+                }
+            ],
+            "id": "1899900309",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Экомилк 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 24999,
+            "productId": "1899900309",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-03-11T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 68,
+            "ratings": {
+                "commentsCount": 335,
+                "rating": 4.7,
+                "scoresCount": 6264
+            },
+            "seoCode": "maslo_ekomilk_slivochnoe_82_5_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/LeEbAArCqu1QxavkPyHBzxHJdLCxkopIcHQPMA4Ag4E/rs:fit:416:416/plain/s3://img-dostavka/uf/15e/15e875b4c2b83a2b8fb7638114dd4229/1cc8c75e0fc4f3c786c424e39fda29ca.jpeg@webp"
+                }
+            ],
+            "id": "1855599922",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Магнит Традиционное 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 18469,
+            "productId": "1855599922",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 100,
+            "ratings": {
+                "commentsCount": 420,
+                "rating": 4.6,
+                "scoresCount": 5868
+            },
+            "seoCode": "magnit_maslo_traditsionnoe_v_s_82_5_gost_180g_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/YbTrliQ00ycVIfD-xdyEyKKycUwJB2b7wS2xC9pP_RA/rs:fit:416:416/plain/s3://img-dostavka/uf/3fa/3fa0799b13a4a7363fc80b8b801afd11/4c309e8b8c9cb173762725830844a51a.jpeg@webp"
+                }
+            ],
+            "id": "1000320642",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Gutendorf 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 21999,
+            "productId": "1000320642",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 29,
+            "ratings": {
+                "commentsCount": 7,
+                "rating": 4.4,
+                "scoresCount": 37
+            },
+            "seoCode": "gutendorf_maslo_izgotovleno_iz_pasterizovannykh_slivok_tverdoe_82_5_180g_folga_ooo_magnoliya_8",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/LBGxaYs24ObemDIX1z6l3z1eDFRyjy_boPP3Re6-3Z4/rs:fit:416:416/plain/s3://img-dostavka/uf/3f5/3f53060b0c4ff952c863e1d16646f1b0/080db74d514f1347c94edf57c8057777.jpeg@webp"
+                }
+            ],
+            "id": "1000233962",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное МолПромКубан крестьянское 72.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 13999,
+            "productId": "1000233962",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 48,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.2,
+                "scoresCount": 19
+            },
+            "seoCode": "maslo_slivochnoe_krest_72_5_180g_fol_molpromkuban_8",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/-Z-Y3WVXtekg5vT1uyWIn2fJa5etJ2mJ_LgrAzNMU14/rs:fit:416:416/plain/s3://img-dostavka/uf/d1e/d1ea4c1dd7ea2b0f12d6d0486b28cda7/9e0bea5364e810ada82087018bcf6d3a.jpeg@webp"
+                }
+            ],
+            "id": "1000436113",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Вкуснотеево соленое 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 30999,
+            "productId": "1000436113",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 15,
+            "ratings": {
+                "commentsCount": 4,
+                "rating": 4.9,
+                "scoresCount": 119
+            },
+            "seoCode": "vkusnoteevo_maslo_slivochnoe_solyenoe_82_5_180g_linkaver_voronezhskiy",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9zdTo-D1jhjeSkV-czNu8N_4B8E8FDUsCrul3HnI-PQ/rs:fit:416:416/plain/s3://img-dostavka/uf/279/27990f7ab08ba0ae95e2cae5b564f440/47c33b1fbff3f47776d37efd23f05844.jpeg@webp"
+                }
+            ],
+            "id": "1000273114",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Из Приэльбрусья несоленое 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 24999,
+            "productId": "1000273114",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 29,
+            "ratings": {
+                "commentsCount": 1,
+                "rating": 4.6,
+                "scoresCount": 47
+            },
+            "seoCode": "slivochnoe_iz_prielbrusya_slivochnoe_maslo_slivochnoe_nesolenoe_82_5_180g_folga_ooo_nalchikskiy_molo",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/RHcq5pokyDUPuJ7cF_dVM0S7a51mDQW_iWpz-6hisOo/rs:fit:416:416/plain/s3://img-dostavka/uf/cd9/cd9b265147fcc6c462c5b0e0d6c4a1ac/ffb6d220d318ffa443a44fad4822e247.png@webp"
+                }
+            ],
+            "id": "1000495997",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Ключевское Традиционное 82.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 30999,
+            "productId": "1000495997",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 18,
+            "ratings": null,
+            "seoCode": "klyuchevskoe_maslo_slivochnoe_traditsionnoe_82_5_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/P-IRB7dktf0gjgxVzoQX0bA3cbWOxmCI-WknQWQ5-kk/rs:fit:416:416/plain/s3://img-dostavka/uf/6c7/6c7bf266e5c98413a3d5fdad317aeb5b/8495e80caf04992b15a56e12aa8566cd.jpeg@webp"
+                }
+            ],
+            "id": "1000228651",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Чабан 72.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 26999,
+            "productId": "1000228651",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 20,
+            "ratings": {
+                "commentsCount": 17,
+                "rating": 4.7,
+                "scoresCount": 177
+            },
+            "seoCode": "chaban_maslo_slivochnoe_72_5_180g_folga_ooo_nalchikskiy_molochnyy_kombinat_20",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/wAbg9zIxNsmPrVHm-aOLAiK6p3kvEsWgoh8_RJ3j2q0/rs:fit:416:416/plain/s3://img-dostavka/uf/585/5855bcf8e7916e3c8f45b1f8ddad62c9/4d63c04c607175acc946d8a881ed8bf9.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/yZt6JCYGd7GnYH5EbQjxPA7akQIOA2FwvuxNz8M5hVM/rs:fit:416:416/plain/s3://img-dostavka/uf/120/1203b950f90daadc89a1c3d41b1be3d6/6fb1009eef35cbeb5c6be07d5a6b6fd4.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/0RdvbDLqbfcHbYgZk83I6kuI2i2WEYE-Xig-5dYJzhI/rs:fit:416:416/plain/s3://img-dostavka/uf/56b/56bad9103e209e973d624a89b7b19952/08f74c152860ca92d1630e9bd5324853.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/921T2R9JsFPH5bliq3IgLXuW3TUcAt55xHu9y4B-Kr0/rs:fit:416:416/plain/s3://img-dostavka/uf/f58/f585177091578c0fe938282c92cc9cfd/e02f87a10570ef6786621263284be70c.jpeg@webp"
+                }
+            ],
+            "id": "1000147204",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Экомилк Шоколадное 62% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 25999,
+            "productId": "1000147204",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 14,
+            "ratings": {
+                "commentsCount": 13,
+                "rating": 4.6,
+                "scoresCount": 182
+            },
+            "seoCode": "maslo_ekomilk_slivochnoe_shokoladnoe_62_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        }
+    ],
+    "pagination": {
+        "hasMore": false,
+        "limit": 36,
+        "offset": 0,
+        "totalCount": 19
+    },
+    "term": "сливочное масло 180"
+}

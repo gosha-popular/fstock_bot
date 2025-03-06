@@ -1,0 +1,574 @@
+[
+    {
+        "title": null,
+        "class": null,
+        "pagenData": {
+            "element_count": "6",
+            "page": 1,
+            "pages_count": 1,
+            "page_size": 30,
+            "pagen_text": "Показать ещё -24 товаров",
+            "isLastPage": true
+        },
+        "cards": [
+            {
+                "id": "209436",
+                "xml_id": "2000180302",
+                "title": "Филе грудки куриное Петелинка без кожи охлажденное",
+                "weight": "1000 гр",
+                "url": "/catalog/myaso-ptitsa/myaso-ptitsy/2000180302/",
+                "ratio": 1.1,
+                "src": "/upload/iblock/5f0/kvzgook02ffyyg9grq0sinwwg5ugzszp.webp",
+                "amount": 9.71,
+                "symbol": "кг",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Мясо птицы",
+                "parent_section": "Мясо, птица",
+                "index": 1,
+                "variant": "весовой",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/5f0/kvzgook02ffyyg9grq0sinwwg5ugzszp.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/4ed/qd76zydbiymi7gnh832v1gyotms39ia6.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209436 1.1 9.71 кг 0",
+                "status": "in-time",
+                "oldPrice": "529.<span>90</span><span class='rub'>руб.</span>",
+                "price": "449.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-15%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "449.90",
+                "oldPriceSimple": "529.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "209634",
+                "xml_id": "2000593951",
+                "title": "Филе цыпленка бройлера Первым делом охлажденное",
+                "weight": "1000 гр",
+                "url": "/catalog/myaso-ptitsa/myaso-ptitsy/2000593951/",
+                "ratio": 1,
+                "src": "/upload/iblock/f24/ovg6e1tlmdub025i9zyqtxhehrbacpab.webp",
+                "amount": 4.92,
+                "symbol": "кг",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Мясо птицы",
+                "parent_section": "Мясо, птица",
+                "index": 2,
+                "variant": "весовой",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/f24/ovg6e1tlmdub025i9zyqtxhehrbacpab.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209634 1 4.92 кг 0",
+                "price": "429.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "429.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "209612",
+                "xml_id": "2000581594",
+                "title": "Филе бедра цыпленка-бройлера Первая свежесть охлажденное",
+                "weight": "1000 гр",
+                "url": "/catalog/myaso-ptitsa/myaso-ptitsy/2000581594/",
+                "ratio": 0.75,
+                "src": "/upload/iblock/048/l0qrn2kp9l8ppaysu41fc0oomnkqulxn.webp",
+                "amount": 7.7,
+                "symbol": "кг",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Мясо птицы",
+                "parent_section": "Мясо, птица",
+                "index": 3,
+                "variant": "весовой",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/048/l0qrn2kp9l8ppaysu41fc0oomnkqulxn.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/048/l0qrn2kp9l8ppaysu41fc0oomnkqulxn.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/274/gkzj80m121oty9nrc6wy2sa5c794r5ee.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209612 0.75 7.7 кг 0",
+                "price": "425.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "425.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212040",
+                "xml_id": "2000252671",
+                "title": "Приправа Maggi На второе Для нежного филе куриной грудки по-итальянски 30,6г",
+                "weight": "35 гр",
+                "url": "/catalog/bakaleya/bystro-gotovit/2000252671/",
+                "ratio": 1,
+                "src": "/upload/iblock/9a2/u28iim8k0cjhtatpkncaa74ikgemwa2f.webp",
+                "amount": 25,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Быстро готовить",
+                "parent_section": "Бакалея",
+                "index": 4,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/9a2/u28iim8k0cjhtatpkncaa74ikgemwa2f.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/25c/b2j081b6gx6mjedsbxb08axwkidnnq4m.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212040 1 25 шт 0",
+                "status": "in-time",
+                "oldPrice": "114.<span>90</span><span class='rub'>руб.</span>",
+                "price": "89.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-21%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "89.99",
+                "oldPriceSimple": "114.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "209757",
+                "xml_id": "2000000080",
+                "title": "Пюре картофельное Бизнес меню с куриным филе 110г",
+                "weight": "135 гр",
+                "url": "/catalog/bakaleya/bystro-gotovit/2000000080/",
+                "ratio": 1,
+                "src": "/upload/iblock/b6c/y1ct82wbsyp4e4peiull3kbtq6q7fubt.webp",
+                "amount": 26,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Быстро готовить",
+                "parent_section": "Бакалея",
+                "index": 5,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/b6c/y1ct82wbsyp4e4peiull3kbtq6q7fubt.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/c1b/m6nfd76s9vohxd8w95nhdlh0vbn0g485.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/ab1/upq2doyft2idf6bkffaujc1tdd9sfc5a.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209757 1 26 шт 0",
+                "status": "in-time",
+                "oldPrice": "145.<span>90</span><span class='rub'>руб.</span>",
+                "price": "109.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-24%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "109.90",
+                "oldPriceSimple": "145.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "227900",
+                "xml_id": "2000325836",
+                "title": "Корм для кошек ГУРМЭ Перл Нежное филе с курицей 75г",
+                "weight": "80 гр",
+                "url": "/catalog/tovary-dlya-jivotnykh/dlya-koshek/2000325836/",
+                "ratio": 1,
+                "src": "/upload/iblock/867/e51clax4d87mv8wbwndp5if8w9v3rwiy.webp",
+                "amount": 59,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Для кошек",
+                "parent_section": "Товары для животных",
+                "index": 6,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/867/e51clax4d87mv8wbwndp5if8w9v3rwiy.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/1fd/jgs4kbo0b9attfvt3pbz5kfh3svcmdlc.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "227900 1 59 шт 0",
+                "price": "30.<span>49</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "30.49",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            }
+        ],
+        "card_template": "{{#isSlider}}\n<div class=\"swiper-slide\" {{{displayNone}}}>\n{{/isSlider}}\n<article class=\"card bs-state{{^canBuy}} disabled-card{{/canBuy}}{{#hideAlko}} alko{{/hideAlko}}\" data-discount=\"{{{discount}}}\" data-section=\"{{{section}}}\" data-template=\"listing-card\" data-id=\"{{id}}\" product-id=\"{{xml_id}}\" data-bsk_state=\"{{bskState_f}}\">\n    <a class=\"card__link\" href=\"{{url}}\">\n        <div class=\"bookmark\" style=\"opacity: 0;\">\n            <svg >\n                <use href=\"/local/templates/dixy_ru/images/sprites.svg#bookmark\"></use>\n            </svg>\n        </div>\n        <div class=\"card-images\">\n            <img class=\"card-image\" width=\"94\" height=\"94\" data-src=\"{{src}}\" src=\"#\" loading=\"lazy\" alt=\"{{title}}\">\n            <div class=\"badges\">\n                {{#badges}}\n                <div class=\"badge {{class}}\">\n                    {{#title}}\n                    <span>{{{title}}}{{#is_favorite}}{{#img}}{{{img}}}{{/img}}{{/is_favorite}}</span>\n                    {{/title}}\n                </div>\n                {{/badges}}\n                {{#stickerBadge}}\n                <div class=\"badge green\">\n                    <span>{{{stickerBadge}}}\n                        <svg>\n                            <use xlink:href=\"/local/templates/dixy_ru/images/sprites.svg#sticker-dixy\"></use>\n                        </svg>\n                    </span>\n                </div>\n                {{/stickerBadge}}\n            </div>\n        </div>\n        <div class=\"card__info\">\n          <h3 class=\"card__title\">{{title}}</h3>\n        </div>\n    </a>\n    <div class=\"card__action{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\"{{#bskFields}} data-bsk_data=\"{{bskFields}}\"{{/bskFields}}>\n        {{^hideAlko}}\n          {{#bs-not}}\n              <button class=\"card__more\" aria-label=\"Кнопка Подробнее о товаре\">Подробнее</button>\n          {{/bs-not}}\n          {{#bs-del}}\n          <button class=\"card__del\" onclick=\"delCounterCount(this,'listingInitiator')\" aria-label=\"Кнопка Удалить из корзины\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#basket\"></use>\n            </svg>\n          </button>\n          {{/bs-del}}\n          {{#bs-in}}\n          <button class=\"card__minus\" onclick=\"countminus(this,'listingInitiator')\" aria-label=\"Кнопка Уменьшить количество товара\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#minus\"></use>\n            </svg>\n          </button>\n          {{/bs-in}}\n        {{/hideAlko}}\n        {{^crossPrice}}\n        <div class=\"card__price\">\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        {{#crossPrice}}\n        <div class=\"card__price {{status}}\">\n            <span class=\"card__price-crossed\" title=\"руб.\">{{{oldPrice}}}</span>\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        <div class=\"card__count{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\">\n          <input class=\"card__input\" type=\"text\" value=\"{{quantity}} {{symbol}}\" aria-label=\"Количество товара\">\n          {{#bs-limit}}<span class=\"card__count-text\">Больше нет</span>{{/bs-limit}}\n          <span class=\"card__text-disabled\">Раскупили</span>\n        </div>\n        <button class=\"card__plus{{#canBeFavoriteListing}}{{^is_favorite}} addFavorite{{/is_favorite}}{{/canBeFavoriteListing}}{{^hideAlko}}{{^bs-limit}}{{^bs-not}} active{{/bs-not}}{{/bs-limit}}{{/hideAlko}}{{^hideAlko}}{{#bs-limit}} disabled{{/bs-limit}}{{/hideAlko}}\"{{^canBeFavoriteListing}} onclick=\"countpluse(this,'listingInitiator')\"{{/canBeFavoriteListing}} aria-label=\"Кнопка добавить товар в корзину\">\n          <svg>\n            <use href=\"/local/templates/dixy_ru/images/sprites.svg#plus\"></use>\n          </svg>\n        </button>\n    </div>\n</article>\n{{#isSlider}}\n</div>\n{{/isSlider}}\n",
+        "filterData": false,
+        "seoFilter": null,
+        "externalResult": [
+            {
+                "search_info": {
+                    "taps": [
+                        {
+                            "title": "грудки",
+                            "href": "/catalog/?q=филе куриной грудки"
+                        },
+                        {
+                            "title": "бедра",
+                            "href": "/catalog/?q=филе бедра куриное"
+                        },
+                        {
+                            "title": "без кости",
+                            "href": "/catalog/?q=филе куриное без кости"
+                        },
+                        {
+                            "title": "приосколье",
+                            "href": "/catalog/?q=филе куриной приосколье"
+                        },
+                        {
+                            "title": "без кожи",
+                            "href": "/catalog/?q=филе куриное без кожи"
+                        },
+                        {
+                            "title": "петелинка",
+                            "href": "/catalog/?q=филе куриное петелинка"
+                        }
+                    ],
+                    "sts": [
+                        {
+                            "title": "филе куриное",
+                            "href": "/catalog/?q=филе куриное"
+                        },
+                        {
+                            "title": "филе куриной грудки",
+                            "href": "/catalog/?q=филе куриной грудки"
+                        },
+                        {
+                            "title": "филе бедра куриное",
+                            "href": "/catalog/?q=филе бедра куриное"
+                        },
+                        {
+                            "title": "филе бедра куриное без кости",
+                            "href": "/catalog/?q=филе бедра куриное без кости"
+                        },
+                        {
+                            "title": "филе грудки куриной приосколье",
+                            "href": "/catalog/?q=филе грудки куриной приосколье"
+                        },
+                        {
+                            "title": "филе куриное без кости",
+                            "href": "/catalog/?q=филе куриное без кости"
+                        },
+                        {
+                            "title": "филе бедра куриное без кости петелинка",
+                            "href": "/catalog/?q=филе бедра куриное без кости петелинка"
+                        },
+                        {
+                            "title": "филе куриной грудки петелинка",
+                            "href": "/catalog/?q=филе куриной грудки петелинка"
+                        },
+                        {
+                            "title": "филе бедра куриное без кожи",
+                            "href": "/catalog/?q=филе бедра куриное без кожи"
+                        },
+                        {
+                            "title": "филе бедра куриное петелинка",
+                            "href": "/catalog/?q=филе бедра куриное петелинка"
+                        }
+                    ],
+                    "query": "филе куриное",
+                    "empty": false
+                }
+            }
+        ],
+        "facetData": [
+            {
+                "name": "Цена",
+                "id": "price",
+                "identifier": "price",
+                "type": "digit",
+                "min": "30.49",
+                "max": "449.9"
+            },
+            {
+                "name": "Торговая марка",
+                "id": 8,
+                "identifier": "torgovaya-marka",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Петелинка",
+                        "title_to_lower": "петелинка",
+                        "count": "1",
+                        "id": "56"
+                    },
+                    {
+                        "title": "Первая Свежесть",
+                        "title_to_lower": "первая свежесть",
+                        "count": "1",
+                        "id": "102"
+                    },
+                    {
+                        "title": "Первым делом",
+                        "title_to_lower": "первым делом",
+                        "count": "1",
+                        "id": "172"
+                    },
+                    {
+                        "title": "Бизнес меню",
+                        "title_to_lower": "бизнес меню",
+                        "count": "1",
+                        "id": "416"
+                    },
+                    {
+                        "title": "Maggi",
+                        "title_to_lower": "maggi",
+                        "count": "1",
+                        "id": "437"
+                    },
+                    {
+                        "title": "Gourmet®",
+                        "title_to_lower": "gourmet®",
+                        "count": "1",
+                        "id": "4168"
+                    }
+                ]
+            },
+            {
+                "name": "Страна",
+                "id": 9,
+                "identifier": "strana",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Россия",
+                        "title_to_lower": "россия",
+                        "count": "6",
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "name": "Тип товара",
+                "id": 10,
+                "identifier": "tip-tovara",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Курица",
+                        "title_to_lower": "курица",
+                        "count": "1",
+                        "id": "6"
+                    },
+                    {
+                        "title": "Мясо",
+                        "title_to_lower": "мясо",
+                        "count": "1",
+                        "id": "53"
+                    },
+                    {
+                        "title": "Филе грудки",
+                        "title_to_lower": "филе грудки",
+                        "count": "1",
+                        "id": "252"
+                    },
+                    {
+                        "title": "Приправа",
+                        "title_to_lower": "приправа",
+                        "count": "1",
+                        "id": "384"
+                    },
+                    {
+                        "title": "Пюре быстрого приготовления",
+                        "title_to_lower": "пюре быстрого приготовления",
+                        "count": "1",
+                        "id": "417"
+                    },
+                    {
+                        "title": "Влажный корм для кошек",
+                        "title_to_lower": "влажный корм для кошек",
+                        "count": "1",
+                        "id": "4098"
+                    }
+                ]
+            }
+        ],
+        "sectionData": [
+            {
+                "list_title": "Поиск по запросу:&nbsp;<span>филе куриное</span>",
+                "title": "Поиск",
+                "count": "6",
+                "format_count": "6 товаров",
+                "href": "/catalog/",
+                "items": [
+                    {
+                        "title": "Мясо птицы",
+                        "href": "/catalog/myaso-ptitsa/myaso-ptitsy/?q=филе куриное",
+                        "count": "3",
+                        "hideAlko": false,
+                        "active": false
+                    },
+                    {
+                        "title": "Быстро готовить",
+                        "href": "/catalog/bakaleya/bystro-gotovit/?q=филе куриное",
+                        "count": "2",
+                        "hideAlko": false,
+                        "active": false
+                    },
+                    {
+                        "title": "Для кошек",
+                        "href": "/catalog/tovary-dlya-jivotnykh/dlya-koshek/?q=филе куриное",
+                        "count": "1",
+                        "hideAlko": false,
+                        "active": false
+                    }
+                ]
+            }
+        ]
+    }
+]

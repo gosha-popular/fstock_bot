@@ -1,0 +1,374 @@
+{
+    "query_type": "strict",
+    "products": [
+        {
+            "plu": 3062836,
+            "name": "Яйцо куриное Окское столовое С1 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1162346-main/320x320.jpeg?updated_at=2025-02-24T07:59:26.117Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1162346-main/800x800.jpeg?updated_at=2025-02-24T07:59:26.117Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 25640
+            },
+            "promo": null,
+            "prices": {
+                "regular": "119.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "18.00"
+        },
+        {
+            "plu": 3062835,
+            "name": "Яйцо куриное Окское столовое СО 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1162345-main/320x320.jpeg?updated_at=2025-02-17T14:05:41.708Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1162345-main/800x800.jpeg?updated_at=2025-02-17T14:05:41.708Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 22039
+            },
+            "promo": null,
+            "prices": {
+                "regular": "139.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "68.00"
+        },
+        {
+            "plu": 3446505,
+            "name": "Яйцо куриное Село Зеленое Деревенское С1 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1172848-main/320x320.jpeg?updated_at=2025-02-24T07:59:23.510Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1172848-main/800x800.jpeg?updated_at=2025-02-24T07:59:23.510Z",
+                    "https://photos.okolo.app/product/d1b80ec65e0ebc0d1cab7b1cefb25521-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1a65f1b19cbab3646e9ed9bf4a2a022c-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/fd9a3b208c907e560ce03470bc822fd8-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 21165
+            },
+            "promo": null,
+            "prices": {
+                "regular": "119.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "18.00"
+        },
+        {
+            "plu": 44323,
+            "name": "Яйцо куриное Роскар Экстра СО 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158174-main/320x320.jpeg?updated_at=2025-02-17T14:05:11.032Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158174-main/800x800.jpeg?updated_at=2025-02-17T14:05:11.032Z",
+                    "https://photos.okolo.app/product/ef29adcedc0ce129e67fc163e2849b6e-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/e704de7d7da740784c61a33b7a5c0fb7-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 11179
+            },
+            "promo": null,
+            "prices": {
+                "regular": "139.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "31.00"
+        },
+        {
+            "plu": 3341462,
+            "name": "Яйцо куриное Лето С1 20шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1166174-main/320x320.jpeg?updated_at=2025-02-24T07:59:24.641Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1166174-main/800x800.jpeg?updated_at=2025-02-24T07:59:24.641Z",
+                    "https://photos.okolo.app/product/56425871f8312851c79eea0bfb7b699f-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/3600ac3a4f29e89d9f58c444ec21f886-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/d0bb9c47765cd41d69a9731d66d4bb5d-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/52bfca5433131a657f389cc6cc624f5c-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 10002
+            },
+            "promo": null,
+            "prices": {
+                "regular": "234.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "20 шт",
+            "has_age_restriction": false,
+            "stock_limit": "8.00"
+        },
+        {
+            "plu": 3001671,
+            "name": "Яйцо куриное Лето пищевое С1 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1161699-main/320x320.jpeg?updated_at=2025-02-24T07:59:26.057Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1161699-main/800x800.jpeg?updated_at=2025-02-24T07:59:26.057Z",
+                    "https://photos.okolo.app/product/4fe5b63fa58937b372925c3c5df5d731-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/a57fc7db11b79f0b5be841fa6bb41bd7-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/0c336e86b98b64c85646140ec2800ac8-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 13214
+            },
+            "promo": null,
+            "prices": {
+                "regular": "124.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "21.00"
+        },
+        {
+            "plu": 4236458,
+            "name": "Яйцо куриное Лето столовое СО 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1460079-main/320x320.jpeg?updated_at=2025-02-24T07:59:20.023Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1460079-main/800x800.jpeg?updated_at=2025-02-24T07:59:20.023Z",
+                    "https://photos.okolo.app/product/2457af565f400a84c0f9c98a20affe95-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/271f5f64c7761e3a531213c36fac97ad-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/4ae128a50c01a87c8d99545593b1a488-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 8923
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "2.00"
+        },
+        {
+            "plu": 3432532,
+            "name": "Яйцо куриное Село Зеленое Деревенское С0 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1171617-main/320x320.jpeg?updated_at=2025-02-24T07:59:23.399Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1171617-main/800x800.jpeg?updated_at=2025-02-24T07:59:23.399Z",
+                    "https://photos.okolo.app/product/d2bfa5a9fe75d6cc60877db963469ce1-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/3d88d7de91a290cb431d544061996d65-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/39a6a7a41a2598bd345dff74eda160d6-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 9358
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "10.00"
+        },
+        {
+            "plu": 4364694,
+            "name": "Яйца Вкус & Польза Активита куриные пищевые столовые С1 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1620556-main/320x320.jpeg?updated_at=2025-02-24T10:40:07.748Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1620556-main/800x800.jpeg?updated_at=2025-02-24T10:40:07.748Z",
+                    "https://photos.okolo.app/product/861d46f1edbac74eceb15bc275baee9a-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 5723
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "22.00"
+        },
+        {
+            "plu": 3355250,
+            "name": "Яйцо Окское столовое С2 10шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1166581-main/320x320.jpeg?updated_at=2025-02-24T07:59:24.680Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1166581-main/800x800.jpeg?updated_at=2025-02-24T07:59:24.680Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 8987
+            },
+            "promo": null,
+            "prices": {
+                "regular": "94.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "11.00"
+        },
+        {
+            "plu": 4200767,
+            "name": "Яйцо куриное Волжанин С1 белое 10шт",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1437086-main/320x320.jpeg?updated_at=2025-02-17T15:01:32.811Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1437086-main/800x800.jpeg?updated_at=2025-02-17T15:01:32.811Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 3104
+            },
+            "promo": null,
+            "prices": {
+                "regular": "119.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "17.00"
+        },
+        {
+            "plu": 4213682,
+            "name": "Яйцо Окское СВ столовое 10шт",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1579873-main/320x320.jpeg?updated_at=2025-02-14T09:59:52.319Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1579873-main/800x800.jpeg?updated_at=2025-02-14T09:59:52.319Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.95,
+                "rates_count": 1109
+            },
+            "promo": null,
+            "prices": {
+                "regular": "179.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00"
+        }
+    ],
+    "categories": [
+        {
+            "id": "251C13187",
+            "type": "subcategory",
+            "name": "Яйцо",
+            "parent_name": "Яйцо, масло"
+        },
+        {
+            "id": "251C13406",
+            "type": "subcategory",
+            "name": "Яйцо",
+            "parent_name": "Всё для выпечки"
+        }
+    ]
+}

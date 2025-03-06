@@ -1,0 +1,3768 @@
+{
+    "categories": [
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/27/icon/6d62a534e69172c9.png",
+            "id": 27,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/27/image/0051a0954c23163a.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/27/image_web/f2ac62a42f231b7b.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Крупы",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "krupy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20651/icon/e4bf5fa2955bc51a.png",
+            "id": 20651,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20651/image/a49d2a69bb1388b6.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20651/image_web/66dc56f97141cb21.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Крупы",
+            "parentId": 20638,
+            "parentName": "Постно и полезно",
+            "slug": "krupy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20522,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Бакалея",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "bakaleya"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3256/icon/86d8c6a54ff16d8f.png",
+            "id": 3256,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3256/image/d2efe88b7082ec08.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3256/image_web/abc5b338136640d0.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Диетическое питание",
+            "parentId": 1879,
+            "parentName": "Здоровое питание",
+            "slug": "dieticheskoe-pitanie"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19028/icon/458240744b6a5617.png",
+            "id": 19028,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19028/image/488233e8dbf1a6df.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19028/image_web/606ae5fea1cbaf02.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Бакалея",
+            "parentId": 18359,
+            "parentName": "Только в Ленте",
+            "slug": "bakaleya"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20594,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Детские товары",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "detskie-tovary"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19336/icon/bfba9cb84374c7bd.png",
+            "id": 19336,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19336/image/d3bfcf881e143987.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19336/image_web/669ffc8014ce5ac1.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Мясное и овощное пюре",
+            "parentId": 19327,
+            "parentName": "Детское питание",
+            "slug": "myasnoe-i-ovoshchnoe-pyure"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/221/icon/de40022711c7764e.png",
+            "id": 221,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/221/image/66534c8361056398.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/221/image_web/1dc809810696e699.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Без глютена",
+            "parentId": 1879,
+            "parentName": "Здоровое питание",
+            "slug": "bez-glyutena"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/268/icon/37f759c484c8b285.png",
+            "id": 268,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/268/image/011f0eb040293b6c.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/268/image_web/410347af920e6b75.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Вторые блюда",
+            "parentId": 42,
+            "parentName": "Готовая еда",
+            "slug": "vtorye-blyuda"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/382/icon/c48679849cbc7807.png",
+            "id": 382,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/382/image/a7beed2bf374f9de.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/382/image_web/27d32914c74b1982.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Приправы",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "pripravy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19342/icon/47878d6afb52bf5b.png",
+            "id": 19342,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19342/image/ec86e347d0f792c1.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19342/image_web/4081ce6ba5f24e30.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Каши",
+            "parentId": 19327,
+            "parentName": "Детское питание",
+            "slug": "kashi"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20541,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Кондитерские изделия",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "konditerskie-izdeliya"
+        }
+    ],
+    "filters": {
+        "checkbox": [],
+        "multicheckbox": [
+            {
+                "attributeId": 238,
+                "key": "brand",
+                "name": "Бренд",
+                "position": 1,
+                "slug": "brand",
+                "total": 37,
+                "values": [
+                    {
+                        "id": 10721105,
+                        "selected": false,
+                        "slug": "",
+                        "total": 4,
+                        "value": "ЛЕНТА"
+                    },
+                    {
+                        "id": 10724478,
+                        "selected": false,
+                        "slug": "mistral",
+                        "total": 4,
+                        "value": "МИСТРАЛЬ"
+                    },
+                    {
+                        "id": 10983626,
+                        "selected": false,
+                        "slug": "makfa",
+                        "total": 3,
+                        "value": "MAKFA"
+                    },
+                    {
+                        "id": 10759989,
+                        "selected": false,
+                        "slug": "altajjskaya-skazka",
+                        "total": 3,
+                        "value": "АЛТАЙСКАЯ СКАЗКА"
+                    },
+                    {
+                        "id": 10734322,
+                        "selected": false,
+                        "slug": "",
+                        "total": 3,
+                        "value": "ФРУТОНЯНЯ"
+                    },
+                    {
+                        "id": 10988247,
+                        "selected": false,
+                        "slug": "prosto",
+                        "total": 2,
+                        "value": "PROSTO"
+                    },
+                    {
+                        "id": 10965178,
+                        "selected": false,
+                        "slug": "agro-alyans",
+                        "total": 2,
+                        "value": "АГРО-АЛЬЯНС"
+                    },
+                    {
+                        "id": 473038511,
+                        "selected": false,
+                        "slug": "vybor-semi",
+                        "total": 2,
+                        "value": "ВЫБОР СЕМЬИ"
+                    },
+                    {
+                        "id": 10959055,
+                        "selected": false,
+                        "slug": "zdorovoe-menyu",
+                        "total": 2,
+                        "value": "ЗДОРОВОЕ МЕНЮ"
+                    },
+                    {
+                        "id": 10893404,
+                        "selected": false,
+                        "slug": "",
+                        "total": 2,
+                        "value": "ЛЕНТА LIFE"
+                    },
+                    {
+                        "id": 10984900,
+                        "selected": false,
+                        "slug": "passim",
+                        "total": 2,
+                        "value": "ПАССИМ"
+                    },
+                    {
+                        "id": 10721088,
+                        "selected": false,
+                        "slug": "uvelka",
+                        "total": 2,
+                        "value": "УВЕЛКА"
+                    },
+                    {
+                        "id": 10732443,
+                        "selected": false,
+                        "slug": "365-dnejj",
+                        "total": 1,
+                        "value": "365 ДНЕЙ"
+                    },
+                    {
+                        "id": 10734080,
+                        "selected": false,
+                        "slug": "maggi",
+                        "total": 1,
+                        "value": "MAGGI"
+                    },
+                    {
+                        "id": 15707249,
+                        "selected": false,
+                        "slug": "vkusno-zhit",
+                        "total": 1,
+                        "value": "ВКУСНО ЖИТЬ"
+                    },
+                    {
+                        "id": 10734813,
+                        "selected": false,
+                        "slug": "nacional",
+                        "total": 1,
+                        "value": "НАЦИОНАЛЬ"
+                    },
+                    {
+                        "id": 10734277,
+                        "selected": false,
+                        "slug": "tema",
+                        "total": 1,
+                        "value": "ТЕМА"
+                    },
+                    {
+                        "id": 13274651,
+                        "selected": false,
+                        "slug": "teplye-tradicii",
+                        "total": 1,
+                        "value": "ТЕПЛЫЕ ТРАДИЦИИ"
+                    }
+                ]
+            },
+            {
+                "attributeId": 303,
+                "key": "attribute_303",
+                "name": "Вес",
+                "position": 2,
+                "slug": "ves",
+                "total": 35,
+                "values": [
+                    {
+                        "id": 1480793785,
+                        "selected": false,
+                        "slug": "400",
+                        "total": 9,
+                        "value": "400"
+                    },
+                    {
+                        "id": 1480792478,
+                        "selected": false,
+                        "slug": "800",
+                        "total": 5,
+                        "value": "800"
+                    },
+                    {
+                        "id": 1480791423,
+                        "selected": false,
+                        "slug": "500",
+                        "total": 4,
+                        "value": "500"
+                    },
+                    {
+                        "id": 1480794847,
+                        "selected": false,
+                        "slug": "900",
+                        "total": 4,
+                        "value": "900"
+                    },
+                    {
+                        "id": 1480792538,
+                        "selected": false,
+                        "slug": "1000",
+                        "total": 3,
+                        "value": "1000"
+                    },
+                    {
+                        "id": 1480792798,
+                        "selected": false,
+                        "slug": "100",
+                        "total": 2,
+                        "value": "100"
+                    },
+                    {
+                        "id": 1480797109,
+                        "selected": false,
+                        "slug": "450",
+                        "total": 2,
+                        "value": "450"
+                    },
+                    {
+                        "id": 1480811453,
+                        "selected": false,
+                        "slug": "2000",
+                        "total": 2,
+                        "value": "2000"
+                    },
+                    {
+                        "id": 1480815439,
+                        "selected": false,
+                        "slug": "41",
+                        "total": 1,
+                        "value": "41"
+                    },
+                    {
+                        "id": 1480791959,
+                        "selected": false,
+                        "slug": "200",
+                        "total": 1,
+                        "value": "200"
+                    },
+                    {
+                        "id": 1480791806,
+                        "selected": false,
+                        "slug": "250",
+                        "total": 1,
+                        "value": "250"
+                    },
+                    {
+                        "id": 1480793743,
+                        "selected": false,
+                        "slug": "1500",
+                        "total": 1,
+                        "value": "1500"
+                    }
+                ]
+            },
+            {
+                "attributeId": 3,
+                "key": "attribute_3",
+                "name": "Начинка/Добавки",
+                "position": 3,
+                "slug": "nachinkadobavki",
+                "total": 5,
+                "values": [
+                    {
+                        "id": 6765352,
+                        "selected": false,
+                        "slug": "govyadina",
+                        "total": 1,
+                        "value": "Говядина"
+                    },
+                    {
+                        "id": 7374875,
+                        "selected": false,
+                        "slug": "grecha",
+                        "total": 1,
+                        "value": "Греча"
+                    },
+                    {
+                        "id": 6768015,
+                        "selected": false,
+                        "slug": "kurica",
+                        "total": 1,
+                        "value": "Курица"
+                    },
+                    {
+                        "id": 6753845,
+                        "selected": false,
+                        "slug": "maslo-podsolnechnoe",
+                        "total": 1,
+                        "value": "Масло подсолнечное"
+                    },
+                    {
+                        "id": 7635808,
+                        "selected": false,
+                        "slug": "petrushka",
+                        "total": 1,
+                        "value": "Петрушка"
+                    }
+                ]
+            },
+            {
+                "attributeId": 30,
+                "key": "attribute_30",
+                "name": "Детский товар",
+                "position": 4,
+                "slug": "detskijj-tovar",
+                "total": 4,
+                "values": [
+                    {
+                        "id": 6747507,
+                        "selected": false,
+                        "slug": "da",
+                        "total": 4,
+                        "value": "Да"
+                    }
+                ]
+            },
+            {
+                "attributeId": 190,
+                "key": "attribute_190",
+                "name": "Вкус",
+                "position": 5,
+                "slug": "vkus",
+                "total": 1,
+                "values": [
+                    {
+                        "id": 1353528709,
+                        "selected": false,
+                        "slug": "tomat",
+                        "total": 1,
+                        "value": "Томат"
+                    }
+                ]
+            },
+            {
+                "attributeId": 235,
+                "key": "attribute_235",
+                "name": "Страна",
+                "position": 6,
+                "slug": "strana",
+                "total": 37,
+                "values": [
+                    {
+                        "id": 10720646,
+                        "selected": false,
+                        "slug": "rossiya",
+                        "total": 37,
+                        "value": "Россия"
+                    }
+                ]
+            }
+        ],
+        "range": []
+    },
+    "items": [
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-37%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 190,
+                "length": 40,
+                "width": 128
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 371991,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/371991/b337ac13-c10d-4169-b64c-391524479093.png",
+                    "id": 724260,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/371991/b337ac13-c10d-4169-b64c-391524479093.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/371991/b337ac13-c10d-4169-b64c-391524479093.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/371991/b337ac13-c10d-4169-b64c-391524479093.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/371991/b337ac13-c10d-4169-b64c-391524479093.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/371991/8ce7139a-be67-42d0-8055-d3f565ba979a.png",
+                    "id": 724259,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/371991/8ce7139a-be67-42d0-8055-d3f565ba979a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/371991/8ce7139a-be67-42d0-8055-d3f565ba979a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/371991/8ce7139a-be67-42d0-8055-d3f565ba979a.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/371991/8ce7139a-be67-42d0-8055-d3f565ba979a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/371991/d217ba37-13f4-4896-80dc-63aa71d6b4db.png",
+                    "id": 724261,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/371991/d217ba37-13f4-4896-80dc-63aa71d6b4db.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/371991/d217ba37-13f4-4896-80dc-63aa71d6b4db.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/371991/d217ba37-13f4-4896-80dc-63aa71d6b4db.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/371991/d217ba37-13f4-4896-80dc-63aa71d6b4db.png"
+                }
+            ],
+            "name": "Крупа гречневая УВЕЛКА ядрица в пакетиках Экстра, 5х80г",
+            "prices": {
+                "cost": 6999,
+                "costRegular": 11052,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6999,
+                "priceRegular": 11052
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 113
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-uvelka-ekstra-yadrica-80g5-pak-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 410,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 60,
+                "length": 90,
+                "width": 60
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 538349,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/538349/77b19dba-1a5f-4beb-b0aa-0046b1385931.png",
+                    "id": 800824,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/538349/77b19dba-1a5f-4beb-b0aa-0046b1385931.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/538349/77b19dba-1a5f-4beb-b0aa-0046b1385931.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/538349/77b19dba-1a5f-4beb-b0aa-0046b1385931.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/538349/77b19dba-1a5f-4beb-b0aa-0046b1385931.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/538349/6ad923f2-7b46-4760-a47b-8e3622bae5e4.png",
+                    "id": 800823,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/538349/6ad923f2-7b46-4760-a47b-8e3622bae5e4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/538349/6ad923f2-7b46-4760-a47b-8e3622bae5e4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/538349/6ad923f2-7b46-4760-a47b-8e3622bae5e4.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/538349/6ad923f2-7b46-4760-a47b-8e3622bae5e4.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/538349/77ffbd5e-080d-4764-83af-941240b6628f.png",
+                    "id": 800825,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/538349/77ffbd5e-080d-4764-83af-941240b6628f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/538349/77ffbd5e-080d-4764-83af-941240b6628f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/538349/77ffbd5e-080d-4764-83af-941240b6628f.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/538349/77ffbd5e-080d-4764-83af-941240b6628f.png"
+                }
+            ],
+            "name": "Крупа гречневая ТЕПЛЫЕ ТРАДИЦИИ ядрица 1-й сорт, 900г",
+            "prices": {
+                "cost": 7599,
+                "costRegular": 8915,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 7599,
+                "priceRegular": 8915
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.5,
+                "votes": 79
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-teplye-tradicii-yadrica-1-sort-rossiya-900g",
+            "storeId": 124,
+            "weight": {
+                "gross": 904,
+                "net": 0,
+                "package": "900г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-23%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 266,
+            "dimensions": {
+                "height": 180,
+                "length": 70,
+                "width": 120
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 710673,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "id": 729480,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "id": 729479,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png"
+                }
+            ],
+            "name": "Крупа гречневая ЛЕНТА, 1кг",
+            "prices": {
+                "cost": 6499,
+                "costRegular": 8429,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6499,
+                "priceRegular": 8429
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 875
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 266,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-lenta-rossiya-1000g",
+            "storeId": 124,
+            "weight": {
+                "gross": 1007,
+                "net": 0,
+                "package": "1000г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-40%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 510,
+            "dimensions": {
+                "height": 160,
+                "length": 60,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 14384,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/14384/c28e9e869e868686.png",
+                    "id": 14657,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/14384/c28e9e869e868686.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/14384/c28e9e869e868686.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/14384/c28e9e869e868686.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/14384/c28e9e869e868686.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/14384/101e8442-20dd-4bd8-b78f-d7bc8c9dd9ba.png",
+                    "id": 698977,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/14384/101e8442-20dd-4bd8-b78f-d7bc8c9dd9ba.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/14384/101e8442-20dd-4bd8-b78f-d7bc8c9dd9ba.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/14384/101e8442-20dd-4bd8-b78f-d7bc8c9dd9ba.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/14384/101e8442-20dd-4bd8-b78f-d7bc8c9dd9ba.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/14384/e0f6fcd0c4c2e2c2.png",
+                    "id": 14641,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/14384/e0f6fcd0c4c2e2c2.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/14384/e0f6fcd0c4c2e2c2.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/14384/e0f6fcd0c4c2e2c2.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/14384/e0f6fcd0c4c2e2c2.png"
+                }
+            ],
+            "name": "Крупа гречневая МИСТРАЛЬ ядрица высший сорт, 900г",
+            "prices": {
+                "cost": 9499,
+                "costRegular": 15789,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 9499,
+                "priceRegular": 15789
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 166
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 510,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-mistral-yadrica-vs-rossiya-900g",
+            "storeId": 124,
+            "weight": {
+                "gross": 925,
+                "net": 0,
+                "package": "900г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-46%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 67,
+            "dimensions": {
+                "height": 185,
+                "length": 88,
+                "width": 142
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 383698,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/383698/c85d76a8-bc17-4fa8-990b-29230ca169d4.png",
+                    "id": 835332,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/383698/c85d76a8-bc17-4fa8-990b-29230ca169d4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/383698/c85d76a8-bc17-4fa8-990b-29230ca169d4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/383698/c85d76a8-bc17-4fa8-990b-29230ca169d4.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/383698/c85d76a8-bc17-4fa8-990b-29230ca169d4.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/383698/6d8b19d2-c3d2-4897-b9ca-d21500ada9f3.png",
+                    "id": 835331,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/383698/6d8b19d2-c3d2-4897-b9ca-d21500ada9f3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/383698/6d8b19d2-c3d2-4897-b9ca-d21500ada9f3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/383698/6d8b19d2-c3d2-4897-b9ca-d21500ada9f3.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/383698/6d8b19d2-c3d2-4897-b9ca-d21500ada9f3.png"
+                }
+            ],
+            "name": "Крупа гречневая МИСТРАЛЬ ядрица высший сорт, 2000г",
+            "prices": {
+                "cost": 17999,
+                "costRegular": 33159,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 17999,
+                "priceRegular": 33159
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 48
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 67,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-mistral-yadrica-vs-rossiya-2000g",
+            "storeId": 124,
+            "weight": {
+                "gross": 2008,
+                "net": 0,
+                "package": "2000г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-32%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 45,
+            "dimensions": {
+                "height": 40,
+                "length": 190,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 701985,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/701985/de6f527c-e2b4-47dc-96ca-45d53c6f6c62.png",
+                    "id": 704054,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/701985/de6f527c-e2b4-47dc-96ca-45d53c6f6c62.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/701985/de6f527c-e2b4-47dc-96ca-45d53c6f6c62.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/701985/de6f527c-e2b4-47dc-96ca-45d53c6f6c62.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/701985/de6f527c-e2b4-47dc-96ca-45d53c6f6c62.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/701985/5f4ba315-6366-48b8-ab41-a6fb2f2bd417.png",
+                    "id": 704053,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/701985/5f4ba315-6366-48b8-ab41-a6fb2f2bd417.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/701985/5f4ba315-6366-48b8-ab41-a6fb2f2bd417.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/701985/5f4ba315-6366-48b8-ab41-a6fb2f2bd417.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/701985/5f4ba315-6366-48b8-ab41-a6fb2f2bd417.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/701985/63e7aeb3-42f4-425d-a3ba-21d74f68dcd2.png",
+                    "id": 704055,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/701985/63e7aeb3-42f4-425d-a3ba-21d74f68dcd2.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/701985/63e7aeb3-42f4-425d-a3ba-21d74f68dcd2.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/701985/63e7aeb3-42f4-425d-a3ba-21d74f68dcd2.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/701985/63e7aeb3-42f4-425d-a3ba-21d74f68dcd2.png"
+                }
+            ],
+            "name": "Крупа гречневая ЛЕНТА в пакетиках, 5х80г",
+            "prices": {
+                "cost": 4999,
+                "costRegular": 7369,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 4999,
+                "priceRegular": 7369
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 148
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 45,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-lenta-80g5pak-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 450,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 59,
+            "dimensions": {
+                "height": 200,
+                "length": 47,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 467209,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/467209/f2d91f4b-f60b-4969-a0d2-3f0b22f5693b.png",
+                    "id": 635383,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/467209/f2d91f4b-f60b-4969-a0d2-3f0b22f5693b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/467209/f2d91f4b-f60b-4969-a0d2-3f0b22f5693b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/467209/f2d91f4b-f60b-4969-a0d2-3f0b22f5693b.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/467209/f2d91f4b-f60b-4969-a0d2-3f0b22f5693b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/467209/935ae8ab-7768-47f2-b80e-fe063cbaf726.png",
+                    "id": 635382,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/467209/935ae8ab-7768-47f2-b80e-fe063cbaf726.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/467209/935ae8ab-7768-47f2-b80e-fe063cbaf726.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/467209/935ae8ab-7768-47f2-b80e-fe063cbaf726.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/467209/935ae8ab-7768-47f2-b80e-fe063cbaf726.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/467209/0f6defc7-1c9f-4a98-8398-b12dd4ec9405.png",
+                    "id": 635384,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/467209/0f6defc7-1c9f-4a98-8398-b12dd4ec9405.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/467209/0f6defc7-1c9f-4a98-8398-b12dd4ec9405.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/467209/0f6defc7-1c9f-4a98-8398-b12dd4ec9405.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/467209/0f6defc7-1c9f-4a98-8398-b12dd4ec9405.png"
+                }
+            ],
+            "name": "Крупа гречневая МИСТРАЛЬ ядрица высший сорт, в пакетиках, 5х80г",
+            "prices": {
+                "cost": 11499,
+                "costRegular": 12105,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 11499,
+                "priceRegular": 12105
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.6,
+                "votes": 17
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 59,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-mistral-grechnevaya-yadrica-vysshijj-sort-80g5-pak-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 425,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 46,
+            "dimensions": {
+                "height": 80,
+                "length": 220,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 269393,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/269393/e3f1ff6c-e379-4c2a-ba51-6a544561f437.png",
+                    "id": 721059,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/269393/e3f1ff6c-e379-4c2a-ba51-6a544561f437.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/269393/e3f1ff6c-e379-4c2a-ba51-6a544561f437.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/269393/e3f1ff6c-e379-4c2a-ba51-6a544561f437.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/269393/e3f1ff6c-e379-4c2a-ba51-6a544561f437.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/269393/285ca086-a2d7-4018-8cb5-339b57d5cbfe.png",
+                    "id": 721060,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/269393/285ca086-a2d7-4018-8cb5-339b57d5cbfe.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/269393/285ca086-a2d7-4018-8cb5-339b57d5cbfe.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/269393/285ca086-a2d7-4018-8cb5-339b57d5cbfe.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/269393/285ca086-a2d7-4018-8cb5-339b57d5cbfe.png"
+                }
+            ],
+            "name": "Крупа гречневая MAKFA ядрица быстроразваривающаяся, высший сорт, 800г",
+            "prices": {
+                "cost": 11999,
+                "costRegular": 12631,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 11999,
+                "priceRegular": 12631
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 54
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 46,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-makfa-yadrica-bystrorazvarivayushchayasya-vs-rossiya-800g",
+            "storeId": 124,
+            "weight": {
+                "gross": 810,
+                "net": 0,
+                "package": "800г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-29%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 38,
+            "dimensions": {
+                "height": 160,
+                "length": 80,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 4178,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/4178/8eb0ce94-c08a-43cc-a24a-fe623914a62e.png",
+                    "id": 744195,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/4178/8eb0ce94-c08a-43cc-a24a-fe623914a62e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/4178/8eb0ce94-c08a-43cc-a24a-fe623914a62e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/4178/8eb0ce94-c08a-43cc-a24a-fe623914a62e.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/4178/8eb0ce94-c08a-43cc-a24a-fe623914a62e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/4178/56a3a2f3-7cd5-4ec1-b9ad-88ce0183372e.png",
+                    "id": 744194,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/4178/56a3a2f3-7cd5-4ec1-b9ad-88ce0183372e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/4178/56a3a2f3-7cd5-4ec1-b9ad-88ce0183372e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/4178/56a3a2f3-7cd5-4ec1-b9ad-88ce0183372e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/4178/56a3a2f3-7cd5-4ec1-b9ad-88ce0183372e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/4178/f76dbbfd-1a7a-44e0-bf8e-e10686e851fd.png",
+                    "id": 744196,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/4178/f76dbbfd-1a7a-44e0-bf8e-e10686e851fd.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/4178/f76dbbfd-1a7a-44e0-bf8e-e10686e851fd.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/4178/f76dbbfd-1a7a-44e0-bf8e-e10686e851fd.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/4178/f76dbbfd-1a7a-44e0-bf8e-e10686e851fd.png"
+                }
+            ],
+            "name": "Крупа гречневая НАЦИОНАЛЬ ядрица, быстроразваривающаяся 1-й сорт, 900г",
+            "prices": {
+                "cost": 8999,
+                "costRegular": 12639,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 8999,
+                "priceRegular": 12639
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.3,
+                "votes": 30
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 38,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-nacional-grechnevaya-yadrbystrazvarpervyjj-sort-rossiya-900g",
+            "storeId": 124,
+            "weight": {
+                "gross": 904,
+                "net": 0,
+                "package": "900г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-45%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 86,
+            "dimensions": {
+                "height": 174,
+                "length": 40,
+                "width": 137
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 380581,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/380581/1a2534af-6526-41ad-ad6e-c2fd61c86c25.png",
+                    "id": 877516,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/380581/1a2534af-6526-41ad-ad6e-c2fd61c86c25.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/380581/1a2534af-6526-41ad-ad6e-c2fd61c86c25.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/380581/1a2534af-6526-41ad-ad6e-c2fd61c86c25.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/380581/1a2534af-6526-41ad-ad6e-c2fd61c86c25.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/380581/69e4705b-b4e3-4a43-a6d0-e841d8d20503.png",
+                    "id": 877515,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/380581/69e4705b-b4e3-4a43-a6d0-e841d8d20503.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/380581/69e4705b-b4e3-4a43-a6d0-e841d8d20503.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/380581/69e4705b-b4e3-4a43-a6d0-e841d8d20503.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/380581/69e4705b-b4e3-4a43-a6d0-e841d8d20503.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/380581/46f93a44-1f06-4fca-8f51-0104ca1d7a69.png",
+                    "id": 877517,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/380581/46f93a44-1f06-4fca-8f51-0104ca1d7a69.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/380581/46f93a44-1f06-4fca-8f51-0104ca1d7a69.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/380581/46f93a44-1f06-4fca-8f51-0104ca1d7a69.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/380581/46f93a44-1f06-4fca-8f51-0104ca1d7a69.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/380581/2ff96deb-8fcd-45d3-b552-3ad30b5e0eea.png",
+                    "id": 877518,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/380581/2ff96deb-8fcd-45d3-b552-3ad30b5e0eea.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/380581/2ff96deb-8fcd-45d3-b552-3ad30b5e0eea.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/380581/2ff96deb-8fcd-45d3-b552-3ad30b5e0eea.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/380581/2ff96deb-8fcd-45d3-b552-3ad30b5e0eea.png"
+                }
+            ],
+            "name": "Крупа гречневая ПАССИМ Алтайская, высший сорт, 4х125г",
+            "prices": {
+                "cost": 4899,
+                "costRegular": 8947,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 4899,
+                "priceRegular": 8947
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 151
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 86,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-passim-altajjskaya-vysshijj-sort-125g4-pak-rossiya-500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 534,
+                "net": 0,
+                "package": "500г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-25%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 38,
+            "dimensions": {
+                "height": 165,
+                "length": 55,
+                "width": 95
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 77512,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/77512/88b7c9e0-96e4-42d9-8ca0-1b5d366da399.png",
+                    "id": 877864,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/77512/88b7c9e0-96e4-42d9-8ca0-1b5d366da399.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/77512/88b7c9e0-96e4-42d9-8ca0-1b5d366da399.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/77512/88b7c9e0-96e4-42d9-8ca0-1b5d366da399.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/77512/88b7c9e0-96e4-42d9-8ca0-1b5d366da399.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/77512/44fa7d15-efa3-4e7b-a1af-767f6b23296e.png",
+                    "id": 877863,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/77512/44fa7d15-efa3-4e7b-a1af-767f6b23296e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/77512/44fa7d15-efa3-4e7b-a1af-767f6b23296e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/77512/44fa7d15-efa3-4e7b-a1af-767f6b23296e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/77512/44fa7d15-efa3-4e7b-a1af-767f6b23296e.png"
+                }
+            ],
+            "name": "Крупа гречневая ПАССИМ Алтайская, высший сорт, 800г",
+            "prices": {
+                "cost": 7499,
+                "costRegular": 9999,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 7499,
+                "priceRegular": 9999
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.6,
+                "votes": 236
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 38,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-passim-yadrica-altajjskaya-vs-rossiya-800g",
+            "storeId": 124,
+            "weight": {
+                "gross": 810,
+                "net": 0,
+                "package": "800г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-58%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 47,
+            "dimensions": {
+                "height": 150,
+                "length": 90,
+                "width": 55
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 86115,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/86115/0c2b06ad-e3eb-4973-a610-30aa6d10103c.png",
+                    "id": 706065,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/86115/0c2b06ad-e3eb-4973-a610-30aa6d10103c.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/86115/0c2b06ad-e3eb-4973-a610-30aa6d10103c.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/86115/0c2b06ad-e3eb-4973-a610-30aa6d10103c.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/86115/0c2b06ad-e3eb-4973-a610-30aa6d10103c.png"
+                }
+            ],
+            "name": "Крупа гречневая УВЕЛКА Экстра, 800г",
+            "prices": {
+                "cost": 6999,
+                "costRegular": 16842,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6999,
+                "priceRegular": 16842
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.4,
+                "votes": 60
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 47,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-uvelka-ekstra-rossiya-800g",
+            "storeId": 124,
+            "weight": {
+                "gross": 808,
+                "net": 0,
+                "package": "800г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-34%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 16,
+            "dimensions": {
+                "height": 200,
+                "length": 130,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 551625,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/551625/682a2e1e-27e6-4b15-93a7-f20bdbcd0a19.png",
+                    "id": 731063,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/551625/682a2e1e-27e6-4b15-93a7-f20bdbcd0a19.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/551625/682a2e1e-27e6-4b15-93a7-f20bdbcd0a19.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/551625/682a2e1e-27e6-4b15-93a7-f20bdbcd0a19.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/551625/682a2e1e-27e6-4b15-93a7-f20bdbcd0a19.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/551625/c23dded6-1f97-4829-bacc-01ce8dde4749.png",
+                    "id": 731062,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/551625/c23dded6-1f97-4829-bacc-01ce8dde4749.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/551625/c23dded6-1f97-4829-bacc-01ce8dde4749.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/551625/c23dded6-1f97-4829-bacc-01ce8dde4749.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/551625/c23dded6-1f97-4829-bacc-01ce8dde4749.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/551625/335491b1-8385-4d90-b58a-a2f9877f0527.png",
+                    "id": 270233,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/551625/335491b1-8385-4d90-b58a-a2f9877f0527.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/551625/335491b1-8385-4d90-b58a-a2f9877f0527.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/551625/335491b1-8385-4d90-b58a-a2f9877f0527.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/551625/335491b1-8385-4d90-b58a-a2f9877f0527.png"
+                }
+            ],
+            "name": "Крупа гречневая ЛЕНТА быстроразваривающаяся, 1,5кг",
+            "prices": {
+                "cost": 8999,
+                "costRegular": 13689,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 8999,
+                "priceRegular": 13689
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 603
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 16,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-lenta-grechnevaya-bystrorazvar-rossiya-1500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 1507,
+                "net": 0,
+                "package": "1500г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 3,
+            "dimensions": {
+                "height": 160,
+                "length": 80,
+                "width": 50
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 705656,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/705656/b9bcd0a9-63ae-4762-bdca-b413c0193e1c.png",
+                    "id": 715142,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/705656/b9bcd0a9-63ae-4762-bdca-b413c0193e1c.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/705656/b9bcd0a9-63ae-4762-bdca-b413c0193e1c.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/705656/b9bcd0a9-63ae-4762-bdca-b413c0193e1c.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/705656/b9bcd0a9-63ae-4762-bdca-b413c0193e1c.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/705656/c06ecc76-c7b5-4d53-87be-983e3e5b6e81.png",
+                    "id": 715141,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/705656/c06ecc76-c7b5-4d53-87be-983e3e5b6e81.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/705656/c06ecc76-c7b5-4d53-87be-983e3e5b6e81.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/705656/c06ecc76-c7b5-4d53-87be-983e3e5b6e81.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/705656/c06ecc76-c7b5-4d53-87be-983e3e5b6e81.png"
+                }
+            ],
+            "name": "Крупа гречневая 365 ДНЕЙ 1-й сорт, 1кг",
+            "prices": {
+                "cost": 4499,
+                "costRegular": 4736,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 4499,
+                "priceRegular": 4736
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 590
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 3,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-365-dnejj-1s-rossiya-1000g",
+            "storeId": 124,
+            "weight": {
+                "gross": 1002,
+                "net": 0,
+                "package": "1000г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-20%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 40,
+            "dimensions": {
+                "height": 55,
+                "length": 210,
+                "width": 110
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 708984,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/708984/4ae1dc8e-9e78-4d4f-b7c6-d69e912f5c96.png",
+                    "id": 722601,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/708984/4ae1dc8e-9e78-4d4f-b7c6-d69e912f5c96.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/708984/4ae1dc8e-9e78-4d4f-b7c6-d69e912f5c96.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/708984/4ae1dc8e-9e78-4d4f-b7c6-d69e912f5c96.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/708984/4ae1dc8e-9e78-4d4f-b7c6-d69e912f5c96.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/708984/9a63ba1c-787e-43bd-a09a-44f831fc249b.png",
+                    "id": 722600,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/708984/9a63ba1c-787e-43bd-a09a-44f831fc249b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/708984/9a63ba1c-787e-43bd-a09a-44f831fc249b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/708984/9a63ba1c-787e-43bd-a09a-44f831fc249b.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/708984/9a63ba1c-787e-43bd-a09a-44f831fc249b.png"
+                }
+            ],
+            "name": "Крупа гречневая ВЫБОР СЕМЬИ 1-й сорт, 1кг",
+            "prices": {
+                "cost": 5499,
+                "costRegular": 6849,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 5499,
+                "priceRegular": 6849
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 104
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 40,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-vybor-semi-1-sort-rossiya-1000g",
+            "storeId": 124,
+            "weight": {
+                "gross": 1007,
+                "net": 0,
+                "package": "1000г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-21%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 190,
+                "length": 130,
+                "width": 50
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 121781,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/121781/31d6740d-7fca-4efd-9f70-b7e7c2ed597d.png",
+                    "id": 592281,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/121781/31d6740d-7fca-4efd-9f70-b7e7c2ed597d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/121781/31d6740d-7fca-4efd-9f70-b7e7c2ed597d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/121781/31d6740d-7fca-4efd-9f70-b7e7c2ed597d.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/121781/31d6740d-7fca-4efd-9f70-b7e7c2ed597d.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/121781/de3f5bee-0caa-48af-9a2d-9b70ba96298a.png",
+                    "id": 592282,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/121781/de3f5bee-0caa-48af-9a2d-9b70ba96298a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/121781/de3f5bee-0caa-48af-9a2d-9b70ba96298a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/121781/de3f5bee-0caa-48af-9a2d-9b70ba96298a.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/121781/de3f5bee-0caa-48af-9a2d-9b70ba96298a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/121781/59168fe6-4d4c-4498-9366-2385732ebb72.png",
+                    "id": 592283,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/121781/59168fe6-4d4c-4498-9366-2385732ebb72.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/121781/59168fe6-4d4c-4498-9366-2385732ebb72.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/121781/59168fe6-4d4c-4498-9366-2385732ebb72.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/121781/59168fe6-4d4c-4498-9366-2385732ebb72.png"
+                }
+            ],
+            "name": "Крупа гречневая ЛЕНТА 1-й сорт, в пакетиках, 5х100г",
+            "prices": {
+                "cost": 4999,
+                "costRegular": 6319,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 4999,
+                "priceRegular": 6319
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 820
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-lenta-1-sort-100g5-pak-rossiya-500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 540,
+                "net": 0,
+                "package": "500г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-34%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 12,
+            "dimensions": {
+                "height": 190,
+                "length": 50,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 520921,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/520921/50302c92-61cf-4ebc-b772-b0a04eb1ba3b.png",
+                    "id": 707670,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/520921/50302c92-61cf-4ebc-b772-b0a04eb1ba3b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/520921/50302c92-61cf-4ebc-b772-b0a04eb1ba3b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/520921/50302c92-61cf-4ebc-b772-b0a04eb1ba3b.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/520921/50302c92-61cf-4ebc-b772-b0a04eb1ba3b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/520921/950edd7a-0977-42aa-9d4a-d221ca5e8814.png",
+                    "id": 707669,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/520921/950edd7a-0977-42aa-9d4a-d221ca5e8814.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/520921/950edd7a-0977-42aa-9d4a-d221ca5e8814.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/520921/950edd7a-0977-42aa-9d4a-d221ca5e8814.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/520921/950edd7a-0977-42aa-9d4a-d221ca5e8814.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/520921/45f0cec4-ce69-441d-b356-8033b9c3a198.png",
+                    "id": 707671,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/520921/45f0cec4-ce69-441d-b356-8033b9c3a198.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/520921/45f0cec4-ce69-441d-b356-8033b9c3a198.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/520921/45f0cec4-ce69-441d-b356-8033b9c3a198.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/520921/45f0cec4-ce69-441d-b356-8033b9c3a198.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/520921/3e32de35-85c8-4431-bb1a-e794685e446b.png",
+                    "id": 707672,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/520921/3e32de35-85c8-4431-bb1a-e794685e446b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/520921/3e32de35-85c8-4431-bb1a-e794685e446b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/520921/3e32de35-85c8-4431-bb1a-e794685e446b.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/520921/3e32de35-85c8-4431-bb1a-e794685e446b.png"
+                }
+            ],
+            "name": "Крупа гречневая АГРО-АЛЬЯНС Экстра Элитная в пакетиках, 5х80г",
+            "prices": {
+                "cost": 6899,
+                "costRegular": 10526,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6899,
+                "priceRegular": 10526
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 28
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 12,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-agro-alyans-ekstra-elitnaya-pak-vs-80g5-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 410,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 16,
+            "dimensions": {
+                "height": 210,
+                "length": 130,
+                "width": 50
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 309473,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/309473/16790ef3-e7ff-42dd-93b6-1b808bc3a5dc.png",
+                    "id": 888275,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/309473/16790ef3-e7ff-42dd-93b6-1b808bc3a5dc.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/309473/16790ef3-e7ff-42dd-93b6-1b808bc3a5dc.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/309473/16790ef3-e7ff-42dd-93b6-1b808bc3a5dc.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/309473/16790ef3-e7ff-42dd-93b6-1b808bc3a5dc.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/309473/f0d0f0929ab292fe.png",
+                    "id": 49471,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/309473/f0d0f0929ab292fe.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/309473/f0d0f0929ab292fe.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/309473/f0d0f0929ab292fe.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/309473/f0d0f0929ab292fe.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/309473/49b4af76-58da-4bf4-a576-0d5c3abe6e13.png",
+                    "id": 692359,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/309473/49b4af76-58da-4bf4-a576-0d5c3abe6e13.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/309473/49b4af76-58da-4bf4-a576-0d5c3abe6e13.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/309473/49b4af76-58da-4bf4-a576-0d5c3abe6e13.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/309473/49b4af76-58da-4bf4-a576-0d5c3abe6e13.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/309473/53f4be61-afc2-45ec-aae2-6c4ab3653983.png",
+                    "id": 692360,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/309473/53f4be61-afc2-45ec-aae2-6c4ab3653983.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/309473/53f4be61-afc2-45ec-aae2-6c4ab3653983.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/309473/53f4be61-afc2-45ec-aae2-6c4ab3653983.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/309473/53f4be61-afc2-45ec-aae2-6c4ab3653983.png"
+                }
+            ],
+            "name": "Крупа гречневая MAKFA Экстра в пакетиках, 6х66г",
+            "prices": {
+                "cost": 8499,
+                "costRegular": 8947,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 8499,
+                "priceRegular": 8947
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 35
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 16,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-makfa-ekstra-66g6-pak-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 410,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 17,
+            "dimensions": {
+                "height": 195,
+                "length": 35,
+                "width": 124
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 640668,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/640668/c3cc1d5d-4442-4601-a278-34a5a29ededb.png",
+                    "id": 796552,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/640668/c3cc1d5d-4442-4601-a278-34a5a29ededb.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/640668/c3cc1d5d-4442-4601-a278-34a5a29ededb.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/640668/c3cc1d5d-4442-4601-a278-34a5a29ededb.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/640668/c3cc1d5d-4442-4601-a278-34a5a29ededb.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/640668/d1a4736b-522a-4137-bfa9-e4ff7da2e67e.png",
+                    "id": 796551,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/640668/d1a4736b-522a-4137-bfa9-e4ff7da2e67e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/640668/d1a4736b-522a-4137-bfa9-e4ff7da2e67e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/640668/d1a4736b-522a-4137-bfa9-e4ff7da2e67e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/640668/d1a4736b-522a-4137-bfa9-e4ff7da2e67e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/640668/98c21e70-65bb-427b-8d6e-5d009310728a.png",
+                    "id": 796553,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/640668/98c21e70-65bb-427b-8d6e-5d009310728a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/640668/98c21e70-65bb-427b-8d6e-5d009310728a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/640668/98c21e70-65bb-427b-8d6e-5d009310728a.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/640668/98c21e70-65bb-427b-8d6e-5d009310728a.png"
+                }
+            ],
+            "name": "Крупа гречневая MAKFA зеленая, в пакетиках, 6х66г",
+            "prices": {
+                "cost": 14499,
+                "costRegular": 15269,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 14499,
+                "priceRegular": 15269
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.6,
+                "votes": 11
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 17,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-makfa-grechnevaya-zelenaya-66g6-pak-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 405,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-27%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 30,
+            "dimensions": {
+                "height": 150,
+                "length": 80,
+                "width": 30
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 684889,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/684889/999f449e-3deb-4072-92db-40e7c074358e.png",
+                    "id": 588252,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/684889/999f449e-3deb-4072-92db-40e7c074358e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/684889/999f449e-3deb-4072-92db-40e7c074358e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/684889/999f449e-3deb-4072-92db-40e7c074358e.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/684889/999f449e-3deb-4072-92db-40e7c074358e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/684889/2ed31ba0-64a5-4dd0-bbc7-957ec703f737.png",
+                    "id": 588253,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/684889/2ed31ba0-64a5-4dd0-bbc7-957ec703f737.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/684889/2ed31ba0-64a5-4dd0-bbc7-957ec703f737.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/684889/2ed31ba0-64a5-4dd0-bbc7-957ec703f737.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/684889/2ed31ba0-64a5-4dd0-bbc7-957ec703f737.png"
+                }
+            ],
+            "name": "Крупа гречневая ЛЕНТА LIFE зеленая, 450г",
+            "prices": {
+                "cost": 9999,
+                "costRegular": 13689,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 9999,
+                "priceRegular": 13689
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 67
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 30,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-lenta-life-zelenaya-rossiya-450g",
+            "storeId": 124,
+            "weight": {
+                "gross": 451,
+                "net": 0,
+                "package": "450г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-53%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 16,
+            "dimensions": {
+                "height": 275,
+                "length": 245,
+                "width": 95
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 712382,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/712382/074a6fea-4c2a-4a6a-9193-3819c69d35d3.png",
+                    "id": 748610,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/712382/074a6fea-4c2a-4a6a-9193-3819c69d35d3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/712382/074a6fea-4c2a-4a6a-9193-3819c69d35d3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/712382/074a6fea-4c2a-4a6a-9193-3819c69d35d3.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/712382/074a6fea-4c2a-4a6a-9193-3819c69d35d3.png"
+                }
+            ],
+            "name": "Крупа гречневая ВЫБОР СЕМЬИ 1-й сорт, 2кг",
+            "prices": {
+                "cost": 8999,
+                "costRegular": 18949,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 8999,
+                "priceRegular": 18949
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 29
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 16,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-vybor-semi-1-sort-rossiya-2000g",
+            "storeId": 124,
+            "weight": {
+                "gross": 2023,
+                "net": 0,
+                "package": "2000г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-37%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 94,
+            "dimensions": {
+                "height": 170,
+                "length": 75,
+                "width": 110
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 41254,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/41254/afde7aa2-717e-441b-ace1-6b2a961b4e55.png",
+                    "id": 697742,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/41254/afde7aa2-717e-441b-ace1-6b2a961b4e55.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/41254/afde7aa2-717e-441b-ace1-6b2a961b4e55.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/41254/afde7aa2-717e-441b-ace1-6b2a961b4e55.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/41254/afde7aa2-717e-441b-ace1-6b2a961b4e55.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/41254/0b655f45-4f75-4257-8a69-29f95ff7a513.png",
+                    "id": 697741,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/41254/0b655f45-4f75-4257-8a69-29f95ff7a513.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/41254/0b655f45-4f75-4257-8a69-29f95ff7a513.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/41254/0b655f45-4f75-4257-8a69-29f95ff7a513.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/41254/0b655f45-4f75-4257-8a69-29f95ff7a513.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/41254/dcb588d3-22af-4c39-8e58-ca38763f4d30.png",
+                    "id": 592527,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/41254/dcb588d3-22af-4c39-8e58-ca38763f4d30.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/41254/dcb588d3-22af-4c39-8e58-ca38763f4d30.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/41254/dcb588d3-22af-4c39-8e58-ca38763f4d30.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/41254/dcb588d3-22af-4c39-8e58-ca38763f4d30.png"
+                }
+            ],
+            "name": "Крупа гречневая АГРО-АЛЬЯНС Экстра Элитная высший сорт, 900г",
+            "prices": {
+                "cost": 7999,
+                "costRegular": 12639,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 7999,
+                "priceRegular": 12639
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 136
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 94,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-agro-alyans-ekstra-elitnaya-vs-rossiya-900g",
+            "storeId": 124,
+            "weight": {
+                "gross": 915,
+                "net": 0,
+                "package": "900г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-44%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 16,
+            "dimensions": {
+                "height": 50,
+                "length": 200,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 521164,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/521164/fcdb0a80-e70d-462d-8252-d117d52ca1b9.png",
+                    "id": 850361,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/521164/fcdb0a80-e70d-462d-8252-d117d52ca1b9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/521164/fcdb0a80-e70d-462d-8252-d117d52ca1b9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/521164/fcdb0a80-e70d-462d-8252-d117d52ca1b9.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/521164/fcdb0a80-e70d-462d-8252-d117d52ca1b9.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/521164/6f90f2e0-3d7f-4b75-a43e-e7e9cbe1ac94.png",
+                    "id": 572086,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/521164/6f90f2e0-3d7f-4b75-a43e-e7e9cbe1ac94.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/521164/6f90f2e0-3d7f-4b75-a43e-e7e9cbe1ac94.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/521164/6f90f2e0-3d7f-4b75-a43e-e7e9cbe1ac94.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/521164/6f90f2e0-3d7f-4b75-a43e-e7e9cbe1ac94.png"
+                }
+            ],
+            "name": "Крупа гречневая АЛТАЙСКАЯ СКАЗКА быстроразваривающаяся Экстра, ядрица, 800г",
+            "prices": {
+                "cost": 8499,
+                "costRegular": 15059,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 8499,
+                "priceRegular": 15059
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 41
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 16,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-altajjskaya-skazka-yadrica-bystrorazvarivayushchayasya-ekstra-rossiya-800g",
+            "storeId": 124,
+            "weight": {
+                "gross": 810,
+                "net": 0,
+                "package": "800г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-34%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 8,
+            "dimensions": {
+                "height": 190,
+                "length": 40,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 534433,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/534433/c9814281-bb04-4074-b530-29bef9dfa567.png",
+                    "id": 708123,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/534433/c9814281-bb04-4074-b530-29bef9dfa567.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/534433/c9814281-bb04-4074-b530-29bef9dfa567.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/534433/c9814281-bb04-4074-b530-29bef9dfa567.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/534433/c9814281-bb04-4074-b530-29bef9dfa567.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/534433/907db7a5-3f63-4dde-806c-9575cc892538.png",
+                    "id": 708122,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/534433/907db7a5-3f63-4dde-806c-9575cc892538.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/534433/907db7a5-3f63-4dde-806c-9575cc892538.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/534433/907db7a5-3f63-4dde-806c-9575cc892538.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/534433/907db7a5-3f63-4dde-806c-9575cc892538.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/534433/e69bc755-32d4-463f-ab3f-d580e663a7d1.png",
+                    "id": 708124,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/534433/e69bc755-32d4-463f-ab3f-d580e663a7d1.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/534433/e69bc755-32d4-463f-ab3f-d580e663a7d1.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/534433/e69bc755-32d4-463f-ab3f-d580e663a7d1.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/534433/e69bc755-32d4-463f-ab3f-d580e663a7d1.png"
+                }
+            ],
+            "name": "Крупа гречневая АЛТАЙСКАЯ СКАЗКА Экстра, ядрица быстроразваривающаяся, в пакетиках, 400г",
+            "prices": {
+                "cost": 6999,
+                "costRegular": 10529,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6999,
+                "priceRegular": 10529
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.2,
+                "votes": 10
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 8,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-altajjskaya-skazka-yadrica-bystrorazvarivayushchayasya-ekstra-v-varochnyh-paketah",
+            "storeId": 124,
+            "weight": {
+                "gross": 430,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 18,
+            "dimensions": {
+                "height": 145,
+                "length": 50,
+                "width": 85
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 337089,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/337089/94c781c7-b9ac-44ec-92d3-b069d6ee2922.png",
+                    "id": 800750,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/337089/94c781c7-b9ac-44ec-92d3-b069d6ee2922.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/337089/94c781c7-b9ac-44ec-92d3-b069d6ee2922.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/337089/94c781c7-b9ac-44ec-92d3-b069d6ee2922.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/337089/94c781c7-b9ac-44ec-92d3-b069d6ee2922.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/337089/e7f693af-1735-4b6d-aa64-fe32b954ef09.png",
+                    "id": 802212,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/337089/e7f693af-1735-4b6d-aa64-fe32b954ef09.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/337089/e7f693af-1735-4b6d-aa64-fe32b954ef09.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/337089/e7f693af-1735-4b6d-aa64-fe32b954ef09.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/337089/e7f693af-1735-4b6d-aa64-fe32b954ef09.png"
+                }
+            ],
+            "name": "Крупа гречневая МИСТРАЛЬ зеленая высший сорт, 450г",
+            "prices": {
+                "cost": 12499,
+                "costRegular": 13159,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 12499,
+                "priceRegular": 13159
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.4,
+                "votes": 5
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 18,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-mistral-zelenaya-vs-rossiya-450g",
+            "storeId": 124,
+            "weight": {
+                "gross": 454,
+                "net": 0,
+                "package": "450г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 20,
+            "dimensions": {
+                "height": 185,
+                "length": 128,
+                "width": 40
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 551839,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/551839/1ebfa064-fc22-436c-8a56-48f2ef227e2d.png",
+                    "id": 712718,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/551839/1ebfa064-fc22-436c-8a56-48f2ef227e2d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/551839/1ebfa064-fc22-436c-8a56-48f2ef227e2d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/551839/1ebfa064-fc22-436c-8a56-48f2ef227e2d.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/551839/1ebfa064-fc22-436c-8a56-48f2ef227e2d.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/551839/62170b92-293e-482e-97d9-1c5ffca77d19.png",
+                    "id": 712717,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/551839/62170b92-293e-482e-97d9-1c5ffca77d19.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/551839/62170b92-293e-482e-97d9-1c5ffca77d19.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/551839/62170b92-293e-482e-97d9-1c5ffca77d19.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/551839/62170b92-293e-482e-97d9-1c5ffca77d19.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/551839/7759fb57-765e-4d68-9b63-a6fabab97e6f.png",
+                    "id": 712719,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/551839/7759fb57-765e-4d68-9b63-a6fabab97e6f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/551839/7759fb57-765e-4d68-9b63-a6fabab97e6f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/551839/7759fb57-765e-4d68-9b63-a6fabab97e6f.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/551839/7759fb57-765e-4d68-9b63-a6fabab97e6f.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/551839/a236c23d-98de-42eb-bb4d-57eabcff7637.png",
+                    "id": 639889,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/551839/a236c23d-98de-42eb-bb4d-57eabcff7637.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/551839/a236c23d-98de-42eb-bb4d-57eabcff7637.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/551839/a236c23d-98de-42eb-bb4d-57eabcff7637.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/551839/a236c23d-98de-42eb-bb4d-57eabcff7637.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/5518/551839H.png",
+                    "id": 232221,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/5518/551839H.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/5518/551839H.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/5518/551839H.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/5518/551839H.png"
+                }
+            ],
+            "name": "Крупа гречневая ЗДОРОВОЕ МЕНЮ зеленая в пакетиках, 5х80г",
+            "prices": {
+                "cost": 13499,
+                "costRegular": 15789,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 13499,
+                "priceRegular": 15789
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 13
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 20,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-zdorovoe-menyu-zelenaya-5pak-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 437,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-22%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 25,
+            "dimensions": {
+                "height": 190,
+                "length": 51,
+                "width": 127
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 720082,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/720082/f90d684a-c4d2-48c8-85f8-0f661edfc085.png",
+                    "id": 787701,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/720082/f90d684a-c4d2-48c8-85f8-0f661edfc085.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/720082/f90d684a-c4d2-48c8-85f8-0f661edfc085.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/720082/f90d684a-c4d2-48c8-85f8-0f661edfc085.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/720082/f90d684a-c4d2-48c8-85f8-0f661edfc085.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/720082/09369b8f-8291-442d-b066-6de952bbe6ac.png",
+                    "id": 787700,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/720082/09369b8f-8291-442d-b066-6de952bbe6ac.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/720082/09369b8f-8291-442d-b066-6de952bbe6ac.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/720082/09369b8f-8291-442d-b066-6de952bbe6ac.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/720082/09369b8f-8291-442d-b066-6de952bbe6ac.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/720082/df20c283-8e76-4b72-9191-c58a7c63c6b6.png",
+                    "id": 787702,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/720082/df20c283-8e76-4b72-9191-c58a7c63c6b6.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/720082/df20c283-8e76-4b72-9191-c58a7c63c6b6.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/720082/df20c283-8e76-4b72-9191-c58a7c63c6b6.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/720082/df20c283-8e76-4b72-9191-c58a7c63c6b6.png"
+                }
+            ],
+            "name": "Гречка PROSTO для гарнира, в пакетиках, 8х62,5г",
+            "prices": {
+                "cost": 8999,
+                "costRegular": 11579,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 8999,
+                "priceRegular": 11579
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.4,
+                "votes": 7
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 25,
+                "minSaleQuantity": 1
+            },
+            "slug": "grechka-prosto-dlya-garnira-625g8-pak-rossiya-500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 540,
+                "net": 0,
+                "package": "500г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-22%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 16,
+            "dimensions": {
+                "height": 190,
+                "length": 51,
+                "width": 127
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 300248,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/300248/0e2dd956-677d-4b3e-8a5e-45e5f46e29b8.png",
+                    "id": 749959,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/300248/0e2dd956-677d-4b3e-8a5e-45e5f46e29b8.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/300248/0e2dd956-677d-4b3e-8a5e-45e5f46e29b8.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/300248/0e2dd956-677d-4b3e-8a5e-45e5f46e29b8.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/300248/0e2dd956-677d-4b3e-8a5e-45e5f46e29b8.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/300248/43e61228-6f61-4d55-8ce8-4243651efc7e.png",
+                    "id": 749958,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/300248/43e61228-6f61-4d55-8ce8-4243651efc7e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/300248/43e61228-6f61-4d55-8ce8-4243651efc7e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/300248/43e61228-6f61-4d55-8ce8-4243651efc7e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/300248/43e61228-6f61-4d55-8ce8-4243651efc7e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/300248/c228b931-e14e-4129-9646-e4688989a625.png",
+                    "id": 642255,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/300248/c228b931-e14e-4129-9646-e4688989a625.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/300248/c228b931-e14e-4129-9646-e4688989a625.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/300248/c228b931-e14e-4129-9646-e4688989a625.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/300248/c228b931-e14e-4129-9646-e4688989a625.png"
+                }
+            ],
+            "name": "Ассорти круп PROSTO Рис 1-й сорт, греча высший сорт, в пакетиках, 8х62,5г",
+            "prices": {
+                "cost": 11499,
+                "costRegular": 14736,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 11499,
+                "priceRegular": 14736
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 9
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 16,
+                "minSaleQuantity": 1
+            },
+            "slug": "ris-i-grecha-prosto-assorti-625g8-pak-ris1-sort-grecha-vs-rossiya-500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 532,
+                "net": 0,
+                "package": "500г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-26%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 4,
+            "dimensions": {
+                "height": 185,
+                "length": 40,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 712723,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/712723/b79169c2-f6fc-406e-ba41-30716ed13044.png",
+                    "id": 735217,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/712723/b79169c2-f6fc-406e-ba41-30716ed13044.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/712723/b79169c2-f6fc-406e-ba41-30716ed13044.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/712723/b79169c2-f6fc-406e-ba41-30716ed13044.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/712723/b79169c2-f6fc-406e-ba41-30716ed13044.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/712723/de9e67a5-ef14-4a21-bfa6-ab75fb76bfeb.png",
+                    "id": 735216,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/712723/de9e67a5-ef14-4a21-bfa6-ab75fb76bfeb.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/712723/de9e67a5-ef14-4a21-bfa6-ab75fb76bfeb.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/712723/de9e67a5-ef14-4a21-bfa6-ab75fb76bfeb.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/712723/de9e67a5-ef14-4a21-bfa6-ab75fb76bfeb.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/712723/b5c96d7a-7785-4e74-8596-cc2a797fecd9.png",
+                    "id": 735218,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/712723/b5c96d7a-7785-4e74-8596-cc2a797fecd9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/712723/b5c96d7a-7785-4e74-8596-cc2a797fecd9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/712723/b5c96d7a-7785-4e74-8596-cc2a797fecd9.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/712723/b5c96d7a-7785-4e74-8596-cc2a797fecd9.png"
+                }
+            ],
+            "name": "Смесь круп ЗДОРОВОЕ МЕНЮ Павловская каша, греча и нут, в пакетиках, 5х80г",
+            "prices": {
+                "cost": 6999,
+                "costRegular": 9473,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6999,
+                "priceRegular": 9473
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 11
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 4,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-zdorovoe-menyu-pavlovskaya-kasha-grechnevaya-s-nutom-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 438,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-24%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 7,
+            "dimensions": {
+                "height": 180,
+                "length": 67,
+                "width": 60
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 627715,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/627715/01f74555-455b-454d-b76d-401a9dcee96d.png",
+                    "id": 732082,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/627715/01f74555-455b-454d-b76d-401a9dcee96d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/627715/01f74555-455b-454d-b76d-401a9dcee96d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/627715/01f74555-455b-454d-b76d-401a9dcee96d.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/627715/01f74555-455b-454d-b76d-401a9dcee96d.png"
+                }
+            ],
+            "name": "Смесь круп АЛТАЙСКАЯ СКАЗКА Славянская, гречка и рожь, 800г",
+            "prices": {
+                "cost": 7999,
+                "costRegular": 10529,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 7999,
+                "priceRegular": 10529
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 15
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 7,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-altajjskaya-skazka-slavyanskaya-grechnevayarzhanayapp-menyu-rossiya-800g",
+            "storeId": 124,
+            "weight": {
+                "gross": 805,
+                "net": 0,
+                "package": "800г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-36%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 63,
+            "dimensions": {
+                "height": 150,
+                "length": 8,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 150593,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/150593/a9a159a7-9398-4e0f-ba68-339124ce0a13.png",
+                    "id": 641455,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/150593/a9a159a7-9398-4e0f-ba68-339124ce0a13.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/150593/a9a159a7-9398-4e0f-ba68-339124ce0a13.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/150593/a9a159a7-9398-4e0f-ba68-339124ce0a13.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/150593/a9a159a7-9398-4e0f-ba68-339124ce0a13.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/150593/9003ffff-b6b7-40b3-b49e-13144b25a438.png",
+                    "id": 641454,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/150593/9003ffff-b6b7-40b3-b49e-13144b25a438.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/150593/9003ffff-b6b7-40b3-b49e-13144b25a438.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/150593/9003ffff-b6b7-40b3-b49e-13144b25a438.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/150593/9003ffff-b6b7-40b3-b49e-13144b25a438.png"
+                }
+            ],
+            "name": "Смесь MAGGI На второе для гречки по-купечески, 41г",
+            "prices": {
+                "cost": 4699,
+                "costRegular": 7369,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 4699,
+                "priceRegular": 7369
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 63
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 63,
+                "minSaleQuantity": 1
+            },
+            "slug": "smes-na-vtoroe-maggi-dgrechki-rossiya-41g",
+            "storeId": 124,
+            "weight": {
+                "gross": 45,
+                "net": 0,
+                "package": "41г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 10,
+            "dimensions": {
+                "height": 137,
+                "length": 31,
+                "width": 187
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 599125,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/599125/f14cb989-b45a-411d-bf6c-c42e24399a90.png",
+                    "id": 555606,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/599125/f14cb989-b45a-411d-bf6c-c42e24399a90.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/599125/f14cb989-b45a-411d-bf6c-c42e24399a90.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/599125/f14cb989-b45a-411d-bf6c-c42e24399a90.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/599125/f14cb989-b45a-411d-bf6c-c42e24399a90.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/599125/1edc835c-3b25-4a8f-b1c9-479c09f6266e.png",
+                    "id": 691851,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/599125/1edc835c-3b25-4a8f-b1c9-479c09f6266e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/599125/1edc835c-3b25-4a8f-b1c9-479c09f6266e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/599125/1edc835c-3b25-4a8f-b1c9-479c09f6266e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/599125/1edc835c-3b25-4a8f-b1c9-479c09f6266e.png"
+                }
+            ],
+            "name": "Курица ВКУСНО ЖИТЬ с овощами и отварной гречкой, 250г",
+            "prices": {
+                "cost": 17499,
+                "costRegular": 18420,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 17499,
+                "priceRegular": 18420
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4,
+                "votes": 1
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 10,
+                "minSaleQuantity": 1
+            },
+            "slug": "kurica-vkusno-zhit-s-ovoshchami-i-otvarnojj-grechkojj-rossiya-250g",
+            "storeId": 124,
+            "weight": {
+                "gross": 311,
+                "net": 0,
+                "package": "250г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-11%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 30,
+            "dimensions": {
+                "height": 106,
+                "length": 53,
+                "width": 38
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 598310,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/598310/aa982c8b-3e59-41f6-a913-2f3836f69e4a.png",
+                    "id": 706501,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/598310/aa982c8b-3e59-41f6-a913-2f3836f69e4a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/598310/aa982c8b-3e59-41f6-a913-2f3836f69e4a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/598310/aa982c8b-3e59-41f6-a913-2f3836f69e4a.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/598310/aa982c8b-3e59-41f6-a913-2f3836f69e4a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/598310/33e029fc-d1af-4955-b204-cdcd1e4ad233.png",
+                    "id": 706500,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/598310/33e029fc-d1af-4955-b204-cdcd1e4ad233.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/598310/33e029fc-d1af-4955-b204-cdcd1e4ad233.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/598310/33e029fc-d1af-4955-b204-cdcd1e4ad233.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/598310/33e029fc-d1af-4955-b204-cdcd1e4ad233.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/598310/4c0ee47f-5441-4e1e-9625-efe7cd6e76df.png",
+                    "id": 706502,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/598310/4c0ee47f-5441-4e1e-9625-efe7cd6e76df.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/598310/4c0ee47f-5441-4e1e-9625-efe7cd6e76df.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/598310/4c0ee47f-5441-4e1e-9625-efe7cd6e76df.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/598310/4c0ee47f-5441-4e1e-9625-efe7cd6e76df.png"
+                }
+            ],
+            "name": "Суп-пюре овощной ФРУТОНЯНЯ с гречкой , с 6 месяцев, 200мл",
+            "prices": {
+                "cost": 5699,
+                "costRegular": 6410,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 5699,
+                "priceRegular": 6410
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.5,
+                "votes": 16
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 30,
+                "minSaleQuantity": 1
+            },
+            "slug": "detskoe-pitanie-pyure-frutonyanya-ovoshchnoe-grechnevyjj-sup-pyure-dpit-det-ran-vozrasta-s-6-mes-ros",
+            "storeId": 124,
+            "weight": {
+                "gross": 216,
+                "net": 0,
+                "package": "200мл"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-16%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 19,
+            "dimensions": {
+                "height": 25,
+                "length": 180,
+                "width": 60
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 667457,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/667457/16758eb1-8610-4684-9f6e-69eea878d790.png",
+                    "id": 562877,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/667457/16758eb1-8610-4684-9f6e-69eea878d790.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/667457/16758eb1-8610-4684-9f6e-69eea878d790.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/667457/16758eb1-8610-4684-9f6e-69eea878d790.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/667457/16758eb1-8610-4684-9f6e-69eea878d790.png"
+                }
+            ],
+            "name": "Печенье безглютеновое ЛЕНТА LIFE Гречневое, из зеленой гречки, 100г",
+            "prices": {
+                "cost": 9699,
+                "costRegular": 11579,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 9699,
+                "priceRegular": 11579
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 79
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 19,
+                "minSaleQuantity": 1
+            },
+            "slug": "pechene-lenta-life-bglyut-grechnevoe-zelenaya-grechka-rossiya-100g",
+            "storeId": 124,
+            "weight": {
+                "gross": 100,
+                "net": 0,
+                "package": "100г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 42,
+            "dimensions": {
+                "height": 56,
+                "length": 55,
+                "width": 55
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 633734,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/c7163f58-b0db-4de9-a689-6ba940bbac63.png",
+                    "id": 677321,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/c7163f58-b0db-4de9-a689-6ba940bbac63.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/c7163f58-b0db-4de9-a689-6ba940bbac63.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/c7163f58-b0db-4de9-a689-6ba940bbac63.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/c7163f58-b0db-4de9-a689-6ba940bbac63.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/3d075618-5ae2-4856-ab82-b54ee379a57e.png",
+                    "id": 677322,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/3d075618-5ae2-4856-ab82-b54ee379a57e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/3d075618-5ae2-4856-ab82-b54ee379a57e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/3d075618-5ae2-4856-ab82-b54ee379a57e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/3d075618-5ae2-4856-ab82-b54ee379a57e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/8188222f-3b41-4302-83ed-d2873464f415.png",
+                    "id": 677323,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/8188222f-3b41-4302-83ed-d2873464f415.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/8188222f-3b41-4302-83ed-d2873464f415.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/8188222f-3b41-4302-83ed-d2873464f415.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/8188222f-3b41-4302-83ed-d2873464f415.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/1404af10-0c2f-4ef2-8f14-461a599a698e.png",
+                    "id": 677324,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/1404af10-0c2f-4ef2-8f14-461a599a698e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/1404af10-0c2f-4ef2-8f14-461a599a698e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/1404af10-0c2f-4ef2-8f14-461a599a698e.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/1404af10-0c2f-4ef2-8f14-461a599a698e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/f0235710-fd35-4f41-9147-9ece031dc323.png",
+                    "id": 677325,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/f0235710-fd35-4f41-9147-9ece031dc323.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/f0235710-fd35-4f41-9147-9ece031dc323.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/f0235710-fd35-4f41-9147-9ece031dc323.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/f0235710-fd35-4f41-9147-9ece031dc323.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/5c5cb057-a2d2-49fa-b600-7db1ec1bcfab.png",
+                    "id": 677326,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/5c5cb057-a2d2-49fa-b600-7db1ec1bcfab.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/5c5cb057-a2d2-49fa-b600-7db1ec1bcfab.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/5c5cb057-a2d2-49fa-b600-7db1ec1bcfab.png",
+                    "position": 6,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/5c5cb057-a2d2-49fa-b600-7db1ec1bcfab.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/4b4618fe-9960-4738-ac36-53950f9ab9f5.png",
+                    "id": 677327,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/4b4618fe-9960-4738-ac36-53950f9ab9f5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/4b4618fe-9960-4738-ac36-53950f9ab9f5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/4b4618fe-9960-4738-ac36-53950f9ab9f5.png",
+                    "position": 7,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/4b4618fe-9960-4738-ac36-53950f9ab9f5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/633734/fd494b05-4621-4935-a07e-f0acab838cd1.png",
+                    "id": 677328,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/633734/fd494b05-4621-4935-a07e-f0acab838cd1.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/633734/fd494b05-4621-4935-a07e-f0acab838cd1.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/633734/fd494b05-4621-4935-a07e-f0acab838cd1.png",
+                    "position": 8,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/633734/fd494b05-4621-4935-a07e-f0acab838cd1.png"
+                }
+            ],
+            "name": "Пюре мясо-растительное ТЕМА Говядина с гречкой, с 8 месяцев, 90г",
+            "prices": {
+                "cost": 6989,
+                "costRegular": 7359,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 6989,
+                "priceRegular": 7359
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 13
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 42,
+                "minSaleQuantity": 1
+            },
+            "slug": "detskoe-pitanie-pyure-tema-s-govyadinojj-i-grechkojj-s-8-mes-rossiya-90g",
+            "storeId": 124,
+            "weight": {
+                "gross": 120,
+                "net": 0,
+                "package": "90г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 18,
+            "dimensions": {
+                "height": 70,
+                "length": 60,
+                "width": 60
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 349179,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/349179/fb78e71a-3c86-4c24-90a6-591b208b1ecb.png",
+                    "id": 836501,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/349179/fb78e71a-3c86-4c24-90a6-591b208b1ecb.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/349179/fb78e71a-3c86-4c24-90a6-591b208b1ecb.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/349179/fb78e71a-3c86-4c24-90a6-591b208b1ecb.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/349179/fb78e71a-3c86-4c24-90a6-591b208b1ecb.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/349179/d75d8126-d5cf-4aa5-b19c-52b42460b8c9.png",
+                    "id": 836502,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/349179/d75d8126-d5cf-4aa5-b19c-52b42460b8c9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/349179/d75d8126-d5cf-4aa5-b19c-52b42460b8c9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/349179/d75d8126-d5cf-4aa5-b19c-52b42460b8c9.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/349179/d75d8126-d5cf-4aa5-b19c-52b42460b8c9.png"
+                }
+            ],
+            "name": "Пюре мясо-растительное ФРУТОНЯНЯ Говядина с гречкой и морковью, с 8 месяцев, 100г",
+            "prices": {
+                "cost": 7499,
+                "costRegular": 7899,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 7499,
+                "priceRegular": 7899
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 9
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 18,
+                "minSaleQuantity": 1
+            },
+            "slug": "detskoe-pitanie-pyure-frutonyanya-iz-govyadiny-s-grechkojj-i-morkovyu-ddetejj-s-8-mes-stb-rossiya-10",
+            "storeId": 124,
+            "weight": {
+                "gross": 210,
+                "net": 0,
+                "package": "100г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-18%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 10,
+            "dimensions": {
+                "height": 110,
+                "length": 54,
+                "width": 40
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 262453,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/262453/d07e5a27-ac8a-482f-b441-5090773247b0.png",
+                    "id": 702181,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/262453/d07e5a27-ac8a-482f-b441-5090773247b0.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/262453/d07e5a27-ac8a-482f-b441-5090773247b0.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/262453/d07e5a27-ac8a-482f-b441-5090773247b0.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/262453/d07e5a27-ac8a-482f-b441-5090773247b0.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/262453/87d653f7-a120-4a13-bc72-0c8fe8b654bf.png",
+                    "id": 702180,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/262453/87d653f7-a120-4a13-bc72-0c8fe8b654bf.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/262453/87d653f7-a120-4a13-bc72-0c8fe8b654bf.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/262453/87d653f7-a120-4a13-bc72-0c8fe8b654bf.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/262453/87d653f7-a120-4a13-bc72-0c8fe8b654bf.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/262453/3991668a-cb37-43ba-8c69-0dd8c15afba0.png",
+                    "id": 702182,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/262453/3991668a-cb37-43ba-8c69-0dd8c15afba0.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/262453/3991668a-cb37-43ba-8c69-0dd8c15afba0.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/262453/3991668a-cb37-43ba-8c69-0dd8c15afba0.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/262453/3991668a-cb37-43ba-8c69-0dd8c15afba0.png"
+                }
+            ],
+            "name": "Кашка злаковая ФРУТОНЯНЯ молочная, гречка, кукуруза и рис с пребиотиками, с 6 месяцев, 200мл",
+            "prices": {
+                "cost": 4599,
+                "costRegular": 5624,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 4599,
+                "priceRegular": 5624
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 26
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 10,
+                "minSaleQuantity": 1
+            },
+            "slug": "detskoe-pitanie-kashka-frutonyanya-grechnevo-kukuruzno-risovaya-mol-zlak-6mes-rossiya-200ml",
+            "storeId": 124,
+            "weight": {
+                "gross": 224,
+                "net": 0,
+                "package": "200мл"
+            }
+        }
+    ],
+    "total": 37
+}

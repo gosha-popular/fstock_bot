@@ -1,0 +1,402 @@
+{
+    "query_type": "strict",
+    "products": [
+        {
+            "plu": 3443625,
+            "name": "Молоко Му-у ультрапастеризованное 3.2% БЗМЖ 925мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1172562-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.620Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1172562-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.620Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 15042
+            },
+            "promo": {
+                "rebate": {
+                    "units_to_activate": 4
+                }
+            },
+            "prices": {
+                "regular": "109.99",
+                "discount": null,
+                "cpd_promo_price": "99.99"
+            },
+            "labels": [
+                {
+                    "label": "% от 4 шт",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "925 мл",
+            "has_age_restriction": false,
+            "stock_limit": "102.00"
+        },
+        {
+            "plu": 2069612,
+            "name": "Молоко Красная Цена ультрапастеризованное 3.2% БЗМЖ 970мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1160137-main/320x320.jpeg?updated_at=2025-02-24T16:20:21.362Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1160137-main/800x800.jpeg?updated_at=2025-02-24T16:20:21.362Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 24874
+            },
+            "promo": null,
+            "prices": {
+                "regular": "84.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "33.00"
+        },
+        {
+            "plu": 3378621,
+            "name": "Молоко Красная Цена ультрапастеризованное 2.5% БЗМЖ 0.97л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1167751-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.527Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1167751-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.527Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 17207
+            },
+            "promo": null,
+            "prices": {
+                "regular": "79.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "45.00"
+        },
+        {
+            "plu": 3443624,
+            "name": "Молоко Му-у ультрапастеризованное 2.5% БЗМЖ 925мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1172561-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.492Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1172561-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.492Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 9604
+            },
+            "promo": null,
+            "prices": {
+                "regular": "114.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "925 мл",
+            "has_age_restriction": false,
+            "stock_limit": "114.00"
+        },
+        {
+            "plu": 4045383,
+            "name": "Молоко Простоквашино безлактозное ультрапастеризованное 1.5% БЗМЖ 0.97л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1203405-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.640Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1203405-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.640Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 5338
+            },
+            "promo": null,
+            "prices": {
+                "regular": "145.59",
+                "discount": "133.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-7%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "30.00"
+        },
+        {
+            "plu": 3485660,
+            "name": "Молоко С Нашей Фермы ультрапастеризованное 3.2% БЗМЖ 925мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1175971-main/320x320.jpeg?updated_at=2025-03-03T18:08:01.447Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1175971-main/800x800.jpeg?updated_at=2025-03-03T18:08:01.447Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 10010
+            },
+            "promo": null,
+            "prices": {
+                "regular": "111.99",
+                "discount": "99.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "925 мл",
+            "has_age_restriction": false,
+            "stock_limit": "338.00"
+        },
+        {
+            "plu": 3199747,
+            "name": "Молоко Домик в деревне ультрапастеризованное 2.5% БЗМЖ 950г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1163553-main/320x320.jpeg?updated_at=2025-03-05T14:47:24.443Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1163553-main/800x800.jpeg?updated_at=2025-03-05T14:47:24.443Z",
+                    "https://photos.okolo.app/product/e99c39082395a153455325b3fbc8dfea-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/5a964e4fcbb4eac3288a9c3cc991d7c9-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/d9f5a891b28d0bcf57a2f50619c81f5a-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/19226d0e8b60a328e89abaa923c9e856-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/c63b70c7b81d3289dc3f3de7accbc2ae-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 5711
+            },
+            "promo": null,
+            "prices": {
+                "regular": "113.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "950 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00"
+        },
+        {
+            "plu": 4308790,
+            "name": "Молоко Сарафаново безлактозное ультрапастеризованное 1.5% БЗМЖ 970мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1562032-main/320x320.jpeg?updated_at=2024-11-12T15:03:13.066Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1562032-main/800x800.jpeg?updated_at=2024-11-12T15:03:13.066Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 6055
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Без лактозы",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "22.00"
+        },
+        {
+            "plu": 37461,
+            "name": "Молоко М ультрапастеризованное 3.2% БЗМЖ 950г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158024-main/320x320.jpeg?updated_at=2025-02-24T12:45:57.194Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158024-main/800x800.jpeg?updated_at=2025-02-24T12:45:57.194Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 7056
+            },
+            "promo": null,
+            "prices": {
+                "regular": "114.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "950 мл",
+            "has_age_restriction": false,
+            "stock_limit": "73.00"
+        },
+        {
+            "plu": 3645808,
+            "name": "Молоко Сарафаново детское ультрапастеризованное 2.5% БЗМЖ 970мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1185380-main/320x320.jpeg?updated_at=2025-01-27T15:16:56.548Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1185380-main/800x800.jpeg?updated_at=2025-01-27T15:16:56.548Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 5993
+            },
+            "promo": null,
+            "prices": {
+                "regular": "124.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "36.00"
+        },
+        {
+            "plu": 70709,
+            "name": "Молоко Parmalat Natura Premium питьевое ультрапастеризованное 3.5% БЗМЖ 1л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158789-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.506Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158789-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.506Z",
+                    "https://photos.okolo.app/product/eba75664adfdc944f889018e17a981aa-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/bce32168b8633df194cbb4b0b4fcb934-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/4d2ca2d87c7f6400314fa31bc400f609-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/338b47898ca16a51d3135a5a642a8418-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/722266a68a2c4581c7db70e023573b66-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 4671
+            },
+            "promo": null,
+            "prices": {
+                "regular": "139.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 л",
+            "has_age_restriction": false,
+            "stock_limit": "92.00"
+        },
+        {
+            "plu": 3922312,
+            "name": "Молоко ЭкоНива ультрапастеризованное 3.2% БЗМЖ 1л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1194303-main/320x320.jpeg?updated_at=2025-03-03T18:08:01.136Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1194303-main/800x800.jpeg?updated_at=2025-03-03T18:08:01.136Z",
+                    "https://photos.okolo.app/product/fc0ae373b867fcf568d57dfa6a692e90-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/efeb6cfdb4fba3bec431143e646930c7-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/959e94ccf2b6efbdf939d0b403502e81-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/bde6d8e204a8dc16f1a637196ea98a88-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/292f3128020d518b0e7cc58650767815-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/b910b7b0c7cb8f8133311792fdbcbb8d-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/65a65975d92fbdf3e71a0787600d8c0c-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/50efe35c591bd10d562978aac4501cd9-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 4992
+            },
+            "promo": null,
+            "prices": {
+                "regular": "117.59",
+                "discount": "104.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "1 л",
+            "has_age_restriction": false,
+            "stock_limit": "62.00"
+        }
+    ],
+    "categories": [
+        {
+            "id": "251C13165",
+            "type": "subcategory",
+            "name": "Молоко",
+            "parent_name": "Молоко, сметана"
+        }
+    ]
+}

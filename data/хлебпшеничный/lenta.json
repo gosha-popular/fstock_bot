@@ -1,0 +1,1481 @@
+{
+    "categories": [
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20555,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Хлеб и выпечка",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "hleb-i-vypechka"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/807/icon/ce2bd95758c3b7b4.png",
+            "id": 807,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/807/image/afa82b7eae1038b3.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/807/image_web/b3bf0d5982fa5898.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Батон, хлеб, лаваш",
+            "parentId": 165,
+            "parentName": "Хлеб и выпечка",
+            "slug": "baton-hleb-lavash"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/818/icon/8e0a4826fc9e58b2.png",
+            "id": 818,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/818/image/7c112b3cb1c3c580.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/818/image_web/58b2cb83d96b21fa.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Пекарня ЛЕНТА FRESH",
+            "parentId": 165,
+            "parentName": "Хлеб и выпечка",
+            "slug": "pekarnya-lenta-fresh"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19208/icon/cc07917f88640765.png",
+            "id": 19208,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19208/image/f727b6c09cbc1316.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19208/image_web/663fee636ec34394.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Кулинария и пекарня Ленты",
+            "parentId": 18359,
+            "parentName": "Только в Ленте",
+            "slug": "kulinariya-i-pekarnya-lenty"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20497,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Приготовлено в Ленте",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "prigotovleno-v-lente"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20577,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Снеки и орехи",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "sneki-i-orehi"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/836/icon/b3288fb48f58538a.png",
+            "id": 836,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/836/image/c04dfb25562180b6.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/836/image_web/71145f401b8fe5b7.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Хлебцы, выпечка, сушки",
+            "parentId": 165,
+            "parentName": "Хлеб и выпечка",
+            "slug": "hlebcy-vypechka-sushki"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20197/icon/9a2787b781da89e4.png",
+            "id": 20197,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20197/image/4f2d4f622bcede87.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20197/image_web/f3d0894e06e0f299.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сухарики, гренки",
+            "parentId": 20195,
+            "parentName": "Снеки",
+            "slug": "suhariki-grenki"
+        },
+        {
+            "badges": [],
+            "hasChildren": false,
+            "iconUrl": "",
+            "id": 20688,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Снеки",
+            "parentId": 19305,
+            "parentName": "Новинки",
+            "slug": "sneki"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20697,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Чипсы, сухарики и другие снеки со скидками до 45%",
+            "parentId": 1893,
+            "parentName": "Особенно выгодно",
+            "slug": "chipsy-suhariki-i-drugie-sneki-so-skidkami-do-45"
+        }
+    ],
+    "filters": {
+        "checkbox": [],
+        "multicheckbox": [
+            {
+                "attributeId": 238,
+                "key": "brand",
+                "name": "Бренд",
+                "position": 1,
+                "slug": "brand",
+                "total": 13,
+                "values": [
+                    {
+                        "id": 10962909,
+                        "selected": false,
+                        "slug": "lenta-fresh",
+                        "total": 4,
+                        "value": "ЛЕНТА FRESH"
+                    },
+                    {
+                        "id": 10856262,
+                        "selected": false,
+                        "slug": "kolomenskoe",
+                        "total": 2,
+                        "value": "КОЛОМЕНСКОЕ"
+                    },
+                    {
+                        "id": 11136190,
+                        "selected": false,
+                        "slug": "rizhskijj-hleb",
+                        "total": 2,
+                        "value": "РИЖСКИЙ ХЛЕБ"
+                    },
+                    {
+                        "id": 11264687,
+                        "selected": false,
+                        "slug": "hrusteam",
+                        "total": 2,
+                        "value": "ХРУСTEAM"
+                    },
+                    {
+                        "id": 13377006,
+                        "selected": false,
+                        "slug": "harrys",
+                        "total": 1,
+                        "value": "HARRY'S"
+                    },
+                    {
+                        "id": 11061892,
+                        "selected": false,
+                        "slug": "danilovskijj",
+                        "total": 1,
+                        "value": "ДАНИЛОВСКИЙ"
+                    },
+                    {
+                        "id": 11137724,
+                        "selected": false,
+                        "slug": "shchelkovohleb",
+                        "total": 1,
+                        "value": "ЩЕЛКОВОХЛЕБ"
+                    }
+                ]
+            },
+            {
+                "attributeId": 303,
+                "key": "attribute_303",
+                "name": "Вес",
+                "position": 2,
+                "slug": "ves",
+                "total": 12,
+                "values": [
+                    {
+                        "id": 1480792006,
+                        "selected": false,
+                        "slug": "300",
+                        "total": 6,
+                        "value": "300"
+                    },
+                    {
+                        "id": 1480815981,
+                        "selected": false,
+                        "slug": "10",
+                        "total": 1,
+                        "value": "10"
+                    },
+                    {
+                        "id": 1480914695,
+                        "selected": false,
+                        "slug": "12",
+                        "total": 1,
+                        "value": "12"
+                    },
+                    {
+                        "id": 1480802427,
+                        "selected": false,
+                        "slug": "55",
+                        "total": 1,
+                        "value": "55"
+                    },
+                    {
+                        "id": 1480791843,
+                        "selected": false,
+                        "slug": "60",
+                        "total": 1,
+                        "value": "60"
+                    },
+                    {
+                        "id": 1480839679,
+                        "selected": false,
+                        "slug": "310",
+                        "total": 1,
+                        "value": "310"
+                    },
+                    {
+                        "id": 1480791362,
+                        "selected": false,
+                        "slug": "350",
+                        "total": 1,
+                        "value": "350"
+                    }
+                ]
+            },
+            {
+                "attributeId": 3,
+                "key": "attribute_3",
+                "name": "Начинка/Добавки",
+                "position": 3,
+                "slug": "nachinkadobavki",
+                "total": 2,
+                "values": [
+                    {
+                        "id": 6909703,
+                        "selected": false,
+                        "slug": "otrubi",
+                        "total": 1,
+                        "value": "Отруби"
+                    },
+                    {
+                        "id": 7894953,
+                        "selected": false,
+                        "slug": "",
+                        "total": 1,
+                        "value": "Солод"
+                    }
+                ]
+            },
+            {
+                "attributeId": 190,
+                "key": "attribute_190",
+                "name": "Вкус",
+                "position": 4,
+                "slug": "vkus",
+                "total": 2,
+                "values": [
+                    {
+                        "id": 1353545894,
+                        "selected": false,
+                        "slug": "krasnaya-ikra",
+                        "total": 1,
+                        "value": "Красная икра"
+                    },
+                    {
+                        "id": 1392130363,
+                        "selected": false,
+                        "slug": "mocarella",
+                        "total": 1,
+                        "value": "Моцарелла"
+                    }
+                ]
+            },
+            {
+                "attributeId": 235,
+                "key": "attribute_235",
+                "name": "Страна",
+                "position": 5,
+                "slug": "strana",
+                "total": 13,
+                "values": [
+                    {
+                        "id": 10720646,
+                        "selected": false,
+                        "slug": "rossiya",
+                        "total": 13,
+                        "value": "Россия"
+                    }
+                ]
+            }
+        ],
+        "range": []
+    },
+    "items": [
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 13,
+            "dimensions": {
+                "height": 75,
+                "length": 70,
+                "width": 140
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 371720,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/371720/3124edaf-c540-4e35-bdb9-9d7ab522095d.png",
+                    "id": 875900,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/371720/3124edaf-c540-4e35-bdb9-9d7ab522095d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/371720/3124edaf-c540-4e35-bdb9-9d7ab522095d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/371720/3124edaf-c540-4e35-bdb9-9d7ab522095d.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/371720/3124edaf-c540-4e35-bdb9-9d7ab522095d.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/371720/3a987be3-91c6-4d0b-8b7f-2671b5be4b01.png",
+                    "id": 875899,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/371720/3a987be3-91c6-4d0b-8b7f-2671b5be4b01.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/371720/3a987be3-91c6-4d0b-8b7f-2671b5be4b01.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/371720/3a987be3-91c6-4d0b-8b7f-2671b5be4b01.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/371720/3a987be3-91c6-4d0b-8b7f-2671b5be4b01.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/371720/1132c71f-4a65-40a3-bc15-31814178bd4b.png",
+                    "id": 875901,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/371720/1132c71f-4a65-40a3-bc15-31814178bd4b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/371720/1132c71f-4a65-40a3-bc15-31814178bd4b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/371720/1132c71f-4a65-40a3-bc15-31814178bd4b.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/371720/1132c71f-4a65-40a3-bc15-31814178bd4b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/371720/40b91475-caea-4567-af0a-1423fb36513b.png",
+                    "id": 826957,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/371720/40b91475-caea-4567-af0a-1423fb36513b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/371720/40b91475-caea-4567-af0a-1423fb36513b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/371720/40b91475-caea-4567-af0a-1423fb36513b.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/371720/40b91475-caea-4567-af0a-1423fb36513b.png"
+                }
+            ],
+            "name": "Хлеб ржано-пшеничный формовой РИЖСКИЙ ХЛЕБ Бородинский, бездрожжевой, 300г",
+            "prices": {
+                "cost": 8799,
+                "costRegular": 9263,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 8799,
+                "priceRegular": 9263
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 80
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 13,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-rizhskijj-hleb-borodinskijj-formovojj-iz-smesi-rzhi-pshenichmuki-bdrozhzh-rossiya-300g",
+            "storeId": 124,
+            "weight": {
+                "gross": 300,
+                "net": 0,
+                "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 98,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 640330,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/640330/a838e4af-4ec2-4695-9511-3135174fc516.png",
+                    "id": 886978,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/640330/a838e4af-4ec2-4695-9511-3135174fc516.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/640330/a838e4af-4ec2-4695-9511-3135174fc516.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/640330/a838e4af-4ec2-4695-9511-3135174fc516.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/640330/a838e4af-4ec2-4695-9511-3135174fc516.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/640330/3ffc9e53-abd5-4537-9549-3a351251edd4.png",
+                    "id": 886979,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/640330/3ffc9e53-abd5-4537-9549-3a351251edd4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/640330/3ffc9e53-abd5-4537-9549-3a351251edd4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/640330/3ffc9e53-abd5-4537-9549-3a351251edd4.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/640330/3ffc9e53-abd5-4537-9549-3a351251edd4.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/640330/1909b9aa-f348-4a95-a84b-8052516257ae.png",
+                    "id": 886980,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/640330/1909b9aa-f348-4a95-a84b-8052516257ae.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/640330/1909b9aa-f348-4a95-a84b-8052516257ae.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/640330/1909b9aa-f348-4a95-a84b-8052516257ae.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/640330/1909b9aa-f348-4a95-a84b-8052516257ae.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/640330/bc86c46c-59f1-4aa8-b36a-b13e816a6590.png",
+                    "id": 886981,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/640330/bc86c46c-59f1-4aa8-b36a-b13e816a6590.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/640330/bc86c46c-59f1-4aa8-b36a-b13e816a6590.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/640330/bc86c46c-59f1-4aa8-b36a-b13e816a6590.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/640330/bc86c46c-59f1-4aa8-b36a-b13e816a6590.png"
+                }
+            ],
+            "name": "Хлеб пшенично-ржаной бездрожжевой ЛЕНТА FRESH, 300г",
+            "prices": {
+                "cost": 7499,
+                "costRegular": 7894,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 7499,
+                "priceRegular": 7894
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 1100
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 98,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-pshenichno-rzhanojj-bezdrozhzhevojj-sp-lenta-fresh-rossiya-300g",
+            "storeId": 124,
+            "weight": {
+                "gross": 300,
+                "net": 0,
+                "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 9,
+            "dimensions": {
+                "height": 90,
+                "length": 190,
+                "width": 120
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 678385,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/678385/bf64c4a0-da61-4d17-8e5a-7b2069d3392f.png",
+                    "id": 823242,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/678385/bf64c4a0-da61-4d17-8e5a-7b2069d3392f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/678385/bf64c4a0-da61-4d17-8e5a-7b2069d3392f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/678385/bf64c4a0-da61-4d17-8e5a-7b2069d3392f.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/678385/bf64c4a0-da61-4d17-8e5a-7b2069d3392f.png"
+                }
+            ],
+            "name": "Хлеб ржано-пшеничный КОЛОМЕНСКОЕ ДАНИЛОВСКИЙ бездрожжевой, в нарезке, \r\n350г",
+            "prices": {
+                "cost": 7599,
+                "costRegular": 7999,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 7599,
+                "priceRegular": 7999
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 48
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 9,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-danilovskijj-rzhano-pshenichnyjj-bezdrozh-nar-rossiya-350g",
+            "storeId": 124,
+            "weight": {
+                "gross": 355,
+                "net": 0,
+                "package": "350г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 8,
+            "dimensions": {
+                "height": 90,
+                "length": 90,
+                "width": 180
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 351865,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/351865/dc799e8d-0fa7-4419-9cde-4e099c55f73d.png",
+                    "id": 729296,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/351865/dc799e8d-0fa7-4419-9cde-4e099c55f73d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/351865/dc799e8d-0fa7-4419-9cde-4e099c55f73d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/351865/dc799e8d-0fa7-4419-9cde-4e099c55f73d.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/351865/dc799e8d-0fa7-4419-9cde-4e099c55f73d.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/351865/44b73465-7d04-4c16-8252-d43dac1a06af.png",
+                    "id": 729295,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/351865/44b73465-7d04-4c16-8252-d43dac1a06af.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/351865/44b73465-7d04-4c16-8252-d43dac1a06af.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/351865/44b73465-7d04-4c16-8252-d43dac1a06af.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/351865/44b73465-7d04-4c16-8252-d43dac1a06af.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/351865/e0c89c9e1e9efdfe.png",
+                    "id": 57281,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/351865/e0c89c9e1e9efdfe.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/351865/e0c89c9e1e9efdfe.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/351865/e0c89c9e1e9efdfe.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/351865/e0c89c9e1e9efdfe.png"
+                }
+            ],
+            "name": "Хлеб ржано-пшеничный подовый РИЖСКИЙ ХЛЕБ Ароматный, по старым рецептам, заварной бездрожжевой, 300г",
+            "prices": {
+                "cost": 6999,
+                "costRegular": 7369,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 6999,
+                "priceRegular": 7369
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 55
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 8,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-rizhskijj-hleb-aromatnyjj-pod-po-starrec-iz-smesi-rzhi-pshmuki-zavar-bdrozh-rossiya-300g",
+            "storeId": 124,
+            "weight": {
+                "gross": 300,
+                "net": 0,
+                "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 3,
+            "dimensions": {
+                "height": 100,
+                "length": 130,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 732234,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/732234/3ddd39e6-4a92-4f55-8d27-6b9007f5a79b.png",
+                    "id": 875976,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/732234/3ddd39e6-4a92-4f55-8d27-6b9007f5a79b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/732234/3ddd39e6-4a92-4f55-8d27-6b9007f5a79b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/732234/3ddd39e6-4a92-4f55-8d27-6b9007f5a79b.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/732234/3ddd39e6-4a92-4f55-8d27-6b9007f5a79b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/732234/5f3928e0-fa9d-468a-8d43-c87a422b21d3.png",
+                    "id": 875975,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/732234/5f3928e0-fa9d-468a-8d43-c87a422b21d3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/732234/5f3928e0-fa9d-468a-8d43-c87a422b21d3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/732234/5f3928e0-fa9d-468a-8d43-c87a422b21d3.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/732234/5f3928e0-fa9d-468a-8d43-c87a422b21d3.png"
+                }
+            ],
+            "name": "Хлеб ржано-пшеничный ЩЕЛКОВОХЛЕБ Первохлеб, в нарезке, 310г",
+            "prices": {
+                "cost": 4499,
+                "costRegular": 4739,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 4499,
+                "priceRegular": 4739
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 0,
+                "votes": 0
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 3,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-shchelkovohleb-rzhano-pshenichnyjj-pervohleb-nar-up-rossiya-310g",
+            "storeId": 124,
+            "weight": {
+                "gross": 315,
+                "net": 0,
+                "package": "310г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 535638,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535638/815e704c-8644-4090-a15a-5c3b3bb6e027.png",
+                    "id": 886901,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535638/815e704c-8644-4090-a15a-5c3b3bb6e027.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535638/815e704c-8644-4090-a15a-5c3b3bb6e027.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535638/815e704c-8644-4090-a15a-5c3b3bb6e027.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535638/815e704c-8644-4090-a15a-5c3b3bb6e027.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535638/b7f3e5fc-ade6-4215-92b0-fc2419f46492.png",
+                    "id": 886902,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535638/b7f3e5fc-ade6-4215-92b0-fc2419f46492.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535638/b7f3e5fc-ade6-4215-92b0-fc2419f46492.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535638/b7f3e5fc-ade6-4215-92b0-fc2419f46492.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535638/b7f3e5fc-ade6-4215-92b0-fc2419f46492.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535638/6df2d55a-310b-4dbe-b762-e42264d278ea.png",
+                    "id": 886903,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535638/6df2d55a-310b-4dbe-b762-e42264d278ea.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535638/6df2d55a-310b-4dbe-b762-e42264d278ea.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535638/6df2d55a-310b-4dbe-b762-e42264d278ea.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535638/6df2d55a-310b-4dbe-b762-e42264d278ea.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535638/a8cc123d-4434-4156-8f15-cd724b5be252.png",
+                    "id": 886904,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535638/a8cc123d-4434-4156-8f15-cd724b5be252.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535638/a8cc123d-4434-4156-8f15-cd724b5be252.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535638/a8cc123d-4434-4156-8f15-cd724b5be252.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535638/a8cc123d-4434-4156-8f15-cd724b5be252.png"
+                }
+            ],
+            "name": "Багет пшеничный ЛЕНТА FRESH Деревенский, на закваске, 300г",
+            "prices": {
+                "cost": 7999,
+                "costRegular": 8429,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 7999,
+                "priceRegular": 8429
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 550
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "baget-derevenskijj-pshenichnyjj-na-zakvaske-sp-lenta-fresh-rossiya-300g",
+            "storeId": 124,
+            "weight": {
+                "gross": 300,
+                "net": 0,
+                "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 20,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 535666,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535666/11b3322d-941a-45dd-a82d-297a67cc0948.png",
+                    "id": 886909,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535666/11b3322d-941a-45dd-a82d-297a67cc0948.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535666/11b3322d-941a-45dd-a82d-297a67cc0948.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535666/11b3322d-941a-45dd-a82d-297a67cc0948.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535666/11b3322d-941a-45dd-a82d-297a67cc0948.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535666/4f01ab4e-0f6d-4415-812b-6156a5b1fbb6.png",
+                    "id": 886910,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535666/4f01ab4e-0f6d-4415-812b-6156a5b1fbb6.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535666/4f01ab4e-0f6d-4415-812b-6156a5b1fbb6.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535666/4f01ab4e-0f6d-4415-812b-6156a5b1fbb6.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535666/4f01ab4e-0f6d-4415-812b-6156a5b1fbb6.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535666/e1dc6bd0-50e8-4291-bfa5-c4c47c7ddfb9.png",
+                    "id": 886911,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535666/e1dc6bd0-50e8-4291-bfa5-c4c47c7ddfb9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535666/e1dc6bd0-50e8-4291-bfa5-c4c47c7ddfb9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535666/e1dc6bd0-50e8-4291-bfa5-c4c47c7ddfb9.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535666/e1dc6bd0-50e8-4291-bfa5-c4c47c7ddfb9.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/535666/b4c98169-6636-4e3c-ad01-c36092b8e509.png",
+                    "id": 886912,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/535666/b4c98169-6636-4e3c-ad01-c36092b8e509.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/535666/b4c98169-6636-4e3c-ad01-c36092b8e509.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/535666/b4c98169-6636-4e3c-ad01-c36092b8e509.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/535666/b4c98169-6636-4e3c-ad01-c36092b8e509.png"
+                }
+            ],
+            "name": "Багет ржано-пшеничный ЛЕНТА FRESH Деревенский, на закваске, весовой",
+            "prices": {
+                "cost": 27799,
+                "costRegular": 29263,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 8340,
+                "priceRegular": 8779
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 419
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 20,
+                "minSaleQuantity": 1
+            },
+            "slug": "baget-derevenskijj-rzhano-pshenichnyjj-na-zakvaske-ves-sp-lenta-fresh-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 300,
+                "net": 300,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 9,
+            "dimensions": {
+                "height": 120,
+                "length": 100,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 628272,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/628272/4ce0fd87-a330-429e-bf91-01a22f7db2a5.png",
+                    "id": 825478,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/628272/4ce0fd87-a330-429e-bf91-01a22f7db2a5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/628272/4ce0fd87-a330-429e-bf91-01a22f7db2a5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/628272/4ce0fd87-a330-429e-bf91-01a22f7db2a5.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/628272/4ce0fd87-a330-429e-bf91-01a22f7db2a5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/628272/c4b5f4ee-3964-44bf-865c-b764140997af.png",
+                    "id": 640570,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/628272/c4b5f4ee-3964-44bf-865c-b764140997af.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/628272/c4b5f4ee-3964-44bf-865c-b764140997af.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/628272/c4b5f4ee-3964-44bf-865c-b764140997af.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/628272/c4b5f4ee-3964-44bf-865c-b764140997af.png"
+                }
+            ],
+            "name": "Хлеб пшеничный КОЛОМЕНСКОЕ Тостовый, 320г",
+            "prices": {
+                "cost": 6699,
+                "costRegular": 7059,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 6699,
+                "priceRegular": 7059
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 78
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 9,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-kolomenskoe-tostovyjj-pshenichnyjj-rossiya-320g",
+            "storeId": 124,
+            "weight": {
+                "gross": 330,
+                "net": 0,
+                "package": "320г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 49,
+            "dimensions": {
+                "height": 140,
+                "length": 130,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 27224,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/27224/430d920e-1539-4a4d-ab08-2082b3c94c46.png",
+                    "id": 823234,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/27224/430d920e-1539-4a4d-ab08-2082b3c94c46.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/27224/430d920e-1539-4a4d-ab08-2082b3c94c46.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/27224/430d920e-1539-4a4d-ab08-2082b3c94c46.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/27224/430d920e-1539-4a4d-ab08-2082b3c94c46.png"
+                }
+            ],
+            "name": "Хлеб пшеничный HARRY'S Аmerican sandwich, 470г",
+            "prices": {
+                "cost": 11999,
+                "costRegular": 12631,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 11999,
+                "priceRegular": 12631
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 267
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 49,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-harrys-american-sandwich-pshenichnyjj-rossiya-470g",
+            "storeId": 124,
+            "weight": {
+                "gross": 480,
+                "net": 0,
+                "package": "470г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 360541,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/360541/82b8fe01-741a-48e6-8899-1b3756e995ed.png",
+                    "id": 763041,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/360541/82b8fe01-741a-48e6-8899-1b3756e995ed.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/360541/82b8fe01-741a-48e6-8899-1b3756e995ed.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/360541/82b8fe01-741a-48e6-8899-1b3756e995ed.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/360541/82b8fe01-741a-48e6-8899-1b3756e995ed.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/360541/f1111460-ca1d-49d1-be08-18d3f71764f5.png",
+                    "id": 763040,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/360541/f1111460-ca1d-49d1-be08-18d3f71764f5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/360541/f1111460-ca1d-49d1-be08-18d3f71764f5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/360541/f1111460-ca1d-49d1-be08-18d3f71764f5.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/360541/f1111460-ca1d-49d1-be08-18d3f71764f5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/360541/08e45e1c-9137-47fd-8fbb-136ed15eb936.png",
+                    "id": 763042,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/360541/08e45e1c-9137-47fd-8fbb-136ed15eb936.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/360541/08e45e1c-9137-47fd-8fbb-136ed15eb936.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/360541/08e45e1c-9137-47fd-8fbb-136ed15eb936.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/360541/08e45e1c-9137-47fd-8fbb-136ed15eb936.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/360541/f0a188f6-d8ce-410c-a9c1-af754a3eeb29.png",
+                    "id": 756236,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/360541/f0a188f6-d8ce-410c-a9c1-af754a3eeb29.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/360541/f0a188f6-d8ce-410c-a9c1-af754a3eeb29.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/360541/f0a188f6-d8ce-410c-a9c1-af754a3eeb29.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/360541/f0a188f6-d8ce-410c-a9c1-af754a3eeb29.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/360541/894c098a-a0f3-49a6-913d-1edad39f155b.png",
+                    "id": 756237,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/360541/894c098a-a0f3-49a6-913d-1edad39f155b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/360541/894c098a-a0f3-49a6-913d-1edad39f155b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/360541/894c098a-a0f3-49a6-913d-1edad39f155b.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/360541/894c098a-a0f3-49a6-913d-1edad39f155b.png"
+                }
+            ],
+            "name": "Хлеб пшеничный ЛЕНТА FRESH на опаре, 300г",
+            "prices": {
+                "cost": 3499,
+                "costRegular": 3684,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 3499,
+                "priceRegular": 3684
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.6,
+                "votes": 1366
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-pshenichnyjj-na-opare-sp-lenta-fresh-rossiya-300g",
+            "storeId": 124,
+            "weight": {
+                "gross": 300,
+                "net": 0,
+                "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#00c9c9",
+                        "title": "+видео",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 14,
+            "dimensions": {
+                "height": 70,
+                "length": 120,
+                "width": 90
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 465686,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/465686/1645c4e4-5548-4517-a97b-de59a025ac86.png",
+                    "id": 641537,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/465686/1645c4e4-5548-4517-a97b-de59a025ac86.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/465686/1645c4e4-5548-4517-a97b-de59a025ac86.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/465686/1645c4e4-5548-4517-a97b-de59a025ac86.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/465686/1645c4e4-5548-4517-a97b-de59a025ac86.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/465686/d0f0f08488b89ce0.png",
+                    "id": 105738,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/465686/d0f0f08488b89ce0.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/465686/d0f0f08488b89ce0.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/465686/d0f0f08488b89ce0.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/465686/d0f0f08488b89ce0.png"
+                }
+            ],
+            "name": "Батон пшеничный КОЛОМЕНСКОЕ с отрубями, 300г",
+            "prices": {
+                "cost": 6299,
+                "costRegular": 7369,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6299,
+                "priceRegular": 7369
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 2
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 14,
+                "minSaleQuantity": 1
+            },
+            "slug": "baton-kolomenskoe-pshenichnyjj-s-otrubyami-v-up-rossiya-300g",
+            "storeId": 124,
+            "weight": {
+                "gross": 305,
+                "net": 0,
+                "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-19%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 62,
+            "dimensions": {
+                "height": 220,
+                "length": 40,
+                "width": 133
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 598781,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/598781/aa6ffc7d-b546-4942-95ef-4e97cef06ff6.png",
+                    "id": 704493,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/598781/aa6ffc7d-b546-4942-95ef-4e97cef06ff6.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/598781/aa6ffc7d-b546-4942-95ef-4e97cef06ff6.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/598781/aa6ffc7d-b546-4942-95ef-4e97cef06ff6.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/598781/aa6ffc7d-b546-4942-95ef-4e97cef06ff6.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/598781/c5e4b5ed-c9d2-4667-a1ac-04fd86646f88.png",
+                    "id": 704494,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/598781/c5e4b5ed-c9d2-4667-a1ac-04fd86646f88.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/598781/c5e4b5ed-c9d2-4667-a1ac-04fd86646f88.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/598781/c5e4b5ed-c9d2-4667-a1ac-04fd86646f88.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/598781/c5e4b5ed-c9d2-4667-a1ac-04fd86646f88.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/598781/1468e0bd-317d-4278-8b47-888cd99c44a5.png",
+                    "id": 284688,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/598781/1468e0bd-317d-4278-8b47-888cd99c44a5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/598781/1468e0bd-317d-4278-8b47-888cd99c44a5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/598781/1468e0bd-317d-4278-8b47-888cd99c44a5.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/598781/1468e0bd-317d-4278-8b47-888cd99c44a5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/598781/8d8ed8a8-ab56-4b22-a615-c7437716e187.png",
+                    "id": 284725,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/598781/8d8ed8a8-ab56-4b22-a615-c7437716e187.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/598781/8d8ed8a8-ab56-4b22-a615-c7437716e187.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/598781/8d8ed8a8-ab56-4b22-a615-c7437716e187.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/598781/8d8ed8a8-ab56-4b22-a615-c7437716e187.png"
+                }
+            ],
+            "name": "Сухарики пшеничные ХРУСTEAM Багет Красная икра, 60г",
+            "prices": {
+                "cost": 5990,
+                "costRegular": 7368,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 5990,
+                "priceRegular": 7368
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.5,
+                "votes": 44
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 62,
+                "minSaleQuantity": 1
+            },
+            "slug": "suhariki-hrusteam-baget-krasnaya-ikra-340047278-rossiya-60g",
+            "storeId": 124,
+            "weight": {
+                "gross": 62,
+                "net": 0,
+                "package": "60г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 3,
+            "dimensions": {
+                "height": 215,
+                "length": 38,
+                "width": 133
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 722940,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722940/33b22fa7-ffc2-4c07-9434-e670901990a2.png",
+                    "id": 826509,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722940/33b22fa7-ffc2-4c07-9434-e670901990a2.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722940/33b22fa7-ffc2-4c07-9434-e670901990a2.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722940/33b22fa7-ffc2-4c07-9434-e670901990a2.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722940/33b22fa7-ffc2-4c07-9434-e670901990a2.png"
+                }
+            ],
+            "name": "Сухарики пшеничные ХРУСTEAM Чиабатта, со вкусом Моцарелла и соус Песто, воздушные, 55г",
+            "prices": {
+                "cost": 6999,
+                "costRegular": 7368,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 6999,
+                "priceRegular": 7368
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 3.8,
+                "votes": 16
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 3,
+                "minSaleQuantity": 1
+            },
+            "slug": "suhariki-hrusteam-chiabatta-vozd-so-vk-mocarella-i-sous-pesto-rossiya-55g",
+            "storeId": 124,
+            "weight": {
+                "gross": 57,
+                "net": 0,
+                "package": "55г"
+            }
+        }
+    ],
+    "total": 13
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://lenta.com/api-gateway/v1/catalog/items",
+    "headers": {
+        "Accept": "application/json",
+        "Accept-Language": "ru,en;q=0.9,bg;q=0.8",
+        "Connection": "keep-alive",
+        "Content-Type": "application/json",
+        "DeviceID": "5a72162e-cc73-2b41-b89e-f441b9be2755",
+        "Experiments": "exp_recommendation_cms.true, exp_apigw_purchase.test, exp_lentapay.test, exp_omni_price.test, exp_profile_bell.test, exp_newui_cancel_order.test, exp_newui_history_active_action.test_stars, exp_comment_picker_and_courier.test, exp_general_editing_page.test, exp_cl_omni_support.test, exp_cl_omni_authorization.test, exp_onboarding_sbp.default, exp_fullscreen.test, exp_profile_login.false, exp_new_notifications_show_unauthorized.test, exp_assembly_cost_location.cart, exp_search_bottom.default, exp_onboarding_editing_order.test, exp_cart_new_carousel.default, exp_newui_cart_cancel_editing.test, exp_newui_cart_button.test, exp_new_promov3., exp_sbp_enabled.test, exp_new_my_goods.test, exp_ui_catalog.test, exp_search_out_of_stock.default, exp_profile_settings_email.default, exp_cl_omni_refusalprintreceipts.test, exp_cl_omni_refusalprintcoupons.test, exp_accrual_history.test, exp_personal_recommendations.test_B, exp_newui_chips.test, exp_loyalty_categories.test, exp_growthbooks_aa.OFF, exp_test_ch_web.def, exp_search_suggestions_popular_sku.default, exp_cancel_subscription.test_2, exp_manage_subscription.control, exp_cl_new_csi.default, exp_cl_new_csat.default, exp_delivery_price_info.default, exp_personal_promo_navigation.test, exp_web_feature_test.false, exp_interval_jump.control, exp_cardOne_promo_type.test, exp_qr_cnc.test, exp_popup_about_order.test, exp_apigw_recommendations.test, exp_where_place_cnc.test, exp_editing_cnc_onboarding.default, exp_editing_cnc.default, exp_selection_carousel.test, exp_pickup_in_delivery.false, exp_feature_kpp_test.false, exp_welcome_onboarding.default, exp_cl_new_splash.default, exp_web_referral_program_type.default, exp_where_place_new.default, exp_start_page.default, exp_promocode_bd_coupon.default, exp_personal_promo_swipe_animation.default, exp_default_payment_type.default, exp_main_page_carousel_vs_banner.default, exp_start_page_onboarding.default, exp_newui_cart_check_edit.default, exp_search_new_logic.default, exp_search_ds_pers_similar.default, exp_growthbooks_aa_id_based_feature.control, exp_referral_program_type.default, exp_my_choice_search.default, exp_items_by_rating.default, exp_can_accept_early.default, exp_test_gb_value.false, exp_online_subscription.default, exp_new_nps_keyboard.test, exp_main_page_carousel_vs_banner_shop.default, exp_bathcing.default, exp_web_qr_cnc.default, exp_hide_cash_payment_for_cnc_wo_adult_items.default, exp_web_promocode_bd_coupon.default, exp_prices_per_quantum.test, exp_test.default123, exp_web_partner_coupons_separately.default",
+        "Origin": "https://lenta.com",
+        "Referer": "https://lenta.com/search/%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%20180%D0%B3/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+        "SessionToken": "52E582EA7DD1B6555F5704DE2E6D43DF",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36",
+        "X-Delivery-Mode": "pickup",
+        "X-Device-Brand": "",
+        "X-Device-ID": "5a72162e-cc73-2b41-b89e-f441b9be2755",
+        "X-Device-Name": "",
+        "X-Device-OS": "Web",
+        "X-Device-OS-Version": "12.4.8",
+        "X-Domain": "moscow",
+        "X-KL-saas-Ajax-Request": "Ajax_Request",
+        "X-Organization-ID": "",
+        "X-Platform": "omniweb",
+        "X-Retail-Brand": "lo",
+        "baggage": "sentry-environment=production,sentry-release=web-12.0.65,sentry-public_key=b99355c72549498d9e9075cc3d4006a2,sentry-trace_id=b386f40929d144c6898b1797dc4b934f,sentry-sample_rate=1,sentry-transaction=%2Fsearch%2F%3Aquery%2F,sentry-sampled=true",
+        "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"YaBrowser\";v=\"25.2\", \"Yowser\";v=\"2.5\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sentry-trace": "b386f40929d144c6898b1797dc4b934f-afd1ec67357d05f5-1",
+        "traceparent": "00-8673d0fc08216d288c6650c3ed13bba9-1f2d380987a5bb5c-01",
+        "x-span-id": "1f2d380987a5bb5c",
+        "x-trace-id": "8673d0fc08216d288c6650c3ed13bba9"
+    },
+    "json": {
+        "categoryId": null,
+        "query": "query",
+        "limit": 40,
+        "offset": 0,
+        "sort": {
+            "type": "popular",
+            "order": "desc"
+        },
+        "filters": {
+            "range": [],
+            "checkbox": [],
+            "multicheckbox": []
+        }
+    }
+}

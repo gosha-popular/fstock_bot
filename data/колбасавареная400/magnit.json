@@ -1,0 +1,435 @@
+{
+    "category": null,
+    "correctedTerm": null,
+    "fastCategories": [],
+    "items": [
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/vZREcaia2SBoVXk8PuNXHQ83zHpOfoBsPkcdiJvwxuE/rs:fit:416:416/plain/s3://img-dostavka/uf/8de/8de117b9e30ad96e170a9aed36ade018/7ff0d5d1924cfdd6961f1e293d11ee73.jpeg@webp"
+                }
+            ],
+            "id": "1000218414",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Вязанка Докторская вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 16499,
+            "productId": "1000218414",
+            "promotion": {
+                "discountPercent": 52,
+                "endDate": "2025-03-18T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 34999
+            },
+            "quantity": 138,
+            "ratings": {
+                "commentsCount": 594,
+                "rating": 4.7,
+                "scoresCount": 12322
+            },
+            "seoCode": "vyazanka_kolbasa_doktorskaya_gost_var_0_4kg_p_o_10",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/g_mA5TT3kGt6Nfbut5ub3HtkPX_VJnb8tWfD2nGVuqs/rs:fit:416:416/plain/s3://img-dostavka/uf/596/596e62caa5b790ee724fc1bef7c4a468/b01d65390da9b526d93545429be02696.jpeg@webp"
+                }
+            ],
+            "id": "1000474837",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Великолукский МК Докторская вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11999,
+            "productId": "1000474837",
+            "promotion": {
+                "discountPercent": 50,
+                "endDate": "2025-04-22T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 23999
+            },
+            "quantity": 43,
+            "ratings": {
+                "commentsCount": 596,
+                "rating": 4.5,
+                "scoresCount": 8713
+            },
+            "seoCode": "velikolukskiy_mk_kolbasa_doktorskaya_kata_var_gost_0_4kg_p_o",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/VeaRlb-Oj2X2w0KJ_gxNWBzjw1HP9ywbBI6Znh9RxzQ/rs:fit:416:416/plain/s3://img-dostavka/uf/258/258bcce906f1abb6bd9fcd1433610ebf/48631c4703a42d53d5d4dcca92fe8a56.jpeg@webp"
+                }
+            ],
+            "id": "1000518334",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Папа может Говяжья вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 29999,
+            "productId": "1000518334",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 31,
+            "ratings": {
+                "commentsCount": 70,
+                "rating": 4.5,
+                "scoresCount": 1071
+            },
+            "seoCode": "papa_mozhet_kolbasa_govyazhya_var_400g_p_o",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/YL9od_ZvgzI4VdRci8c8GMczq-YBcCijhLje876miig/rs:fit:416:416/plain/s3://img-dostavka/uf/f6c/f6c410a70396d80a8186adbd231baf6c/66e23ee43d873c69c5a1b082493f56ff.jpeg@webp"
+                }
+            ],
+            "id": "1000565856",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Сочинский МК Молочная Мусульманская вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 21999,
+            "productId": "1000565856",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 6,
+            "ratings": {
+                "commentsCount": 1,
+                "rating": 4.6,
+                "scoresCount": 13
+            },
+            "seoCode": "sochinskiy_mk_kolbasa_molochnaya_musulmanskaya_var_400g_p_o",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/RUTRzdpzdT37x6-6SZtO-vB7mrh1BcP9-iTZBRcC8Ok/rs:fit:416:416/plain/s3://img-dostavka/uf/60a/60a9f2563031f0d0fd7b502048f70568/32350a573c0cee52d2fe7b56fc7b8fc3.jpeg@webp"
+                }
+            ],
+            "id": "1000546684",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Стародворье Стародворская с окороком вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11999,
+            "productId": "1000546684",
+            "promotion": {
+                "discountPercent": 45,
+                "endDate": "2025-03-11T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 21999
+            },
+            "quantity": 19,
+            "ratings": {
+                "commentsCount": 61,
+                "rating": 4.6,
+                "scoresCount": 710
+            },
+            "seoCode": "starodvore_kolbasa_starodvorskaya_s_okorokom_var_400g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/rXIMsRsnMXH-8_0cjGHlmjnXT7Rbvbr9BJgZaiMje84/rs:fit:416:416/plain/s3://img-dostavka/uf/3b1/3b19e7df6f7d4593638e0d1ca9a0a2f4/ae6d389fecbd65269c58e2a839600efe.jpeg@webp"
+                }
+            ],
+            "id": "1000565854",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Сочинский МК Филейная со сливками вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 26999,
+            "productId": "1000565854",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 13,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.8,
+                "scoresCount": 27
+            },
+            "seoCode": "sochinskiy_mk_kolbasa_fileynaya_so_slivkami_400g_p_o",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/eEys8OVhp68CKYLxzwfKut2QvzUYHLQf5PXZQVc8T4s/rs:fit:416:416/plain/s3://img-dostavka/uf/837/837fdf4aad368a81b5fd05be9d35769a/5742cddbdbe099045e4e8ef96bf1490a.jpeg@webp"
+                }
+            ],
+            "id": "1000547280",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Индилайт из филе индейки вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 19499,
+            "productId": "1000547280",
+            "promotion": {
+                "discountPercent": 40,
+                "endDate": "2025-04-22T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 32999
+            },
+            "quantity": 29,
+            "ratings": {
+                "commentsCount": 53,
+                "rating": 4.6,
+                "scoresCount": 495
+            },
+            "seoCode": "indilayt_kolbasa_var_iz_file_indeyki_400g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/DXE__ReuTW8a0MA8kCd96i1yL222zVfgIknoAd-cDok/rs:fit:416:416/plain/s3://img-dostavka/uf/053/053d245c46b39206436cbad2d61e0e51/0fb8cd4189e06419fd7c3174eb3b64a9.jpeg@webp"
+                }
+            ],
+            "id": "1000565857",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Сочинский МК Классическая с нежным окороком вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 26999,
+            "productId": "1000565857",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 18,
+            "ratings": null,
+            "seoCode": "sochinskiy_mk_kolbasa_klassich_s_nezhnym_okorokom_var_400g_p_o",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/8nOy-_SFlDRldyMUwT7S4480btN18oV3h6ps5Dcce7Y/rs:fit:416:416/plain/s3://img-dostavka/uf/bcb/bcb691f916081b2449b9666606119e8e/37096f53e3aef4f21bb2bff478c74079.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/5FK_13ZVT1tkuCGtGkpN8QQa6MfEDDwLj4-5FByGhtc/rs:fit:416:416/plain/s3://img-dostavka/uf/8fc/8fcdd53e6eebd97a77b8e95006b095fb/6f926ab1802f74dec44015c345ede9c3.jpeg@webp"
+                }
+            ],
+            "id": "1000143493",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Колбаса Моя цена вареная 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 4499,
+            "productId": "1000143493",
+            "promotion": {
+                "discountPercent": 10,
+                "endDate": "2025-03-26T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 4999
+            },
+            "quantity": 40,
+            "ratings": {
+                "commentsCount": 143,
+                "rating": 4.3,
+                "scoresCount": 2623
+            },
+            "seoCode": "kolbasa_varenaya_moya_tsena_400g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        }
+    ],
+    "pagination": {
+        "hasMore": false,
+        "limit": 36,
+        "offset": 0,
+        "totalCount": 9
+    },
+    "term": "колбаса вареная 400"
+}

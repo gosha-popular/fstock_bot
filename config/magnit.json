@@ -1,0 +1,43 @@
+{
+    "url": "https://magnit.ru/webgate/v2/goods/search",
+    "headers": {
+        "Accept-Language": "ru,en;q=0.9,bg;q=0.8",
+        "Connection": "keep-alive",
+        "Origin": "https://magnit.ru",
+        "Referer": "https://magnit.ru/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36",
+        "accept": "application/json",
+        "baggage": "sentry-environment=production,sentry-public_key=7992e659d14bf5d8da08d2e6a0706d0a,sentry-trace_id=6d1a2d266d404168a91795910acbeb1e,sentry-sampled=false,sentry-sample_rand=0.5225667089489234,sentry-sample_rate=0.05",
+        "content-type": "application/json",
+        "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"YaBrowser\";v=\"25.2\", \"Yowser\";v=\"2.5\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sentry-trace": "6d1a2d266d404168a91795910acbeb1e-acc6282a444dc125-0",
+        "x-app-version": "7.0.0",
+        "x-client-name": "magnit",
+        "x-device-id": "EE693B05-08A1-1E0B-7399-FEADD38534A6",
+        "x-device-platform": "Web",
+        "x-device-tag": "disabled",
+        "x-kl-saas-ajax-request": "Ajax_Request",
+        "x-new-magnit": "true",
+        "x-platform-version": "Windows Chrome 132"
+    },
+    "json": {
+        "term": "query",
+        "pagination": {
+            "offset": 0,
+            "limit": 36
+        },
+        "sort": {
+            "order": "desc",
+            "type": "popularity"
+        },
+        "includeAdultGoods": true,
+        "storeCode": "992301",
+        "storeType": "6",
+        "catalogType": "1"
+    }
+}

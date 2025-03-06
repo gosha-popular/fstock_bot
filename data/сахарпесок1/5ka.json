@@ -1,0 +1,391 @@
+{
+    "query_type": "strict",
+    "products": [
+        {
+            "plu": 3230933,
+            "name": "Сахар белый песок 1кг",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1164240-main/320x320.jpeg?updated_at=2025-02-19T16:30:06.666Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1164240-main/800x800.jpeg?updated_at=2025-02-19T16:30:06.666Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 189859
+            },
+            "promo": null,
+            "prices": {
+                "regular": "59.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "964.00"
+        },
+        {
+            "plu": 3663265,
+            "name": "Сахар Селяночка белый 1кг",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1187865-main/320x320.jpeg?updated_at=2025-02-24T08:28:21.186Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1187865-main/800x800.jpeg?updated_at=2025-02-24T08:28:21.186Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 17038
+            },
+            "promo": null,
+            "prices": {
+                "regular": "99.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "154.00"
+        },
+        {
+            "plu": 3225815,
+            "name": "Сахар Русский рафинад прессованный 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1164118-main/320x320.jpeg?updated_at=2025-01-31T14:13:30.621Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1164118-main/800x800.jpeg?updated_at=2025-01-31T14:13:30.621Z",
+                    "https://photos.okolo.app/product/6a5e47d09336dc1f1a41d9ce4314cdbd-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/ca9c599ad232c97191a15f91540aa984-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/b576cdf8528b5050976fadd2798bf026-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/3a0d4fdc4e79e57927c1356b8b6ec315-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 17151
+            },
+            "promo": null,
+            "prices": {
+                "regular": "64.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "51.00"
+        },
+        {
+            "plu": 3650732,
+            "name": "Сахар Советский Экстра 1кг",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1186123-main/320x320.jpeg?updated_at=2025-02-24T08:28:20.913Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1186123-main/800x800.jpeg?updated_at=2025-02-24T08:28:20.913Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 5733
+            },
+            "promo": null,
+            "prices": {
+                "regular": "102.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "19.00"
+        },
+        {
+            "plu": 625,
+            "name": "Сахар-рафинад 1кг",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157081-main/320x320.jpeg?updated_at=2025-01-31T14:13:30.695Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157081-main/800x800.jpeg?updated_at=2025-01-31T14:13:30.695Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 14752
+            },
+            "promo": null,
+            "prices": {
+                "regular": "84.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "41.00"
+        },
+        {
+            "plu": 4369952,
+            "name": "Сахар Сытое царство белый кристаллический свекловичный 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1808896-main/320x320.jpeg?updated_at=2025-02-24T08:28:20.815Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1808896-main/800x800.jpeg?updated_at=2025-02-24T08:28:20.815Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 6642
+            },
+            "promo": null,
+            "prices": {
+                "regular": "40.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "15.00"
+        },
+        {
+            "plu": 4332053,
+            "name": "Сахар Global Village нерафинированный тростниковый кристаллический 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1596714-main/320x320.jpeg?updated_at=2025-02-24T08:28:21.170Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1596714-main/800x800.jpeg?updated_at=2025-02-24T08:28:21.170Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.85,
+                "rates_count": 2479
+            },
+            "promo": null,
+            "prices": {
+                "regular": "174.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Выгодно",
+                    "icon_url": null,
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "15.00"
+        },
+        {
+            "plu": 3275322,
+            "name": "Сахар Global Village тростниковый кусковой нерафинированный 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1164888-main/320x320.jpeg?updated_at=2025-01-31T14:13:30.436Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1164888-main/800x800.jpeg?updated_at=2025-01-31T14:13:30.436Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 3820
+            },
+            "promo": null,
+            "prices": {
+                "regular": "166.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "26.00"
+        },
+        {
+            "plu": 3674316,
+            "name": "Сахар Чайкофский белый кусковой 250г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1189689-main/320x320.jpeg?updated_at=2025-01-31T14:13:30.583Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1189689-main/800x800.jpeg?updated_at=2025-01-31T14:13:30.583Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 5092
+            },
+            "promo": null,
+            "prices": {
+                "regular": "48.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "250 г",
+            "has_age_restriction": false,
+            "stock_limit": "20.00"
+        },
+        {
+            "plu": 4004966,
+            "name": "Сахар Экстра белый кусковой 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1200090-main/320x320.jpeg?updated_at=2025-01-31T14:13:30.730Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1200090-main/800x800.jpeg?updated_at=2025-01-31T14:13:30.730Z",
+                    "https://photos.okolo.app/product/84d379bb6388a71f5f79ba9ae2a4300a-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 4726
+            },
+            "promo": null,
+            "prices": {
+                "regular": "71.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00"
+        },
+        {
+            "plu": 4137488,
+            "name": "Сахар Naturiqa Экстра белый кусковой 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1454199-main/320x320.jpeg?updated_at=2025-01-31T14:36:57.312Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1454199-main/800x800.jpeg?updated_at=2025-01-31T14:36:57.312Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 1332
+            },
+            "promo": null,
+            "prices": {
+                "regular": "76.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Выгодно",
+                    "icon_url": null,
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "11.00"
+        },
+        {
+            "plu": 4325710,
+            "name": "Сахар Рестория ванильный 8г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1581235-main/320x320.jpeg?updated_at=2025-02-24T08:28:20.717Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1581235-main/800x800.jpeg?updated_at=2025-02-24T08:28:20.717Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 13183
+            },
+            "promo": {
+                "n_plus_m": {
+                    "units_to_activate": 3,
+                    "units_to_add": 1
+                }
+            },
+            "prices": {
+                "regular": "11.99",
+                "discount": null,
+                "cpd_promo_price": "8.24"
+            },
+            "labels": [
+                {
+                    "label": "3+1",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "8 г",
+            "has_age_restriction": false,
+            "stock_limit": "99.00"
+        }
+    ],
+    "categories": [
+        {
+            "id": "251C13363",
+            "type": "subcategory",
+            "name": "Сахар и его заменители",
+            "parent_name": "Сахар, соль, специи"
+        },
+        {
+            "id": "251C13359",
+            "type": "subcategory",
+            "name": "Сахар и его заменители",
+            "parent_name": "Чай, кофе, какао"
+        },
+        {
+            "id": "251C13399",
+            "type": "subcategory",
+            "name": "Сахар и его заменители",
+            "parent_name": "Всё для выпечки"
+        }
+    ]
+}

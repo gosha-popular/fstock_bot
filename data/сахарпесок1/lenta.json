@@ -1,0 +1,631 @@
+{
+    "categories": [
+        {
+            "badges": [],
+            "hasChildren": false,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/374/icon/07b37885d68dfc6d.png",
+            "id": 374,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/374/image/87d8e4c59b0a16b0.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/374/image_web/aa24912b1ad3b7d7.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сгущенное молоко",
+            "parentId": 3,
+            "parentName": "Молочные продукты",
+            "slug": "sgushchennoe-moloko"
+        },
+        {
+            "badges": [],
+            "hasChildren": false,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19255/icon/df1051931fb05d36.png",
+            "id": 19255,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19255/image/af7362213557ff59.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19255/image_web/2ec0d0bceb6ddc14.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Молочная консервация",
+            "parentId": 94,
+            "parentName": "Консервы и соусы",
+            "slug": "molochnaya-konservaciya"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20522,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Бакалея",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "bakaleya"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/192/icon/5d9953f538cfc35c.png",
+            "id": 192,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/192/image/bc1671904cd8e960.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/192/image_web/5a61f750c225e298.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сахар и соль",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "sahar-i-sol"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/icon/fb2d4c0a4ff8ef84.png",
+            "id": 3510,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/image/7122cb19b4e067d7.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/image_web/0b356d8b44cf8f62.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Для волос",
+            "parentId": 3509,
+            "parentName": "Уход и гигиена",
+            "slug": "dlya-volos"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13846/icon/0a33b7acd20d83e7.png",
+            "id": 13846,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13846/image/d82d4150ef8896a0.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13846/image_web/7d9fcd618f45b36a.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сахар и корица",
+            "parentId": 242,
+            "parentName": "Кофе, чай, какао",
+            "slug": "sahar-i-korica"
+        }
+    ],
+    "filters": {
+        "checkbox": [],
+        "multicheckbox": [
+            {
+                "attributeId": 238,
+                "key": "brand",
+                "name": "Бренд",
+                "position": 1,
+                "slug": "brand",
+                "total": 4,
+                "values": [
+                    {
+                        "id": 10732443,
+                        "selected": false,
+                        "slug": "365-dnejj",
+                        "total": 3,
+                        "value": "365 ДНЕЙ"
+                    },
+                    {
+                        "id": 579761834,
+                        "selected": false,
+                        "slug": "palett",
+                        "total": 1,
+                        "value": "ПАЛЕТТ"
+                    }
+                ]
+            },
+            {
+                "attributeId": 303,
+                "key": "attribute_303",
+                "name": "Вес",
+                "position": 2,
+                "slug": "ves",
+                "total": 3,
+                "values": [
+                    {
+                        "id": 1480791978,
+                        "selected": false,
+                        "slug": "270",
+                        "total": 1,
+                        "value": "270"
+                    },
+                    {
+                        "id": 1480791423,
+                        "selected": false,
+                        "slug": "500",
+                        "total": 1,
+                        "value": "500"
+                    },
+                    {
+                        "id": 1480792538,
+                        "selected": false,
+                        "slug": "1000",
+                        "total": 1,
+                        "value": "1000"
+                    }
+                ]
+            },
+            {
+                "attributeId": 190,
+                "key": "attribute_190",
+                "name": "Вкус",
+                "position": 3,
+                "slug": "vkus",
+                "total": 1,
+                "values": [
+                    {
+                        "id": 1366722188,
+                        "selected": false,
+                        "slug": "slivki",
+                        "total": 1,
+                        "value": "Сливки"
+                    }
+                ]
+            },
+            {
+                "attributeId": 235,
+                "key": "attribute_235",
+                "name": "Страна",
+                "position": 4,
+                "slug": "strana",
+                "total": 3,
+                "values": [
+                    {
+                        "id": 10720646,
+                        "selected": false,
+                        "slug": "rossiya",
+                        "total": 3,
+                        "value": "Россия"
+                    }
+                ]
+            }
+        ],
+        "range": []
+    },
+    "items": [
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 3,
+            "dimensions": {
+                "height": 50,
+                "length": 180,
+                "width": 110
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 55784,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/55784/3b3907da-0eb7-4e85-9732-30a40e566f84.png",
+                    "id": 694512,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/55784/3b3907da-0eb7-4e85-9732-30a40e566f84.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/55784/3b3907da-0eb7-4e85-9732-30a40e566f84.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/55784/3b3907da-0eb7-4e85-9732-30a40e566f84.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/55784/3b3907da-0eb7-4e85-9732-30a40e566f84.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/55784/34f2b03a-7022-4448-9866-fe4e29026fe1.png",
+                    "id": 699013,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/55784/34f2b03a-7022-4448-9866-fe4e29026fe1.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/55784/34f2b03a-7022-4448-9866-fe4e29026fe1.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/55784/34f2b03a-7022-4448-9866-fe4e29026fe1.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/55784/34f2b03a-7022-4448-9866-fe4e29026fe1.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/55784/5d9f3b57-4744-440f-8940-a316aa4c7dc3.png",
+                    "id": 699012,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/55784/5d9f3b57-4744-440f-8940-a316aa4c7dc3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/55784/5d9f3b57-4744-440f-8940-a316aa4c7dc3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/55784/5d9f3b57-4744-440f-8940-a316aa4c7dc3.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/55784/5d9f3b57-4744-440f-8940-a316aa4c7dc3.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/55784/9cae7eb5-4ee9-409b-a57b-38e5ed5893fa.png",
+                    "id": 699014,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/55784/9cae7eb5-4ee9-409b-a57b-38e5ed5893fa.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/55784/9cae7eb5-4ee9-409b-a57b-38e5ed5893fa.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/55784/9cae7eb5-4ee9-409b-a57b-38e5ed5893fa.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/55784/9cae7eb5-4ee9-409b-a57b-38e5ed5893fa.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/55784/d71f4c57-e2fb-4f57-8646-e7e05d8909b9.png",
+                    "id": 694511,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/55784/d71f4c57-e2fb-4f57-8646-e7e05d8909b9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/55784/d71f4c57-e2fb-4f57-8646-e7e05d8909b9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/55784/d71f4c57-e2fb-4f57-8646-e7e05d8909b9.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/55784/d71f4c57-e2fb-4f57-8646-e7e05d8909b9.png"
+                }
+            ],
+            "name": "Сахар-песок прессованный СВ ТС 1, 1кг",
+            "prices": {
+                "cost": 8499,
+                "costRegular": 8947,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 8499,
+                "priceRegular": 8947
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 321
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 3,
+                "minSaleQuantity": 1
+            },
+            "slug": "saharnyjj-pesok-365-dnejj-pressovannyjj-sv-ts-1-1000g",
+            "storeId": 124,
+            "weight": {
+                "gross": 1100,
+                "net": 0,
+                "package": "1000г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 185,
+                "length": 105,
+                "width": 50
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": true,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 517752,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/517752/efe46cf3-fe81-4be0-8252-295421d117a7.png",
+                    "id": 753653,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/517752/efe46cf3-fe81-4be0-8252-295421d117a7.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/517752/efe46cf3-fe81-4be0-8252-295421d117a7.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/517752/efe46cf3-fe81-4be0-8252-295421d117a7.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/517752/efe46cf3-fe81-4be0-8252-295421d117a7.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/517752/85b61fd0-3e8b-4e74-a488-1883f321081a.png",
+                    "id": 324824,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/517752/85b61fd0-3e8b-4e74-a488-1883f321081a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/517752/85b61fd0-3e8b-4e74-a488-1883f321081a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/517752/85b61fd0-3e8b-4e74-a488-1883f321081a.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/517752/85b61fd0-3e8b-4e74-a488-1883f321081a.png"
+                }
+            ],
+            "name": "Продукт молокосодержащий 365 ДНЕЙ Сгущенка с сахаром 1%, без змж, 270г",
+            "prices": {
+                "cost": 4499,
+                "costRegular": 4739,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 4499,
+                "priceRegular": 4739
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 152
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "produkt-molochnyjj-365-dnejj-sgushchennyjj-s-saharom-sgushchenka-s-saharom-bez-zmzh-1-dojj-pak-rossi",
+            "storeId": 124,
+            "weight": {
+                "gross": 280,
+                "net": 0,
+                "package": "270г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 195,
+                "length": 55,
+                "width": 55
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": true,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 605098,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/605098/a558e7e3-ad4b-4635-8e8b-17a1b229f21a.png",
+                    "id": 689807,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/605098/a558e7e3-ad4b-4635-8e8b-17a1b229f21a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/605098/a558e7e3-ad4b-4635-8e8b-17a1b229f21a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/605098/a558e7e3-ad4b-4635-8e8b-17a1b229f21a.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/605098/a558e7e3-ad4b-4635-8e8b-17a1b229f21a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/605098/cdc89678-7ef1-4426-9b7d-85b1d82c3a6e.png",
+                    "id": 689806,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/605098/cdc89678-7ef1-4426-9b7d-85b1d82c3a6e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/605098/cdc89678-7ef1-4426-9b7d-85b1d82c3a6e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/605098/cdc89678-7ef1-4426-9b7d-85b1d82c3a6e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/605098/cdc89678-7ef1-4426-9b7d-85b1d82c3a6e.png"
+                }
+            ],
+            "name": "Продукт молочный сгущенный 365 ДНЕЙ Сгущенка с сахаром 1%, без змж, 500г",
+            "prices": {
+                "cost": 7999,
+                "costRegular": 8429,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 7999,
+                "priceRegular": 8429
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 116
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "produkt-molochnyjj-365-dnejj-sgushchennyjj-s-saharom-sgushchenka-s-saharom-bez-zmzh-1-rossiya-500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 517,
+                "net": 0,
+                "package": "500г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-24%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 9,
+            "dimensions": {
+                "height": 166,
+                "length": 41,
+                "width": 63
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 715267,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/da1f4767-9892-44ec-be17-c3adb2c03092.png",
+                    "id": 844008,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/da1f4767-9892-44ec-be17-c3adb2c03092.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/da1f4767-9892-44ec-be17-c3adb2c03092.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/da1f4767-9892-44ec-be17-c3adb2c03092.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/da1f4767-9892-44ec-be17-c3adb2c03092.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/f27367a6-3076-4ac0-bbd3-f03ee40376bf.png",
+                    "id": 844009,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/f27367a6-3076-4ac0-bbd3-f03ee40376bf.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/f27367a6-3076-4ac0-bbd3-f03ee40376bf.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/f27367a6-3076-4ac0-bbd3-f03ee40376bf.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/f27367a6-3076-4ac0-bbd3-f03ee40376bf.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/5389a0ab-8230-49dc-a7ab-d4e5c06e5d38.png",
+                    "id": 836735,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/5389a0ab-8230-49dc-a7ab-d4e5c06e5d38.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/5389a0ab-8230-49dc-a7ab-d4e5c06e5d38.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/5389a0ab-8230-49dc-a7ab-d4e5c06e5d38.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/5389a0ab-8230-49dc-a7ab-d4e5c06e5d38.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/7e2d4cfb-fb7c-4118-8951-9ab1c27342c9.png",
+                    "id": 820024,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/7e2d4cfb-fb7c-4118-8951-9ab1c27342c9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/7e2d4cfb-fb7c-4118-8951-9ab1c27342c9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/7e2d4cfb-fb7c-4118-8951-9ab1c27342c9.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/7e2d4cfb-fb7c-4118-8951-9ab1c27342c9.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/4d83b530-6603-4470-a813-9b2022445772.png",
+                    "id": 820025,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/4d83b530-6603-4470-a813-9b2022445772.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/4d83b530-6603-4470-a813-9b2022445772.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/4d83b530-6603-4470-a813-9b2022445772.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/4d83b530-6603-4470-a813-9b2022445772.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/de928411-b246-459c-825b-6fae343642f2.png",
+                    "id": 820026,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/de928411-b246-459c-825b-6fae343642f2.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/de928411-b246-459c-825b-6fae343642f2.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/de928411-b246-459c-825b-6fae343642f2.png",
+                    "position": 6,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/de928411-b246-459c-825b-6fae343642f2.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/6e46e143-caa1-4fb3-9965-9c9621d184e4.png",
+                    "id": 820027,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/6e46e143-caa1-4fb3-9965-9c9621d184e4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/6e46e143-caa1-4fb3-9965-9c9621d184e4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/6e46e143-caa1-4fb3-9965-9c9621d184e4.png",
+                    "position": 7,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/6e46e143-caa1-4fb3-9965-9c9621d184e4.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/69d1febc-7177-4e43-9574-44adbc4a34b1.png",
+                    "id": 820028,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/69d1febc-7177-4e43-9574-44adbc4a34b1.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/69d1febc-7177-4e43-9574-44adbc4a34b1.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/69d1febc-7177-4e43-9574-44adbc4a34b1.png",
+                    "position": 8,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/69d1febc-7177-4e43-9574-44adbc4a34b1.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/1150aaa9-e404-4cfe-8807-7de0c6299fec.png",
+                    "id": 820029,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/1150aaa9-e404-4cfe-8807-7de0c6299fec.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/1150aaa9-e404-4cfe-8807-7de0c6299fec.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/1150aaa9-e404-4cfe-8807-7de0c6299fec.png",
+                    "position": 9,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/1150aaa9-e404-4cfe-8807-7de0c6299fec.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/0c4eac07-87ca-4906-a135-c401c3c74dd5.png",
+                    "id": 820030,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/0c4eac07-87ca-4906-a135-c401c3c74dd5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/0c4eac07-87ca-4906-a135-c401c3c74dd5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/0c4eac07-87ca-4906-a135-c401c3c74dd5.png",
+                    "position": 10,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/0c4eac07-87ca-4906-a135-c401c3c74dd5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/b586cf99-9a46-45e1-87a2-ff146a391290.png",
+                    "id": 820031,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/b586cf99-9a46-45e1-87a2-ff146a391290.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/b586cf99-9a46-45e1-87a2-ff146a391290.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/b586cf99-9a46-45e1-87a2-ff146a391290.png",
+                    "position": 11,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/b586cf99-9a46-45e1-87a2-ff146a391290.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/715267/8f0b05ca-d0c9-4688-9a4e-205120c0e43f.png",
+                    "id": 820032,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/715267/8f0b05ca-d0c9-4688-9a4e-205120c0e43f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/715267/8f0b05ca-d0c9-4688-9a4e-205120c0e43f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/715267/8f0b05ca-d0c9-4688-9a4e-205120c0e43f.png",
+                    "position": 12,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/715267/8f0b05ca-d0c9-4688-9a4e-205120c0e43f.png"
+                }
+            ],
+            "name": "Крем-краска для волос ПАЛЕТТ Naturia 12–1 Белый песок, 110мл",
+            "prices": {
+                "cost": 17999,
+                "costRegular": 23579,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 17999,
+                "priceRegular": 23579
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 2
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 9,
+                "minSaleQuantity": 1
+            },
+            "slug": "krem-kraska-dvolos-palett-naturia-12-1-belyjj-pesok-rossiya-110-ml",
+            "storeId": 124,
+            "weight": {
+                "gross": 145,
+                "net": 0,
+                "package": "110 мл"
+            }
+        }
+    ],
+    "total": 4
+}

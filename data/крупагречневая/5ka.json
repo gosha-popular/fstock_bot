@@ -1,0 +1,405 @@
+{
+    "query_type": "strict",
+    "products": [
+        {
+            "plu": 4361230,
+            "name": "Крупа Увелка гречневая 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1625552-main/320x320.jpeg?updated_at=2025-03-03T16:06:13.125Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1625552-main/800x800.jpeg?updated_at=2025-03-03T16:06:13.125Z",
+                    "https://photos.okolo.app/product/a8e451b81238ddf14c9ab034c5fcdc5b-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 6775
+            },
+            "promo": null,
+            "prices": {
+                "regular": "64.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "26.00"
+        },
+        {
+            "plu": 3991887,
+            "name": "Крупа Увелка гречневая ядрица 450г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1199049-main/320x320.jpeg?updated_at=2025-01-31T14:12:20.517Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1199049-main/800x800.jpeg?updated_at=2025-01-31T14:12:20.517Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 637
+            },
+            "promo": null,
+            "prices": {
+                "regular": "123.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "450 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00"
+        },
+        {
+            "plu": 4384526,
+            "name": "Крупа Степь ассорти в пакетиках рисовая, гречневая, булгур, кускус, киноа 400г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1846586-main/320x320.jpeg?updated_at=2025-02-25T14:04:05.391Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1846586-main/800x800.jpeg?updated_at=2025-02-25T14:04:05.391Z",
+                    "https://photos.okolo.app/product/98b1931971e6cd8ca11761b33293ca62-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 82
+            },
+            "promo": null,
+            "prices": {
+                "regular": "144.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00"
+        },
+        {
+            "plu": 4376897,
+            "name": "Крупа Степь Ассорти пшеничная/гречневая/пшено/кукурузная/перловая 400г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1846576-main/320x320.jpeg?updated_at=2025-02-25T14:05:02.634Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1846576-main/800x800.jpeg?updated_at=2025-02-25T14:05:02.634Z",
+                    "https://photos.okolo.app/product/25e9e01b078295a400ceb5a77ebfed3a-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 66
+            },
+            "promo": null,
+            "prices": {
+                "regular": "92.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "36.00"
+        },
+        {
+            "plu": 3667232,
+            "name": "Гречка ядрица Селяночка быстроразваривающаяся пропаренная 900г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1188440-main/320x320.jpeg?updated_at=2025-03-04T05:34:34.910Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1188440-main/800x800.jpeg?updated_at=2025-03-04T05:34:34.910Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 17057
+            },
+            "promo": null,
+            "prices": {
+                "regular": "94.99",
+                "discount": "79.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-15%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "900 г",
+            "has_age_restriction": false,
+            "stock_limit": "54.00"
+        },
+        {
+            "plu": 3231481,
+            "name": "Гречка ядрица 900г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1164259-main/320x320.jpeg?updated_at=2024-11-15T10:47:39.021Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1164259-main/800x800.jpeg?updated_at=2024-11-15T10:47:39.021Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 37660
+            },
+            "promo": null,
+            "prices": {
+                "regular": "33.59",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "900 г",
+            "has_age_restriction": false,
+            "stock_limit": "97.00"
+        },
+        {
+            "plu": 3934932,
+            "name": "Гречка Селяночка ядрица быстроразваривающаяся 5х80г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1195058-main/320x320.jpeg?updated_at=2025-02-18T06:25:36.291Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1195058-main/800x800.jpeg?updated_at=2025-02-18T06:25:36.291Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 14894
+            },
+            "promo": null,
+            "prices": {
+                "regular": "83.99",
+                "discount": "69.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-16%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "29.00"
+        },
+        {
+            "plu": 3674200,
+            "name": "Гречка Мистраль ядрица 5х80г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1189682-main/320x320.jpeg?updated_at=2025-01-20T13:13:13.707Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1189682-main/800x800.jpeg?updated_at=2025-01-20T13:13:13.707Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 5001
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "В пакетиках",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "16.00"
+        },
+        {
+            "plu": 3198640,
+            "name": "Каша ФрутоНяня Молочная гречневая с яблоками с 6 мес. 200мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1163525-main/320x320.jpeg?updated_at=2025-02-24T18:57:33.327Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1163525-main/800x800.jpeg?updated_at=2025-02-24T18:57:33.327Z",
+                    "https://photos.okolo.app/product/f18975d864af64b03fd88f6adff5c0ed-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1503ee5148b664124e40b824022e2e50-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/b23d9010c2ebf49ec1f2c964fa23b6b0-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1e35e814ab90a3ac5f24472b80c46d69-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/b9e9accd6c5325efae1ec687a19a0625-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/ee80ddabab57f524ae82dd2a0409cc57-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/dd37ccb5e726d19c949d779f67dc06ee-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/061adb065ded6b3d9e2c344189ead17e-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 4988
+            },
+            "promo": null,
+            "prices": {
+                "regular": "51.99",
+                "discount": "44.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-13%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "200 мл",
+            "has_age_restriction": false,
+            "stock_limit": "26.00"
+        },
+        {
+            "plu": 3601120,
+            "name": "Крупа пшеничная 800г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1177601-main/320x320.jpeg?updated_at=2025-01-31T14:12:27.404Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1177601-main/800x800.jpeg?updated_at=2025-01-31T14:12:27.404Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 9822
+            },
+            "promo": null,
+            "prices": {
+                "regular": "27.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "800 г",
+            "has_age_restriction": false,
+            "stock_limit": "12.00"
+        },
+        {
+            "plu": 3601122,
+            "name": "Крупа ячменная ячневая №2 800г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1177602-main/320x320.jpeg?updated_at=2024-11-26T10:20:56.272Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1177602-main/800x800.jpeg?updated_at=2024-11-26T10:20:56.272Z",
+                    "https://photos.okolo.app/product/9b1a02fa37c039afce4cc4fc91c0114d-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 9887
+            },
+            "promo": null,
+            "prices": {
+                "regular": "27.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "800 г",
+            "has_age_restriction": false,
+            "stock_limit": "17.00"
+        },
+        {
+            "plu": 4157666,
+            "name": "Крупа Global Village Булгур пшеничная 5х80г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1412414-main/320x320.jpeg?updated_at=2025-03-03T16:05:27.799Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1412414-main/800x800.jpeg?updated_at=2025-03-03T16:05:27.799Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 5607
+            },
+            "promo": null,
+            "prices": {
+                "regular": "113.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "В пакетиках",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "21.00"
+        }
+    ],
+    "categories": [
+        {
+            "id": "251C13337",
+            "type": "subcategory",
+            "name": "Гречка",
+            "parent_name": "Макароны, крупы"
+        },
+        {
+            "id": "251C13342",
+            "type": "subcategory",
+            "name": "Прочие крупы",
+            "parent_name": "Макароны, крупы"
+        },
+        {
+            "id": "251C17054",
+            "type": "subcategory",
+            "name": "Все все все",
+            "parent_name": "Новинки с доставкой"
+        }
+    ]
+}

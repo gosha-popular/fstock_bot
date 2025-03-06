@@ -1,0 +1,412 @@
+{
+    "query_type": "strict",
+    "products": [
+        {
+            "plu": 78030901,
+            "name": "Хлеб пшеничный 390г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1409900-main/320x320.jpeg?updated_at=2025-02-25T14:03:21.194Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1409900-main/800x800.jpeg?updated_at=2025-02-25T14:03:21.194Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 9658
+            },
+            "promo": null,
+            "prices": {
+                "regular": "59.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Из печи",
+                    "icon_url": null,
+                    "bg_color": "#FF6917",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "390 г",
+            "has_age_restriction": false,
+            "stock_limit": "100.00"
+        },
+        {
+            "plu": 2061861,
+            "name": "Хлеб сандвичный Harry's American Sandwich пшеничный нарезка 470г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1160013-main/320x320.jpeg?updated_at=2025-02-25T13:41:51.948Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1160013-main/800x800.jpeg?updated_at=2025-02-25T13:41:51.948Z",
+                    "https://photos.okolo.app/product/6ed44d5f6a86b22898e8892afe63679b-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 15118
+            },
+            "promo": null,
+            "prices": {
+                "regular": "123.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "470 г",
+            "has_age_restriction": false,
+            "stock_limit": "6.00"
+        },
+        {
+            "plu": 4276930,
+            "name": "Хлеб Коломенский Даниловский ржано-пшеничный нарезка 350г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1495734-main/320x320.jpeg?updated_at=2025-02-25T13:39:40.548Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1495734-main/800x800.jpeg?updated_at=2025-02-25T13:39:40.548Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 18074
+            },
+            "promo": null,
+            "prices": {
+                "regular": "67.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "350 г",
+            "has_age_restriction": false,
+            "stock_limit": "6.00"
+        },
+        {
+            "plu": 4050647,
+            "name": "Хлеб Хлебный Дом тостовый пшеничный 350г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1204211-main/320x320.jpeg?updated_at=2025-02-25T13:42:32.785Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1204211-main/800x800.jpeg?updated_at=2025-02-25T13:42:32.785Z",
+                    "https://photos.okolo.app/product/d8775abc1cba034e6e4d807ab8f40e3b-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/bc14e49916977f9639ecf28ed9875a67-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 6764
+            },
+            "promo": null,
+            "prices": {
+                "regular": "70.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "350 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00"
+        },
+        {
+            "plu": 2061863,
+            "name": "Хлеб сандвичный Harry's American Sandwich пшеничный с отрубями нарезка 515 г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1160014-main/320x320.jpeg?updated_at=2025-02-25T13:41:51.958Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1160014-main/800x800.jpeg?updated_at=2025-02-25T13:41:51.958Z",
+                    "https://photos.okolo.app/product/bd6fc9de3dd04aad04a075ba6ec91cf7-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 3838
+            },
+            "promo": null,
+            "prices": {
+                "regular": "139.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "515 г",
+            "has_age_restriction": false,
+            "stock_limit": "9.00"
+        },
+        {
+            "plu": 4109830,
+            "name": "Хлеб Зерница ржано-пшеничный бездрожжевой нарезка 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1210525-main/320x320.jpeg?updated_at=2025-02-25T13:39:23.815Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1210525-main/800x800.jpeg?updated_at=2025-02-25T13:39:23.815Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 2891
+            },
+            "promo": null,
+            "prices": {
+                "regular": "57.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00"
+        },
+        {
+            "plu": 3994705,
+            "name": "Хлеб Рижский хлеб Ароматный ржано-пшеничный подовый с изюмом 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1199381-main/320x320.jpeg?updated_at=2025-02-25T13:49:09.797Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1199381-main/800x800.jpeg?updated_at=2025-02-25T13:49:09.797Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 839
+            },
+            "promo": null,
+            "prices": {
+                "regular": "85.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "3.00"
+        },
+        {
+            "plu": 78010680,
+            "name": "Хлеб Маг с семечками 390г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1212819-main/320x320.jpeg?updated_at=2025-02-21T14:11:30.505Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1212819-main/800x800.jpeg?updated_at=2025-02-21T14:11:30.505Z",
+                    "https://photos.okolo.app/product/9407401a0ab8f5f34139d494fb8e29ba-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1be5685cd17668581f68ec270cf68a21-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 5664
+            },
+            "promo": null,
+            "prices": {
+                "regular": "75.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Из печи",
+                    "icon_url": null,
+                    "bg_color": "#FF6917",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "390 г",
+            "has_age_restriction": false,
+            "stock_limit": "100.00"
+        },
+        {
+            "plu": 78006726,
+            "name": "Хлебушек заварной бездрожжевой 315г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1212750-main/320x320.jpeg?updated_at=2025-02-21T14:11:32.179Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1212750-main/800x800.jpeg?updated_at=2025-02-21T14:11:32.179Z",
+                    "https://photos.okolo.app/product/2c04fb0955014333fe3991c7798cd651-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 8847
+            },
+            "promo": null,
+            "prices": {
+                "regular": "65.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Из печи",
+                    "icon_url": null,
+                    "bg_color": "#FF6917",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "315 г",
+            "has_age_restriction": false,
+            "stock_limit": "100.00"
+        },
+        {
+            "plu": 78010499,
+            "name": "Хлеб Домашний на кефире 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1212818-main/320x320.jpeg?updated_at=2025-02-25T14:03:21.157Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1212818-main/800x800.jpeg?updated_at=2025-02-25T14:03:21.157Z",
+                    "https://photos.okolo.app/product/a24207a82d9e0028a03b1445a9bb88a2-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/c7da4192ded2e0c6fe8d8f4254d43399-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 6790
+            },
+            "promo": null,
+            "prices": {
+                "regular": "59.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Из печи",
+                    "icon_url": null,
+                    "bg_color": "#FF6917",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "100.00"
+        },
+        {
+            "plu": 78036070,
+            "name": "Багет пшеничный 200г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1840745-main/320x320.jpeg?updated_at=2025-02-27T10:24:40.482Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1840745-main/800x800.jpeg?updated_at=2025-02-27T10:24:40.482Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 912
+            },
+            "promo": null,
+            "prices": {
+                "regular": "45.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Из печи",
+                    "icon_url": null,
+                    "bg_color": "#FF6917",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "100.00"
+        },
+        {
+            "plu": 78035740,
+            "name": "Хлебушек Пятерочка Кафе Ремесленный с пророщенным зерном 250г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1831617-main/320x320.jpeg?updated_at=2025-03-01T11:49:53.532Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1831617-main/800x800.jpeg?updated_at=2025-03-01T11:49:53.532Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 5597
+            },
+            "promo": null,
+            "prices": {
+                "regular": "69.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Из печи",
+                    "icon_url": null,
+                    "bg_color": "#FF6917",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "250 г",
+            "has_age_restriction": false,
+            "stock_limit": "100.00"
+        }
+    ],
+    "categories": [
+        {
+            "id": "251C13122",
+            "type": "subcategory",
+            "name": "Хлеб, багеты",
+            "parent_name": "Наша пекарня"
+        },
+        {
+            "id": "251C13205",
+            "type": "subcategory",
+            "name": "Хлеб, багеты",
+            "parent_name": "Испекли для вас"
+        },
+        {
+            "id": "251C16720",
+            "type": "subcategory",
+            "name": "Наша пекарня",
+            "parent_name": "Вся готовая еда"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "category": null,
+    "correctedTerm": null,
+    "fastCategories": [],
+    "items": [
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/pWW0l61ee_qewKZek8reV4TqoyR5eTDUfFiWcSD43QE/rs:fit:416:416/plain/s3://img-dostavka/uf/25a/25abbb298a2bdbd5cbcfff1bb6399108/f465d12b7e455f3d7a1f166943500675.jpeg@webp"
+                }
+            ],
+            "id": "3133780401",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Сахар-песок белый кристаллический 1кг",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6599,
+            "productId": "3133780401",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-03-10T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 374,
+            "ratings": {
+                "commentsCount": 2543,
+                "rating": 4.7,
+                "scoresCount": 90590
+            },
+            "seoCode": "sakhar_belyy_kristallicheskiy_fas_1kg",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/c7KCIW6sIzwZc94whzX3PBJN5lHgFppEwv4iOOF3bt4/rs:fit:416:416/plain/s3://img-dostavka/uf/8d4/8d40bb35d3fd825164ea97e36b1f10e6/8ae9975fe3ea041d8b98c5741938b274.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/gXgYj-8ioonwh2HAn2LuB6SVSEP3zsWc1U0iZFbNEkA/rs:fit:416:416/plain/s3://img-dostavka/uf/feb/febb63d67a7316e18824e1930dfd5ce7/11d626aba278b70e540c06ebd7564dec.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/F_V7XJjzhlHG_UQgUpsRZuBepxjv_WKVqtfOT4nFwwQ/rs:fit:416:416/plain/s3://img-dostavka/uf/670/6705660f03f70975fbd3a308071bbd45/1ab618d995f4328ce94e06419f79c5e7.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/q1HT8lmQdbIym9bUA8-F5HyzPJcC1yaqByw9j49tBjs/rs:fit:416:416/plain/s3://img-dostavka/uf/04e/04e73c8a515093001da60fba23c5b222/3c5e3637d5ff7e53c62e35d29674f4e5.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/vRdmhRUNrH-lvv6Fk_qIMwbzNdg9MHOoeElNc0ID8zM/rs:fit:416:416/plain/s3://img-dostavka/uf/b01/b0126265f87e5d5792b9e0918096c922/2f3e49204c6163d339aff5c37a00afd9.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/FgKHNvipm5e0aeX9yoCLyK2uu2ZT4ZC0rtyO_IYz6NU/rs:fit:416:416/plain/s3://img-dostavka/uf/8f4/8f4452e132acdf45ad9e93114041e02c/649412088054038dba7c87d1158587c3.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/ejUJ-oXs-b6ORD5paMCidA9Yh3UA7lNd-Y4jKaMzd6s/rs:fit:416:416/plain/s3://img-dostavka/uf/938/93809e77082e4af1c75afdc4b9689f4e/4fbe741161aa3d3d94be1f234aaa36fd.jpeg@webp"
+                }
+            ],
+            "id": "4000061778",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Набор для опытов Играть здорово Вулкан Космический песок 17*12*6см 90г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 14999,
+            "productId": "4000061778",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 26,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.3,
+                "scoresCount": 63
+            },
+            "seoCode": "nabor_dlya_tvorchestva_kp1000vn_ne_sezonnaya_doy_pak_ooo_fabrika_igrushek_18_36",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        }
+    ],
+    "pagination": {
+        "hasMore": false,
+        "limit": 36,
+        "offset": 0,
+        "totalCount": 2
+    },
+    "term": "сахар песок 1"
+}

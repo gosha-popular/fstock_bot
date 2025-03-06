@@ -1,0 +1,2688 @@
+{
+    "categories": [
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/141/icon/8550779507f75c17.png",
+            "id": 141,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/141/image/faa0f316323a522f.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/141/image_web/b84ae072e82a1a86.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Мясо птицы",
+            "parentId": 136,
+            "parentName": "Мясо и птица",
+            "slug": "myaso-pticy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/268/icon/37f759c484c8b285.png",
+            "id": 268,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/268/image/011f0eb040293b6c.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/268/image_web/410347af920e6b75.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Вторые блюда",
+            "parentId": 42,
+            "parentName": "Готовая еда",
+            "slug": "vtorye-blyuda"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/382/icon/c48679849cbc7807.png",
+            "id": 382,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/382/image/a7beed2bf374f9de.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/382/image_web/27d32914c74b1982.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Приправы",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "pripravy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/764/icon/3289e87d14ce1b6a.png",
+            "id": 764,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/764/image/a141feda7f6647fd.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/764/image_web/cfaf2700a972296b.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Деликатесы",
+            "parentId": 754,
+            "parentName": "Колбаса, сосиски",
+            "slug": "delikatesy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19196/icon/2717c78905c7fefc.png",
+            "id": 19196,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19196/image/313710b8979ce3d6.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19196/image_web/68d65007f10a274e.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Мясо, рыба, полуфабрикаты",
+            "parentId": 18359,
+            "parentName": "Только в Ленте",
+            "slug": "myaso-ryba-polufabrikaty"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20522,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Бакалея",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "bakaleya"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/669/icon/d4a25bf266b7bfed.png",
+            "id": 669,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/669/image/965d12ebf40e3373.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/669/image_web/5f290797c3f72eb6.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Полуфабрикаты из птицы",
+            "parentId": 136,
+            "parentName": "Мясо и птица",
+            "slug": "polufabrikaty-iz-pticy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/777/icon/a55681eb79d48627.png",
+            "id": 777,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/777/image/17de3f8362bac551.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/777/image_web/54f9099b21037755.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сосиски, сардельки",
+            "parentId": 754,
+            "parentName": "Колбаса, сосиски",
+            "slug": "sosiski-sardelki"
+        },
+        {
+            "badges": [],
+            "hasChildren": false,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2046/icon/d3f0befe3a8de3bb.png",
+            "id": 2046,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2046/image/0dcffa08e01b01b6.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2046/image_web/d423198af091fcde.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Приготовлено у нас",
+            "parentId": 754,
+            "parentName": "Колбаса, сосиски",
+            "slug": "prigotovleno-u-nas"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/26/icon/524a9205338bd2f2.png",
+            "id": 26,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/26/image/b95b20af5f1ed860.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/26/image_web/71fd4b77a8be8b37.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Быстрое приготовление",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "bystroe-prigotovlenie"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/78/icon/ad31cfa72d6ca80b.png",
+            "id": 78,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/78/image/991b06d2cc3eea89.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/78/image_web/303a6639f2d0dbb3.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Замороженные блюда",
+            "parentId": 77,
+            "parentName": "Заморозка",
+            "slug": "zamorozhennye-blyuda"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/859/icon/021cdcd56df98214.png",
+            "id": 859,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/859/image/0730b55b44ea8ee4.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/859/image_web/7f4f64623da61dec.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Пельмени и вареники",
+            "parentId": 77,
+            "parentName": "Заморозка",
+            "slug": "pelmeni-i-vareniki"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18136/icon/730136b75d7dc78a.png",
+            "id": 18136,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18136/image/320db14080171537.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18136/image_web/663a8586ac025d45.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Корм для собак",
+            "parentId": 18134,
+            "parentName": "Товары для животных",
+            "slug": "korm-dlya-sobak"
+        },
+        {
+            "badges": [],
+            "hasChildren": false,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18753/icon/0cb595ec4b2f2324.png",
+            "id": 18753,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18753/image/0f11cc28442c2015.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18753/image_web/4b06083a0f4069b4.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Влажный корм для собак",
+            "parentId": 18721,
+            "parentName": "Корм для собак",
+            "slug": "vlazhnyjj-korm-dlya-sobak"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19081/icon/5aa507fe072c4571.png",
+            "id": 19081,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19081/image/dbf1a460bb6f6d6a.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19081/image_web/d73b9ed13a7bb48a.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Замороженные продукты",
+            "parentId": 18359,
+            "parentName": "Только в Ленте",
+            "slug": "zamorozhennye-produkty"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19208/icon/cc07917f88640765.png",
+            "id": 19208,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19208/image/f727b6c09cbc1316.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19208/image_web/663fee636ec34394.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Кулинария и пекарня Ленты",
+            "parentId": 18359,
+            "parentName": "Только в Ленте",
+            "slug": "kulinariya-i-pekarnya-lenty"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20519,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Заморозка",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "zamorozka"
+        }
+    ],
+    "filters": {
+        "checkbox": [],
+        "multicheckbox": [
+            {
+                "attributeId": 238,
+                "key": "brand",
+                "name": "Бренд",
+                "position": 1,
+                "slug": "brand",
+                "total": 21,
+                "values": [
+                    {
+                        "id": 10962909,
+                        "selected": false,
+                        "slug": "lenta-fresh",
+                        "total": 4,
+                        "value": "ЛЕНТА FRESH"
+                    },
+                    {
+                        "id": 28881007,
+                        "selected": false,
+                        "slug": "lenta-fresh-sp",
+                        "total": 4,
+                        "value": "ЛЕНТА FRESH СП"
+                    },
+                    {
+                        "id": 10734080,
+                        "selected": false,
+                        "slug": "maggi",
+                        "total": 2,
+                        "value": "MAGGI"
+                    },
+                    {
+                        "id": 10732443,
+                        "selected": false,
+                        "slug": "365-dnejj",
+                        "total": 1,
+                        "value": "365 ДНЕЙ"
+                    },
+                    {
+                        "id": 10786792,
+                        "selected": false,
+                        "slug": "bonvida",
+                        "total": 1,
+                        "value": "BONVIDA"
+                    },
+                    {
+                        "id": 11256229,
+                        "selected": false,
+                        "slug": "knorr",
+                        "total": 1,
+                        "value": "KNORR"
+                    },
+                    {
+                        "id": 10757694,
+                        "selected": false,
+                        "slug": "biznes-menyu",
+                        "total": 1,
+                        "value": "БИЗНЕС МЕНЮ"
+                    },
+                    {
+                        "id": 10732741,
+                        "selected": false,
+                        "slug": "miratorg",
+                        "total": 1,
+                        "value": "МИРАТОРГ"
+                    },
+                    {
+                        "id": 10742462,
+                        "selected": false,
+                        "slug": "morozko",
+                        "total": 1,
+                        "value": "МОРОЗКО"
+                    },
+                    {
+                        "id": 10731238,
+                        "selected": false,
+                        "slug": "naturbufet",
+                        "total": 1,
+                        "value": "НАТУРБУФЕТ"
+                    },
+                    {
+                        "id": 10720665,
+                        "selected": false,
+                        "slug": "prochie-tovary",
+                        "total": 1,
+                        "value": "Прочие Товары"
+                    },
+                    {
+                        "id": 10902062,
+                        "selected": false,
+                        "slug": "remit",
+                        "total": 1,
+                        "value": "РЕМИТ"
+                    },
+                    {
+                        "id": 10906072,
+                        "selected": false,
+                        "slug": "cherkizovo-premium",
+                        "total": 1,
+                        "value": "ЧЕРКИЗОВО ПРЕМИУМ"
+                    },
+                    {
+                        "id": 10720720,
+                        "selected": false,
+                        "slug": "chtm-fantasy-brands",
+                        "total": 1,
+                        "value": "ЧТМ fantasy brands"
+                    }
+                ]
+            },
+            {
+                "attributeId": 303,
+                "key": "attribute_303",
+                "name": "Вес",
+                "position": 2,
+                "slug": "ves",
+                "total": 11,
+                "values": [
+                    {
+                        "id": 1483072108,
+                        "selected": false,
+                        "slug": "306",
+                        "total": 2,
+                        "value": "30.6"
+                    },
+                    {
+                        "id": 1480936232,
+                        "selected": false,
+                        "slug": "0955",
+                        "total": 1,
+                        "value": "0.955"
+                    },
+                    {
+                        "id": 1480921006,
+                        "selected": false,
+                        "slug": "28",
+                        "total": 1,
+                        "value": "28"
+                    },
+                    {
+                        "id": 1480795548,
+                        "selected": false,
+                        "slug": "85",
+                        "total": 1,
+                        "value": "85"
+                    },
+                    {
+                        "id": 1480800304,
+                        "selected": false,
+                        "slug": "110",
+                        "total": 1,
+                        "value": "110"
+                    },
+                    {
+                        "id": 1480791806,
+                        "selected": false,
+                        "slug": "250",
+                        "total": 1,
+                        "value": "250"
+                    },
+                    {
+                        "id": 1480791978,
+                        "selected": false,
+                        "slug": "270",
+                        "total": 1,
+                        "value": "270"
+                    },
+                    {
+                        "id": 1480792006,
+                        "selected": false,
+                        "slug": "300",
+                        "total": 1,
+                        "value": "300"
+                    },
+                    {
+                        "id": 1480793785,
+                        "selected": false,
+                        "slug": "400",
+                        "total": 1,
+                        "value": "400"
+                    },
+                    {
+                        "id": 1480791423,
+                        "selected": false,
+                        "slug": "500",
+                        "total": 1,
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "attributeId": 311,
+                "key": "attribute_311",
+                "name": "Тип Разделки/Форма Выпуска",
+                "position": 3,
+                "slug": "tip-razdelkiforma-vypuska",
+                "total": 10,
+                "values": [
+                    {
+                        "id": 1489731571,
+                        "selected": false,
+                        "slug": "kusok",
+                        "total": 5,
+                        "value": "Кусок"
+                    },
+                    {
+                        "id": 1489755006,
+                        "selected": false,
+                        "slug": "file",
+                        "total": 2,
+                        "value": "Филе"
+                    },
+                    {
+                        "id": 1489772863,
+                        "selected": false,
+                        "slug": "grudka",
+                        "total": 1,
+                        "value": "Грудка"
+                    },
+                    {
+                        "id": 1489985611,
+                        "selected": false,
+                        "slug": "naggetsy",
+                        "total": 1,
+                        "value": "Наггетсы"
+                    },
+                    {
+                        "id": 1489773349,
+                        "selected": false,
+                        "slug": "shashlyk",
+                        "total": 1,
+                        "value": "Шашлык"
+                    }
+                ]
+            },
+            {
+                "attributeId": 3,
+                "key": "attribute_3",
+                "name": "Начинка/Добавки",
+                "position": 4,
+                "slug": "nachinkadobavki",
+                "total": 8,
+                "values": [
+                    {
+                        "id": 7635808,
+                        "selected": false,
+                        "slug": "petrushka",
+                        "total": 2,
+                        "value": "Петрушка"
+                    },
+                    {
+                        "id": 6768015,
+                        "selected": false,
+                        "slug": "kurica",
+                        "total": 1,
+                        "value": "Курица"
+                    },
+                    {
+                        "id": 6845784,
+                        "selected": false,
+                        "slug": "morkov",
+                        "total": 1,
+                        "value": "Морковь"
+                    },
+                    {
+                        "id": 6752918,
+                        "selected": false,
+                        "slug": "ovoshchi",
+                        "total": 1,
+                        "value": "Овощи"
+                    },
+                    {
+                        "id": 7174969,
+                        "selected": false,
+                        "slug": "olivki",
+                        "total": 1,
+                        "value": "Оливки"
+                    },
+                    {
+                        "id": 6909890,
+                        "selected": false,
+                        "slug": "pryanosti",
+                        "total": 1,
+                        "value": "Пряности"
+                    },
+                    {
+                        "id": 18399389,
+                        "selected": false,
+                        "slug": "sous-slivochnyjj",
+                        "total": 1,
+                        "value": "Соус сливочный"
+                    }
+                ]
+            },
+            {
+                "attributeId": 105,
+                "key": "attribute_105",
+                "name": "Вид мяса",
+                "position": 5,
+                "slug": "vid-myasa",
+                "total": 13,
+                "values": [
+                    {
+                        "id": 6779457,
+                        "selected": false,
+                        "slug": "kuryatina",
+                        "total": 11,
+                        "value": "Курятина"
+                    },
+                    {
+                        "id": 6754396,
+                        "selected": false,
+                        "slug": "smeshannyjj",
+                        "total": 2,
+                        "value": "Смешанный"
+                    }
+                ]
+            },
+            {
+                "attributeId": 190,
+                "key": "attribute_190",
+                "name": "Вкус",
+                "position": 6,
+                "slug": "vkus",
+                "total": 5,
+                "values": [
+                    {
+                        "id": 1353528832,
+                        "selected": false,
+                        "slug": "kurica",
+                        "total": 2,
+                        "value": "Курица"
+                    },
+                    {
+                        "id": 1353528709,
+                        "selected": false,
+                        "slug": "tomat",
+                        "total": 2,
+                        "value": "Томат"
+                    },
+                    {
+                        "id": 1364488624,
+                        "selected": false,
+                        "slug": "limon",
+                        "total": 1,
+                        "value": "Лимон"
+                    }
+                ]
+            },
+            {
+                "attributeId": 235,
+                "key": "attribute_235",
+                "name": "Страна",
+                "position": 7,
+                "slug": "strana",
+                "total": 20,
+                "values": [
+                    {
+                        "id": 10720646,
+                        "selected": false,
+                        "slug": "rossiya",
+                        "total": 20,
+                        "value": "Россия"
+                    }
+                ]
+            }
+        ],
+        "range": []
+    },
+    "items": [
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-24%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 5,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 11991,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/11991/13510e61-cb87-4c8d-9e10-d08b534d47fb.png",
+                    "id": 865117,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/11991/13510e61-cb87-4c8d-9e10-d08b534d47fb.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/11991/13510e61-cb87-4c8d-9e10-d08b534d47fb.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/11991/13510e61-cb87-4c8d-9e10-d08b534d47fb.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/11991/13510e61-cb87-4c8d-9e10-d08b534d47fb.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/11991/8de9074d-53dd-4f57-b82e-3e12f7a72fd9.png",
+                    "id": 865118,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/11991/8de9074d-53dd-4f57-b82e-3e12f7a72fd9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/11991/8de9074d-53dd-4f57-b82e-3e12f7a72fd9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/11991/8de9074d-53dd-4f57-b82e-3e12f7a72fd9.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/11991/8de9074d-53dd-4f57-b82e-3e12f7a72fd9.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/11991/9bf469e5-9b34-475f-80de-9156f44173a9.png",
+                    "id": 865119,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/11991/9bf469e5-9b34-475f-80de-9156f44173a9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/11991/9bf469e5-9b34-475f-80de-9156f44173a9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/11991/9bf469e5-9b34-475f-80de-9156f44173a9.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/11991/9bf469e5-9b34-475f-80de-9156f44173a9.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/11991/2807831a-5c4f-4148-94fd-286dffe1bc2e.png",
+                    "id": 865120,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/11991/2807831a-5c4f-4148-94fd-286dffe1bc2e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/11991/2807831a-5c4f-4148-94fd-286dffe1bc2e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/11991/2807831a-5c4f-4148-94fd-286dffe1bc2e.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/11991/2807831a-5c4f-4148-94fd-286dffe1bc2e.png"
+                }
+            ],
+            "name": "Филе грудки куриное ЛЕНТА FRESH, весовое",
+            "prices": {
+                "cost": 39999,
+                "costRegular": 52639,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 20000,
+                "priceRegular": 26320
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 991
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 5,
+                "minSaleQuantity": 1
+            },
+            "slug": "kurinoe-file-s-grudki-polufabrikat-ohlazhdennyjj-ves-lenta-fresh-sp-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 500,
+                "net": 500,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-23%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 50,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 123587,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/123587/56a0ed92-e319-493c-bc43-89cc2947a54f.png",
+                    "id": 705674,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/123587/56a0ed92-e319-493c-bc43-89cc2947a54f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/123587/56a0ed92-e319-493c-bc43-89cc2947a54f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/123587/56a0ed92-e319-493c-bc43-89cc2947a54f.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/123587/56a0ed92-e319-493c-bc43-89cc2947a54f.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/123587/915e2607-79a5-4371-8611-cd1f77a4f066.png",
+                    "id": 705673,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/123587/915e2607-79a5-4371-8611-cd1f77a4f066.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/123587/915e2607-79a5-4371-8611-cd1f77a4f066.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/123587/915e2607-79a5-4371-8611-cd1f77a4f066.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/123587/915e2607-79a5-4371-8611-cd1f77a4f066.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/123587/900cfcda-cff1-45a2-98fc-c9883b8f20d3.png",
+                    "id": 705675,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/123587/900cfcda-cff1-45a2-98fc-c9883b8f20d3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/123587/900cfcda-cff1-45a2-98fc-c9883b8f20d3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/123587/900cfcda-cff1-45a2-98fc-c9883b8f20d3.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/123587/900cfcda-cff1-45a2-98fc-c9883b8f20d3.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/123587/b8b8cce0b4bccec6.png",
+                    "id": 21703,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/123587/b8b8cce0b4bccec6.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/123587/b8b8cce0b4bccec6.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/123587/b8b8cce0b4bccec6.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/123587/b8b8cce0b4bccec6.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/123587/98f8a4d6f6e0e0e0.png",
+                    "id": 21711,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/123587/98f8a4d6f6e0e0e0.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/123587/98f8a4d6f6e0e0e0.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/123587/98f8a4d6f6e0e0e0.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/123587/98f8a4d6f6e0e0e0.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/123587/84e2737171373f63.png",
+                    "id": 21719,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/123587/84e2737171373f63.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/123587/84e2737171373f63.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/123587/84e2737171373f63.png",
+                    "position": 6,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/123587/84e2737171373f63.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/123587/321cacbf-49cd-4b1d-9453-34e63f1f168d.png",
+                    "id": 865101,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/123587/321cacbf-49cd-4b1d-9453-34e63f1f168d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/123587/321cacbf-49cd-4b1d-9453-34e63f1f168d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/123587/321cacbf-49cd-4b1d-9453-34e63f1f168d.png",
+                    "position": 7,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/123587/321cacbf-49cd-4b1d-9453-34e63f1f168d.png"
+                }
+            ],
+            "name": "Шашлык из филе куриной грудки ЛЕНТА FRESH Деликатесный",
+            "prices": {
+                "cost": 41999,
+                "costRegular": 54739,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 41999,
+                "priceRegular": 54739
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.6,
+                "votes": 485
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 50,
+                "minSaleQuantity": 1
+            },
+            "slug": "shashlyk-lenta-fresh-sp-iz-file-grudki-kurinojj-delikatesnyjj-polufabrikat-ohlazhdennyjj-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 1000,
+                "net": 1000,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-32%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 25,
+            "dimensions": {
+                "height": 34,
+                "length": 153,
+                "width": 150
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 697242,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/697242/f9faeb21-4523-4b17-b4ee-b91eea5804ca.png",
+                    "id": 786486,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/697242/f9faeb21-4523-4b17-b4ee-b91eea5804ca.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/697242/f9faeb21-4523-4b17-b4ee-b91eea5804ca.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/697242/f9faeb21-4523-4b17-b4ee-b91eea5804ca.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/697242/f9faeb21-4523-4b17-b4ee-b91eea5804ca.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/697242/837e41af-22f7-46d1-a19d-ddba59619556.png",
+                    "id": 786485,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/697242/837e41af-22f7-46d1-a19d-ddba59619556.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/697242/837e41af-22f7-46d1-a19d-ddba59619556.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/697242/837e41af-22f7-46d1-a19d-ddba59619556.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/697242/837e41af-22f7-46d1-a19d-ddba59619556.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/697242/8fff4064-4f3c-4c82-b240-d303eb946b58.png",
+                    "id": 786487,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/697242/8fff4064-4f3c-4c82-b240-d303eb946b58.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/697242/8fff4064-4f3c-4c82-b240-d303eb946b58.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/697242/8fff4064-4f3c-4c82-b240-d303eb946b58.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/697242/8fff4064-4f3c-4c82-b240-d303eb946b58.png"
+                }
+            ],
+            "name": "Сосиски ЛЕНТА Выбор экспертов из филе куриной грудки, 400г",
+            "prices": {
+                "cost": 17999,
+                "costRegular": 26319,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 17999,
+                "priceRegular": 26319
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 103
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 25,
+                "minSaleQuantity": 1
+            },
+            "slug": "sosiski-chtm-fantasy-brands-vybor-ekspertov-iz-file-kurinojj-grudki-co-mgs-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 415,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 5,
+            "dimensions": {
+                "height": 20,
+                "length": 15,
+                "width": 10
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 199546,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/199546/994d9ffa-55c2-4e03-9e22-fef7e9aa684b.png",
+                    "id": 857479,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/199546/994d9ffa-55c2-4e03-9e22-fef7e9aa684b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/199546/994d9ffa-55c2-4e03-9e22-fef7e9aa684b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/199546/994d9ffa-55c2-4e03-9e22-fef7e9aa684b.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/199546/994d9ffa-55c2-4e03-9e22-fef7e9aa684b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/199546/99d41881-5c75-4df7-b972-a62f7ee0e210.png",
+                    "id": 858822,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/199546/99d41881-5c75-4df7-b972-a62f7ee0e210.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/199546/99d41881-5c75-4df7-b972-a62f7ee0e210.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/199546/99d41881-5c75-4df7-b972-a62f7ee0e210.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/199546/99d41881-5c75-4df7-b972-a62f7ee0e210.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/199546/ffc86721-1ca1-4eea-86a7-8a9fd34de310.png",
+                    "id": 857480,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/199546/ffc86721-1ca1-4eea-86a7-8a9fd34de310.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/199546/ffc86721-1ca1-4eea-86a7-8a9fd34de310.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/199546/ffc86721-1ca1-4eea-86a7-8a9fd34de310.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/199546/ffc86721-1ca1-4eea-86a7-8a9fd34de310.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/199546/18f82ff2-432c-4ab5-8d1f-0e8283dab7b4.png",
+                    "id": 858823,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/199546/18f82ff2-432c-4ab5-8d1f-0e8283dab7b4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/199546/18f82ff2-432c-4ab5-8d1f-0e8283dab7b4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/199546/18f82ff2-432c-4ab5-8d1f-0e8283dab7b4.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/199546/18f82ff2-432c-4ab5-8d1f-0e8283dab7b4.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/199546/661f3de3-9332-4227-8f7f-4abbd73bedeb.png",
+                    "id": 857482,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/199546/661f3de3-9332-4227-8f7f-4abbd73bedeb.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/199546/661f3de3-9332-4227-8f7f-4abbd73bedeb.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/199546/661f3de3-9332-4227-8f7f-4abbd73bedeb.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/199546/661f3de3-9332-4227-8f7f-4abbd73bedeb.png"
+                }
+            ],
+            "name": "Филе куриное 365 ДНЕЙ, весовое",
+            "prices": {
+                "cost": 44999,
+                "costRegular": 47368,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 44999,
+                "priceRegular": 47368
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 2915
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 5,
+                "minSaleQuantity": 1
+            },
+            "slug": "file-kurinoe-365-dnejj-ohl-fas-ves-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 1000,
+                "net": 1000,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-23%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 50,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 505492,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/505492/3900774b-4f5c-42f6-9fdf-aa9a4a394dea.png",
+                    "id": 880331,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/505492/3900774b-4f5c-42f6-9fdf-aa9a4a394dea.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/505492/3900774b-4f5c-42f6-9fdf-aa9a4a394dea.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/505492/3900774b-4f5c-42f6-9fdf-aa9a4a394dea.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/505492/3900774b-4f5c-42f6-9fdf-aa9a4a394dea.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/505492/ab8154ef-94ed-497b-a921-a6433a139741.png",
+                    "id": 880332,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/505492/ab8154ef-94ed-497b-a921-a6433a139741.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/505492/ab8154ef-94ed-497b-a921-a6433a139741.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/505492/ab8154ef-94ed-497b-a921-a6433a139741.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/505492/ab8154ef-94ed-497b-a921-a6433a139741.png"
+                }
+            ],
+            "name": "Филе куриное ЛЕНТА FRESH с бедра, весовое",
+            "prices": {
+                "cost": 42999,
+                "costRegular": 55789,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 42999,
+                "priceRegular": 55789
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 115
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 50,
+                "minSaleQuantity": 1
+            },
+            "slug": "kurinoe-file-s-bedra-polufabrikat-ohlazhdennyjj-lenta-fresh-sp-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 1000,
+                "net": 1000,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-17%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 11,
+            "dimensions": {
+                "height": 19,
+                "length": 14,
+                "width": 9
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 722922,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722922/bd0fe66b-f494-4423-8b27-96b28405aad5.png",
+                    "id": 824700,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722922/bd0fe66b-f494-4423-8b27-96b28405aad5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722922/bd0fe66b-f494-4423-8b27-96b28405aad5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722922/bd0fe66b-f494-4423-8b27-96b28405aad5.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722922/bd0fe66b-f494-4423-8b27-96b28405aad5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722922/d6986e22-3037-409f-a79b-e4f16298b015.png",
+                    "id": 824699,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722922/d6986e22-3037-409f-a79b-e4f16298b015.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722922/d6986e22-3037-409f-a79b-e4f16298b015.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722922/d6986e22-3037-409f-a79b-e4f16298b015.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722922/d6986e22-3037-409f-a79b-e4f16298b015.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722922/2bb32ee0-5f9a-47b9-ad63-5bc702236fb1.png",
+                    "id": 824701,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722922/2bb32ee0-5f9a-47b9-ad63-5bc702236fb1.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722922/2bb32ee0-5f9a-47b9-ad63-5bc702236fb1.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722922/2bb32ee0-5f9a-47b9-ad63-5bc702236fb1.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722922/2bb32ee0-5f9a-47b9-ad63-5bc702236fb1.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722922/093b4f90-2ee1-44c9-a1c7-5c4a440eb85b.png",
+                    "id": 824702,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722922/093b4f90-2ee1-44c9-a1c7-5c4a440eb85b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722922/093b4f90-2ee1-44c9-a1c7-5c4a440eb85b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722922/093b4f90-2ee1-44c9-a1c7-5c4a440eb85b.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722922/093b4f90-2ee1-44c9-a1c7-5c4a440eb85b.png"
+                }
+            ],
+            "name": "Филе куриное копчено-вареное BONVIDA, весовое",
+            "prices": {
+                "cost": 89999,
+                "costRegular": 108429,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 98999,
+                "priceRegular": 119272
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 43
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 11,
+                "minSaleQuantity": 1
+            },
+            "slug": "file-kurinoe-bonvida-vk-ves-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 1100,
+                "net": 1100,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-14%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 50,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 709386,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/709386/4a558efb-d366-49b4-a035-12ec3ed22118.png",
+                    "id": 875720,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/709386/4a558efb-d366-49b4-a035-12ec3ed22118.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/709386/4a558efb-d366-49b4-a035-12ec3ed22118.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/709386/4a558efb-d366-49b4-a035-12ec3ed22118.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/709386/4a558efb-d366-49b4-a035-12ec3ed22118.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/709386/375fe91e-43d8-47d4-b08f-0f66ebaff732.png",
+                    "id": 718892,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/709386/375fe91e-43d8-47d4-b08f-0f66ebaff732.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/709386/375fe91e-43d8-47d4-b08f-0f66ebaff732.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/709386/375fe91e-43d8-47d4-b08f-0f66ebaff732.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/709386/375fe91e-43d8-47d4-b08f-0f66ebaff732.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/709386/25877c0b-58ee-41ed-ae2b-3ff852791914.png",
+                    "id": 875721,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/709386/25877c0b-58ee-41ed-ae2b-3ff852791914.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/709386/25877c0b-58ee-41ed-ae2b-3ff852791914.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/709386/25877c0b-58ee-41ed-ae2b-3ff852791914.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/709386/25877c0b-58ee-41ed-ae2b-3ff852791914.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/709386/d128e5db-7350-4bbf-a084-86498a808a98.png",
+                    "id": 875722,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/709386/d128e5db-7350-4bbf-a084-86498a808a98.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/709386/d128e5db-7350-4bbf-a084-86498a808a98.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/709386/d128e5db-7350-4bbf-a084-86498a808a98.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/709386/d128e5db-7350-4bbf-a084-86498a808a98.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/709386/480db46b-cfd6-45c2-927f-44e693c3db76.png",
+                    "id": 769840,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/709386/480db46b-cfd6-45c2-927f-44e693c3db76.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/709386/480db46b-cfd6-45c2-927f-44e693c3db76.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/709386/480db46b-cfd6-45c2-927f-44e693c3db76.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/709386/480db46b-cfd6-45c2-927f-44e693c3db76.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/709386/8329a6b7-c103-445a-b9aa-b8437b2e8afa.png",
+                    "id": 769841,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/709386/8329a6b7-c103-445a-b9aa-b8437b2e8afa.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/709386/8329a6b7-c103-445a-b9aa-b8437b2e8afa.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/709386/8329a6b7-c103-445a-b9aa-b8437b2e8afa.png",
+                    "position": 6,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/709386/8329a6b7-c103-445a-b9aa-b8437b2e8afa.png"
+                }
+            ],
+            "name": "Шашлык из куриного филе бедра ЛЕНТА FRESH в маринаде",
+            "prices": {
+                "cost": 49999,
+                "costRegular": 57899,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 74999,
+                "priceRegular": 86849
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.3,
+                "votes": 76
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 50,
+                "minSaleQuantity": 1
+            },
+            "slug": "shashlyk-iz-kurinogo-file-bedra-v-marinade-polufabrikat-ohlazhdennyjj",
+            "storeId": 124,
+            "weight": {
+                "gross": 1500,
+                "net": 1500,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-27%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#6abe00",
+                        "title": "Местный продукт",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 8,
+            "dimensions": {
+                "height": 20,
+                "length": 15,
+                "width": 10
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 665013,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/665013/ea0ae3eb-f45c-4be3-8c84-93553db33ce0.png",
+                    "id": 630934,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/665013/ea0ae3eb-f45c-4be3-8c84-93553db33ce0.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/665013/ea0ae3eb-f45c-4be3-8c84-93553db33ce0.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/665013/ea0ae3eb-f45c-4be3-8c84-93553db33ce0.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/665013/ea0ae3eb-f45c-4be3-8c84-93553db33ce0.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/665013/34fbb96b-88c4-42a6-88fa-6f579282bf6a.png",
+                    "id": 630933,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/665013/34fbb96b-88c4-42a6-88fa-6f579282bf6a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/665013/34fbb96b-88c4-42a6-88fa-6f579282bf6a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/665013/34fbb96b-88c4-42a6-88fa-6f579282bf6a.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/665013/34fbb96b-88c4-42a6-88fa-6f579282bf6a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/665013/dd609400-63ad-45c7-be4d-91017260481c.png",
+                    "id": 610761,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/665013/dd609400-63ad-45c7-be4d-91017260481c.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/665013/dd609400-63ad-45c7-be4d-91017260481c.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/665013/dd609400-63ad-45c7-be4d-91017260481c.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/665013/dd609400-63ad-45c7-be4d-91017260481c.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/665013/3dacd335-478e-4813-9372-20f0fc45e880.png",
+                    "id": 565548,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/665013/3dacd335-478e-4813-9372-20f0fc45e880.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/665013/3dacd335-478e-4813-9372-20f0fc45e880.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/665013/3dacd335-478e-4813-9372-20f0fc45e880.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/665013/3dacd335-478e-4813-9372-20f0fc45e880.png"
+                }
+            ],
+            "name": "Грудка куриная копчено-вареная РЕМИТ, весовая",
+            "prices": {
+                "cost": 102999,
+                "costRegular": 141059,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 82399,
+                "priceRegular": 112847
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.5,
+                "votes": 11
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 8,
+                "minSaleQuantity": 1
+            },
+            "slug": "grudka-remit-kurinaya-kv-vu-ves-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 800,
+                "net": 800,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-24%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 7,
+            "dimensions": {
+                "height": 50,
+                "length": 190,
+                "width": 136
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 710189,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710189/5a7fa118-5606-4d9d-8ab5-e5db5eb7c454.png",
+                    "id": 726354,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710189/5a7fa118-5606-4d9d-8ab5-e5db5eb7c454.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710189/5a7fa118-5606-4d9d-8ab5-e5db5eb7c454.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710189/5a7fa118-5606-4d9d-8ab5-e5db5eb7c454.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710189/5a7fa118-5606-4d9d-8ab5-e5db5eb7c454.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710189/c54e583a-fd06-4699-a4be-a08f284ecc1b.png",
+                    "id": 726353,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710189/c54e583a-fd06-4699-a4be-a08f284ecc1b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710189/c54e583a-fd06-4699-a4be-a08f284ecc1b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710189/c54e583a-fd06-4699-a4be-a08f284ecc1b.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710189/c54e583a-fd06-4699-a4be-a08f284ecc1b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710189/cc8093ed-0736-413d-8378-f07e95bfcc26.png",
+                    "id": 726355,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710189/cc8093ed-0736-413d-8378-f07e95bfcc26.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710189/cc8093ed-0736-413d-8378-f07e95bfcc26.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710189/cc8093ed-0736-413d-8378-f07e95bfcc26.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710189/cc8093ed-0736-413d-8378-f07e95bfcc26.png"
+                }
+            ],
+            "name": "Пельмени ЛЕНТА FRESH с куриной грудкой, 500г",
+            "prices": {
+                "cost": 19999,
+                "costRegular": 26315,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 19999,
+                "priceRegular": 26315
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 105
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 7,
+                "minSaleQuantity": 1
+            },
+            "slug": "pelmeni-lenta-fresh-s-kurinojj-grudkojj-rossiya-500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 566,
+                "net": 0,
+                "package": "500г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 20,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 607397,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/607397/7743bd7e-add6-4807-a7d1-e91a5e80930f.png",
+                    "id": 596692,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/607397/7743bd7e-add6-4807-a7d1-e91a5e80930f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/607397/7743bd7e-add6-4807-a7d1-e91a5e80930f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/607397/7743bd7e-add6-4807-a7d1-e91a5e80930f.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/607397/7743bd7e-add6-4807-a7d1-e91a5e80930f.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/607397/097bf692-35cf-4337-a72f-7deee8ce3553.png",
+                    "id": 596691,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/607397/097bf692-35cf-4337-a72f-7deee8ce3553.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/607397/097bf692-35cf-4337-a72f-7deee8ce3553.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/607397/097bf692-35cf-4337-a72f-7deee8ce3553.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/607397/097bf692-35cf-4337-a72f-7deee8ce3553.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/607397/b33aa1df-9eb2-4116-8d4e-c1e96662781a.png",
+                    "id": 596693,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/607397/b33aa1df-9eb2-4116-8d4e-c1e96662781a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/607397/b33aa1df-9eb2-4116-8d4e-c1e96662781a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/607397/b33aa1df-9eb2-4116-8d4e-c1e96662781a.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/607397/b33aa1df-9eb2-4116-8d4e-c1e96662781a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/607397/4088f8e8-d887-42b2-aecb-5433fb4cbbaf.png",
+                    "id": 596694,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/607397/4088f8e8-d887-42b2-aecb-5433fb4cbbaf.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/607397/4088f8e8-d887-42b2-aecb-5433fb4cbbaf.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/607397/4088f8e8-d887-42b2-aecb-5433fb4cbbaf.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/607397/4088f8e8-d887-42b2-aecb-5433fb4cbbaf.png"
+                }
+            ],
+            "name": "Грудка куриная копчено-вареная ЛЕНТА FRESH, весовая",
+            "prices": {
+                "cost": 57999,
+                "costRegular": 68319,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 29000,
+                "priceRegular": 34160
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 171
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 20,
+                "minSaleQuantity": 1
+            },
+            "slug": "grudka-lenta-fresh-kurinaya-kopcheno-varenaya-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 500,
+                "net": 500,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-35%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 12,
+            "dimensions": {
+                "height": 25,
+                "length": 150,
+                "width": 135
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 719153,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719153/f9f9bcee-5118-4a66-ba31-97c8ed7d159c.png",
+                    "id": 816366,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719153/f9f9bcee-5118-4a66-ba31-97c8ed7d159c.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719153/f9f9bcee-5118-4a66-ba31-97c8ed7d159c.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719153/f9f9bcee-5118-4a66-ba31-97c8ed7d159c.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719153/f9f9bcee-5118-4a66-ba31-97c8ed7d159c.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719153/e83c8f59-773b-49e8-abcf-26711c8899f1.png",
+                    "id": 816365,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719153/e83c8f59-773b-49e8-abcf-26711c8899f1.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719153/e83c8f59-773b-49e8-abcf-26711c8899f1.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719153/e83c8f59-773b-49e8-abcf-26711c8899f1.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719153/e83c8f59-773b-49e8-abcf-26711c8899f1.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719153/adc3bb5f-781f-4d16-920d-859d249fba64.png",
+                    "id": 774935,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719153/adc3bb5f-781f-4d16-920d-859d249fba64.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719153/adc3bb5f-781f-4d16-920d-859d249fba64.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719153/adc3bb5f-781f-4d16-920d-859d249fba64.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719153/adc3bb5f-781f-4d16-920d-859d249fba64.png"
+                }
+            ],
+            "name": "Сосиски ЧЕРКИЗОВО ПРЕМИУМ Филейные с куриной грудкой, 270г",
+            "prices": {
+                "cost": 13999,
+                "costRegular": 21578,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 13999,
+                "priceRegular": 21578
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 32
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 12,
+                "minSaleQuantity": 1
+            },
+            "slug": "sosiski-cherkizovo-premium-filejjnye-s-kurinojj-grudkojj-rossiya-270g",
+            "storeId": 124,
+            "weight": {
+                "gross": 270,
+                "net": 0,
+                "package": "270г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-37%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 54,
+            "dimensions": {
+                "height": 193,
+                "length": 8,
+                "width": 127
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 353199,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "id": 650958,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "id": 650957,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png"
+                }
+            ],
+            "name": "Приправа MAGGI На второе для куриной грудки по-итальянски, смесь на бумаге, 30,6г",
+            "prices": {
+                "cost": 5999,
+                "costRegular": 9479,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 5999,
+                "priceRegular": 9479
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 78
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 54,
+                "minSaleQuantity": 1
+            },
+            "slug": "smes-na-bumage-maggi-dkurinojj-grudki-po-italyanski-rossiya-306g",
+            "storeId": 124,
+            "weight": {
+                "gross": 34,
+                "net": 0,
+                "package": "30,6г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 5,
+            "dimensions": {
+                "height": 36,
+                "length": 187,
+                "width": 137
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 719785,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719785/8bac913a-13d7-44b9-88bc-c473df9bc921.png",
+                    "id": 788820,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719785/8bac913a-13d7-44b9-88bc-c473df9bc921.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719785/8bac913a-13d7-44b9-88bc-c473df9bc921.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719785/8bac913a-13d7-44b9-88bc-c473df9bc921.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719785/8bac913a-13d7-44b9-88bc-c473df9bc921.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719785/8911e1e8-d3be-469f-8869-e99c89ce7489.png",
+                    "id": 788819,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719785/8911e1e8-d3be-469f-8869-e99c89ce7489.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719785/8911e1e8-d3be-469f-8869-e99c89ce7489.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719785/8911e1e8-d3be-469f-8869-e99c89ce7489.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719785/8911e1e8-d3be-469f-8869-e99c89ce7489.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719785/e1a42928-6210-40d1-b7b3-073e3cbb87c6.png",
+                    "id": 788821,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719785/e1a42928-6210-40d1-b7b3-073e3cbb87c6.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719785/e1a42928-6210-40d1-b7b3-073e3cbb87c6.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719785/e1a42928-6210-40d1-b7b3-073e3cbb87c6.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719785/e1a42928-6210-40d1-b7b3-073e3cbb87c6.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719785/c27eded8-4f62-4d15-8885-fcdf8382d8ce.png",
+                    "id": 788822,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719785/c27eded8-4f62-4d15-8885-fcdf8382d8ce.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719785/c27eded8-4f62-4d15-8885-fcdf8382d8ce.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719785/c27eded8-4f62-4d15-8885-fcdf8382d8ce.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719785/c27eded8-4f62-4d15-8885-fcdf8382d8ce.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719785/7a5e5c6f-8f5a-4dca-80bc-5b8e1726a716.png",
+                    "id": 788823,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719785/7a5e5c6f-8f5a-4dca-80bc-5b8e1726a716.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719785/7a5e5c6f-8f5a-4dca-80bc-5b8e1726a716.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719785/7a5e5c6f-8f5a-4dca-80bc-5b8e1726a716.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719785/7a5e5c6f-8f5a-4dca-80bc-5b8e1726a716.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/719785/14bde6df-6d09-433a-9f75-edf42adb5841.png",
+                    "id": 788824,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/719785/14bde6df-6d09-433a-9f75-edf42adb5841.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/719785/14bde6df-6d09-433a-9f75-edf42adb5841.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/719785/14bde6df-6d09-433a-9f75-edf42adb5841.png",
+                    "position": 6,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/719785/14bde6df-6d09-433a-9f75-edf42adb5841.png"
+                }
+            ],
+            "name": "Грудка куриная НАТУРБУФЕТ в сливочно-морковном соусе с кус-кусом, 250г",
+            "prices": {
+                "cost": 18499,
+                "costRegular": 19473,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 18499,
+                "priceRegular": 19473
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 3
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 5,
+                "minSaleQuantity": 1
+            },
+            "slug": "grudka-kurinaya-naturbufet-v-slivochno-morkovnom-souse-s-kus-kusom-rossiya-250g",
+            "storeId": 124,
+            "weight": {
+                "gross": 260,
+                "net": 0,
+                "package": "250г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 31,
+            "dimensions": {
+                "height": 190,
+                "length": 9,
+                "width": 130
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 391085,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/391085/d4e81341-b8dc-408e-b994-0ff8c68ac9ae.png",
+                    "id": 657756,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/391085/d4e81341-b8dc-408e-b994-0ff8c68ac9ae.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/391085/d4e81341-b8dc-408e-b994-0ff8c68ac9ae.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/391085/d4e81341-b8dc-408e-b994-0ff8c68ac9ae.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/391085/d4e81341-b8dc-408e-b994-0ff8c68ac9ae.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/391085/65f81bd4-7b7e-4148-93d8-a5b611e1ebf5.png",
+                    "id": 657755,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/391085/65f81bd4-7b7e-4148-93d8-a5b611e1ebf5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/391085/65f81bd4-7b7e-4148-93d8-a5b611e1ebf5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/391085/65f81bd4-7b7e-4148-93d8-a5b611e1ebf5.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/391085/65f81bd4-7b7e-4148-93d8-a5b611e1ebf5.png"
+                }
+            ],
+            "name": "Смесь KNORR На второе Куриные грудки в кисло-сладком соусе по-азиатски, 28г",
+            "prices": {
+                "cost": 7199,
+                "costRegular": 8420,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 7199,
+                "priceRegular": 8420
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 2
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 31,
+                "minSaleQuantity": 1
+            },
+            "slug": "suhaya-smes-knorr-na-vtoroe-kur-grudk-v-kisl-sladk-souse-po-aziatski-rossiya-28g",
+            "storeId": 124,
+            "weight": {
+                "gross": 37,
+                "net": 0,
+                "package": "28г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-33%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 100,
+            "dimensions": {
+                "height": 193,
+                "length": 8,
+                "width": 127
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 353201,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353201/81e4e0e4-baff-40e8-8621-6c2fa652553a.png",
+                    "id": 641511,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353201/81e4e0e4-baff-40e8-8621-6c2fa652553a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353201/81e4e0e4-baff-40e8-8621-6c2fa652553a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353201/81e4e0e4-baff-40e8-8621-6c2fa652553a.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353201/81e4e0e4-baff-40e8-8621-6c2fa652553a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353201/581e4095-6b55-4e59-9b2b-fda0be32c90f.png",
+                    "id": 641510,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353201/581e4095-6b55-4e59-9b2b-fda0be32c90f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353201/581e4095-6b55-4e59-9b2b-fda0be32c90f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353201/581e4095-6b55-4e59-9b2b-fda0be32c90f.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353201/581e4095-6b55-4e59-9b2b-fda0be32c90f.png"
+                }
+            ],
+            "name": "Приправа MAGGI На второе для куриной грудки с чесноком и травами, смесь на бумаге, 30,6г",
+            "prices": {
+                "cost": 5999,
+                "costRegular": 8947,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 5999,
+                "priceRegular": 8947
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.9,
+                "votes": 78
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 100,
+                "minSaleQuantity": 1
+            },
+            "slug": "smes-na-bumage-maggi-dkurinojj-grudki-s-chesnokom-i-travami-rossiya-306g",
+            "storeId": 124,
+            "weight": {
+                "gross": 34,
+                "net": 0,
+                "package": "30,6г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 41,
+            "dimensions": {
+                "height": 140,
+                "length": 95,
+                "width": 27
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 584033,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/584033/4fc00893-73fe-47e4-bdb5-1f0a1d4f7362.png",
+                    "id": 860184,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/584033/4fc00893-73fe-47e4-bdb5-1f0a1d4f7362.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/584033/4fc00893-73fe-47e4-bdb5-1f0a1d4f7362.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/584033/4fc00893-73fe-47e4-bdb5-1f0a1d4f7362.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/584033/4fc00893-73fe-47e4-bdb5-1f0a1d4f7362.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/584033/269aa4bc-d8b5-4200-851d-081192180efd.png",
+                    "id": 860183,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/584033/269aa4bc-d8b5-4200-851d-081192180efd.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/584033/269aa4bc-d8b5-4200-851d-081192180efd.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/584033/269aa4bc-d8b5-4200-851d-081192180efd.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/584033/269aa4bc-d8b5-4200-851d-081192180efd.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/584033/e4a80e58-0455-4778-a347-af7fc994dbd2.png",
+                    "id": 860185,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/584033/e4a80e58-0455-4778-a347-af7fc994dbd2.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/584033/e4a80e58-0455-4778-a347-af7fc994dbd2.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/584033/e4a80e58-0455-4778-a347-af7fc994dbd2.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/584033/e4a80e58-0455-4778-a347-af7fc994dbd2.png"
+                }
+            ],
+            "name": "Корм консервированный для взрослых собак WINNER Extra Meat Куриная грудка в соусе, при чувствительном пищеварении, для мелких пород, 85г",
+            "prices": {
+                "cost": 2899,
+                "costRegular": 3052,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 2899,
+                "priceRegular": 3052
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 12
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 41,
+                "minSaleQuantity": 1
+            },
+            "slug": "korm-dlya-sobak-miratorg-extra-meat-s-kurinojj-grudkojj-v-souse-dvzr-mel-por-s-chuv-pishch-rossiya-8",
+            "storeId": 124,
+            "weight": {
+                "gross": 88,
+                "net": 0,
+                "package": "85г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-12%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 19,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 697084,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/697084/ee75d86d-9fa2-42a0-8f01-96ea96bbf54e.png",
+                    "id": 695194,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/697084/ee75d86d-9fa2-42a0-8f01-96ea96bbf54e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/697084/ee75d86d-9fa2-42a0-8f01-96ea96bbf54e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/697084/ee75d86d-9fa2-42a0-8f01-96ea96bbf54e.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/697084/ee75d86d-9fa2-42a0-8f01-96ea96bbf54e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/697084/9ffcfa10-3f15-49e5-be7f-496c5163e447.png",
+                    "id": 695193,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/697084/9ffcfa10-3f15-49e5-be7f-496c5163e447.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/697084/9ffcfa10-3f15-49e5-be7f-496c5163e447.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/697084/9ffcfa10-3f15-49e5-be7f-496c5163e447.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/697084/9ffcfa10-3f15-49e5-be7f-496c5163e447.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/697084/85c6d853-d118-4911-9484-59a85bd728b3.png",
+                    "id": 695195,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/697084/85c6d853-d118-4911-9484-59a85bd728b3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/697084/85c6d853-d118-4911-9484-59a85bd728b3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/697084/85c6d853-d118-4911-9484-59a85bd728b3.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/697084/85c6d853-d118-4911-9484-59a85bd728b3.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/697084/e372b808-1d27-4728-b41b-4ef65b49c872.png",
+                    "id": 695196,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/697084/e372b808-1d27-4728-b41b-4ef65b49c872.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/697084/e372b808-1d27-4728-b41b-4ef65b49c872.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/697084/e372b808-1d27-4728-b41b-4ef65b49c872.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/697084/e372b808-1d27-4728-b41b-4ef65b49c872.png"
+                }
+            ],
+            "name": "Филе куриное копчено-вареное ЛЕНТА FRESH",
+            "prices": {
+                "cost": 91999,
+                "costRegular": 104219,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 32200,
+                "priceRegular": 36477
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 5,
+                "votes": 106
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 19,
+                "minSaleQuantity": 1
+            },
+            "slug": "file-lenta-fresh-kurinoe-kopcheno-varenoe-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 350,
+                "net": 350,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 50,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 714317,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/714317/561611a4-604f-4d27-b34d-ae3560a18d63.png",
+                    "id": 814678,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/714317/561611a4-604f-4d27-b34d-ae3560a18d63.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/714317/561611a4-604f-4d27-b34d-ae3560a18d63.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/714317/561611a4-604f-4d27-b34d-ae3560a18d63.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/714317/561611a4-604f-4d27-b34d-ae3560a18d63.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/714317/66cc1c17-40bc-43c9-a4ad-a8055049eade.png",
+                    "id": 814679,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/714317/66cc1c17-40bc-43c9-a4ad-a8055049eade.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/714317/66cc1c17-40bc-43c9-a4ad-a8055049eade.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/714317/66cc1c17-40bc-43c9-a4ad-a8055049eade.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/714317/66cc1c17-40bc-43c9-a4ad-a8055049eade.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/714317/fb278fb5-d54e-4918-91a3-ceec879935d8.png",
+                    "id": 814680,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/714317/fb278fb5-d54e-4918-91a3-ceec879935d8.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/714317/fb278fb5-d54e-4918-91a3-ceec879935d8.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/714317/fb278fb5-d54e-4918-91a3-ceec879935d8.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/714317/fb278fb5-d54e-4918-91a3-ceec879935d8.png"
+                }
+            ],
+            "name": "Филе куриное в соусе тар-тар с оливками",
+            "prices": {
+                "cost": 94999,
+                "costRegular": 99999,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 19000,
+                "priceRegular": 20000
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.3,
+                "votes": 11
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 50,
+                "minSaleQuantity": 1
+            },
+            "slug": "file-kurinoe-v-souse-tar-tar-s-olivkami-lenta-fresh-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 200,
+                "net": 200,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-36%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 11,
+            "dimensions": {
+                "height": 45,
+                "length": 125,
+                "width": 180
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 503810,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/503810/a8cce704-3bc3-484e-a8f2-f8e3e5d83ede.png",
+                    "id": 835022,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/503810/a8cce704-3bc3-484e-a8f2-f8e3e5d83ede.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/503810/a8cce704-3bc3-484e-a8f2-f8e3e5d83ede.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/503810/a8cce704-3bc3-484e-a8f2-f8e3e5d83ede.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/503810/a8cce704-3bc3-484e-a8f2-f8e3e5d83ede.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/503810/c7941d81-d0c2-429f-8241-b43214e039a8.png",
+                    "id": 835397,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/503810/c7941d81-d0c2-429f-8241-b43214e039a8.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/503810/c7941d81-d0c2-429f-8241-b43214e039a8.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/503810/c7941d81-d0c2-429f-8241-b43214e039a8.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/503810/c7941d81-d0c2-429f-8241-b43214e039a8.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/503810/cb22940f-e06b-4651-b8cc-4614d8000e3e.png",
+                    "id": 835023,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/503810/cb22940f-e06b-4651-b8cc-4614d8000e3e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/503810/cb22940f-e06b-4651-b8cc-4614d8000e3e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/503810/cb22940f-e06b-4651-b8cc-4614d8000e3e.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/503810/cb22940f-e06b-4651-b8cc-4614d8000e3e.png"
+                }
+            ],
+            "name": "Наггетсы куриные МОРОЗКО с филе индейки, 300г",
+            "prices": {
+                "cost": 13499,
+                "costRegular": 21059,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 13499,
+                "priceRegular": 21059
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 1.8,
+                "votes": 106
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 11,
+                "minSaleQuantity": 1
+            },
+            "slug": "naggetsy-morozko-kurinye-s-file-indejjki-rossiya-300g",
+            "storeId": 124,
+            "weight": {
+                "gross": 329,
+                "net": 0,
+                "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#00c9c9",
+                        "title": "+видео",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 19,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": true
+            },
+            "id": 224446,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/224446/de1fb4e7-2547-4269-a5e6-f4c974b9f099.png",
+                    "id": 814866,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/224446/de1fb4e7-2547-4269-a5e6-f4c974b9f099.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/224446/de1fb4e7-2547-4269-a5e6-f4c974b9f099.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/224446/de1fb4e7-2547-4269-a5e6-f4c974b9f099.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/224446/de1fb4e7-2547-4269-a5e6-f4c974b9f099.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/224446/d2e5e8e7-c0d2-4af7-ae1f-534995327a4f.png",
+                    "id": 814868,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/224446/d2e5e8e7-c0d2-4af7-ae1f-534995327a4f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/224446/d2e5e8e7-c0d2-4af7-ae1f-534995327a4f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/224446/d2e5e8e7-c0d2-4af7-ae1f-534995327a4f.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/224446/d2e5e8e7-c0d2-4af7-ae1f-534995327a4f.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/224446/1b03fd1b-244b-492f-865d-ece5aab53018.png",
+                    "id": 707217,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/224446/1b03fd1b-244b-492f-865d-ece5aab53018.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/224446/1b03fd1b-244b-492f-865d-ece5aab53018.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/224446/1b03fd1b-244b-492f-865d-ece5aab53018.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/224446/1b03fd1b-244b-492f-865d-ece5aab53018.png"
+                }
+            ],
+            "name": "Филе куриное ЛЕНТА FRESH в кисло-сладком соусе с овощами, весовое",
+            "prices": {
+                "cost": 82999,
+                "costRegular": 87368,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 24900,
+                "priceRegular": 26210
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.4,
+                "votes": 374
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 19,
+                "minSaleQuantity": 1
+            },
+            "slug": "kurinoe-file-v-kislo-sladkom-souse-s-ovoshchami-ves-lenta-fresh-sp-rossiya",
+            "storeId": 124,
+            "weight": {
+                "gross": 300,
+                "net": 300,
+                "package": ""
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-25%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 52,
+            "dimensions": {
+                "height": 70,
+                "length": 160,
+                "width": 160
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 87487,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/87487/689bf3f5-0cf3-486d-ad7d-0c61872f492f.png",
+                    "id": 797963,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/87487/689bf3f5-0cf3-486d-ad7d-0c61872f492f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/87487/689bf3f5-0cf3-486d-ad7d-0c61872f492f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/87487/689bf3f5-0cf3-486d-ad7d-0c61872f492f.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/87487/689bf3f5-0cf3-486d-ad7d-0c61872f492f.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/87487/a875fe77-82d1-4b03-a236-e99ff28be080.png",
+                    "id": 797962,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/87487/a875fe77-82d1-4b03-a236-e99ff28be080.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/87487/a875fe77-82d1-4b03-a236-e99ff28be080.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/87487/a875fe77-82d1-4b03-a236-e99ff28be080.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/87487/a875fe77-82d1-4b03-a236-e99ff28be080.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/87487/2bc4d483-ca0d-458a-9a2b-c6376dc504bd.png",
+                    "id": 797961,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/87487/2bc4d483-ca0d-458a-9a2b-c6376dc504bd.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/87487/2bc4d483-ca0d-458a-9a2b-c6376dc504bd.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/87487/2bc4d483-ca0d-458a-9a2b-c6376dc504bd.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/87487/2bc4d483-ca0d-458a-9a2b-c6376dc504bd.png"
+                }
+            ],
+            "name": "Пюре картофельное БИЗНЕС МЕНЮ с куриным филе, приправами и овощами, 110г",
+            "prices": {
+                "cost": 11499,
+                "costRegular": 15269,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 11499,
+                "priceRegular": 15269
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 29
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 52,
+                "minSaleQuantity": 1
+            },
+            "slug": "kartofelnoe-pyure-bystrogo-prigotovleniya-biznes-menyu-s-kurinym-file-s-pripravami-i-ovoshchami-ross",
+            "storeId": 124,
+            "weight": {
+                "gross": 120,
+                "net": 0,
+                "package": "110г"
+            }
+        }
+    ],
+    "total": 21
+}

@@ -1,0 +1,1618 @@
+{
+    "category": null,
+    "correctedTerm": null,
+    "fastCategories": [],
+    "items": [
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/NQnG3zYbQZ-4TPRETgXDHlOOUFZjWY72IQZxF9CUXrw/rs:fit:416:416/plain/s3://img-dostavka/uf/b23/b239d8da42bcfbe4151eee5c023f0c93/6789cf5967cfda3c821cbcd93a1fa4e9.jpeg@webp"
+                }
+            ],
+            "id": "1000020700",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко ТД Сметанин ультрапастеризованное 2.5% 900г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000020700",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 53,
+            "ratings": {
+                "commentsCount": 201,
+                "rating": 4.6,
+                "scoresCount": 3945
+            },
+            "seoCode": "td_smetanin_moloko_u_past_2_5_900g_tfa_lyubimyy_gorod_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/GLKpBW8LIRPWM3ppxqxnxlb8VsmKw226mw3Chw8eZO4/rs:fit:416:416/plain/s3://img-dostavka/uf/616/616fc032d4142c260d7f38c8811e7de1/d2fc6ba005c78ffcc481e6ea6b0d606c.jpeg@webp"
+                }
+            ],
+            "id": "1000020701",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко ТД Сметанин ультрапастеризованное 3.2% 876мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000020701",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 19,
+            "ratings": {
+                "commentsCount": 139,
+                "rating": 4.6,
+                "scoresCount": 2160
+            },
+            "seoCode": "td_smetanin_moloko_u_past_3_2_900g_tfa_lyubimyy_gorod_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9BA1424Qv0mfzUb9NkhkkTfI3DhTht79hyHJT7D0xkE/rs:fit:416:416/plain/s3://img-dostavka/uf/246/246b230790ec7753970fb8ecdb5a763c/5d5a9da4363410dfee182ec5dd5d8efd.jpeg@webp"
+                }
+            ],
+            "id": "1000091749",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Вкуснотеево ультрапастеризованное 2.5% 900г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11699,
+            "productId": "1000091749",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-07-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 10,
+            "ratings": {
+                "commentsCount": 64,
+                "rating": 4.8,
+                "scoresCount": 909
+            },
+            "seoCode": "vkusnoteevo_moloko_ultrap2_5_900g_pl_but_voronezhskiymk_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/ApRZBaMfvbAcx7T4VNWTQqc8ajGMRI9vxwXwVLOoijI/rs:fit:416:416/plain/s3://img-dostavka/uf/9f2/9f23752ac2f2e56fd992c2792d8d2dc9/1f1e8c947e9d5b24e8f6a497aa593d10.jpeg@webp"
+                }
+            ],
+            "id": "1000298192",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Славянский МСЗ ультрапастеризованное 3.2% 1л",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 7999,
+            "productId": "1000298192",
+            "promotion": {
+                "discountPercent": 13,
+                "endDate": "2025-03-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 9299
+            },
+            "quantity": 33,
+            "ratings": {
+                "commentsCount": 46,
+                "rating": 4.5,
+                "scoresCount": 517
+            },
+            "seoCode": "moloko_pit_ultrapast_3_2_1l_t_pak_msz_slavyanskiy_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/amvyg76_Ocl79zOTRynFVrbmBlxUC1AGnkV0VZz4SnM/rs:fit:416:416/plain/s3://img-dostavka/uf/8ab/8abee9d41c68ce460d81efaff3bcdf49/10b9a7858e45da7928435f79ae603439.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/NnaxeI7r9Op6V-xlGoA4YVa7jHI1-e2_kxJ92R-6lbQ/rs:fit:416:416/plain/s3://img-dostavka/uf/5ee/5eeb2bbfee3eaf0d542f3359e62e2b2f/e47e42135c236e0f79665c2b21143e41.png@webp"
+                }
+            ],
+            "id": "1000180843",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Кубанская Буренка ультрапастеризованное 3.5% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11999,
+            "productId": "1000180843",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-05-13T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 48,
+            "ratings": {
+                "commentsCount": 22,
+                "rating": 4.8,
+                "scoresCount": 376
+            },
+            "seoCode": "kubanskaya_burenka_moloko_ultrapasterizovannoe_3_5_0_95kg_tetra_brik_aseptik_ao_vbd_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/NcyOtEoKdtIyCMY13SS3-RHNum_iS0EnwvzHrqvQ2oA/rs:fit:416:416/plain/s3://img-dostavka/uf/437/4377b8d4ed802746f7985b2ae738f52f/e10a4f11bcdfc1d4c319c4359dc8152b.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/i4kdIQGuw1qyjdWT6n6h-_Dllls1cueUWT0mvJF-MqQ/rs:fit:416:416/plain/s3://img-dostavka/uf/f47/f476b988d523aa9be483f613ed7d0255/9e7516b51e448bfffbda77999c2a9e0c.jpeg@webp"
+                }
+            ],
+            "id": "1812450016",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Домик в деревне ультрапастеризованное 3.5% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 13599,
+            "productId": "1812450016",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 14,
+            "ratings": {
+                "commentsCount": 1,
+                "rating": 4.7,
+                "scoresCount": 74
+            },
+            "seoCode": "domik_v_derevne_moloko_ster_3_5_950g_tba_vbd_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/4YIa0BZ3p6R3fswvCrOtc_vylQhhkyxdsTci5CRI-a0/rs:fit:416:416/plain/s3://img-dostavka/uf/1f4/1f4c46fede47378364c20505c8f355f1/bb8ad82d81e7af778f21058bb153df50.jpeg@webp"
+                }
+            ],
+            "id": "1000548435",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Калория питьевое ультрапастеризованное 2.5% 1л",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 9999,
+            "productId": "1000548435",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 34,
+            "ratings": {
+                "commentsCount": 0,
+                "rating": 4.8,
+                "scoresCount": 12
+            },
+            "seoCode": "kaloriya_moloko_pitevoe_ultrapast_2_5_1000ml",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/_86NIML6tAZEQgoMCB0Lb2nxSOvo0tgioNTiHfZQoEE/rs:fit:416:416/plain/s3://img-dostavka/uf/e8d/e8d423ea680661650c199cc96dbe4b4a/9f425083a9e6365aa9f1cc404e731b1f.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/-qZdGAPW8D7Qg21uN4uDyZp_SMRPTUrw0C2dBs9E7HE/rs:fit:416:416/plain/s3://img-dostavka/uf/e0b/e0b8df75f8863a804b9eccf080a36ff3/c30fd5a2030ca511853a76b931c76390.jpeg@webp"
+                }
+            ],
+            "id": "1000013732",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Село Зеленое ультрапастеризованное 2.5% 950мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 9999,
+            "productId": "1000013732",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-06-03T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 62,
+            "ratings": {
+                "commentsCount": 155,
+                "rating": 4.8,
+                "scoresCount": 2239
+            },
+            "seoCode": "moloko_selo_zelenoe_ultrapasterizovannoe_2_5_950ml",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/6xt0pWyhmpRerZUiC9XS8V7imSEQdAR6RR0iMh2EfU8/rs:fit:416:416/plain/s3://img-dostavka/uf/f5b/f5bb98c8e787c1fe6ec03f0961dc5114/20b9d928b930619dd915a4efcfda39bb.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/5sz_PHO9x0usoYcFLan5c6SIhuqaORDZGyuVfYd-uRU/rs:fit:416:416/plain/s3://img-dostavka/uf/815/81539bbd9b43fd6b96259d5d65d4be7c/0ea2e58a83335298944c7a2dd0ee09fe.jpeg@webp"
+                }
+            ],
+            "id": "1000013733",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Село Зеленое ультрапастеризованное 3.2% 950мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 10499,
+            "productId": "1000013733",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-06-03T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 37,
+            "ratings": {
+                "commentsCount": 164,
+                "rating": 4.8,
+                "scoresCount": 2477
+            },
+            "seoCode": "moloko_selo_zelenoe_ultrapasterizovannoe_3_2_950ml",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/bOSRC1YEXjDykzmkt4lOb7gwxvVK-oSgQFHXdi9q_bI/rs:fit:416:416/plain/s3://img-dostavka/uf/24e/24ebd017f12b3edb5541afa20cdf1a89/a86db84d5f786a3465706afb62d5aee5.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/szAdaGUkS3W1-DXDGTi-FDKWLzI1swacRGBdRlbeZOQ/rs:fit:416:416/plain/s3://img-dostavka/uf/125/12556a2062e23eb86006d5fc088fc899/e950de0341175d508db3c0173b02af77.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/zWNyRewXAf7fEsP7_5GtuFdySqZqPA0DrI7iyO7iRGM/rs:fit:416:416/plain/s3://img-dostavka/uf/616/61600793a764c60d6eec2f568171d7e8/ffa406ecac2b2de4efbb7eccaf8e6713.jpeg@webp"
+                }
+            ],
+            "id": "1000180844",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Кубанская Буренка ультрапастеризованное 6% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 18699,
+            "productId": "1000180844",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 33,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.7,
+                "scoresCount": 33
+            },
+            "seoCode": "kubanskaya_burenka_moloko_ultrapasterizovannoe_6_0_95kg_tetra_brik_aseptik_ao_vbd_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/GXyyxSZK90rgYzX0b-vb6vURTecdSlj-7GfLavaR8G0/rs:fit:416:416/plain/s3://img-dostavka/uf/e39/e39e9ee09cf2078cc582abb0a4c55f94/dc3fb6b91e95e0cc073aad7078354bb4.jpeg@webp"
+                }
+            ],
+            "id": "1000091750",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Вкуснотеево ультрапастеризованное 3.2% 900г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11499,
+            "productId": "1000091750",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 32,
+            "ratings": {
+                "commentsCount": 142,
+                "rating": 4.8,
+                "scoresCount": 2149
+            },
+            "seoCode": "moloko_vkusnoteevo_ultrapasterizovannoe_3_2_900g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/WPK5cfEjSIDDCsvnAIFTUxHZWj3NHtnhUnf-UGuOMeo/rs:fit:416:416/plain/s3://img-dostavka/uf/1fb/1fba4616b91ee0828b58575d52725708/d66fa3bd7f73280b548c42436fcf2d13.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/crTKCHY7qW0xTYfjTg-fzngN7rvZ251B-QATnfXanTg/rs:fit:416:416/plain/s3://img-dostavka/uf/b09/b09bf405f1e873067874e1f0fc5688b9/fe9e1dc1964c5f1f45a857954dbcf2b3.jpeg@webp"
+                }
+            ],
+            "id": "1000568396",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Домик в деревне Безлактозное ультрапастеризованное 1.8% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 12999,
+            "productId": "1000568396",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 66,
+            "ratings": {
+                "commentsCount": 16,
+                "rating": 4.9,
+                "scoresCount": 119
+            },
+            "seoCode": "domik_v_derevne_moloko_bezlakt_ultrapast_1_8_950g_t_pak",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9laGiagO-a1rz7LZuG47AMP_l01-1I9WLq5CR9jWwZU/rs:fit:416:416/plain/s3://img-dostavka/uf/4e2/4e2c8c6e79fd2b7470ea05c37f30ee77/c3703d564692b34bf38bbbe6a129b67a.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/GaAuKZKVsAy292UxYDyMHnEWmPeTG8ODNVS7aB0oPjE/rs:fit:416:416/plain/s3://img-dostavka/uf/fea/feadd61a6fe367af2b29bb96cc011ca0/2c0e512b89316463017c2606c4953015.jpeg@webp"
+                }
+            ],
+            "id": "1812450001",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Домик в деревне ультрапастеризованное 3.2% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 11499,
+            "productId": "1812450001",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-05-13T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 8,
+            "ratings": {
+                "commentsCount": 78,
+                "rating": 4.8,
+                "scoresCount": 2186
+            },
+            "seoCode": "moloko_domik_v_derevne_sterizovannoe_3_2_950g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/47vOXkyTV_EW6lEvuZdtYU55GpAiV4PE6O9lVMNCjVo/rs:fit:416:416/plain/s3://img-dostavka/uf/2a8/2a8b5400ad6c3511201cbc172a8249b4/4a50e9679eaff499302bb7bff42d9bd4.jpeg@webp"
+                }
+            ],
+            "id": "1000321929",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Вкуснотеево Barista ультрапастеризованное 3.5% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 12999,
+            "productId": "1000321929",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 29,
+            "ratings": {
+                "commentsCount": 104,
+                "rating": 4.9,
+                "scoresCount": 896
+            },
+            "seoCode": "vkusnoteevo_moloko_barista_ultrapasterizovannoe_3_5_950g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/5VUj4FzD3-1xFVe4kWsrIM-ip5-Wyu3tU45m2XmFAnQ/rs:fit:416:416/plain/s3://img-dostavka/uf/0a8/0a83a1aac6b68823ac8dfa2c2fabb73a/56bb80328bb48d9207b843c85719f39c.jpeg@webp"
+                }
+            ],
+            "id": "1899911896",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Вкуснотеево ультрапастеризованное 2.5% 950мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 13299,
+            "productId": "1899911896",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 20,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.7,
+                "scoresCount": 69
+            },
+            "seoCode": "vkusnoteevo_moloko_u_past_2_5_950g_t_reks_vor_mk_8",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/PfpjLsQkou9Nni-p3ce3P-_-JFDFNRks_L7h2mL8HO0/rs:fit:416:416/plain/s3://img-dostavka/uf/bc8/bc81a66196692871dce597b250033ea2/d9f64f06dda4f0110cce8e5e5afb1788.png@webp"
+                }
+            ],
+            "id": "1000244834",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Вкуснотеево ультрапастеризованное 3.2% 200мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 3899,
+            "productId": "1000244834",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 72,
+            "ratings": {
+                "commentsCount": 33,
+                "rating": 4.9,
+                "scoresCount": 396
+            },
+            "seoCode": "1000244834",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/yPB8ihEc-c_NZz4Ctrf6UWshk3fQgmymQapypwejzjw/rs:fit:416:416/plain/s3://img-dostavka/uf/8fd/8fd2cb47c78c38bfadc28b39de59008a/30a2ac9cfc4aa02e4e61867369af195c.png@webp"
+                }
+            ],
+            "id": "1000524733",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Козочка с облачка козье ультрапастеризованное 5.6% 200мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6399,
+            "productId": "1000524733",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 29,
+            "ratings": {
+                "commentsCount": 49,
+                "rating": 4.8,
+                "scoresCount": 289
+            },
+            "seoCode": "kozochka_s_oblachka_moloko_koze_0_2l",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/XKDotOXM_zstVsAluNoqu9NXw2FE6LfJVSo1pfzmX4A/rs:fit:416:416/plain/s3://img-dostavka/uf/2a6/2a6e7ad9ef49240a83c71c60ff1432cf/c28aa2ecc61cb9b0dce9f79e59cb5355.png@webp"
+                }
+            ],
+            "id": "1000351084",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Parmalat безлактозное ультрапастеризованное 3.5% 1л",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 19799,
+            "productId": "1000351084",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-05-13T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 43,
+            "ratings": {
+                "commentsCount": 4,
+                "rating": 4.8,
+                "scoresCount": 37
+            },
+            "seoCode": "parmalat_moloko_586878_bezlaktoznoe_iz_korovego_moloka_ultrapasterizovannoe_3_5_zhirnosti_tu_1000ml_",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/egZx9mBaT8cqJjJoiajz4FV5_0p_kfDF25rmYe51M4c/rs:fit:416:416/plain/s3://img-dostavka/uf/60f/60fd23ebd0b8485efdbd0ef236e7f6b3/1fe10d069aee6ad8b4f724940939a822.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/b8nCcbvnLxVp6USIrKUCP5QrMVBmaxpbIlwHOJ-0GFY/rs:fit:416:416/plain/s3://img-dostavka/uf/463/463c6cc6058e858c44762279da64693b/8c35d9fea9ffd8dad4a05c70c9b46f5c.jpeg@webp"
+                }
+            ],
+            "id": "1000323045",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Простоквашино безлактозное ультрапастеризованное 1.5% 970мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 12399,
+            "productId": "1000323045",
+            "promotion": {
+                "discountPercent": 14,
+                "endDate": "2025-03-11T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 14499
+            },
+            "quantity": 23,
+            "ratings": {
+                "commentsCount": 8,
+                "rating": 4.7,
+                "scoresCount": 121
+            },
+            "seoCode": "prostokvashino_moloko_sterilizovannoe_sterilizovannoe_bezlaktoznoe_1_5_970ml_tetra_reks_ao_danon_ros",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/AleQNtsWNvpvmdSKEKGWb1MMKu4O2lzaAZGMXnS3CGA/rs:fit:416:416/plain/s3://img-dostavka/uf/3b5/3b5523051703673bc5cda5d2ed5df2af/848aefa8570f478024bbbda6137d1887.jpeg@webp"
+                }
+            ],
+            "id": "1000244833",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Вкуснотеево ультрапастеризованное 2.5% 200мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 3799,
+            "productId": "1000244833",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 21,
+            "ratings": {
+                "commentsCount": 56,
+                "rating": 4.8,
+                "scoresCount": 805
+            },
+            "seoCode": "moloko_vkusnoteevo_ultrapasterizovannoe_2_5_200ml",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/mUwL-MnpG_1Pv8ueVbTG9bN8a-YelZe_ca4cXy60Utc/rs:fit:416:416/plain/s3://img-dostavka/uf/489/489ab9890cd04d9f90ae2c217cbae976/b3a88ccb7e9aa4995053406accb2049c.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/ul7RSnCKulPBT56sQrmsOWGUn6y9VmTJQ85RvAzLd_4/rs:fit:416:416/plain/s3://img-dostavka/uf/75e/75e6dc06f1c6ca4350b2d27f44d4d6f0/8e6c9232eb54a39af215b36d346c98d8.jpeg@webp"
+                }
+            ],
+            "id": "2400025312",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Домик в деревне ультрапастеризованное 1.5% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 12499,
+            "productId": "2400025312",
+            "promotion": {
+                "discountPercent": 13,
+                "endDate": "2025-04-29T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 14399
+            },
+            "quantity": 25,
+            "ratings": {
+                "commentsCount": 13,
+                "rating": 4.7,
+                "scoresCount": 252
+            },
+            "seoCode": "moloko_domik_v_derevne_sterizovannoe_1_5_950g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/tnhDVmL51whK3aYQiKy2rDmrtdzKISCYPzEiIbgtiy0/rs:fit:416:416/plain/s3://img-dostavka/uf/128/128fdbb4f04d44adeed6d637790a4767/e3bf780c59e4eea88fb6e7842ff14213.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/_jrLW5UbSLH9kOYsI-2JpXEYez-VoiHIG9GmStYo-aw/rs:fit:416:416/plain/s3://img-dostavka/uf/daf/daf652c627ac40f345c29a150e53f88e/94e24250f30bdfce14d1917c49a0783f.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/_InMDqoZ2YcvOh6TtajaQSXl-MZa7AK0SmPZYuJxLZM/rs:fit:416:416/plain/s3://img-dostavka/uf/221/2212002eab1c5a8c4453752b0de68a7c/35f86b1c5834f111cb370311b2a1b497.jpeg@webp"
+                }
+            ],
+            "id": "1897500021",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Тема ультрапастеризованное обогащённое витаминами 3.2% 200мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 4799,
+            "productId": "1897500021",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 22,
+            "ratings": null,
+            "seoCode": "tema_moloko_ster_obogashch_3_2_0_2kg_tba_yunimilk_18",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/ascVUzEcWMheoFLwFi_P8UF_yIvtUB8CfmtT_G4trik/rs:fit:416:416/plain/s3://img-dostavka/uf/3cb/3cbb6529b5cc16449f952b1fbec96d4b/74f253497d6f753ec38fc63291e9a94e.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/DiWfCnFRmmINZCaONf_zEGJY1LWHoDqAJSilj4JX064/rs:fit:416:416/plain/s3://img-dostavka/uf/b81/b818d5aad0c6808c17579cada35e68b2/501a499e11da2bff468f5a942a04ec3f.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/8KuA8w7V2fVbXonYpvpWPS2TuQiqx9xJtgvIjlaipZI/rs:fit:416:416/plain/s3://img-dostavka/uf/85e/85ecc01a610560af3026c77f9449e87e/a54e6071111041f20cae66aecd08ff84.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/oyZSOtOfTkP7t74UzkmWNpMs3QIRQ3uUM_ooKwfYyKA/rs:fit:416:416/plain/s3://img-dostavka/uf/3c4/3c46cc02653ca9bfdb9caf9ae8d4967d/349e6cb661e6ab95011588d5522abdf9.jpeg@webp"
+                }
+            ],
+            "id": "1000206974",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко ФрутоНяня ультрапастеризованное 2.5% 200мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 4699,
+            "productId": "1000206974",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 20,
+            "ratings": {
+                "commentsCount": 2,
+                "rating": 4.8,
+                "scoresCount": 109
+            },
+            "seoCode": "frutonyanya_moloko_ultrapast_2_5_200ml_t_pak_progress_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/hZOoW2Lh1N1f4WU3ctckiY0YZRCHQCAOKk3us5BoZWk/rs:fit:416:416/plain/s3://img-dostavka/uf/283/283bd5b39153c04b2e45ca9f018b6f2b/0a1293fc6bd2f1f37aaf7b7cc1218b50.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/HMR5PM9V6GHUYOdwaX0558OHWJpmfaQvEo62VvsLzjc/rs:fit:416:416/plain/s3://img-dostavka/uf/e10/e10be4473ab0de6529d46f822c1dd88f/dc0e366214ca313f9929a13fc6c39091.jpeg@webp"
+                }
+            ],
+            "id": "1000533427",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Село Зеленое ультрапастеризованное 2.5% 200г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 4099,
+            "productId": "1000533427",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 25,
+            "ratings": {
+                "commentsCount": 10,
+                "rating": 4.8,
+                "scoresCount": 240
+            },
+            "seoCode": "selo_zelenoe_moloko_ultrapast_2_5_200g_t_pak",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/IYNriTu8JVmGHiDciyXQzn1Jqq3BmFI1JoG1SDStIxI/rs:fit:416:416/plain/s3://img-dostavka/uf/cac/cac1d0aa608b7d62ab97633dd6dae5ad/74094a65610cc4386ca54faad1c42762.png@webp"
+                }
+            ],
+            "id": "1000351083",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Parmalat Natura Premium Comfort безлактозное ультрапастеризованное 1.8% 1л",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 16999,
+            "productId": "1000351083",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 83,
+            "ratings": {
+                "commentsCount": 15,
+                "rating": 4.8,
+                "scoresCount": 210
+            },
+            "seoCode": "parmalat_moloko_586877_bezlaktoznoe_iz_korovego_moloka_ultrapasterizovannoe_1_8_zhirnosti_tu_1000ml_",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Ed2S4z6-VJlMCCDkOPmjfAOeFGcZHgkHC-c-HeM9Al8/rs:fit:416:416/plain/s3://img-dostavka/uf/c63/c637046a81172631ffd7879450cc041d/394c2027fd89a7a46b372018d1e444a4.jpeg@webp"
+                }
+            ],
+            "id": "1000505447",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Домик в деревне для капучино ультрапастеризованное 3.2% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 14999,
+            "productId": "1000505447",
+            "promotion": {
+                "discountPercent": 11,
+                "endDate": "2025-04-29T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 16999
+            },
+            "quantity": 13,
+            "ratings": {
+                "commentsCount": 17,
+                "rating": 4.7,
+                "scoresCount": 127
+            },
+            "seoCode": "domik_v_derevne_moloko_dlya_kapuchino_u_past_3_2_950g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/CcnEYnDAxRrTayiC4oj_tGinyOuLyyRxPNgQkMtCTIU/rs:fit:416:416/plain/s3://img-dostavka/uf/aab/aaba2c7bdd5d9bb07a8c969a349c655d/40384a786567f0b2fa426b0fd5d488f4.png@webp"
+                }
+            ],
+            "id": "1000156189",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Parmalat Natura Premium ультрапастеризованное 3.5% 200мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 4399,
+            "productId": "1000156189",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 2,
+            "ratings": {
+                "commentsCount": 1,
+                "rating": 5,
+                "scoresCount": 23
+            },
+            "seoCode": "parmalat_moloko_3_5_sterilizovannoe_200g_tetra_reks_oao_belgorodskiy_mk_27",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/nzKm34cvsHfxfpnipX3lub1KzLZUHLuGoGpR8CTsE6U/rs:fit:416:416/plain/s3://img-dostavka/uf/35d/35d595dfdfe8a3f10d32e959d44ef526/fa3e9b959a62e56a6b49e4e82f6ee643.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/msQepw-rfIUJNF9FK_GZkJNs-_5h00s6hZrsApmcOYA/rs:fit:416:416/plain/s3://img-dostavka/uf/aa4/aa4cfb6ab5effa9b2c302cc4ebd98dc3/c2995005c79414fa7655b6d99bb47eb8.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/G6nz6rWi4-mf5qKVhHC04bb41GzGbLTdPUfQuTI4wtM/rs:fit:416:416/plain/s3://img-dostavka/uf/8ff/8ff33ba455b960f936d9be3a601c1c6c/ccbcc8df61db96d7e906189518fe220a.jpeg@webp"
+                }
+            ],
+            "id": "1000211099",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Бариста ультрапастеризованное 3.2% 950мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 15999,
+            "productId": "1000211099",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 30,
+            "ratings": {
+                "commentsCount": 9,
+                "rating": 4.8,
+                "scoresCount": 99
+            },
+            "seoCode": "petmol_moloko_ultrapasterizovannoe_3_2_dlya_kapuchino_950ml_tetra_brik_aseptik_ao_danon_rossiya_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9rGJC-gGcqy6WcfnZp_-O4Oks8xa0f1RfUFL2bR5JsA/rs:fit:416:416/plain/s3://img-dostavka/uf/fbe/fbe6e63f0b755f0c6a25a4538e4f7e55/cb2e05239752e98e980f9c5ff0664cd8.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/td_iYV30R1Qz4KlbAHLg3qM8hOIG_lZQNkvQFf62IEo/rs:fit:416:416/plain/s3://img-dostavka/uf/3a1/3a181c897119bb31d078ef56c924cf20/9e8ca20a887d281ae6f8ef7ccee32639.jpeg@webp"
+                }
+            ],
+            "id": "1812450017",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Домик в деревне ультрапастеризованное 6% 950г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 18999,
+            "productId": "1812450017",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 6,
+            "ratings": {
+                "commentsCount": 7,
+                "rating": 4.8,
+                "scoresCount": 193
+            },
+            "seoCode": "domik_v_derevne_moloko_ster_6_950g_tba_vbd_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/aDBBzkGEMOv8DfYItFzdVWNYGD5N3dznqoAEz_BD74A/rs:fit:416:416/plain/s3://img-dostavka/uf/2e0/2e05db0a8e7956120da6ce66ba556de1/0e290073e48bf1fe84edf4aea76a275d.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/mt4IJ6mYaX1VShaH-lZ8MPcbW3ZIlqEBYt_cKQpvX4c/rs:fit:416:416/plain/s3://img-dostavka/uf/6a9/6a9d040033bfd8db653387fc26af7bd0/6ee42d315d601f3c1f917dae12e7f219.jpeg@webp"
+                }
+            ],
+            "id": "1000172272",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко детское Агуша ультрапастеризованное 3.2% 925мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 14999,
+            "productId": "1000172272",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 10,
+            "ratings": {
+                "commentsCount": 43,
+                "rating": 4.8,
+                "scoresCount": 1113
+            },
+            "seoCode": "moloko_agusha_dlya_detey_ot_3_let_925ml",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/UiU2t2_28d0O-R8pyeBnQhNyrvHxeYu8XAXjfaQ5ipc/rs:fit:416:416/plain/s3://img-dostavka/uf/c5b/c5b630ab3e8ae1ea4e58820d9770f702/e8ad5e3cd66b6a3246ccd21f53aa3ee4.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/8_K7fb11kAAQ33ggfUULrZmDLdLFzcN-OsDZkx4IW6E/rs:fit:416:416/plain/s3://img-dostavka/uf/4d0/4d093f72eb6f90de914c2f48e24f6f85/3db0964e80ae5fa7ef0a947288a0181c.jpeg@webp"
+                }
+            ],
+            "id": "1899900810",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Простоквашино ультрапастеризованное 3.2% 950мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 13999,
+            "productId": "1899900810",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 37,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.6,
+                "scoresCount": 47
+            },
+            "seoCode": "moloko_prostokvashino_sterilizovannoe_3_2_950ml",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/G6Kp-ROlGEEws1t8j2pO1CsSJGDNJp6oF1iuQNvJ7tU/rs:fit:416:416/plain/s3://img-dostavka/uf/0bd/0bd4bb55c23b27aab11ac19c9e00581f/18064f4e07f640a51caad4efbe38d919.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/8IQp81HKKifha9taixeMGrriGVLkGQCTVA3CxLoQWDI/rs:fit:416:416/plain/s3://img-dostavka/uf/d10/d100813d05d6a343d625142f76098819/27fa47322f81177f8dba2e2cdd515deb.jpeg@webp"
+                }
+            ],
+            "id": "1899900809",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Молоко Простоквашино ультрапастеризованное 2.5% 950мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 14399,
+            "productId": "1899900809",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 11,
+            "ratings": {
+                "commentsCount": 0,
+                "rating": 4.7,
+                "scoresCount": 35
+            },
+            "seoCode": "moloko_prostokvashino_sterilizovannoe_2_5_950ml",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        }
+    ],
+    "pagination": {
+        "hasMore": false,
+        "limit": 36,
+        "offset": 0,
+        "totalCount": 32
+    },
+    "term": "молоко ультрапастеризованное"
+}

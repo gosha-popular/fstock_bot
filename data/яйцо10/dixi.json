@@ -1,0 +1,966 @@
+[
+    {
+        "title": null,
+        "class": null,
+        "pagenData": {
+            "element_count": "15",
+            "page": 1,
+            "pages_count": 1,
+            "page_size": 30,
+            "pagen_text": "Показать ещё -15 товаров",
+            "isLastPage": true
+        },
+        "cards": [
+            {
+                "id": "212330",
+                "xml_id": "2000269325",
+                "title": "Яйцо куриное Деревенские напевы Отборное фасованное 10шт",
+                "weight": "750 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000269325/",
+                "ratio": 1,
+                "src": "/upload/iblock/460/sry2ylulc8wvj23qr500die66qlzr0ey.webp",
+                "amount": 30,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 1,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/460/sry2ylulc8wvj23qr500die66qlzr0ey.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212330 1 30 шт 0",
+                "status": "in-time",
+                "oldPrice": "121.<span>90</span><span class='rub'>руб.</span>",
+                "price": "114.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-5%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 19.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "114.90",
+                "oldPriceSimple": "121.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "209701",
+                "xml_id": "1041042135",
+                "title": "Яйцо куриное столовое 1 категории 10шт",
+                "weight": "700 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/1041042135/",
+                "ratio": 1,
+                "src": "/upload/iblock/0f9/09drvdrgyx7iskwxtq5p5fq0two0uzvp.webp",
+                "amount": 3,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 2,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/0f9/09drvdrgyx7iskwxtq5p5fq0two0uzvp.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209701 1 3 шт 0",
+                "price": "70.<span>99</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "70.99",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "223678",
+                "xml_id": "ЦТ0034516",
+                "title": "Яйцо куриное Окское отборное С0 10шт",
+                "weight": "810 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/%D0%A6%D0%A20034516/",
+                "ratio": 1,
+                "src": "/upload/iblock/20d/u7e1fbk1fcapzuwygt9hpqwejktrx9r0.webp",
+                "amount": 9,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 3,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/20d/u7e1fbk1fcapzuwygt9hpqwejktrx9r0.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/50d/2a7ptlzhaa3mmc596kd07idkzu77xrdn.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/ad3/ujqqoyqeusukmyul70peuvmcjavg40pg.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "223678 1 9 шт 0",
+                "price": "138.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "138.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212417",
+                "xml_id": "2000269323",
+                "title": "Яйцо куриное Деревенские напевы 1 категории 10шт",
+                "weight": "650 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000269323/",
+                "ratio": 1,
+                "src": "/upload/iblock/14e/0oxbo5n1b67qasnl1vzta4ihme5e020m.webp",
+                "amount": 15,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 4,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/14e/0oxbo5n1b67qasnl1vzta4ihme5e020m.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/d5f/tmn6zhyul474qsacyqrfwklan0fk63sp.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212417 1 15 шт 0",
+                "status": "in-time",
+                "oldPrice": "112.<span>90</span><span class='rub'>руб.</span>",
+                "price": "99.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-11%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "99.99",
+                "oldPriceSimple": "112.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "225444",
+                "xml_id": "2000601652",
+                "title": "Яйцо куриное Деревенские напевы Халяль отборное С0 10шт",
+                "weight": "800 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000601652/",
+                "ratio": 1,
+                "src": "/upload/iblock/949/03fimrxu05r0uqkhao0anm7lywduh0oh.webp",
+                "amount": 11,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 5,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/949/03fimrxu05r0uqkhao0anm7lywduh0oh.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "225444 1 11 шт 0",
+                "price": "124.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "124.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "215340",
+                "xml_id": "2000326489",
+                "title": "Яйца куриные Роскар Экстра категория С0 10шт",
+                "weight": "800 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000326489/",
+                "ratio": 1,
+                "src": "/upload/iblock/6c3/q334wn15or207czxcj55dolnwxzntn12.webp",
+                "amount": 19,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 6,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/6c3/q334wn15or207czxcj55dolnwxzntn12.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "215340 1 19 шт 0",
+                "price": "138.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "138.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "223985",
+                "xml_id": "ЦТ0034515",
+                "title": "Яйцо куриное Окское столовое С1 10шт",
+                "weight": "710 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/%D0%A6%D0%A20034515/",
+                "ratio": 1,
+                "src": "/upload/iblock/226/b7tmnc74aizu6wx2ksuvq8yeagw4ned9.webp",
+                "amount": 51,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 7,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/226/b7tmnc74aizu6wx2ksuvq8yeagw4ned9.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "223985 1 51 шт 0",
+                "price": "119.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "119.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "226221",
+                "xml_id": "2000599555",
+                "title": "Яйцо куриное Деревенские напевы С2 10шт",
+                "weight": "550 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000599555/",
+                "ratio": 1,
+                "src": "/upload/iblock/c7b/i0rwesgjct8nlppp35m2zkqqsse310nh.webp",
+                "amount": 11,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 8,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/c7b/i0rwesgjct8nlppp35m2zkqqsse310nh.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "226221 1 11 шт 0",
+                "price": "99.<span>99</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "99.99",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "218765",
+                "xml_id": "2000541153",
+                "title": "Яйца куриные Окское Столовое высшая категория 10шт",
+                "weight": "950 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000541153/",
+                "ratio": 1,
+                "src": "/upload/iblock/e58/i0mizs0qw8cabj94x7njt69l7si3a41x.webp",
+                "amount": 17,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 9,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/e58/i0mizs0qw8cabj94x7njt69l7si3a41x.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/ed5/8ajz65rl2vc0nnodo4qgyyjpdio7j70l.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/e58/i0mizs0qw8cabj94x7njt69l7si3a41x.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/bf5/p32n0ph2oqm0qqvha0pf3kil27uj2ioh.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/224/2mm4nxeebkf0gnga0dplu53928e07401.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "218765 1 17 шт 0",
+                "price": "159.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "159.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "226044",
+                "xml_id": "2000596671",
+                "title": "Яйцо куриное Волжанин С1 белое 10шт",
+                "weight": "600 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000596671/",
+                "ratio": 1,
+                "src": "/upload/iblock/cab/q71yxes19vcck89s4v2k7mkxsfiz46gb.webp",
+                "amount": 25,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 10,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/cab/q71yxes19vcck89s4v2k7mkxsfiz46gb.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/89f/wbg8l1vc7ug33bggfqzkbhynultpinmq.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/08d/49b611vnssa7oenh6pg544rg0ak3oy94.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "226044 1 25 шт 0",
+                "status": "in-time",
+                "oldPrice": "118.<span>90</span><span class='rub'>руб.</span>",
+                "price": "109.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-7%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 18.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "109.90",
+                "oldPriceSimple": "118.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212000",
+                "xml_id": "2000238733",
+                "title": "Яйцо куриное Золото сеймы Деревенское С1 10шт",
+                "weight": "730 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000238733/",
+                "ratio": 1,
+                "src": "/upload/iblock/358/xxkuf91idtrexr22lv7ga5lqejnk5zm3.webp",
+                "amount": 26,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 11,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/358/xxkuf91idtrexr22lv7ga5lqejnk5zm3.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/7fe/pczjiz9ejgbeotc3xjr1or4z445pzhor.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212000 1 26 шт 0",
+                "status": "in-time",
+                "oldPrice": "129.<span>90</span><span class='rub'>руб.</span>",
+                "price": "114.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-11%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 01.04.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "114.90",
+                "oldPriceSimple": "129.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "211377",
+                "xml_id": "2000208172",
+                "title": "Яйцо деревенское С1 категории, лоток 10 шт",
+                "weight": "700 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000208172/",
+                "ratio": 1,
+                "src": "/upload/iblock/78a/o38uz68hde754d4lugrpgxodtzc6p8m9.webp",
+                "amount": 21,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 12,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/78a/o38uz68hde754d4lugrpgxodtzc6p8m9.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/e1f/ikmul59wx5sql7i7x8z2gvj69oatccqx.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/90a/g6qo8qhkp6oqn09g03cvo5kvl8xh6slp.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "211377 1 21 шт 0",
+                "price": "127.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "127.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212872",
+                "xml_id": "2000284425",
+                "title": "Яйцо куриное Лето С0 10шт",
+                "weight": "750 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000284425/",
+                "ratio": 1,
+                "src": "/upload/iblock/1c2/ptwpc92zsq764aa2my4i7rc0f3izlz3w.webp",
+                "amount": 17,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 13,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/1c2/ptwpc92zsq764aa2my4i7rc0f3izlz3w.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/92c/i6fyqa3cwgyxx2gprfy0l27m33z0t21c.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/b16/jabsgborvpe6ptvsxrd7vnr60jzj8ku7.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/fac/rekrmi6lhto04ei2b973oyf9l23t7p33.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212872 1 17 шт 0",
+                "price": "128.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "128.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "210369",
+                "xml_id": "2000139399",
+                "title": "Яйцо куриное Лето С1 10шт",
+                "weight": "650 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000139399/",
+                "ratio": 1,
+                "src": "/upload/iblock/929/00r98ympm7o24brchngoguhhjbmhw91b.webp",
+                "amount": 31,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 14,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/929/00r98ympm7o24brchngoguhhjbmhw91b.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/677/5kjk2pmd0cg1zf1smdhnozz6iz6n3m51.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/b9f/xjo1zn8i7rbrp1crtg9k1nrlh61f9f4q.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/ace/n5o9g0a2sgn3p9rnp8emp4mdy32sw7e1.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "210369 1 31 шт 0",
+                "price": "125.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "125.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "211389",
+                "xml_id": "2000212529",
+                "title": "Яйцо куриное Золото сеймы Деревенское С0 10шт",
+                "weight": "660 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000212529/",
+                "ratio": 1,
+                "src": "/upload/iblock/795/d7aw5lvn2jjsvx0mge7vtvfzp2o5obsv.webp",
+                "amount": 44,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 15,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/795/d7aw5lvn2jjsvx0mge7vtvfzp2o5obsv.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/14e/mvh70ir1tfk8tsegyth18eeoslidmzy6.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "211389 1 44 шт 0",
+                "status": "in-time",
+                "oldPrice": "147.<span>90</span><span class='rub'>руб.</span>",
+                "price": "129.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-12%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 01.04.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "129.90",
+                "oldPriceSimple": "147.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            }
+        ],
+        "card_template": "{{#isSlider}}\n<div class=\"swiper-slide\" {{{displayNone}}}>\n{{/isSlider}}\n<article class=\"card bs-state{{^canBuy}} disabled-card{{/canBuy}}{{#hideAlko}} alko{{/hideAlko}}\" data-discount=\"{{{discount}}}\" data-section=\"{{{section}}}\" data-template=\"listing-card\" data-id=\"{{id}}\" product-id=\"{{xml_id}}\" data-bsk_state=\"{{bskState_f}}\">\n    <a class=\"card__link\" href=\"{{url}}\">\n        <div class=\"bookmark\" style=\"opacity: 0;\">\n            <svg >\n                <use href=\"/local/templates/dixy_ru/images/sprites.svg#bookmark\"></use>\n            </svg>\n        </div>\n        <div class=\"card-images\">\n            <img class=\"card-image\" width=\"94\" height=\"94\" data-src=\"{{src}}\" src=\"#\" loading=\"lazy\" alt=\"{{title}}\">\n            <div class=\"badges\">\n                {{#badges}}\n                <div class=\"badge {{class}}\">\n                    {{#title}}\n                    <span>{{{title}}}{{#is_favorite}}{{#img}}{{{img}}}{{/img}}{{/is_favorite}}</span>\n                    {{/title}}\n                </div>\n                {{/badges}}\n                {{#stickerBadge}}\n                <div class=\"badge green\">\n                    <span>{{{stickerBadge}}}\n                        <svg>\n                            <use xlink:href=\"/local/templates/dixy_ru/images/sprites.svg#sticker-dixy\"></use>\n                        </svg>\n                    </span>\n                </div>\n                {{/stickerBadge}}\n            </div>\n        </div>\n        <div class=\"card__info\">\n          <h3 class=\"card__title\">{{title}}</h3>\n        </div>\n    </a>\n    <div class=\"card__action{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\"{{#bskFields}} data-bsk_data=\"{{bskFields}}\"{{/bskFields}}>\n        {{^hideAlko}}\n          {{#bs-not}}\n              <button class=\"card__more\" aria-label=\"Кнопка Подробнее о товаре\">Подробнее</button>\n          {{/bs-not}}\n          {{#bs-del}}\n          <button class=\"card__del\" onclick=\"delCounterCount(this,'listingInitiator')\" aria-label=\"Кнопка Удалить из корзины\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#basket\"></use>\n            </svg>\n          </button>\n          {{/bs-del}}\n          {{#bs-in}}\n          <button class=\"card__minus\" onclick=\"countminus(this,'listingInitiator')\" aria-label=\"Кнопка Уменьшить количество товара\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#minus\"></use>\n            </svg>\n          </button>\n          {{/bs-in}}\n        {{/hideAlko}}\n        {{^crossPrice}}\n        <div class=\"card__price\">\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        {{#crossPrice}}\n        <div class=\"card__price {{status}}\">\n            <span class=\"card__price-crossed\" title=\"руб.\">{{{oldPrice}}}</span>\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        <div class=\"card__count{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\">\n          <input class=\"card__input\" type=\"text\" value=\"{{quantity}} {{symbol}}\" aria-label=\"Количество товара\">\n          {{#bs-limit}}<span class=\"card__count-text\">Больше нет</span>{{/bs-limit}}\n          <span class=\"card__text-disabled\">Раскупили</span>\n        </div>\n        <button class=\"card__plus{{#canBeFavoriteListing}}{{^is_favorite}} addFavorite{{/is_favorite}}{{/canBeFavoriteListing}}{{^hideAlko}}{{^bs-limit}}{{^bs-not}} active{{/bs-not}}{{/bs-limit}}{{/hideAlko}}{{^hideAlko}}{{#bs-limit}} disabled{{/bs-limit}}{{/hideAlko}}\"{{^canBeFavoriteListing}} onclick=\"countpluse(this,'listingInitiator')\"{{/canBeFavoriteListing}} aria-label=\"Кнопка добавить товар в корзину\">\n          <svg>\n            <use href=\"/local/templates/dixy_ru/images/sprites.svg#plus\"></use>\n          </svg>\n        </button>\n    </div>\n</article>\n{{#isSlider}}\n</div>\n{{/isSlider}}\n",
+        "filterData": false,
+        "seoFilter": null,
+        "externalResult": [
+            {
+                "search_info": {
+                    "taps": [],
+                    "sts": [],
+                    "query": "яйцо 10",
+                    "empty": false
+                }
+            }
+        ],
+        "facetData": [
+            {
+                "name": "Цена",
+                "id": "price",
+                "identifier": "price",
+                "type": "digit",
+                "min": "70.99",
+                "max": "159.9"
+            },
+            {
+                "name": "Торговая марка",
+                "id": 8,
+                "identifier": "torgovaya-marka",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Тендер",
+                        "title_to_lower": "тендер",
+                        "count": "1",
+                        "id": "5"
+                    },
+                    {
+                        "title": "Деревенские Напевы",
+                        "title_to_lower": "деревенские напевы",
+                        "count": "4",
+                        "id": "94"
+                    },
+                    {
+                        "title": "Волжанин",
+                        "title_to_lower": "волжанин",
+                        "count": "1",
+                        "id": "171"
+                    },
+                    {
+                        "title": "Лето",
+                        "title_to_lower": "лето",
+                        "count": "2",
+                        "id": "761"
+                    },
+                    {
+                        "title": "Окское",
+                        "title_to_lower": "окское",
+                        "count": "3",
+                        "id": "1054"
+                    },
+                    {
+                        "title": "Роскар",
+                        "title_to_lower": "роскар",
+                        "count": "2",
+                        "id": "1115"
+                    },
+                    {
+                        "title": "Золото Сеймы",
+                        "title_to_lower": "золото сеймы",
+                        "count": "2",
+                        "id": "1118"
+                    }
+                ]
+            },
+            {
+                "name": "Страна",
+                "id": 9,
+                "identifier": "strana",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Россия",
+                        "title_to_lower": "россия",
+                        "count": "15",
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "name": "Тип товара",
+                "id": 10,
+                "identifier": "tip-tovara",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Яйцо куриное",
+                        "title_to_lower": "яйцо куриное",
+                        "count": "11",
+                        "id": "341"
+                    },
+                    {
+                        "title": "Яйца",
+                        "title_to_lower": "яйца",
+                        "count": "4",
+                        "id": "762"
+                    }
+                ]
+            }
+        ],
+        "sectionData": [
+            {
+                "list_title": "Поиск по запросу:&nbsp;<span>яйцо 10</span>",
+                "title": "Поиск",
+                "count": "15",
+                "format_count": "15 товаров",
+                "href": "/catalog/",
+                "items": [
+                    {
+                        "title": "Яйцо",
+                        "href": "/catalog/molochnye-produkty-yaytsa/yaytso/?q=яйцо 10",
+                        "count": "15",
+                        "hideAlko": false,
+                        "active": false
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1049 @@
+{
+    "category": null,
+    "correctedTerm": null,
+    "fastCategories": [],
+    "items": [
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/_j3ANhG4XvJwxJ5L0bAXrljZLdMSaWbzNJenAx687h4/rs:fit:416:416/plain/s3://img-dostavka/uf/596/596b0db30281b7f06f6fa5971c75916f/f75e5efba57b53158ff6190b8c4e521a.jpeg@webp"
+                }
+            ],
+            "id": "3152910002",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Гречневая первый сорт фасованная 800г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 3489,
+            "productId": "3152910002",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-03-10T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 57,
+            "ratings": {
+                "commentsCount": 601,
+                "rating": 4.7,
+                "scoresCount": 15195
+            },
+            "seoCode": "krupa_grechnevaya_1_sort_fasovannaya_800g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/679ctr9tH_zvlfUpouLrf-Nq-7_AUCOs3rKjCKc_Q6I/rs:fit:416:416/plain/s3://img-dostavka/uf/6fa/6fa2fc29d9cf3a6071e6ebdc7568a0a2/159f189da00084ac524adc9e28b18ddf.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/wjCNdFOaNs9x6mdi2Cipdp4neAE9nEI5RdvqUiSSAjE/rs:fit:416:416/plain/s3://img-dostavka/uf/61d/61dcd66f1d69c53f140a1f3f5669ae1d/2f166572f896a06abc59a99618338470.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/5eoh1TTOzuNIbYXsWrWhAuIlxQ_UIGtIuYq0PAov7qg/rs:fit:416:416/plain/s3://img-dostavka/uf/b36/b36bc892832162cb6f793706a503a5f5/15c14caa8fc8982cfe45e87d60cccb9e.jpeg@webp"
+                }
+            ],
+            "id": "1393100200",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Гречка Увелка Экстра 800г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 8999,
+            "productId": "1393100200",
+            "promotion": {
+                "discountPercent": 37,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 14499
+            },
+            "quantity": 73,
+            "ratings": {
+                "commentsCount": 117,
+                "rating": 4.7,
+                "scoresCount": 3477
+            },
+            "seoCode": "grechka_yadritsa_uvelka_ekstra_800g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/sfFvZiejqZU8pvmMkoRT8swO1CHJz_bvRvoMtyc_hJU/rs:fit:416:416/plain/s3://img-dostavka/uf/bd0/bd0c90efcf213102339b2c9ee7f2fca4/bdacf3c48171cf8a5637bde435583dd1.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/YbxdraVNqczeO88FfZycoBvBzGAha_XdM_ta6UjZNHA/rs:fit:416:416/plain/s3://img-dostavka/uf/7f8/7f80c8b448ef91e0e477e09fa82e0766/b59d645e2c85867425e8a0e4f2e03b44.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/4GDwbY4nVvK_lAOEPdutWOkw2R1pYwdFGn8VheT9iD4/rs:fit:416:416/plain/s3://img-dostavka/uf/5d9/5d9e1187613d118ae843f5d1e9470c82/48703da87c077e6ee3faf69ec5471f05.jpeg@webp"
+                }
+            ],
+            "id": "1000175641",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Увелка Гречневая ядрица Экстра 5пак*80г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000175641",
+            "promotion": {
+                "discountPercent": 41,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 11999
+            },
+            "quantity": 251,
+            "ratings": {
+                "commentsCount": 220,
+                "rating": 4.8,
+                "scoresCount": 5344
+            },
+            "seoCode": "krupa_grechnevaya_uvelka_ekstra_5pak_kh80g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/TFKGRmOsX06XblDE6qieh6F_CAbubV0MgwCp6qxdLx0/rs:fit:416:416/plain/s3://img-dostavka/uf/7ec/7ec4579dc62cb70c1b3fcb03d5b57dda/d07c5c3dbfce1b0c84df742580a82e7c.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/nYt5z2fZk3VVFKuX0Yd8IRKOc8Yhza_IwzaJTB-vn1Y/rs:fit:416:416/plain/s3://img-dostavka/uf/b07/b075350b52aa6dc9b475480046aaa53e/781494c376fad8a8a7a206091ef26b52.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/2Ti8WvilFJgFUlr0NY9JXhJeUJbBpEek-Rb265NE1-M/rs:fit:416:416/plain/s3://img-dostavka/uf/caf/caf2bf4f73c917e6fc457cb618d5ab7d/024008683933b8674cad5aeed92366e6.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/U49gHxXEUxzTIKtaAMBxnOvpxgOLmkSftEi2ptntlSc/rs:fit:416:416/plain/s3://img-dostavka/uf/459/4590594a1e071b657e2d7d6e1c696994/fbfa990d26359fcc6dc09d45fb3b79f3.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/JRKmclQMh-a8KyhQWcOzTkJYiuwNAr6TGsh81SkSkRI/rs:fit:416:416/plain/s3://img-dostavka/uf/f60/f609983ad0c0b34c8837fc63fcc249d2/2ba1acfa7980fd0fe28df18867a0a5aa.jpeg@webp"
+                }
+            ],
+            "id": "3157710006",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Националь гречневая ядрица 900г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 8999,
+            "productId": "3157710006",
+            "promotion": {
+                "discountPercent": 17,
+                "endDate": "2025-05-27T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 10939
+            },
+            "quantity": 40,
+            "ratings": {
+                "commentsCount": 9,
+                "rating": 4.7,
+                "scoresCount": 244
+            },
+            "seoCode": "grecha_natsional_900g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/s0fUHZ5vJ1Nrjttw6nN3rySsIEp0zUCBi6oUZrhFoQE/rs:fit:416:416/plain/s3://img-dostavka/uf/f2b/f2be8ec892d241a5dd6875f84ef40629/1234bd70ab520c11d10af8c841c495e0.jpeg@webp"
+                }
+            ],
+            "id": "1000303406",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Магнит гречневая ядрица 800г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 5999,
+            "productId": "1000303406",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-04-30T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 73,
+            "ratings": {
+                "commentsCount": 109,
+                "rating": 4.7,
+                "scoresCount": 2547
+            },
+            "seoCode": "krupa_grechnevaya_magnit_yadritsa_bystrogo_prigotovleniya_900g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/R_FqIm33T0JLTlcif3LBcUvpDLRmcXC3lHbF_8H-GXE/rs:fit:416:416/plain/s3://img-dostavka/uf/215/215aafc99b4b7c5e4202f920e7a0179d/0599c0d4eb8f7158c3f49fdb5bf3d8ff.jpeg@webp"
+                }
+            ],
+            "id": "1000241504",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Makfa Гречневая ядрица 800г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 8499,
+            "productId": "1000241504",
+            "promotion": {
+                "discountPercent": 29,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 11999
+            },
+            "quantity": 49,
+            "ratings": {
+                "commentsCount": 48,
+                "rating": 4.8,
+                "scoresCount": 1620
+            },
+            "seoCode": "makfa_krupa_grechnevaya_yadritsa_800g_p_up_makfa_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Fm6AVie3quv6ZnhHluqyAVSgXsjA2LodZxHq3PfQp78/rs:fit:416:416/plain/s3://img-dostavka/uf/111/11191c54d3611a03346a17ff6009f715/7386469ac3f4bbdf18e796d0029aa1d6.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/3_mQVBBvJ8Y86kGGua_U5jGT50WlQuuev3tyC6rng2M/rs:fit:416:416/plain/s3://img-dostavka/uf/c26/c268b6b5d4dc6f1f4696d175745b7f6a/aeac4e4a4ef2ba7792b0b427ee3c5ad6.jpeg@webp"
+                }
+            ],
+            "id": "1000210976",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Makfa Гречневая 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6499,
+            "productId": "1000210976",
+            "promotion": {
+                "discountPercent": 24,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 8599
+            },
+            "quantity": 48,
+            "ratings": {
+                "commentsCount": 52,
+                "rating": 4.8,
+                "scoresCount": 1377
+            },
+            "seoCode": "makfa_krupa_grechnevaya_yadritsa_ekstra_400g_k_kor_makfa_9",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/15t-TEP9UPPRTlizHbtBmj6ZB06S9zuvn6eVB6R-VUA/rs:fit:416:416/plain/s3://img-dostavka/uf/65c/65cfb3665a083a9ea412d46508abcfd5/5315433e38da8ae12a2072aa4d663b0f.jpeg@webp"
+                }
+            ],
+            "id": "2400008418",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Гречневая крупа Агро-альянс Экстра 900г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 8999,
+            "productId": "2400008418",
+            "promotion": {
+                "discountPercent": 26,
+                "endDate": "2025-03-18T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 12299
+            },
+            "quantity": 44,
+            "ratings": {
+                "commentsCount": 66,
+                "rating": 4.8,
+                "scoresCount": 1343
+            },
+            "seoCode": "grechnevaya_krupa_agro_alyans_elitnaya_900g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/SEcHH2whz6REdVAOlkDHLns9pomJCgf-YYabwxB_Ges/rs:fit:416:416/plain/s3://img-dostavka/uf/596/596024c5b69352f49a0404edea64c55f/f6be29aea51de681cb44e470ea72645a.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/vGlpc-hDc5zIXMOZK9KuNFQjliVrXuNVNsOkZ9bdFLI/rs:fit:416:416/plain/s3://img-dostavka/uf/3f3/3f3736f3895013344d7468af81821b46/ae1dcb683782071e5d978d2275659026.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/OMn8G3oxaEpKayTKvCIaTM-TFWYaYr0KbsJSuZcAjr8/rs:fit:416:416/plain/s3://img-dostavka/uf/d6e/d6e4137eee1b6179f76d47ea63cda82d.png@webp"
+                }
+            ],
+            "id": "1000443951",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Гречка ядрица Prosto для гарнира 500г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000443951",
+            "promotion": {
+                "discountPercent": 32,
+                "endDate": "2025-03-18T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 10299
+            },
+            "quantity": 30,
+            "ratings": {
+                "commentsCount": 19,
+                "rating": 4.7,
+                "scoresCount": 420
+            },
+            "seoCode": "prosto_grechka_yadritsa_dlya_garnira_500g_k_up",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/opD5wosqXecUj7R8h7W2ETXA7A6bxPL67QoHTmGEdEc/rs:fit:416:416/plain/s3://img-dostavka/uf/a92/a92ab48250c776247a0ceea2c63424c9/8976d3c6fceb6979b7f31c825acb22e5.jpeg@webp"
+                }
+            ],
+            "id": "1342500014",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Мистраль Гречневая ядрица 900г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 13499,
+            "productId": "1342500014",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 24,
+            "ratings": {
+                "commentsCount": 33,
+                "rating": 4.8,
+                "scoresCount": 712
+            },
+            "seoCode": "grechka_yadritsa_mistral_900g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/dtClbo92HUx93eCHroy-ifbQWVcbGUCh3c3kNTr735Y/rs:fit:416:416/plain/s3://img-dostavka/uf/e52/e52fa911873d0c2eb59fbbaa1488a706/166322c0ec9fe5dbc9737c57029def1f.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/7L9AV6OWLikzqKA-2WgsfgHbm3TlwmOcCOeYKIj7Pg4/rs:fit:416:416/plain/s3://img-dostavka/uf/0f1/0f17807d9039aaa2d8435484cb61f531/a5f45f34b3cf4dcb7378afba7b74f0ab.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/R6cfz8z9nEXeHPkO0Tnuvq5RK0p4lAb8QyxU0dCpbpI/rs:fit:416:416/plain/s3://img-dostavka/uf/170/1704f63dd494063c73c689a1e8efa1f5/e95049a7034dd19c6c5c1e513a2a6ac3.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/f-k5ms-qg15MNi6EYK3vnKWCLz0iQIqTn89LJ0LJEBA/rs:fit:416:416/plain/s3://img-dostavka/uf/498/498e677737bf82ce078aed595b1ea9bb/1a454327096b12cc0f9998e793d7cfb8.jpeg@webp"
+                }
+            ],
+            "id": "1000314500",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Гречка Увелка с грибами в сочном соусе по-сибирски 260г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 10499,
+            "productId": "1000314500",
+            "promotion": {
+                "discountPercent": 21,
+                "endDate": "2026-01-10T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 13399
+            },
+            "quantity": 2,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.6,
+                "scoresCount": 65
+            },
+            "seoCode": "uvelka_grechka_yadritsa_bystrorazvarivayushchayasya_260g_kartonnaya_upakovka_ooo_resurs_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/n0hf3Q8_RgSit6N-bDEpMNOJpIc7h3HWspfBLBDgwU0/rs:fit:416:416/plain/s3://img-dostavka/uf/273/2732a18e1b6f6953b548c8147d7a3586/8d3dc0cf579d4f02c77d102d1f2a841b.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/i_BHcp7moJ4RxCedh8Lwo6J1_xEQSSTiDuoJOnNXY9w/rs:fit:416:416/plain/s3://img-dostavka/uf/a3d/a3d452b6df03c4604ad6cb050c4b7d56/c7ccb4740379fa595a9c6581ed7a8f82.png@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Xmw1X872yJWOb4-CKxbRZhFQkDO8rdu5fVlwefQEXCc/rs:fit:416:416/plain/s3://img-dostavka/uf/abd/abd8fbd73989e3e029b0bd76393d041a/24ed73bbab70d1e8cbe4bd8e6e863ba1.png@webp"
+                }
+            ],
+            "id": "1000109812",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Prosto Гречневая ядрица 8пак*62.5г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000109812",
+            "promotion": {
+                "discountPercent": 32,
+                "endDate": "2025-03-18T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 10299
+            },
+            "quantity": 27,
+            "ratings": {
+                "commentsCount": 6,
+                "rating": 4.7,
+                "scoresCount": 232
+            },
+            "seoCode": "prosto_krupa_grechnevaya_500g_k_up_angstrem_treyding_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/MlWXOjQU5usPZG6Fm1NLQSG52OcRwcrXUwFhCK5yiq4/rs:fit:416:416/plain/s3://img-dostavka/uf/526/5262d5c5fdd0b2b367a4e977d8be6c0b/6ecf04cf5c1041eca45a1528324d3978.jpeg@webp"
+                }
+            ],
+            "id": "1000246629",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Мистраль Гречневая ядрица 5пак*80г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000246629",
+            "promotion": {
+                "discountPercent": 38,
+                "endDate": "2025-03-18T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 11399
+            },
+            "quantity": 13,
+            "ratings": {
+                "commentsCount": 1,
+                "rating": 4.8,
+                "scoresCount": 83
+            },
+            "seoCode": "mistral_grechnevaya_krupa_400g_k_kor_mistral_treyding_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/KU9yMXtq5ojQ1_P3-keVHu-EuwkrnMe4gwV_juEKFlc/rs:fit:416:416/plain/s3://img-dostavka/uf/968/9683e40b4e3214066da0ee760c3f8996/cd14cd1dd926e4b392ddcb89bdc7b03c.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/koY-o3VLmoIBybM9dmowgxJBe5d17X75f-nm-TuzagE/rs:fit:416:416/plain/s3://img-dostavka/uf/2df/2dfb7de2cefae71d5ac7aa9a0360f689/0aad19b73c43054b3b17ec37cce0083a.jpeg@webp"
+                }
+            ],
+            "id": "1000302962",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Увелка Коллекция Гречка зеленая 450г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 10999,
+            "productId": "1000302962",
+            "promotion": {
+                "discountPercent": 15,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 12999
+            },
+            "quantity": 21,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.7,
+                "scoresCount": 35
+            },
+            "seoCode": "uvelka_krupa_grechnevaya_625_grechnevaya_pervyy_sort_450g_doy_pak_ooo_resurs_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/2bTatdnTdTfNPt8QF2AFjlcp5urp4YBQ_s8ncDTiWAo/rs:fit:416:416/plain/s3://img-dostavka/uf/d1e/d1ecd0b2c59582ea8846ab4bceb0fe8d/49b9c80317114fbe7bbad2dacbcb3772.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/1wtmnGksQDttW8W6wLXKhDm3mndFFJ3_lDHWL_gZsyY/rs:fit:416:416/plain/s3://img-dostavka/uf/a86/a8660f2f647f813a44c72dc24ed304f1/946c357df7f6542a7851fb966a59b62d.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/Dfsn2h5s7df2Td-wbiJURajgbQgsitdK97qy9EBe5FI/rs:fit:416:416/plain/s3://img-dostavka/uf/219/219c3fec3e124b9f115abf7d9972b734/e9667ab0e59fab6afe98e9f06a4ba0d7.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/YhMFTlq6EPs9Ei9sas2uNgZs-aJcRP0N17dHMXdi2f8/rs:fit:416:416/plain/s3://img-dostavka/uf/3af/3afc48c9ecb1a9473e122e3547395756/a08786e7c3140cc58ac6b8e4110b229c.jpeg@webp"
+                }
+            ],
+            "id": "1000385595",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Кашка Черноголовка Бэйби молоко гречка-яблоко 200мл",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 4299,
+            "productId": "1000385595",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 8,
+            "ratings": {
+                "commentsCount": 3,
+                "rating": 4.8,
+                "scoresCount": 126
+            },
+            "seoCode": "chernogolovka_beybi_kasha_bkshchbmgya200_molochnaya_grechnevaya_s_yablokom_sterilizovannaya_s_6_mesya",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/H1bhLhFeQy1wv9H8NmS423WDWKfmW66EV-qIbEQAmeU/rs:fit:416:416/plain/s3://img-dostavka/uf/6ae/6aee2506885900ce5da9db4f4178e715/cc05d98eeffcbaedf91a4eec0e1ef2f6.jpeg@webp"
+                }
+            ],
+            "id": "1000312587",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Агро-Альянс Гречневая ядрица 400г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000312587",
+            "promotion": {
+                "discountPercent": 30,
+                "endDate": "2025-05-27T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 9999
+            },
+            "quantity": 4,
+            "ratings": null,
+            "seoCode": "agro_alyans_ekstra_krupa_grecha_400g_kartonnaya_upakovka_tsentralnaya_krupyanaya_kompaniya_ooo_12",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/t2lJewB-Rm8HqAu4-NBh7LhJVATTKaGvmr9jYdhKjyA/rs:fit:416:416/plain/s3://img-dostavka/uf/5d5/5d5dd601ffbfa2c24bf998b36f125e4c/5b7e65cb05438176b045a9f639322431.jpeg@webp"
+                }
+            ],
+            "id": "1000457521",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Гречка с мясом 250г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 12999,
+            "productId": "1000457521",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": null,
+                "isPromotion": false,
+                "oldPrice": null
+            },
+            "quantity": 3,
+            "ratings": {
+                "commentsCount": 8,
+                "rating": 4.1,
+                "scoresCount": 74
+            },
+            "seoCode": "tulskiy_dvorik_grechka_s_myasom_250g_lotok",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9Oi-c96bJh-xlZubwpMIWsILfJbFfLa13qNacPbMvAU/rs:fit:416:416/plain/s3://img-dostavka/uf/629/629238b5039156e234f303e258a71f36/7ef214e489ffff8f139874e825d28c44.jpeg@webp"
+                }
+            ],
+            "id": "1000081031",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Греча Bravolli! Зеленая 350г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 10999,
+            "productId": "1000081031",
+            "promotion": {
+                "discountPercent": 32,
+                "endDate": "2025-04-15T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 16339
+            },
+            "quantity": 2,
+            "ratings": {
+                "commentsCount": 2,
+                "rating": 4.8,
+                "scoresCount": 13
+            },
+            "seoCode": "yarmarka_bravolli_grecha_zelenaya_350g_m_up_td_yarmarka_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9n2a9l9LILR5trMSkJt5dyAV1znk7jxEqLQHG5WIIwo/rs:fit:416:416/plain/s3://img-dostavka/uf/cb8/cb8750281571dc2a03f47fe8711ab4d8/8e8f2710868b760df76a99ea5ba1f7f9.jpeg@webp"
+                }
+            ],
+            "id": "1000383804",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Гречневая крупа Мистраль ядрица 2кг",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 22999,
+            "productId": "1000383804",
+            "promotion": {
+                "discountPercent": 17,
+                "endDate": "2025-03-18T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 27999
+            },
+            "quantity": 28,
+            "ratings": {
+                "commentsCount": 4,
+                "rating": 4.8,
+                "scoresCount": 78
+            },
+            "seoCode": "mistral_grechka_yadritsa_2_kg_mistral",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        }
+    ],
+    "pagination": {
+        "hasMore": false,
+        "limit": 36,
+        "offset": 0,
+        "totalCount": 19
+    },
+    "term": "крупа гречневая"
+}

@@ -1,0 +1,1460 @@
+[
+    {
+        "title": null,
+        "class": null,
+        "pagenData": {
+            "element_count": "20",
+            "page": 1,
+            "pages_count": 1,
+            "page_size": 30,
+            "pagen_text": "Показать ещё -10 товаров",
+            "isLastPage": true
+        },
+        "cards": [
+            {
+                "id": "226088",
+                "xml_id": "2000600211",
+                "title": "Молоко ультрапастеризованное Хуторок 1,5% 973мл",
+                "weight": "1028 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000600211/",
+                "ratio": 1,
+                "src": "/upload/iblock/f7f/76r3dufq1oam76et57sdaq7zmjbndab9.webp",
+                "amount": 11,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 1,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/f7f/76r3dufq1oam76et57sdaq7zmjbndab9.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/f85/q3al1w1glitn28xn69qxhp4m4lafb19x.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/5e2/3462ww72uj5u33lx7hvpbnbmrrqvrg58.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "226088 1 11 шт 0",
+                "status": "in-time",
+                "oldPrice": "89.<span>99</span><span class='rub'>руб.</span>",
+                "price": "69.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-22%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "69.99",
+                "oldPriceSimple": "89.99",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212674",
+                "xml_id": "2000279680",
+                "title": "Молоко ультрапастеризованное 3,2% в ассортименте 0,93/1л",
+                "weight": "1071 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000279680/",
+                "ratio": 1,
+                "src": "/upload/iblock/a25/g0q6uxhroyge7uenxsmcka4zj2h37aqp.webp",
+                "amount": 445,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 2,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/a25/g0q6uxhroyge7uenxsmcka4zj2h37aqp.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/da6/rldim3i428dg24guugzg4122s0m64ttu.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212674 1 445 шт 0",
+                "price": "82.<span>99</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "82.99",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "225370",
+                "xml_id": "2000600213",
+                "title": "Молоко ультрапастеризованное Хуторок 3,2% 973мл",
+                "weight": "1028 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000600213/",
+                "ratio": 1,
+                "src": "/upload/iblock/e7c/50ltxz15i9vyznxszewa5wikljvo8s9p.webp",
+                "amount": 38,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 3,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/e7c/50ltxz15i9vyznxszewa5wikljvo8s9p.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/2dc/8349fh9w80x74h0wirccfb1a6wxpb0j3.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/db6/77rrfrmykmg76o0kfdmfpvynpfc1j8rt.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "225370 1 38 шт 0",
+                "status": "in-time",
+                "oldPrice": "119.<span>90</span><span class='rub'>руб.</span>",
+                "price": "99.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-16%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "99.99",
+                "oldPriceSimple": "119.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "217921",
+                "xml_id": "2000511374",
+                "title": "Молоко ультрапастеризованное 2,5% в ассортименте 924мл/1000мл",
+                "weight": "987 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000511374/",
+                "ratio": 1,
+                "src": "/upload/iblock/011/0fuhjqp53z3hhuln555vvd3q4ryalsul.webp",
+                "amount": 60,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 4,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/011/0fuhjqp53z3hhuln555vvd3q4ryalsul.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/2be/tarevqra2g070m8lvgi13zw730t1sxfw.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/158/1ilmapyymgdqquttxpynyg8d8n5ut6mj.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/805/4n0c8glb68xh6lc8b25z1qv98udg33r8.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/d58/ic4kwi0dz809gw0xvmprktbv5r81cnre.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "217921 1 60 шт 0",
+                "status": "in-time",
+                "oldPrice": "108.<span>90</span><span class='rub'>руб.</span>",
+                "price": "94.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-12%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "94.99",
+                "oldPriceSimple": "108.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "210289",
+                "xml_id": "2000066819",
+                "title": "Молоко ультрапастеризованное Домик в деревне 3,2% 950г",
+                "weight": "1000 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000066819/",
+                "ratio": 1,
+                "src": "/upload/iblock/115/8ys5cm4umw1clzu8qs9hzii89se5w1r0.webp",
+                "amount": 41,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 5,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/115/8ys5cm4umw1clzu8qs9hzii89se5w1r0.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/85c/nvda0oo94pkbpyc881gtt1tx4jadxki2.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/dd1/z2rxtd8jldys3o6mpmr8e9frhozd134c.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/9da/epxeryw3qh1x4mimcun3daw15b1szt8i.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/f61/0y9cwvsxrdhuqw1i045ckbbgmddk9fq9.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/489/dk9j8g1upphvguw8xw1b6cbvvmcesss9.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/103/va0xztg7oaupwuwafzqtfbaybg0ubhhz.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/1cb/k1xk0uiciffpgz6tg0mwz0rzbg88yu31.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "210289 1 41 шт 0",
+                "price": "108.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "108.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "220052",
+                "xml_id": "2000560951",
+                "title": "Молоко ультрапастеризованное 3,2% в ассортименте 925мл/1000мл",
+                "weight": "1030 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000560951/",
+                "ratio": 1,
+                "src": "/upload/iblock/964/3jsmsa10d5gbj42nst5hyzlichon1ohx.webp",
+                "amount": 24,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 6,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/964/3jsmsa10d5gbj42nst5hyzlichon1ohx.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/2eb/8kq5oyscegtux1sowlaj2wkvnhlizswi.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "220052 1 24 шт 0",
+                "oldPrice": "103.<span>90</span><span class='rub'>руб.</span>",
+                "price": "103.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "violet violet-title",
+                        "title": "-8% по карте"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 16.03.2025"
+                    }
+                ],
+                "crossPrice": false,
+                "priceSimple": "103.90",
+                "oldPriceSimple": "103.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "226225",
+                "xml_id": "2000600212",
+                "title": "Молоко ультрапастеризованное Хуторок 2,5% 973мл",
+                "weight": "1028 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000600212/",
+                "ratio": 1,
+                "src": "/upload/iblock/58d/r3bbovnvnra3zowqmaz1cvgorokx1276.webp",
+                "amount": 22,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 7,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/58d/r3bbovnvnra3zowqmaz1cvgorokx1276.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/f96/vd7nv3zwi84rp63wbg2ol10uji5b9j00.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/3c2/6vu05jgtdbpe2w1jp81w2pqo9iknadya.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "226225 1 22 шт 0",
+                "status": "in-time",
+                "oldPrice": "109.<span>90</span><span class='rub'>руб.</span>",
+                "price": "82.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-24%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "82.99",
+                "oldPriceSimple": "109.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "209699",
+                "xml_id": "10J0077073",
+                "title": "Молоко ультрапастеризованное М 3,2%, 950 г",
+                "weight": "1030 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/10J0077073/",
+                "ratio": 1,
+                "src": "/upload/iblock/0c0/38tmp3smqqnuvu2vemhn3oqm9m3uu5pk.webp",
+                "amount": 40,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 8,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/0c0/38tmp3smqqnuvu2vemhn3oqm9m3uu5pk.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/283/pe24trys5y8i9vyjtixc6s7i13irn8i6.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/f26/rpgmqvcdlkefgx3ovwpggphojwgpymfj.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209699 1 40 шт 0",
+                "price": "114.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "114.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212316",
+                "xml_id": "2000273384",
+                "title": "Молоко ультрапастеризованное 2,5% в ассортименте 0,93/1л",
+                "weight": "1071 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000273384/",
+                "ratio": 1,
+                "src": "/upload/iblock/067/6sei3i5t74zb69kk3sd0mf3pkapc5lko.webp",
+                "amount": 77,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 9,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/067/6sei3i5t74zb69kk3sd0mf3pkapc5lko.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212316 1 77 шт 0",
+                "status": "in-time",
+                "oldPrice": "82.<span>99</span><span class='rub'>руб.</span>",
+                "price": "79.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-3%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 07.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "79.99",
+                "oldPriceSimple": "82.99",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212140",
+                "xml_id": "2000260617",
+                "title": "Молоко ультрапастеризованное Домик в деревне 2,5% 950г",
+                "weight": "985 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000260617/",
+                "ratio": 1,
+                "src": "/upload/iblock/fd1/koy1ph94qm3avd8rj5dz6aw6fgq2fpds.webp",
+                "amount": 19,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 10,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/fd1/koy1ph94qm3avd8rj5dz6aw6fgq2fpds.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/85c/nvda0oo94pkbpyc881gtt1tx4jadxki2.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/f31/08fpo640wj438auipqrlfp7b3gyy8gv4.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/20c/tglij9b3g5klqdqq6w7vz50xt0c13gqt.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/7f2/lseii3ygw0v903f8e7f2g81kaj4adesj.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/489/dk9j8g1upphvguw8xw1b6cbvvmcesss9.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/103/va0xztg7oaupwuwafzqtfbaybg0ubhhz.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/1cb/k1xk0uiciffpgz6tg0mwz0rzbg88yu31.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212140 1 19 шт 0",
+                "price": "112.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "112.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "222916",
+                "xml_id": "2000589411",
+                "title": "Молоко ультрапастеризованное Му-у Для капучино 3,2%, 925мл",
+                "weight": "986 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000589411/",
+                "ratio": 1,
+                "src": "/upload/iblock/cab/itz2xstr4zh1b1c6994cuz8wea044mfw.webp",
+                "amount": 5,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 11,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/cab/itz2xstr4zh1b1c6994cuz8wea044mfw.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/ecb/efz04k5eovm0jtuv5pkont770u97b64i.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/31a/tdytcg5fkgry17il00a8pn5qv26i9pp6.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "222916 1 5 шт 0",
+                "price": "115.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "115.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "219181",
+                "xml_id": "2000546311",
+                "title": "Молоко Сафiйка ультрапастеризованное 2,5% 1430мл",
+                "weight": "1508 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000546311/",
+                "ratio": 1,
+                "src": "/upload/iblock/666/bd172svmx4eji03c2efqgywh3o0cppp7.webp",
+                "amount": 9,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 12,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/666/bd172svmx4eji03c2efqgywh3o0cppp7.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/666/bd172svmx4eji03c2efqgywh3o0cppp7.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/d5c/w0eet647jn1etpk2gmrhdumqzwslnoco.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "219181 1 9 шт 0",
+                "status": "in-time",
+                "oldPrice": "149.<span>90</span><span class='rub'>руб.</span>",
+                "price": "129.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-13%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "129.90",
+                "oldPriceSimple": "149.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "215146",
+                "xml_id": "2000328874",
+                "title": "Молоко Parmalat ультрапастеризованное 3,5% 1л",
+                "weight": "1060 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000328874/",
+                "ratio": 1,
+                "src": "/upload/iblock/36d/704w4gq5rjtj9pwwhw8jcpb8qkb8qnfe.webp",
+                "amount": 11,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 13,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/36d/704w4gq5rjtj9pwwhw8jcpb8qkb8qnfe.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/8d8/qo4x18yh3hws918rachx1go15lxiuco1.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "215146 1 11 шт 0",
+                "price": "148.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "148.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212553",
+                "xml_id": "2000280963",
+                "title": "Молоко ФрутоНяня ультрапастеризованное 2,5% 0,2л",
+                "weight": "222 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/dlya-detey/2000280963/",
+                "ratio": 1,
+                "src": "/upload/iblock/b85/euokjfo87ya7bysb2ee4gdcwontb4qya.webp",
+                "amount": 5,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Для детей",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 14,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/b85/euokjfo87ya7bysb2ee4gdcwontb4qya.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/e3f/mu8mg5gar5vd9esfxgrysx36r790bgcy.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/3fc/s5gt9m8zqcmv6phamd452m2da6o4j6gj.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/bac/t4ek5dhzyip71eaqr2frtt232ae1poyy.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/a68/bw6jwsz4lu4k3asqcp8n82es8skhrg6c.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/1b1/a0d7d14nrhu0vz7yyg528l5apssd3b23.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/4ba/aohvd16wqtkr6deckyzgaa713dasge7r.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/40c/3qcfeh0fwwlwllmhrgqvm5k8n4bkdaln.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212553 1 5 шт 0",
+                "status": "in-time",
+                "oldPrice": "49.<span>99</span><span class='rub'>руб.</span>",
+                "price": "29.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-40%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 31.12.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "29.99",
+                "oldPriceSimple": "49.99",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "211897",
+                "xml_id": "2000238271",
+                "title": "Молоко Село Зеленое ультрапастеризованное 3,2, 950мл",
+                "weight": "950 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000238271/",
+                "ratio": 1,
+                "src": "/upload/iblock/115/ax0p1ou2ih3rqcxgwd4l4m0z39q1iu81.webp",
+                "amount": 3,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 15,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/115/ax0p1ou2ih3rqcxgwd4l4m0z39q1iu81.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/173/4rmys28dur31sv8m9vovy4k73mbmgkhg.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/40e/btxs5cepp4o46kj9tb2ba7zxmcgc6v2p.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "211897 1 3 шт 0",
+                "price": "119.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "119.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "209707",
+                "xml_id": "10E0074248",
+                "title": "Молоко Тёма ультрапастеризованное 3,2% 500мл",
+                "weight": "500 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/dlya-detey/10E0074248/",
+                "ratio": 1,
+                "src": "/upload/iblock/79f/1ls0rrsy9xhljpnt48uwp151td604vip.webp",
+                "amount": 4,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Для детей",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 16,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/79f/1ls0rrsy9xhljpnt48uwp151td604vip.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "209707 1 4 шт 0",
+                "status": "in-time",
+                "oldPrice": "104.<span>90</span><span class='rub'>руб.</span>",
+                "price": "89.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-14%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "89.99",
+                "oldPriceSimple": "104.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "226340",
+                "xml_id": "2000596551",
+                "title": "Молоко козье С нашей фермы ультрапастеризованное 2,8%-5,6% 500мл",
+                "weight": "514 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000596551/",
+                "ratio": 1,
+                "src": "/upload/iblock/9bd/q0jobtapopslu07s50bmnr3kjoy871py.webp",
+                "amount": 3,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 17,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/9bd/q0jobtapopslu07s50bmnr3kjoy871py.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "226340 1 3 шт 0",
+                "status": "in-time",
+                "oldPrice": "179.<span>90</span><span class='rub'>руб.</span>",
+                "price": "159.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-11%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "159.90",
+                "oldPriceSimple": "179.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "238004",
+                "xml_id": "2000408871",
+                "title": "Молоко Простоквашино безлактозное ультрапастеризованное 1,5% 970мл",
+                "weight": "1030 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000408871/",
+                "ratio": 1,
+                "src": "/upload/iblock/afe/j5s8ofdwk2nul7l93fogmw6cpexi41sl.webp",
+                "amount": 4,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 18,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/afe/j5s8ofdwk2nul7l93fogmw6cpexi41sl.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/345/qf68ui6nz9a8eouapkl42l2t009qmsqs.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/74b/lajrfq6t3opm0mhlvj1eoysg109rd3j8.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "238004 1 4 шт 0",
+                "price": "129.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "129.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "212173",
+                "xml_id": "2000263555",
+                "title": "Молоко Село Зеленое ультрапастеризованное 2,5% 0,95л",
+                "weight": "950 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/moloko/2000263555/",
+                "ratio": 1,
+                "src": "/upload/iblock/36e/8vnjvo62ipyxz1wuwfjn43uwyb016z5i.webp",
+                "amount": 9,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Молоко",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 19,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/36e/8vnjvo62ipyxz1wuwfjn43uwyb016z5i.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/63b/1vvy9fil5vypxhpa1dxsuh1rk27q595h.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/653/z1ixl3maaceaq0273rw0rauh56v880y6.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "212173 1 9 шт 0",
+                "price": "104.<span>90</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "104.90",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "224335",
+                "xml_id": "ЦТ0027977",
+                "title": "Молоко Тёма детское ультрапастеризованное 3,2% 200мл",
+                "weight": "220 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/dlya-detey/%D0%A6%D0%A20027977/",
+                "ratio": 1,
+                "src": "/upload/iblock/25a/8a6sophzxjm6vjsqj9ufh3kre2q05383.webp",
+                "amount": 7,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Для детей",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 20,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/25a/8a6sophzxjm6vjsqj9ufh3kre2q05383.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/917/d02ad18d2fk3d0s45q7elcb1go9nv6x5.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/37c/0mf51mpqmt439n2e0j6lweem2ehpxyi5.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "224335 1 7 шт 0",
+                "status": "in-time",
+                "oldPrice": "49.<span>99</span><span class='rub'>руб.</span>",
+                "price": "39.<span>99</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-20%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 09.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "39.99",
+                "oldPriceSimple": "49.99",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            }
+        ],
+        "card_template": "{{#isSlider}}\n<div class=\"swiper-slide\" {{{displayNone}}}>\n{{/isSlider}}\n<article class=\"card bs-state{{^canBuy}} disabled-card{{/canBuy}}{{#hideAlko}} alko{{/hideAlko}}\" data-discount=\"{{{discount}}}\" data-section=\"{{{section}}}\" data-template=\"listing-card\" data-id=\"{{id}}\" product-id=\"{{xml_id}}\" data-bsk_state=\"{{bskState_f}}\">\n    <a class=\"card__link\" href=\"{{url}}\">\n        <div class=\"bookmark\" style=\"opacity: 0;\">\n            <svg >\n                <use href=\"/local/templates/dixy_ru/images/sprites.svg#bookmark\"></use>\n            </svg>\n        </div>\n        <div class=\"card-images\">\n            <img class=\"card-image\" width=\"94\" height=\"94\" data-src=\"{{src}}\" src=\"#\" loading=\"lazy\" alt=\"{{title}}\">\n            <div class=\"badges\">\n                {{#badges}}\n                <div class=\"badge {{class}}\">\n                    {{#title}}\n                    <span>{{{title}}}{{#is_favorite}}{{#img}}{{{img}}}{{/img}}{{/is_favorite}}</span>\n                    {{/title}}\n                </div>\n                {{/badges}}\n                {{#stickerBadge}}\n                <div class=\"badge green\">\n                    <span>{{{stickerBadge}}}\n                        <svg>\n                            <use xlink:href=\"/local/templates/dixy_ru/images/sprites.svg#sticker-dixy\"></use>\n                        </svg>\n                    </span>\n                </div>\n                {{/stickerBadge}}\n            </div>\n        </div>\n        <div class=\"card__info\">\n          <h3 class=\"card__title\">{{title}}</h3>\n        </div>\n    </a>\n    <div class=\"card__action{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\"{{#bskFields}} data-bsk_data=\"{{bskFields}}\"{{/bskFields}}>\n        {{^hideAlko}}\n          {{#bs-not}}\n              <button class=\"card__more\" aria-label=\"Кнопка Подробнее о товаре\">Подробнее</button>\n          {{/bs-not}}\n          {{#bs-del}}\n          <button class=\"card__del\" onclick=\"delCounterCount(this,'listingInitiator')\" aria-label=\"Кнопка Удалить из корзины\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#basket\"></use>\n            </svg>\n          </button>\n          {{/bs-del}}\n          {{#bs-in}}\n          <button class=\"card__minus\" onclick=\"countminus(this,'listingInitiator')\" aria-label=\"Кнопка Уменьшить количество товара\">\n            <svg>\n              <use href=\"/local/templates/dixy_ru/images/sprites.svg#minus\"></use>\n            </svg>\n          </button>\n          {{/bs-in}}\n        {{/hideAlko}}\n        {{^crossPrice}}\n        <div class=\"card__price\">\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        {{#crossPrice}}\n        <div class=\"card__price {{status}}\">\n            <span class=\"card__price-crossed\" title=\"руб.\">{{{oldPrice}}}</span>\n            <div class=\"card__price-num\" title=\"руб.\">{{{price}}}</div>\n        </div>\n        {{/crossPrice}}\n        <div class=\"card__count{{^hideAlko}}{{^bs-not}} active{{/bs-not}}{{/hideAlko}}\">\n          <input class=\"card__input\" type=\"text\" value=\"{{quantity}} {{symbol}}\" aria-label=\"Количество товара\">\n          {{#bs-limit}}<span class=\"card__count-text\">Больше нет</span>{{/bs-limit}}\n          <span class=\"card__text-disabled\">Раскупили</span>\n        </div>\n        <button class=\"card__plus{{#canBeFavoriteListing}}{{^is_favorite}} addFavorite{{/is_favorite}}{{/canBeFavoriteListing}}{{^hideAlko}}{{^bs-limit}}{{^bs-not}} active{{/bs-not}}{{/bs-limit}}{{/hideAlko}}{{^hideAlko}}{{#bs-limit}} disabled{{/bs-limit}}{{/hideAlko}}\"{{^canBeFavoriteListing}} onclick=\"countpluse(this,'listingInitiator')\"{{/canBeFavoriteListing}} aria-label=\"Кнопка добавить товар в корзину\">\n          <svg>\n            <use href=\"/local/templates/dixy_ru/images/sprites.svg#plus\"></use>\n          </svg>\n        </button>\n    </div>\n</article>\n{{#isSlider}}\n</div>\n{{/isSlider}}\n",
+        "filterData": false,
+        "seoFilter": null,
+        "externalResult": [
+            {
+                "search_info": {
+                    "taps": [
+                        {
+                            "title": "3",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 3"
+                        },
+                        {
+                            "title": "1л",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 1л"
+                        },
+                        {
+                            "title": "2",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 2"
+                        },
+                        {
+                            "title": "вологжанка",
+                            "href": "/catalog/?q=молоко ультрапастеризованное вологжанка"
+                        },
+                        {
+                            "title": "эконива",
+                            "href": "/catalog/?q=молоко ультрапастеризованное эконива"
+                        },
+                        {
+                            "title": "хуторок",
+                            "href": "/catalog/?q=молоко ультрапастеризованное хуторок"
+                        },
+                        {
+                            "title": "домик",
+                            "href": "/catalog/?q=молоко ультрапастеризованное домик"
+                        }
+                    ],
+                    "sts": [
+                        {
+                            "title": "молоко ультрапастеризованное",
+                            "href": "/catalog/?q=молоко ультрапастеризованное"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное 3 2",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 3 2"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное 1л",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 1л"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное 2 5",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 2 5"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное эконива",
+                            "href": "/catalog/?q=молоко ультрапастеризованное эконива"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное вологжанка",
+                            "href": "/catalog/?q=молоко ультрапастеризованное вологжанка"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное хуторок",
+                            "href": "/catalog/?q=молоко ультрапастеризованное хуторок"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное домик",
+                            "href": "/catalog/?q=молоко ультрапастеризованное домик"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное 2",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 2"
+                        },
+                        {
+                            "title": "молоко ультрапастеризованное 3",
+                            "href": "/catalog/?q=молоко ультрапастеризованное 3"
+                        }
+                    ],
+                    "query": "молоко ультрапастеризованное",
+                    "empty": false
+                }
+            }
+        ],
+        "facetData": [
+            {
+                "name": "Цена",
+                "id": "price",
+                "identifier": "price",
+                "type": "digit",
+                "min": "29.99",
+                "max": "159.9"
+            },
+            {
+                "name": "Торговая марка",
+                "id": 8,
+                "identifier": "torgovaya-marka",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Хуторок",
+                        "title_to_lower": "хуторок",
+                        "count": "3",
+                        "id": "215"
+                    },
+                    {
+                        "title": "Домик в деревне",
+                        "title_to_lower": "домик в деревне",
+                        "count": "2",
+                        "id": "324"
+                    },
+                    {
+                        "title": "М",
+                        "title_to_lower": "м",
+                        "count": "1",
+                        "id": "339"
+                    },
+                    {
+                        "title": "Тёма",
+                        "title_to_lower": "тёма",
+                        "count": "2",
+                        "id": "344"
+                    },
+                    {
+                        "title": "Простоквашино",
+                        "title_to_lower": "простоквашино",
+                        "count": "1",
+                        "id": "615"
+                    },
+                    {
+                        "title": "Фрутоняня",
+                        "title_to_lower": "фрутоняня",
+                        "count": "1",
+                        "id": "885"
+                    },
+                    {
+                        "title": "Село Зеленое",
+                        "title_to_lower": "село зеленое",
+                        "count": "2",
+                        "id": "1229"
+                    },
+                    {
+                        "title": "Славянские кружева",
+                        "title_to_lower": "славянские кружева",
+                        "count": "2",
+                        "id": "1320"
+                    },
+                    {
+                        "title": "Parmalat",
+                        "title_to_lower": "parmalat",
+                        "count": "1",
+                        "id": "1752"
+                    },
+                    {
+                        "title": "Сафiйка",
+                        "title_to_lower": "сафiйка",
+                        "count": "1",
+                        "id": "2129"
+                    },
+                    {
+                        "title": "Му-у",
+                        "title_to_lower": "му-у",
+                        "count": "1",
+                        "id": "2725"
+                    },
+                    {
+                        "title": "С нашей фермы",
+                        "title_to_lower": "с нашей фермы",
+                        "count": "1",
+                        "id": "3205"
+                    }
+                ]
+            },
+            {
+                "name": "Страна",
+                "id": 9,
+                "identifier": "strana",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Россия",
+                        "title_to_lower": "россия",
+                        "count": "19",
+                        "id": "1"
+                    },
+                    {
+                        "title": "Беларусь",
+                        "title_to_lower": "беларусь",
+                        "count": "1",
+                        "id": "139"
+                    }
+                ]
+            },
+            {
+                "name": "Тип товара",
+                "id": 10,
+                "identifier": "tip-tovara",
+                "type": "checkbox",
+                "items": [
+                    {
+                        "title": "Молоко",
+                        "title_to_lower": "молоко",
+                        "count": "20",
+                        "id": "340"
+                    }
+                ]
+            }
+        ],
+        "sectionData": [
+            {
+                "list_title": "Поиск по запросу:&nbsp;<span>молоко ультрапастеризованное</span>",
+                "title": "Поиск",
+                "count": "20",
+                "format_count": "20 товаров",
+                "href": "/catalog/",
+                "items": [
+                    {
+                        "title": "Молоко",
+                        "href": "/catalog/molochnye-produkty-yaytsa/moloko/?q=молоко ультрапастеризованное",
+                        "count": "17",
+                        "hideAlko": false,
+                        "active": false
+                    },
+                    {
+                        "title": "Для детей",
+                        "href": "/catalog/molochnye-produkty-yaytsa/dlya-detey/?q=молоко ультрапастеризованное",
+                        "count": "3",
+                        "hideAlko": false,
+                        "active": false
+                    }
+                ]
+            }
+        ]
+    }
+]

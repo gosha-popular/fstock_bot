@@ -1,0 +1,27 @@
+{
+    "url": "https://www.perekrestok.ru/api/customer/1.4.1.0/catalog/product/feed",
+    "headers": {
+        "accept": "application/json, text/plain, */*",
+        "accept-language": "ru,en;q=0.9,bg;q=0.8",
+        "auth": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzUxMiJ9.eyJqdGkiOiI5MzJiMGM1OC1iZDQxLTQwZDEtYjRhMy0xZTk3OTkxYzkzM2MiLCJpYXQiOjE3NDA5NzE3OTcsImV4cCI6MTc0MTAwMDU5NywiZCI6IjIzZDM4OTQ1LWUxMTEtNGY5Mi04MGE0LTZlN2IxNzE5Y2Q1YiIsImFwaSI6IjEuNC4xLjAiLCJpcCI6Ijk0LjE0MC4xMzYuMzAiLCJ1IjoiMjBiYzFhOTQtNjM3Yy00MGI5LWFiYzAtMDJmNGNmNjllODliIiwidCI6MX0.AReoa9lA0HEB63eUMZ4Izi9HbYU7gTaI44GCHxVp1HIRbhkNQfTYNs4WvWVO_8DalXUcB1TSGvsCN0Go2v68-xF9ASJhGYhF7-1UNbpn-Ir3wSR9ZkpOWuGVBRS35XAwgyjnf6iSCOYrw3vDU98d0_1_moThpo-BJLeAMy3nZn4O3I1U",
+        "content-type": "application/json",
+        "origin": "https://www.perekrestok.ru",
+        "priority": "u=1, i",
+        "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"YaBrowser\";v=\"25.2\", \"Yowser\";v=\"2.5\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36",
+        "x-kl-saas-ajax-request": "Ajax_Request"
+    },
+    "json": {
+        "page": 1,
+        "perPage": 48,
+        "filter": {
+            "textQuery": "query"
+        },
+        "withBestProductReviews": false
+    }
+}

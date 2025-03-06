@@ -1,0 +1,416 @@
+{
+    "query_type": "strict",
+    "products": [
+        {
+            "plu": 4277251,
+            "name": "Колбаса Вязанка Филейская вареная 450г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1500584-main/320x320.jpeg?updated_at=2025-02-25T14:27:00.040Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1500584-main/800x800.jpeg?updated_at=2025-02-25T14:27:00.040Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 24076
+            },
+            "promo": null,
+            "prices": {
+                "regular": "299.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "450 г",
+            "has_age_restriction": false,
+            "stock_limit": "10.00"
+        },
+        {
+            "plu": 4256868,
+            "name": "Колбаса Папа Может Классическая из мяса птицы вареная 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1471979-main/320x320.jpeg?updated_at=2025-02-25T14:27:00.104Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1471979-main/800x800.jpeg?updated_at=2025-02-25T14:27:00.104Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 25327
+            },
+            "promo": null,
+            "prices": {
+                "regular": "89.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00"
+        },
+        {
+            "plu": 4277253,
+            "name": "Колбаса Вязанка Молокуша вареная 450г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1499387-main/320x320.jpeg?updated_at=2025-02-25T14:27:00.028Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1499387-main/800x800.jpeg?updated_at=2025-02-25T14:27:00.028Z",
+                    "https://photos.okolo.app/product/8ce39f906b95b8b79e81e56264f7b9fc-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 27278
+            },
+            "promo": null,
+            "prices": {
+                "regular": "279.99",
+                "discount": "189.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-32%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "450 г",
+            "has_age_restriction": false,
+            "stock_limit": "26.00"
+        },
+        {
+            "plu": 3484605,
+            "name": "Колбаса варёная Папа Может Мясная 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1175882-main/320x320.jpeg?updated_at=2025-02-25T14:26:50.851Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1175882-main/800x800.jpeg?updated_at=2025-02-25T14:26:50.851Z",
+                    "https://photos.okolo.app/product/67518ad8661bcbfee7393e9f00a5b65e-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 24104
+            },
+            "promo": null,
+            "prices": {
+                "regular": "259.99",
+                "discount": "189.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-26%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "9.00"
+        },
+        {
+            "plu": 4301347,
+            "name": "Колбаса Вязанка Докторская вареная 370г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1516134-main/320x320.jpeg?updated_at=2025-02-25T14:27:02.302Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1516134-main/800x800.jpeg?updated_at=2025-02-25T14:27:02.302Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 19339
+            },
+            "promo": null,
+            "prices": {
+                "regular": "349.99",
+                "discount": "199.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-42%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "370 г",
+            "has_age_restriction": false,
+            "stock_limit": "21.00"
+        },
+        {
+            "plu": 3661282,
+            "name": "Колбаса Великолукский МК Докторская вареная 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1187540-main/320x320.jpeg?updated_at=2025-02-25T14:26:53.104Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1187540-main/800x800.jpeg?updated_at=2025-02-25T14:26:53.104Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 12895
+            },
+            "promo": null,
+            "prices": {
+                "regular": "329.99",
+                "discount": "199.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-39%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "22.00"
+        },
+        {
+            "plu": 4221913,
+            "name": "Колбаса Клинский Докторская вареная 400г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1451277-main/320x320.jpeg?updated_at=2025-02-25T14:26:57.861Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1451277-main/800x800.jpeg?updated_at=2025-02-25T14:26:57.861Z",
+                    "https://photos.okolo.app/product/e4cbf4b67bd93d8091213ca2ca88a628-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1fbfecd7d4a579e179738f8fb7040ab9-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 6333
+            },
+            "promo": null,
+            "prices": {
+                "regular": "379.99",
+                "discount": "269.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-28%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "30.00"
+        },
+        {
+            "plu": 4332884,
+            "name": "Колбаса Delikaiser Классическая вареная 700г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1592344-main/320x320.jpeg?updated_at=2025-02-25T14:27:02.289Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1592344-main/800x800.jpeg?updated_at=2025-02-25T14:27:02.289Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 22330
+            },
+            "promo": null,
+            "prices": {
+                "regular": "201.59",
+                "discount": "179.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "700 г",
+            "has_age_restriction": false,
+            "stock_limit": "10.00"
+        },
+        {
+            "plu": 4217776,
+            "name": "Колбаса Папа может Филейная вареная 400г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1445998-main/320x320.jpeg?updated_at=2025-02-25T14:26:57.927Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1445998-main/800x800.jpeg?updated_at=2025-02-25T14:26:57.927Z",
+                    "https://photos.okolo.app/product/a0744c0d92f363421c1c2c871109c970-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 9033
+            },
+            "promo": null,
+            "prices": {
+                "regular": "179.19",
+                "discount": "159.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "16.00"
+        },
+        {
+            "plu": 4050746,
+            "name": "Колбаса Рублевский Докторская вареная 400г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1204220-main/320x320.jpeg?updated_at=2025-02-25T14:26:55.560Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1204220-main/800x800.jpeg?updated_at=2025-02-25T14:26:55.560Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 5767
+            },
+            "promo": null,
+            "prices": {
+                "regular": "379.99",
+                "discount": "259.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-31%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00"
+        },
+        {
+            "plu": 4367048,
+            "name": "Колбаса Вязанка Филейская со шпиком вареная 350г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1624460-main/320x320.jpeg?updated_at=2025-02-25T14:27:07.479Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1624460-main/800x800.jpeg?updated_at=2025-02-25T14:27:07.479Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 5375
+            },
+            "promo": null,
+            "prices": {
+                "regular": "209.99",
+                "discount": "149.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-28%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "350 г",
+            "has_age_restriction": false,
+            "stock_limit": "29.00"
+        },
+        {
+            "plu": 3931387,
+            "name": "Колбаса Велком Телячья вареная 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1194773-main/320x320.jpeg?updated_at=2025-02-25T14:26:55.522Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1194773-main/800x800.jpeg?updated_at=2025-02-25T14:26:55.522Z",
+                    "https://photos.okolo.app/product/3102b0a46f013758b36bb462d99f283e-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/0ceb3ccb09de3afcede894f06813e93e-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 4066
+            },
+            "promo": null,
+            "prices": {
+                "regular": "429.99",
+                "discount": "299.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-30%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "7.00"
+        }
+    ],
+    "categories": [
+        {
+            "id": "251C13250",
+            "type": "subcategory",
+            "name": "Колбаса",
+            "parent_name": "Колбаса, сосиски"
+        }
+    ]
+}

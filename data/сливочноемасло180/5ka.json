@@ -1,0 +1,388 @@
+{
+    "query_type": "strict",
+    "products": [
+        {
+            "plu": 3612778,
+            "name": "Масло сливочное Вкуснотеево Традиционное 82.5% БЗМЖ 200г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1180105-main/320x320.jpeg?updated_at=2025-02-24T16:20:21.204Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1180105-main/800x800.jpeg?updated_at=2025-02-24T16:20:21.204Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 9121
+            },
+            "promo": null,
+            "prices": {
+                "regular": "302.39",
+                "discount": "269.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "30.00"
+        },
+        {
+            "plu": 3948153,
+            "name": "Масло сливочное Станция Молочная Традиционное 82.5% БЗМЖ 175г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1195935-main/320x320.jpeg?updated_at=2025-02-24T08:00:30.040Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1195935-main/800x800.jpeg?updated_at=2025-02-24T08:00:30.040Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 10499
+            },
+            "promo": null,
+            "prices": {
+                "regular": "279.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "175 г",
+            "has_age_restriction": false,
+            "stock_limit": "7.00"
+        },
+        {
+            "plu": 4093223,
+            "name": "Масло сливочное Станция Молочная Шоколадное 62% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1208776-main/320x320.jpeg?updated_at=2025-02-24T08:00:28.867Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1208776-main/800x800.jpeg?updated_at=2025-02-24T08:00:28.867Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 5489
+            },
+            "promo": null,
+            "prices": {
+                "regular": "232.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "11.00"
+        },
+        {
+            "plu": 4363718,
+            "name": "Масло Сырная долина Традиционное сладко-сливочное несоленое 82.5% БЗМЖ 100г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1625710-main/320x320.jpeg?updated_at=2025-02-24T08:00:27.751Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1625710-main/800x800.jpeg?updated_at=2025-02-24T08:00:27.751Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 4231
+            },
+            "promo": null,
+            "prices": {
+                "regular": "149.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "100 г",
+            "has_age_restriction": false,
+            "stock_limit": "22.00"
+        },
+        {
+            "plu": 4214829,
+            "name": "Масло сливочное Маслом вверх Крестьянское 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1515022-main/320x320.jpeg?updated_at=2025-02-24T08:00:28.927Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1515022-main/800x800.jpeg?updated_at=2025-02-24T08:00:28.927Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.81,
+                "rates_count": 2671
+            },
+            "promo": null,
+            "prices": {
+                "regular": "189.99",
+                "discount": "169.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00"
+        },
+        {
+            "plu": 4135603,
+            "name": "Масло сливочное ЭкоНива Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1368480-main/320x320.jpeg?updated_at=2025-02-20T08:59:17.409Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1368480-main/800x800.jpeg?updated_at=2025-02-20T08:59:17.409Z",
+                    "https://photos.okolo.app/product/8cc21aa13afcfadfc6a54124f714fe60-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/36dba494bf14d1c6927a2b8b3a9b3793-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/090c20d48473318d90b5e82e935a5957-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/ccba4a20a89310303dfed7f13871cd12-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/22ba1cc58cdd75098f39b828d4723b4c-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/040270cc5df14f724e9ac7f147ebcf49-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/84d70ebfee79da5725b0d866fe655d15-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/a31e394eae02c728b99a52fb2fe95321-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/271b2bab2dbc5458bd1d2348f2984cb8-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 1486
+            },
+            "promo": null,
+            "prices": {
+                "regular": "305.99",
+                "discount": "269.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-11%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "8.00"
+        },
+        {
+            "plu": 3670111,
+            "name": "Масло сливочное Из Вологды Традиционное 82.5% БЗМЖ",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1188972-main/320x320.jpeg?updated_at=2025-02-24T16:20:21.274Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1188972-main/800x800.jpeg?updated_at=2025-02-24T16:20:21.274Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 1613
+            },
+            "promo": null,
+            "prices": {
+                "regular": "329.99",
+                "discount": "280.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-14%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "160 г",
+            "has_age_restriction": false,
+            "stock_limit": "18.00"
+        },
+        {
+            "plu": 4331188,
+            "name": "Масло Рогачевъ Крестьянское сливочное 72.5% БЗМЖ 160г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1589350-main/320x320.jpeg?updated_at=2025-01-22T09:18:16.370Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1589350-main/800x800.jpeg?updated_at=2025-01-22T09:18:16.370Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 582
+            },
+            "promo": null,
+            "prices": {
+                "regular": "209.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "160 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00"
+        },
+        {
+            "plu": 3629937,
+            "name": "Масло сливочное Gudberg 82.5% БЗМЖ 10г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1618040-main/320x320.jpeg?updated_at=2025-02-14T09:54:31.150Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1618040-main/800x800.jpeg?updated_at=2025-02-14T09:54:31.150Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 429
+            },
+            "promo": null,
+            "prices": {
+                "regular": "16.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 г",
+            "has_age_restriction": false,
+            "stock_limit": "59.00"
+        },
+        {
+            "plu": 3403476,
+            "name": "Масло сладкосливочное Красная цена Крестьянское 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1168952-main/320x320.jpeg?updated_at=2025-02-28T09:56:37.787Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1168952-main/800x800.jpeg?updated_at=2025-02-28T09:56:37.787Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 39429
+            },
+            "promo": null,
+            "prices": {
+                "regular": "153.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "21.00"
+        },
+        {
+            "plu": 4113532,
+            "name": "Масло сладкосливочное Экомилк Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1211013-main/320x320.jpeg?updated_at=2025-02-24T08:00:28.821Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1211013-main/800x800.jpeg?updated_at=2025-02-24T08:00:28.821Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 16736
+            },
+            "promo": null,
+            "prices": {
+                "regular": "329.99",
+                "discount": "258.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-21%",
+                    "bg_color": "#FBAC29",
+                    "text_color": "#130000"
+                }
+            ],
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "96.00"
+        },
+        {
+            "plu": 3696828,
+            "name": "Масло сладкосливочное Сыроваровъ и Масловъ Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1433290-main/320x320.jpeg?updated_at=2025-02-24T08:00:28.959Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1433290-main/800x800.jpeg?updated_at=2025-02-24T08:00:28.959Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 19884
+            },
+            "promo": null,
+            "prices": {
+                "regular": "179.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "69.00"
+        }
+    ],
+    "categories": [
+        {
+            "id": "251C13188",
+            "type": "subcategory",
+            "name": "Масло сливочное",
+            "parent_name": "Яйцо, масло"
+        }
+    ]
+}
