@@ -28,11 +28,11 @@
                 "isPromotion": true,
                 "oldPrice": 34999
             },
-            "quantity": 130,
+            "quantity": 145,
             "ratings": {
                 "commentsCount": 594,
                 "rating": 4.7,
-                "scoresCount": 12323
+                "scoresCount": 12327
             },
             "seoCode": "vyazanka_kolbasa_doktorskaya_gost_var_0_4kg_p_o_10",
             "service": "core_gm",
@@ -81,11 +81,11 @@
                 "isPromotion": true,
                 "oldPrice": 23999
             },
-            "quantity": 41,
+            "quantity": 39,
             "ratings": {
                 "commentsCount": 597,
                 "rating": 4.5,
-                "scoresCount": 8716
+                "scoresCount": 8718
             },
             "seoCode": "velikolukskiy_mk_kolbasa_doktorskaya_kata_var_gost_0_4kg_p_o",
             "service": "core_gm",
@@ -216,7 +216,7 @@
                 "isPromotion": true,
                 "oldPrice": 21999
             },
-            "quantity": 13,
+            "quantity": 23,
             "ratings": {
                 "commentsCount": 61,
                 "rating": 4.6,
@@ -318,7 +318,7 @@
             "ratings": {
                 "commentsCount": 53,
                 "rating": 4.6,
-                "scoresCount": 496
+                "scoresCount": 497
             },
             "seoCode": "indilayt_kolbasa_var_iz_file_indeyki_400g",
             "service": "core_gm",
@@ -404,11 +404,11 @@
                 "isPromotion": true,
                 "oldPrice": 4999
             },
-            "quantity": 40,
+            "quantity": 52,
             "ratings": {
                 "commentsCount": 143,
                 "rating": 4.3,
-                "scoresCount": 2624
+                "scoresCount": 2625
             },
             "seoCode": "kolbasa_varenaya_moya_tsena_400g",
             "service": "core_gm",

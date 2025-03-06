@@ -331,75 +331,61 @@
             "stock_limit": "100.00"
         },
         {
-            "plu": 78030125,
-            "name": "Багет ржаной чесночный 180г",
+            "plu": 3484091,
+            "name": "Хлеб Рижский Хлеб Бородинский 300г",
             "image_links": {
                 "small": [
-                    "https://photos.okolo.app/product/1422663-main/320x320.jpeg?updated_at=2025-03-03T18:08:04.498Z"
+                    "https://photos.okolo.app/product/1175849-main/320x320.jpeg?updated_at=2025-02-21T09:39:20.505Z"
                 ],
                 "normal": [
-                    "https://photos.okolo.app/product/1422663-main/800x800.jpeg?updated_at=2025-03-03T18:08:04.498Z"
+                    "https://photos.okolo.app/product/1175849-main/800x800.jpeg?updated_at=2025-02-21T09:39:20.505Z"
                 ]
             },
             "uom": "шт",
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 50522
+                "rates_count": 3353
             },
             "promo": null,
             "prices": {
-                "regular": "69.99",
+                "regular": "93.99",
                 "discount": null,
                 "cpd_promo_price": null
             },
-            "labels": [
-                {
-                    "label": "Из печи",
-                    "icon_url": null,
-                    "bg_color": "#FF6917",
-                    "text_color": "#FFFFFF"
-                }
-            ],
-            "property_clarification": "180 г",
+            "labels": null,
+            "property_clarification": "300 г",
             "has_age_restriction": false,
-            "stock_limit": "100.00"
+            "stock_limit": "3.00"
         },
         {
-            "plu": 78030107,
-            "name": "Багет традиционный 230г",
+            "plu": 4049144,
+            "name": "Хлеб Черемушки Столичный нарезка 330г",
             "image_links": {
                 "small": [
-                    "https://photos.okolo.app/product/1212935-main/320x320.jpeg?updated_at=2025-03-03T18:14:07.248Z"
+                    "https://photos.okolo.app/product/1203908-main/320x320.jpeg?updated_at=2025-02-25T13:41:35.183Z"
                 ],
                 "normal": [
-                    "https://photos.okolo.app/product/1212935-main/800x800.jpeg?updated_at=2025-03-03T18:14:07.248Z",
-                    "https://photos.okolo.app/product/0b91335b7045698236e284fd4ee435a8-additional/800x800.jpeg"
+                    "https://photos.okolo.app/product/1203908-main/800x800.jpeg?updated_at=2025-02-25T13:41:35.183Z",
+                    "https://photos.okolo.app/product/b9506521ba1c23d38bbd3f11ad6d935a-additional/800x800.jpeg"
                 ]
             },
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.87,
-                "rates_count": 48557
+                "rating_average": 4.92,
+                "rates_count": 19617
             },
             "promo": null,
             "prices": {
-                "regular": "45.99",
+                "regular": "49.99",
                 "discount": null,
                 "cpd_promo_price": null
             },
-            "labels": [
-                {
-                    "label": "Из печи",
-                    "icon_url": null,
-                    "bg_color": "#FF6917",
-                    "text_color": "#FFFFFF"
-                }
-            ],
-            "property_clarification": "230 г",
+            "labels": null,
+            "property_clarification": "330 г",
             "has_age_restriction": false,
-            "stock_limit": "100.00"
+            "stock_limit": "4.00"
         }
     ],
     "categories": [

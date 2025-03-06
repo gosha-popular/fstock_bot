@@ -133,7 +133,7 @@
                 "url": "/catalog/khleb-i-vypechka/belyy-khleb/%D0%A6%D0%A20030782/",
                 "ratio": 1,
                 "src": "/upload/iblock/975/klxd4vwumcpe9eb6yv23kr62t533u6yw.webp",
-                "amount": 6,
+                "amount": 5,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -162,7 +162,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "233901 1 6 шт 0",
+                "bskFields": "233901 1 5 шт 0",
                 "price": "65.<span>99</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "65.99",

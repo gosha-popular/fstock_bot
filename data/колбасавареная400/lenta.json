@@ -73,20 +73,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "",
-            "id": 20522,
-            "imageUrl": "",
-            "imageWebUrl": "",
-            "isAdult": false,
-            "level": 2,
-            "name": "Бакалея",
-            "parentId": 18427,
-            "parentName": "Товары до 99 рублей",
-            "slug": "bakaleya"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/769/icon/45e00a8bc3be5d4e.png",
             "id": 769,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/769/image/a14fdbc2b676d0f5.png",
@@ -97,6 +83,20 @@
             "parentId": 754,
             "parentName": "Колбаса, сосиски",
             "slug": "drugaya"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20522,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Бакалея",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "bakaleya"
         },
         {
             "badges": [],
@@ -128,20 +128,6 @@
         },
         {
             "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18261/icon/6aa94f26e5668c56.png",
-            "id": 18261,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18261/image/aab696b0aa65c9b3.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18261/image_web/08a8d3364166758a.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Замороженные овощи и ягоды",
-            "parentId": 144,
-            "parentName": "Овощи и фрукты",
-            "slug": "zamorozhennye-ovoshchi-i-yagody"
-        },
-        {
-            "badges": [],
             "hasChildren": false,
             "iconUrl": "",
             "id": 20517,
@@ -153,6 +139,20 @@
             "parentId": 18427,
             "parentName": "Товары до 99 рублей",
             "slug": "myasnye-delikatesy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18261/icon/6aa94f26e5668c56.png",
+            "id": 18261,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18261/image/aab696b0aa65c9b3.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18261/image_web/08a8d3364166758a.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Замороженные овощи и ягоды",
+            "parentId": 144,
+            "parentName": "Овощи и фрукты",
+            "slug": "zamorozhennye-ovoshchi-i-yagody"
         },
         {
             "badges": [],
@@ -185,20 +185,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/31/icon/3f60c6fd58ba357a.png",
-            "id": 31,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/31/image/15445436abc576a5.jpg",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/31/image_web/f6dc94094454de35.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Макароны",
-            "parentId": 25,
-            "parentName": "Бакалея",
-            "slug": "makarony"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "",
             "id": 20565,
             "imageUrl": "",
@@ -213,16 +199,16 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "",
-            "id": 20541,
-            "imageUrl": "",
-            "imageWebUrl": "",
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/31/icon/3f60c6fd58ba357a.png",
+            "id": 31,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/31/image/15445436abc576a5.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/31/image_web/f6dc94094454de35.png",
             "isAdult": false,
             "level": 2,
-            "name": "Кондитерские изделия",
-            "parentId": 18427,
-            "parentName": "Товары до 99 рублей",
-            "slug": "konditerskie-izdeliya"
+            "name": "Макароны",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "makarony"
         },
         {
             "badges": [],
@@ -241,16 +227,16 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/37/icon/a4ee0ce2d140b95e.png",
-            "id": 37,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/37/image/e2d28cb0ef12ca29.jpg",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/37/image_web/8074115964350c1f.png",
+            "iconUrl": "",
+            "id": 20541,
+            "imageUrl": "",
+            "imageWebUrl": "",
             "isAdult": false,
             "level": 2,
-            "name": "Сухие завтраки и хлопья",
-            "parentId": 25,
-            "parentName": "Бакалея",
-            "slug": "suhie-zavtraki-i-hlopya"
+            "name": "Кондитерские изделия",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "konditerskie-izdeliya"
         },
         {
             "badges": [],
@@ -269,16 +255,30 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "",
-            "id": 20519,
-            "imageUrl": "",
-            "imageWebUrl": "",
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3254/icon/8a2d56f37b7101c2.png",
+            "id": 3254,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3254/image/1d8713acfd390226.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3254/image_web/6b8342df879d5a5a.png",
             "isAdult": false,
             "level": 2,
-            "name": "Заморозка",
-            "parentId": 18427,
-            "parentName": "Товары до 99 рублей",
-            "slug": "zamorozka"
+            "name": "БАДы, спортивное питание",
+            "parentId": 1879,
+            "parentName": "Здоровое питание",
+            "slug": "bady-sportivnoe-pitanie"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/37/icon/a4ee0ce2d140b95e.png",
+            "id": 37,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/37/image/e2d28cb0ef12ca29.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/37/image_web/8074115964350c1f.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сухие завтраки и хлопья",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "suhie-zavtraki-i-hlopya"
         },
         {
             "badges": [],
@@ -297,16 +297,16 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3254/icon/8a2d56f37b7101c2.png",
-            "id": 3254,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3254/image/1d8713acfd390226.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3254/image_web/6b8342df879d5a5a.png",
+            "iconUrl": "",
+            "id": 20519,
+            "imageUrl": "",
+            "imageWebUrl": "",
             "isAdult": false,
             "level": 2,
-            "name": "БАДы, спортивное питание",
-            "parentId": 1879,
-            "parentName": "Здоровое питание",
-            "slug": "bady-sportivnoe-pitanie"
+            "name": "Заморозка",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "zamorozka"
         },
         {
             "badges": [],
@@ -325,6 +325,34 @@
         {
             "badges": [],
             "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20199/icon/484b3efa59cc3e6f.png",
+            "id": 20199,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20199/image/46b490155212a30a.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20199/image_web/191fbc99c92188d1.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Батончики",
+            "parentId": 20195,
+            "parentName": "Снеки",
+            "slug": "batonchiki"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20713,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Больше выгоды при покупке от 2х шт",
+            "parentId": 1893,
+            "parentName": "Особенно выгодно",
+            "slug": "bolshe-vygody-pri-pokupke-ot-2h-sht"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/icon/a2cc2de7ad6df6c2.png",
             "id": 123,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/image/c4c10e105931727c.jpg",
@@ -335,20 +363,6 @@
             "parentId": 3,
             "parentName": "Молочные продукты",
             "slug": "syrki-i-deserty"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "",
-            "id": 20501,
-            "imageUrl": "",
-            "imageWebUrl": "",
-            "isAdult": false,
-            "level": 2,
-            "name": "Молочный прилавок",
-            "parentId": 18427,
-            "parentName": "Товары до 99 рублей",
-            "slug": "molochnyjj-prilavok"
         },
         {
             "badges": [],
@@ -367,16 +381,16 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20199/icon/484b3efa59cc3e6f.png",
-            "id": 20199,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20199/image/46b490155212a30a.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/20199/image_web/191fbc99c92188d1.png",
+            "iconUrl": "",
+            "id": 20501,
+            "imageUrl": "",
+            "imageWebUrl": "",
             "isAdult": false,
             "level": 2,
-            "name": "Батончики",
-            "parentId": 20195,
-            "parentName": "Снеки",
-            "slug": "batonchiki"
+            "name": "Молочный прилавок",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "molochnyjj-prilavok"
         },
         {
             "badges": [],
@@ -391,20 +405,6 @@
             "parentId": 1028,
             "parentName": "Сладости",
             "slug": "shokolad-i-batonchiki"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "",
-            "id": 20713,
-            "imageUrl": "",
-            "imageWebUrl": "",
-            "isAdult": false,
-            "level": 2,
-            "name": "Больше выгоды при покупке от 2х шт",
-            "parentId": 1893,
-            "parentName": "Особенно выгодно",
-            "slug": "bolshe-vygody-pri-pokupke-ot-2h-sht"
         },
         {
             "badges": [],
@@ -2532,14 +2532,14 @@
                         "id": 1480793785,
                         "selected": false,
                         "slug": "400",
-                        "total": 427,
+                        "total": 426,
                         "value": "400"
                     },
                     {
                         "id": 1480792376,
                         "selected": false,
                         "slug": "40",
-                        "total": 146,
+                        "total": 147,
                         "value": "40"
                     },
                     {
@@ -5272,7 +5272,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 97,
+            "count": 96,
             "dimensions": {
                 "height": 7,
                 "length": 13,
@@ -5338,7 +5338,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 97,
+                "maxSaleQuantity": 96,
                 "minSaleQuantity": 1
             },
             "slug": "kolbasa-vyazanka-molokusha-var-rossiya-400g",
@@ -5451,106 +5451,6 @@
                 "minSaleQuantity": 1
             },
             "slug": "kolbasa-starodvore-starodvorskaya-tradicionnaya-var-rossiya-400g",
-            "storeId": 124,
-            "weight": {
-                "gross": 402,
-                "net": 0,
-                "package": "400г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-34%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 8,
-            "dimensions": {
-                "height": 150,
-                "length": 66,
-                "width": 66
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 727108,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
-                    "id": 855970,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
-                    "id": 855968,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
-                    "id": 855972,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
-                    "id": 828549,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png"
-                }
-            ],
-            "name": "Колбаса вареная СТАРОДВОРЬЕ Молочная Традиционная, 400г",
-            "prices": {
-                "cost": 16499,
-                "costRegular": 25169,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 16499,
-                "priceRegular": 25169
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.7,
-                "votes": 25
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 8,
-                "minSaleQuantity": 1
-            },
-            "slug": "kolbasa-starodvore-molochnaya-tradicionnaya-var-rossiya-400g",
             "storeId": 124,
             "weight": {
                 "gross": 402,
@@ -5819,6 +5719,106 @@
             "storeId": 124,
             "weight": {
                 "gross": 400,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-34%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 8,
+            "dimensions": {
+                "height": 150,
+                "length": 66,
+                "width": 66
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 727108,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
+                    "id": 855970,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/41c159a6-b9c4-470c-8d6f-0de8d9df9c42.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
+                    "id": 855968,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/5ee40e68-d925-411c-9deb-cf9bc3e49ed7.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
+                    "id": 855972,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/fe1c24f7-dfdd-4c88-a592-101543f1cdc8.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
+                    "id": 828549,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/727108/abd97504-e473-4907-babc-44ce5355df93.png"
+                }
+            ],
+            "name": "Колбаса вареная СТАРОДВОРЬЕ Молочная Традиционная, 400г",
+            "prices": {
+                "cost": 16499,
+                "costRegular": 25169,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 16499,
+                "priceRegular": 25169
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 25
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 8,
+                "minSaleQuantity": 1
+            },
+            "slug": "kolbasa-starodvore-molochnaya-tradicionnaya-var-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 402,
                 "net": 0,
                 "package": "400г"
             }
@@ -7049,7 +7049,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 130,
+            "count": 129,
             "dimensions": {
                 "height": 65,
                 "length": 110,
@@ -7124,7 +7124,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 130,
+                "maxSaleQuantity": 129,
                 "minSaleQuantity": 1
             },
             "slug": "kolbasa-md-borodina-doktorskaya-bo-vu-rossiya-500g",
@@ -7564,8 +7564,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.8,
-                "votes": 37
+                "rate": 4.7,
+                "votes": 38
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -7746,8 +7746,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.7,
-                "votes": 18
+                "rate": 4.6,
+                "votes": 50
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8126,6 +8126,97 @@
         },
         {
             "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 17,
+            "dimensions": {
+                "height": 68,
+                "length": 160,
+                "width": 68
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 381301,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/381301/b975fd9d-2e1b-4d8b-b849-31adda283c28.png",
+                    "id": 735307,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/381301/b975fd9d-2e1b-4d8b-b849-31adda283c28.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/381301/b975fd9d-2e1b-4d8b-b849-31adda283c28.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/381301/b975fd9d-2e1b-4d8b-b849-31adda283c28.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/381301/b975fd9d-2e1b-4d8b-b849-31adda283c28.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/381301/6dba4770-e639-4fa5-afac-57d86203f3c3.png",
+                    "id": 735306,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/381301/6dba4770-e639-4fa5-afac-57d86203f3c3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/381301/6dba4770-e639-4fa5-afac-57d86203f3c3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/381301/6dba4770-e639-4fa5-afac-57d86203f3c3.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/381301/6dba4770-e639-4fa5-afac-57d86203f3c3.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/381301/053e0039-7d4b-4ba1-8262-54fe31207642.png",
+                    "id": 735308,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/381301/053e0039-7d4b-4ba1-8262-54fe31207642.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/381301/053e0039-7d4b-4ba1-8262-54fe31207642.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/381301/053e0039-7d4b-4ba1-8262-54fe31207642.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/381301/053e0039-7d4b-4ba1-8262-54fe31207642.png"
+                }
+            ],
+            "name": "Колбаса вареная ЛЕНТА Докторская ГОСТ, 500г",
+            "prices": {
+                "cost": 19999,
+                "costRegular": 21059,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 19999,
+                "priceRegular": 21059
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 1186
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 17,
+                "minSaleQuantity": 1
+            },
+            "slug": "kolbasa-lenta-doktorskaya-gost-pa-var-rossiya-500g",
+            "storeId": 124,
+            "weight": {
+                "gross": 505,
+                "net": 0,
+                "package": "500г"
+            }
+        },
+        {
+            "badges": {
                 "discount": [
                     {
                         "backgroundColor": "#ef4544",
@@ -8200,7 +8291,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.9,
-                "votes": 76
+                "votes": 77
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8304,289 +8395,6 @@
                 "gross": 506,
                 "net": 0,
                 "package": "500г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-27%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 24,
-            "dimensions": {
-                "height": 70,
-                "length": 210,
-                "width": 76
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 694531,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
-                    "id": 654630,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
-                    "id": 654629,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
-                    "id": 646738,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png"
-                }
-            ],
-            "name": "Колбаса вареная ВЕЛКОМ Докторская, 400г",
-            "prices": {
-                "cost": 22999,
-                "costRegular": 31579,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 22999,
-                "priceRegular": 31579
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.1,
-                "votes": 7
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 24,
-                "minSaleQuantity": 1
-            },
-            "slug": "kolbasa-velkom-doktorskaya-bo-vu-srez-rossiya-400g",
-            "storeId": 124,
-            "weight": {
-                "gross": 404,
-                "net": 0,
-                "package": "400г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 7,
-            "dimensions": {
-                "height": 67,
-                "length": 160,
-                "width": 67
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 722707,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722707/1c046209-0dae-472c-818a-25ca1471c7fa.png",
-                    "id": 880056,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722707/1c046209-0dae-472c-818a-25ca1471c7fa.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722707/1c046209-0dae-472c-818a-25ca1471c7fa.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722707/1c046209-0dae-472c-818a-25ca1471c7fa.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722707/1c046209-0dae-472c-818a-25ca1471c7fa.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722707/b0289bf7-8c09-4d26-b370-4707488618d7.png",
-                    "id": 880055,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722707/b0289bf7-8c09-4d26-b370-4707488618d7.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722707/b0289bf7-8c09-4d26-b370-4707488618d7.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722707/b0289bf7-8c09-4d26-b370-4707488618d7.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722707/b0289bf7-8c09-4d26-b370-4707488618d7.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722707/62f7cc5b-e828-44ba-96d8-e4e8522a5768.png",
-                    "id": 880057,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722707/62f7cc5b-e828-44ba-96d8-e4e8522a5768.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722707/62f7cc5b-e828-44ba-96d8-e4e8522a5768.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722707/62f7cc5b-e828-44ba-96d8-e4e8522a5768.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722707/62f7cc5b-e828-44ba-96d8-e4e8522a5768.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/722707/4c5f7e06-d429-4c12-bcf1-4cd4cbd94f3e.png",
-                    "id": 803457,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/722707/4c5f7e06-d429-4c12-bcf1-4cd4cbd94f3e.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/722707/4c5f7e06-d429-4c12-bcf1-4cd4cbd94f3e.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/722707/4c5f7e06-d429-4c12-bcf1-4cd4cbd94f3e.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/722707/4c5f7e06-d429-4c12-bcf1-4cd4cbd94f3e.png"
-                }
-            ],
-            "name": "Колбаса вареная КОРОВИНО Молочная, 400г",
-            "prices": {
-                "cost": 21999,
-                "costRegular": 23157,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 21999,
-                "priceRegular": 23157
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.4,
-                "votes": 7
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 7,
-                "minSaleQuantity": 1
-            },
-            "slug": "kolbasa-korovino-molochnaya-v-setke-rossiya-400g",
-            "storeId": 124,
-            "weight": {
-                "gross": 403,
-                "net": 0,
-                "package": "400г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-21%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 11,
-            "dimensions": {
-                "height": 50,
-                "length": 150,
-                "width": 100
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 731267,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731267/ba855835-604e-428f-b090-b76976b09408.png",
-                    "id": 878719,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731267/ba855835-604e-428f-b090-b76976b09408.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731267/ba855835-604e-428f-b090-b76976b09408.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731267/ba855835-604e-428f-b090-b76976b09408.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731267/ba855835-604e-428f-b090-b76976b09408.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731267/61b0d236-5421-49b3-b11a-7071485cf7a2.png",
-                    "id": 878718,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731267/61b0d236-5421-49b3-b11a-7071485cf7a2.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731267/61b0d236-5421-49b3-b11a-7071485cf7a2.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731267/61b0d236-5421-49b3-b11a-7071485cf7a2.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731267/61b0d236-5421-49b3-b11a-7071485cf7a2.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731267/6910c0a1-4818-47e9-99a4-5cab507db64c.png",
-                    "id": 878720,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731267/6910c0a1-4818-47e9-99a4-5cab507db64c.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731267/6910c0a1-4818-47e9-99a4-5cab507db64c.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731267/6910c0a1-4818-47e9-99a4-5cab507db64c.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731267/6910c0a1-4818-47e9-99a4-5cab507db64c.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731267/331f0893-64c0-42cd-bb94-7ff84a52c014.png",
-                    "id": 875815,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731267/331f0893-64c0-42cd-bb94-7ff84a52c014.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731267/331f0893-64c0-42cd-bb94-7ff84a52c014.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731267/331f0893-64c0-42cd-bb94-7ff84a52c014.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731267/331f0893-64c0-42cd-bb94-7ff84a52c014.png"
-                }
-            ],
-            "name": "Колбаса вареная ВЕЛКОМ Докторская, 400г",
-            "prices": {
-                "cost": 24999,
-                "costRegular": 31579,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 24999,
-                "priceRegular": 31579
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4,
-                "votes": 1
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 11,
-                "minSaleQuantity": 1
-            },
-            "slug": "kolbasa-velkom-doktorskaya-var-vu-kusok-rossiya-400g",
-            "storeId": 124,
-            "weight": {
-                "gross": 404,
-                "net": 0,
-                "package": "400г"
             }
         },
         {
@@ -8855,6 +8663,197 @@
                 "minSaleQuantity": 1
             },
             "slug": "kolbasa-velkom-telyachya-var-vu-kusok-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 404,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-28%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 5,
+            "dimensions": {
+                "height": 50,
+                "length": 150,
+                "width": 100
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 731709,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731709/4dd4b900-d188-4798-823e-c404a19c8ce8.png",
+                    "id": 876560,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731709/4dd4b900-d188-4798-823e-c404a19c8ce8.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731709/4dd4b900-d188-4798-823e-c404a19c8ce8.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731709/4dd4b900-d188-4798-823e-c404a19c8ce8.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731709/4dd4b900-d188-4798-823e-c404a19c8ce8.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731709/ab82791f-bf9b-4073-b5f0-2230cbdb2438.png",
+                    "id": 876559,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731709/ab82791f-bf9b-4073-b5f0-2230cbdb2438.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731709/ab82791f-bf9b-4073-b5f0-2230cbdb2438.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731709/ab82791f-bf9b-4073-b5f0-2230cbdb2438.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731709/ab82791f-bf9b-4073-b5f0-2230cbdb2438.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731709/6632c792-bda8-4e7a-8d41-26146e4c4412.png",
+                    "id": 876561,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731709/6632c792-bda8-4e7a-8d41-26146e4c4412.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731709/6632c792-bda8-4e7a-8d41-26146e4c4412.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731709/6632c792-bda8-4e7a-8d41-26146e4c4412.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731709/6632c792-bda8-4e7a-8d41-26146e4c4412.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/731709/0de8dc7f-f9ec-44ad-a9fd-3bac2ef69d14.png",
+                    "id": 876562,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/731709/0de8dc7f-f9ec-44ad-a9fd-3bac2ef69d14.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/731709/0de8dc7f-f9ec-44ad-a9fd-3bac2ef69d14.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/731709/0de8dc7f-f9ec-44ad-a9fd-3bac2ef69d14.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/731709/0de8dc7f-f9ec-44ad-a9fd-3bac2ef69d14.png"
+                }
+            ],
+            "name": "Колбаса вареная ВЕЛКОМ Языковая, 400г",
+            "prices": {
+                "cost": 24999,
+                "costRegular": 34739,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 24999,
+                "priceRegular": 34739
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 4
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 5,
+                "minSaleQuantity": 1
+            },
+            "slug": "kolbasa-velkom-yazykovaya-var-vu-kusok-rossiya-400g",
+            "storeId": 124,
+            "weight": {
+                "gross": 404,
+                "net": 0,
+                "package": "400г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-27%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 24,
+            "dimensions": {
+                "height": 70,
+                "length": 210,
+                "width": 76
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 694531,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
+                    "id": 654630,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/694531/4014f335-47d6-4ccb-bf48-f34f1ab97902.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
+                    "id": 654629,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/694531/b9d3823c-3269-4d2f-8fba-aa64845c0b9c.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
+                    "id": 646738,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/694531/03f192ef-c096-4f63-b4cc-e75b434a017c.png"
+                }
+            ],
+            "name": "Колбаса вареная ВЕЛКОМ Докторская, 400г",
+            "prices": {
+                "cost": 22999,
+                "costRegular": 31579,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 22999,
+                "priceRegular": 31579
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.1,
+                "votes": 7
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 24,
+                "minSaleQuantity": 1
+            },
+            "slug": "kolbasa-velkom-doktorskaya-bo-vu-srez-rossiya-400g",
             "storeId": 124,
             "weight": {
                 "gross": 404,

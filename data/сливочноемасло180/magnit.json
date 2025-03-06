@@ -73,7 +73,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 169,
+            "quantity": 201,
             "ratings": {
                 "commentsCount": 240,
                 "rating": 4.5,
@@ -118,7 +118,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 139,
+            "quantity": 138,
             "ratings": {
                 "commentsCount": 38,
                 "rating": 4.8,
@@ -163,11 +163,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 248,
+            "quantity": 283,
             "ratings": {
                 "commentsCount": 71,
                 "rating": 4.5,
-                "scoresCount": 912
+                "scoresCount": 913
             },
             "seoCode": "maslo_traditsionnoe_sliv_82_5_180g",
             "service": "core_gm",
@@ -298,7 +298,7 @@
                 "isPromotion": true,
                 "oldPrice": 20999
             },
-            "quantity": 209,
+            "quantity": 208,
             "ratings": {
                 "commentsCount": 23,
                 "rating": 4.5,
@@ -343,7 +343,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 70,
+            "quantity": 84,
             "ratings": {
                 "commentsCount": 311,
                 "rating": 4.8,
@@ -518,7 +518,7 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 65,
+            "quantity": 91,
             "ratings": {
                 "commentsCount": 336,
                 "rating": 4.7,
@@ -563,7 +563,7 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 100,
+            "quantity": 124,
             "ratings": {
                 "commentsCount": 422,
                 "rating": 4.6,

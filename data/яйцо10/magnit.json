@@ -32,11 +32,11 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 318,
+            "quantity": 781,
             "ratings": {
-                "commentsCount": 2977,
+                "commentsCount": 2978,
                 "rating": 4.7,
-                "scoresCount": 60564
+                "scoresCount": 60579
             },
             "seoCode": "yaytso_kurinoe_stolovoe_so_10sht",
             "service": "core_gm",
@@ -81,11 +81,11 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 329,
+            "quantity": 465,
             "ratings": {
-                "commentsCount": 2533,
+                "commentsCount": 2534,
                 "rating": 4.6,
-                "scoresCount": 69417
+                "scoresCount": 69435
             },
             "seoCode": "yaytso_stolovoe_s1_10sht_boks_20",
             "service": "core_gm",
@@ -126,7 +126,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 6,
+            "quantity": 22,
             "ratings": {
                 "commentsCount": 24,
                 "rating": 4.6,
@@ -228,7 +228,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 54,
+            "quantity": 70,
             "ratings": {
                 "commentsCount": 11,
                 "rating": 4.7,
@@ -285,7 +285,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 69,
+            "quantity": 100,
             "ratings": {
                 "commentsCount": 64,
                 "rating": 4.8,
@@ -330,7 +330,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 61,
+            "quantity": 91,
             "ratings": {
                 "commentsCount": 62,
                 "rating": 4.8,
@@ -379,11 +379,11 @@
                 "isPromotion": true,
                 "oldPrice": 51999
             },
-            "quantity": 113,
+            "quantity": 103,
             "ratings": {
                 "commentsCount": 57,
                 "rating": 4.8,
-                "scoresCount": 1053
+                "scoresCount": 1054
             },
             "seoCode": "kinder_shok_yaytso_maksi_shokolad_100g_ferrero_russiya_12",
             "service": "core_gm",

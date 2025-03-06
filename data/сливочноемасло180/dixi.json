@@ -19,7 +19,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/maslo-i-margarin/2000602271/",
                 "ratio": 1,
                 "src": "/upload/iblock/3ac/tk0tb4fttg5p63ed88wqxmzdjgfyh7vv.webp",
-                "amount": 32,
+                "amount": 31,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -48,7 +48,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "226261 1 32 шт 0",
+                "bskFields": "226261 1 31 шт 0",
                 "status": "in-time",
                 "oldPrice": "183.<span>90</span><span class='rub'>руб.</span>",
                 "price": "159.<span>90</span><span class='rub'>руб.</span>",
@@ -198,7 +198,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/maslo-i-margarin/2000186964/",
                 "ratio": 1,
                 "src": "/upload/iblock/944/hq1p7r5mvds2mhiry0posv69n19sy1tb.webp",
-                "amount": 40,
+                "amount": 34,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -235,7 +235,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "211114 1 40 шт 0",
+                "bskFields": "211114 1 34 шт 0",
                 "price": "286.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "286.90",
@@ -252,7 +252,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/maslo-i-margarin/2000401635/",
                 "ratio": 1,
                 "src": "/upload/iblock/285/iz65mz7lfjskp4igzt0qc4uwoxqc2j1n.webp",
-                "amount": 18,
+                "amount": 17,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -289,7 +289,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "216813 1 18 шт 0",
+                "bskFields": "216813 1 17 шт 0",
                 "price": "169.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "169.90",

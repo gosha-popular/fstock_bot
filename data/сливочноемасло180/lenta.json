@@ -339,20 +339,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/icon/cfa1533cdb151265.png",
-            "id": 19501,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image/fd8ef741ed2b1c6a.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image_web/a0afb23097350012.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Гигиена и уход",
-            "parentId": 19433,
-            "parentName": "Товары для детей",
-            "slug": "gigiena-i-uhod"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/243/icon/6eee79412c7adf81.png",
             "id": 243,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/243/image/e2a0043c4d270735.png",
@@ -363,6 +349,20 @@
             "parentId": 242,
             "parentName": "Кофе, чай, какао",
             "slug": "kofe"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/icon/cfa1533cdb151265.png",
+            "id": 19501,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image/fd8ef741ed2b1c6a.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image_web/a0afb23097350012.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Гигиена и уход",
+            "parentId": 19433,
+            "parentName": "Товары для детей",
+            "slug": "gigiena-i-uhod"
         },
         {
             "badges": [],
@@ -395,20 +395,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2632/icon/373377c1e2c18849.png",
-            "id": 2632,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2632/image/835d1b9119c0c776.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2632/image_web/07a9118cecbe3664.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Шоколад и батончики",
-            "parentId": 1028,
-            "parentName": "Сладости",
-            "slug": "shokolad-i-batonchiki"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/icon/fdeb1ec5193dd90b.png",
             "id": 2692,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/image/b8ecb1b1e9ef8797.png",
@@ -419,6 +405,20 @@
             "parentId": 2673,
             "parentName": "Одежда и аксессуары",
             "slug": "detskaya-odezhda"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2632/icon/373377c1e2c18849.png",
+            "id": 2632,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2632/image/835d1b9119c0c776.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2632/image_web/07a9118cecbe3664.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Шоколад и батончики",
+            "parentId": 1028,
+            "parentName": "Сладости",
+            "slug": "shokolad-i-batonchiki"
         },
         {
             "badges": [],
@@ -444,7 +444,7 @@
                 "name": "Бренд",
                 "position": 1,
                 "slug": "brand",
-                "total": 1072,
+                "total": 1071,
                 "values": [
                     {
                         "id": 10721105,
@@ -1572,13 +1572,6 @@
                         "slug": "svezhee-zavtra",
                         "total": 2,
                         "value": "СВЕЖЕЕ ЗАВТРА"
-                    },
-                    {
-                        "id": 11002885,
-                        "selected": false,
-                        "slug": "u-palycha",
-                        "total": 2,
-                        "value": "У ПАЛЫЧА"
                     },
                     {
                         "id": 10758816,
@@ -2946,6 +2939,13 @@
                         "value": "ТМ КРЕМЛЕВСКОЕ"
                     },
                     {
+                        "id": 11002885,
+                        "selected": false,
+                        "slug": "u-palycha",
+                        "total": 1,
+                        "value": "У ПАЛЫЧА"
+                    },
+                    {
                         "id": 11208855,
                         "selected": false,
                         "slug": "fitokosmetik",
@@ -3054,7 +3054,7 @@
                 "name": "Вес",
                 "position": 3,
                 "slug": "ves",
-                "total": 730,
+                "total": 729,
                 "values": [
                     {
                         "id": 1480797051,
@@ -3246,13 +3246,6 @@
                         "value": "480"
                     },
                     {
-                        "id": 1480792393,
-                        "selected": false,
-                        "slug": "600",
-                        "total": 4,
-                        "value": "600"
-                    },
-                    {
                         "id": 1480794741,
                         "selected": false,
                         "slug": "700",
@@ -3307,6 +3300,13 @@
                         "slug": "360",
                         "total": 3,
                         "value": "360"
+                    },
+                    {
+                        "id": 1480792393,
+                        "selected": false,
+                        "slug": "600",
+                        "total": 3,
+                        "value": "600"
                     },
                     {
                         "id": 1480792093,
@@ -4024,7 +4024,7 @@
                 "name": "Начинка/Добавки",
                 "position": 9,
                 "slug": "nachinkadobavki",
-                "total": 113,
+                "total": 112,
                 "values": [
                     {
                         "id": 6899153,
@@ -4368,13 +4368,6 @@
                         "slug": "struzhka-kokosovaya",
                         "total": 1,
                         "value": "Стружка кокосовая"
-                    },
-                    {
-                        "id": 6759202,
-                        "selected": false,
-                        "slug": "sufle",
-                        "total": 1,
-                        "value": "Суфле"
                     },
                     {
                         "id": 6904639,
@@ -5134,7 +5127,7 @@
                 "name": "Вкус",
                 "position": 15,
                 "slug": "vkus",
-                "total": 172,
+                "total": 171,
                 "values": [
                     {
                         "id": 1364485430,
@@ -5564,13 +5557,6 @@
                         "value": "Пломбир"
                     },
                     {
-                        "id": 1384758398,
-                        "selected": false,
-                        "slug": "sgushchenka",
-                        "total": 1,
-                        "value": "Сгущенка"
-                    },
-                    {
                         "id": 1413273917,
                         "selected": false,
                         "slug": "slivochnaya-vanil",
@@ -5714,13 +5700,13 @@
                 "name": "Страна",
                 "position": 17,
                 "slug": "strana",
-                "total": 1070,
+                "total": 1069,
                 "values": [
                     {
                         "id": 10720646,
                         "selected": false,
                         "slug": "rossiya",
-                        "total": 812,
+                        "total": 811,
                         "value": "Россия"
                     },
                     {
@@ -6269,8 +6255,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.9,
-                "votes": 95
+                "rate": 4.8,
+                "votes": 52
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -6900,7 +6886,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 232,
+            "count": 231,
             "dimensions": {
                 "height": 27,
                 "length": 110,
@@ -6966,7 +6952,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 232,
+                "maxSaleQuantity": 231,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-ekomilk-vs-825-folga-bez-zmzh-rossiya-180g",
@@ -7439,7 +7425,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 256,
+            "count": 255,
             "dimensions": {
                 "height": 33,
                 "length": 100,
@@ -7505,7 +7491,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 256,
+                "maxSaleQuantity": 255,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-severnoe-moloko-tradicionnoe-iz-vologdy-825-bez-zmzh-rossiya-180g",
@@ -8724,7 +8710,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 138,
+            "count": 137,
             "dimensions": {
                 "height": 40,
                 "length": 155,
@@ -8790,7 +8776,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 138,
+                "maxSaleQuantity": 137,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-vkusnoteevo-tradicionnoe-825-pljnka-bez-zmzh-rossiya-340g",
@@ -9461,7 +9447,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 139,
+            "count": 138,
             "dimensions": {
                 "height": 47,
                 "length": 80,
@@ -9536,7 +9522,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 139,
+                "maxSaleQuantity": 138,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-vkusnoteevo-tradicionnoe-vs-825-bez-zmzh-rossiya-200g",
@@ -9639,5 +9625,5 @@
             }
         }
     ],
-    "total": 999
+    "total": 998
 }

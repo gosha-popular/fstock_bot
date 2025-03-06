@@ -59,20 +59,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/icon/c21054001fad9f2a.png",
-            "id": 85,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image/942336bf6980a58b.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image_web/af6d78e633365dc5.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Мороженое",
-            "parentId": 77,
-            "parentName": "Заморозка",
-            "slug": "morozhenoe"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "",
             "id": 20594,
             "imageUrl": "",
@@ -97,6 +83,20 @@
             "parentId": 2673,
             "parentName": "Одежда и аксессуары",
             "slug": "detskaya-odezhda"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/icon/c21054001fad9f2a.png",
+            "id": 85,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image/942336bf6980a58b.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image_web/af6d78e633365dc5.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Мороженое",
+            "parentId": 77,
+            "parentName": "Заморозка",
+            "slug": "morozhenoe"
         },
         {
             "badges": [],
@@ -282,20 +282,6 @@
         },
         {
             "badges": [],
-            "hasChildren": false,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/17067/icon/14a7372dbc85fe13.png",
-            "id": 17067,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/17067/image/e4887f110f6110f4.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/17067/image_web/81a2331ebe8c03b3.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Виски",
-            "parentId": 17036,
-            "parentName": "Алкоголь",
-            "slug": "viski"
-        },
-        {
-            "badges": [],
             "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/128/icon/969accca8c45f57b.png",
             "id": 128,
@@ -352,6 +338,20 @@
         },
         {
             "badges": [],
+            "hasChildren": false,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/17067/icon/14a7372dbc85fe13.png",
+            "id": 17067,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/17067/image/e4887f110f6110f4.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/17067/image_web/81a2331ebe8c03b3.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Виски",
+            "parentId": 17036,
+            "parentName": "Алкоголь",
+            "slug": "viski"
+        },
+        {
+            "badges": [],
             "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3511/icon/3410146e5708771b.png",
             "id": 3511,
@@ -363,20 +363,6 @@
             "parentId": 3509,
             "parentName": "Уход и гигиена",
             "slug": "dlya-lica"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/icon/6000446a5c019a20.png",
-            "id": 285,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/image/988beef05c03a28e.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/image_web/daa9bf3a539cbe30.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Соусы, кетчупы, майонез",
-            "parentId": 94,
-            "parentName": "Консервы и соусы",
-            "slug": "sousy-ketchupy-majjonez"
         },
         {
             "badges": [],
@@ -409,6 +395,20 @@
         {
             "badges": [],
             "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/icon/6000446a5c019a20.png",
+            "id": 285,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/image/988beef05c03a28e.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/image_web/daa9bf3a539cbe30.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Соусы, кетчупы, майонез",
+            "parentId": 94,
+            "parentName": "Консервы и соусы",
+            "slug": "sousy-ketchupy-majjonez"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/icon/0248ca6395fc3272.png",
             "id": 1759,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/image/8047b58dec918275.png",
@@ -423,20 +423,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2681/icon/930dd22b81e0352e.png",
-            "id": 2681,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2681/image/cbccedd0b5e92590.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2681/image_web/4b0fdc3a8f2ae4aa.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Мужская одежда",
-            "parentId": 2673,
-            "parentName": "Одежда и аксессуары",
-            "slug": "muzhskaya-odezhda"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/icon/a2cc2de7ad6df6c2.png",
             "id": 123,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/image/c4c10e105931727c.jpg",
@@ -447,6 +433,20 @@
             "parentId": 3,
             "parentName": "Молочные продукты",
             "slug": "syrki-i-deserty"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2681/icon/930dd22b81e0352e.png",
+            "id": 2681,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2681/image/cbccedd0b5e92590.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2681/image_web/4b0fdc3a8f2ae4aa.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Мужская одежда",
+            "parentId": 2673,
+            "parentName": "Одежда и аксессуары",
+            "slug": "muzhskaya-odezhda"
         },
         {
             "badges": [],
@@ -4389,13 +4389,13 @@
                 "name": "Цвет",
                 "position": 14,
                 "slug": "cvet",
-                "total": 333,
+                "total": 334,
                 "values": [
                     {
                         "id": 6747519,
                         "selected": false,
                         "slug": "v-assortimente",
-                        "total": 47,
+                        "total": 48,
                         "value": "В ассортименте"
                     },
                     {
@@ -5542,7 +5542,7 @@
                 "name": "Страна",
                 "position": 18,
                 "slug": "strana",
-                "total": 1257,
+                "total": 1258,
                 "values": [
                     {
                         "id": 10720646,
@@ -5555,7 +5555,7 @@
                         "id": 10720676,
                         "selected": false,
                         "slug": "kitajj",
-                        "total": 259,
+                        "total": 260,
                         "value": "Китай"
                     },
                     {
@@ -5905,8 +5905,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.7,
-                "votes": 39
+                "rate": 4.8,
+                "votes": 11
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -5935,7 +5935,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 80,
+            "count": 79,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -6019,7 +6019,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 80,
+                "maxSaleQuantity": 79,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-c0-rossiya-10sht",
@@ -6135,7 +6135,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 55,
+            "count": 54,
             "dimensions": {
                 "height": 70,
                 "length": 250,
@@ -6210,7 +6210,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 55,
+                "maxSaleQuantity": 54,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-sv-rossiya-10sht",
@@ -6297,8 +6297,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.4,
-                "votes": 5
+                "rate": 4.7,
+                "votes": 419
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -6603,7 +6603,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 41,
+            "count": 40,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -6664,12 +6664,12 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.4,
-                "votes": 66
+                "rate": 4.8,
+                "votes": 4
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 41,
+                "maxSaleQuantity": 40,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-s1-rossiya-10sht",
@@ -6794,7 +6794,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 16,
+            "count": 15,
             "dimensions": {
                 "height": 70,
                 "length": 244,
@@ -6878,7 +6878,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 16,
+                "maxSaleQuantity": 15,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-lenta-s1-rossiya-10sht",
@@ -7082,8 +7082,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 5,
-                "votes": 2
+                "rate": 4.8,
+                "votes": 150
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -7112,7 +7112,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 44,
+            "count": 43,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -7182,12 +7182,12 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.7,
-                "votes": 339
+                "rate": 1,
+                "votes": 1
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 44,
+                "maxSaleQuantity": 43,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-lenta-fresh-s2-rossiya-10sht",
@@ -7706,7 +7706,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 345
+                "votes": 346
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -7895,8 +7895,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.4,
-                "votes": 10
+                "rate": 4.8,
+                "votes": 1366
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8099,7 +8099,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 19,
+            "count": 18,
             "dimensions": {
                 "height": 80,
                 "length": 250,
@@ -8165,7 +8165,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 19,
+                "maxSaleQuantity": 18,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-praksis-s1-rossiya-20sht",
@@ -8352,7 +8352,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.7,
-                "votes": 822
+                "votes": 823
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8452,8 +8452,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 3.8,
-                "votes": 4
+                "rate": 4.3,
+                "votes": 79
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8553,7 +8553,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 482
+                "votes": 483
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8673,7 +8673,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 18,
+            "count": 17,
             "dimensions": {
                 "height": 75,
                 "length": 205,
@@ -8739,7 +8739,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 18,
+                "maxSaleQuantity": 17,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-s0-rossiya-20sht",

@@ -151,7 +151,7 @@ def filter_for_product(products: list, positive_promt: list, negative_promt: lis
             
     return filtered_products
 
-negative_promt = ["Своя цена", "365 дней", "маркет", "Моя цена", "пр!сто", "Красная цена", "багет", "FRESH", "в соусе", '3.2%', '200мл', '0,2л', '0,05%']
+negative_promt = ["Своя цена", "365 дней", "маркет", "Моя цена", "пр!сто", "Красная цена", "багет", "FRESH", "в соусе", '3.2%', '200мл', '0,2л', '0,05%', '200г', '500мл', 'Тёма']
 
 def generate_cvs(query: str):
     """

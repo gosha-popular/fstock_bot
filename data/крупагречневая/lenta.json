@@ -598,6 +598,96 @@
                 "discount": [
                     {
                         "backgroundColor": "#ef4544",
+                        "title": "-23%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 260,
+            "dimensions": {
+                "height": 180,
+                "length": 70,
+                "width": 120
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 710673,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "id": 729480,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "id": 729479,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png"
+                }
+            ],
+            "name": "Крупа гречневая ЛЕНТА, 1кг",
+            "prices": {
+                "cost": 6499,
+                "costRegular": 8429,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6499,
+                "priceRegular": 8429
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 877
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 260,
+                "minSaleQuantity": 1
+            },
+            "slug": "krupa-grechnevaya-lenta-rossiya-1000g",
+            "storeId": 124,
+            "weight": {
+                "gross": 1007,
+                "net": 0,
+                "package": "1000г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
                         "title": "-15%",
                         "tooltip": {
                             "description": ""
@@ -689,96 +779,6 @@
                 "discount": [
                     {
                         "backgroundColor": "#ef4544",
-                        "title": "-23%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": [
-                    {
-                        "backgroundColor": "#1660f3",
-                        "title": "Наша марка",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ]
-            },
-            "chipsPrices": [],
-            "count": 260,
-            "dimensions": {
-                "height": 180,
-                "length": 70,
-                "width": 120
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": false,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 710673,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
-                    "id": 729480,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710673/901c7e61-9ae4-4282-a7fd-81aab28ac0ce.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
-                    "id": 729479,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/710673/e87c75a4-f48a-466a-97be-8a7614effc31.png"
-                }
-            ],
-            "name": "Крупа гречневая ЛЕНТА, 1кг",
-            "prices": {
-                "cost": 6499,
-                "costRegular": 8429,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 6499,
-                "priceRegular": 8429
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.8,
-                "votes": 876
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 260,
-                "minSaleQuantity": 1
-            },
-            "slug": "krupa-grechnevaya-lenta-rossiya-1000g",
-            "storeId": 124,
-            "weight": {
-                "gross": 1007,
-                "net": 0,
-                "package": "1000г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
                         "title": "-40%",
                         "tooltip": {
                             "description": ""
@@ -788,7 +788,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 506,
+            "count": 505,
             "dimensions": {
                 "height": 160,
                 "length": 60,
@@ -854,7 +854,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 506,
+                "maxSaleQuantity": 505,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-mistral-yadrica-vs-rossiya-900g",
@@ -1031,7 +1031,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.9,
-                "votes": 149
+                "votes": 150
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -1715,7 +1715,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 591
+                "votes": 592
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -2334,7 +2334,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.9,
-                "votes": 30
+                "votes": 31
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -2363,7 +2363,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 94,
+            "count": 93,
             "dimensions": {
                 "height": 170,
                 "length": 75,
@@ -2429,7 +2429,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 94,
+                "maxSaleQuantity": 93,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-agro-alyans-ekstra-elitnaya-vs-rossiya-900g",
@@ -2536,7 +2536,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 8,
+            "count": 6,
             "dimensions": {
                 "height": 190,
                 "length": 40,
@@ -2602,7 +2602,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 8,
+                "maxSaleQuantity": 6,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-altajjskaya-skazka-yadrica-bystrorazvarivayushchayasya-ekstra-v-varochnyh-paketah",

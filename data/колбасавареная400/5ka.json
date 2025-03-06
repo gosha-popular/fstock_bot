@@ -55,7 +55,7 @@
             "labels": null,
             "property_clarification": "300 г",
             "has_age_restriction": false,
-            "stock_limit": "4.00"
+            "stock_limit": "12.00"
         },
         {
             "plu": 4277253,
@@ -90,7 +90,7 @@
             ],
             "property_clarification": "450 г",
             "has_age_restriction": false,
-            "stock_limit": "25.00"
+            "stock_limit": "22.00"
         },
         {
             "plu": 3484605,
@@ -159,7 +159,7 @@
             ],
             "property_clarification": "370 г",
             "has_age_restriction": false,
-            "stock_limit": "20.00"
+            "stock_limit": "40.00"
         },
         {
             "plu": 3661282,
@@ -332,7 +332,7 @@
             ],
             "property_clarification": "400 г",
             "has_age_restriction": false,
-            "stock_limit": "13.00"
+            "stock_limit": "12.00"
         },
         {
             "plu": 4367048,

@@ -73,7 +73,7 @@
                 "isPromotion": true,
                 "oldPrice": 7399
             },
-            "quantity": 1,
+            "quantity": 13,
             "ratings": {
                 "commentsCount": 15,
                 "rating": 4.7,
@@ -159,7 +159,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 8,
+            "quantity": 25,
             "ratings": {
                 "commentsCount": 13,
                 "rating": 4.7,
@@ -249,11 +249,11 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 10,
+            "quantity": 13,
             "ratings": {
                 "commentsCount": 60,
                 "rating": 4.4,
-                "scoresCount": 841
+                "scoresCount": 842
             },
             "seoCode": "moya_tsena_khleb_pshenichnyy_formovoy_1_sort_550g_polietilenovaya_upakovka_ooo_kislovodskiy_khleboza",
             "service": "core_gm",
@@ -302,7 +302,7 @@
             "ratings": {
                 "commentsCount": 215,
                 "rating": 4.8,
-                "scoresCount": 3741
+                "scoresCount": 3743
             },
             "seoCode": "khleb_kharris_pshen_0_47kg_barilla_rus_10",
             "service": "core_gm",
@@ -343,7 +343,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 1,
+            "quantity": 3,
             "ratings": {
                 "commentsCount": 14,
                 "rating": 4.5,

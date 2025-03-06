@@ -543,7 +543,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 4,
+            "count": 3,
             "dimensions": {
                 "height": 90,
                 "length": 190,
@@ -591,7 +591,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 4,
+                "maxSaleQuantity": 3,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-danilovskijj-rzhano-pshenichnyjj-bezdrozh-nar-rossiya-350g",
@@ -887,7 +887,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 20,
+            "count": 19,
             "dimensions": {
                 "height": 0,
                 "length": 0,
@@ -962,7 +962,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 20,
+                "maxSaleQuantity": 19,
                 "minSaleQuantity": 1
             },
             "slug": "baget-derevenskijj-rzhano-pshenichnyjj-na-zakvaske-ves-sp-lenta-fresh-rossiya",
@@ -979,7 +979,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 4,
+            "count": 3,
             "dimensions": {
                 "height": 120,
                 "length": 100,
@@ -1036,7 +1036,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 4,
+                "maxSaleQuantity": 3,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-kolomenskoe-tostovyjj-pshenichnyjj-rossiya-320g",
@@ -1357,7 +1357,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 10,
+            "count": 8,
             "dimensions": {
                 "height": 70,
                 "length": 120,
@@ -1409,12 +1409,12 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 5,
-                "votes": 2
+                "rate": 4.9,
+                "votes": 51
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 10,
+                "maxSaleQuantity": 8,
                 "minSaleQuantity": 1
             },
             "slug": "baton-kolomenskoe-pshenichnyjj-s-otrubyami-v-up-rossiya-300g",

@@ -40,6 +40,8 @@ async def get_bot_log(message: Message, command: CommandObject):
         await send_report_to_week()
     elif command.args == 'month':
         await send_report_to_month()
+    elif command.args == 'parse':
+        await parse()
     else:
         await message.answer("I don't know this command")
 

@@ -28,11 +28,11 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 47,
+            "quantity": 42,
             "ratings": {
                 "commentsCount": 601,
                 "rating": 4.7,
-                "scoresCount": 15203
+                "scoresCount": 15206
             },
             "seoCode": "krupa_grechnevaya_1_sort_fasovannaya_800g",
             "service": "core_gm",
@@ -93,7 +93,7 @@
             "ratings": {
                 "commentsCount": 117,
                 "rating": 4.7,
-                "scoresCount": 3477
+                "scoresCount": 3479
             },
             "seoCode": "grechka_yadritsa_uvelka_ekstra_800g",
             "service": "core_gm",
@@ -150,11 +150,11 @@
                 "isPromotion": true,
                 "oldPrice": 11999
             },
-            "quantity": 244,
+            "quantity": 243,
             "ratings": {
                 "commentsCount": 220,
                 "rating": 4.8,
-                "scoresCount": 5350
+                "scoresCount": 5351
             },
             "seoCode": "krupa_grechnevaya_uvelka_ekstra_5pak_kh80g",
             "service": "core_gm",
@@ -268,7 +268,7 @@
             "ratings": {
                 "commentsCount": 109,
                 "rating": 4.7,
-                "scoresCount": 2547
+                "scoresCount": 2548
             },
             "seoCode": "krupa_grechnevaya_magnit_yadritsa_bystrogo_prigotovleniya_900g",
             "service": "core_gm",
@@ -374,7 +374,7 @@
                 "isPromotion": true,
                 "oldPrice": 8599
             },
-            "quantity": 45,
+            "quantity": 44,
             "ratings": {
                 "commentsCount": 52,
                 "rating": 4.8,
@@ -537,7 +537,7 @@
             "ratings": {
                 "commentsCount": 33,
                 "rating": 4.8,
-                "scoresCount": 713
+                "scoresCount": 714
             },
             "seoCode": "grechka_yadritsa_mistral_900g",
             "service": "core_gm",
@@ -711,6 +711,59 @@
                 "scoresCount": 83
             },
             "seoCode": "mistral_grechnevaya_krupa_400g_k_kor_mistral_treyding_6",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/E38NNR7Y17rIMyN8tmt591I8rnNdYQSS82J82piO2Bo/rs:fit:416:416/plain/s3://img-dostavka/uf/c81/c812c7a4bdae4617f368e8ac65045681/bed532dbb5c910ce48a941fcbc51f66b.png@webp"
+                }
+            ],
+            "id": "1000172661",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Крупа Алтайская Сказка Гречневая ядрица экстра 800г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 6999,
+            "productId": "1000172661",
+            "promotion": {
+                "discountPercent": 31,
+                "endDate": "2025-07-08T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": 10159
+            },
+            "quantity": 49,
+            "ratings": {
+                "commentsCount": 4,
+                "rating": 4.8,
+                "scoresCount": 39
+            },
+            "seoCode": "altayskaya_skazka_krupa_grechnevaya_ekstra_800g_p_u_rosa_mk_12",
             "service": "core_gm",
             "skuGroupId": null,
             "storeCode": "992301",
@@ -1043,7 +1096,7 @@
         "hasMore": false,
         "limit": 36,
         "offset": 0,
-        "totalCount": 19
+        "totalCount": 20
     },
     "term": "крупа гречневая"
 }

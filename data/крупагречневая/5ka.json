@@ -210,7 +210,7 @@
             ],
             "property_clarification": "400 г",
             "has_age_restriction": false,
-            "stock_limit": "29.00"
+            "stock_limit": "27.00"
         },
         {
             "plu": 3674200,
@@ -246,34 +246,6 @@
             "property_clarification": "400 г",
             "has_age_restriction": false,
             "stock_limit": "16.00"
-        },
-        {
-            "plu": 3601120,
-            "name": "Крупа пшеничная 800г",
-            "image_links": {
-                "small": [
-                    "https://photos.okolo.app/product/1177601-main/320x320.jpeg?updated_at=2025-01-31T14:12:27.404Z"
-                ],
-                "normal": [
-                    "https://photos.okolo.app/product/1177601-main/800x800.jpeg?updated_at=2025-01-31T14:12:27.404Z"
-                ]
-            },
-            "uom": "шт",
-            "step": "1.0",
-            "rating": {
-                "rating_average": 4.91,
-                "rates_count": 9673
-            },
-            "promo": null,
-            "prices": {
-                "regular": "27.99",
-                "discount": null,
-                "cpd_promo_price": null
-            },
-            "labels": null,
-            "property_clarification": "800 г",
-            "has_age_restriction": false,
-            "stock_limit": "7.00"
         },
         {
             "plu": 3198640,
@@ -380,6 +352,42 @@
             "property_clarification": "400 г",
             "has_age_restriction": false,
             "stock_limit": "21.00"
+        },
+        {
+            "plu": 3424356,
+            "name": "Крупа Увелка Дружба смесь риса круглозерного и пшена 5х80г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1170684-main/320x320.jpeg?updated_at=2025-03-03T16:06:15.655Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1170684-main/800x800.jpeg?updated_at=2025-03-03T16:06:15.655Z",
+                    "https://photos.okolo.app/product/3794c97b601a9b707bb649f4f87d2d92-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 5943
+            },
+            "promo": null,
+            "prices": {
+                "regular": "107.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "В пакетиках",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "18.00"
         }
     ],
     "categories": [
