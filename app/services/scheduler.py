@@ -52,6 +52,8 @@ class SchedulerService:
 
         if not (day_of_week and time_str):
             self._timesleep = 60 * 60 * 24
+        else:
+            self._timesleep = 60
         
 
 

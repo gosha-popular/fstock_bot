@@ -154,7 +154,7 @@ async def main():
 
     # Настройка сервиса расписания / Setup scheduler service
     scheduler = SchedulerService(send_report_to_month)
-    scheduler.set_scheduler(day=1)
+    scheduler.set_scheduler(day=1, time_str="10:00")
 
     parse_shed = SchedulerService(parse)
     parse_shed.set_scheduler(day_of_week=2, time_str='09:50')
