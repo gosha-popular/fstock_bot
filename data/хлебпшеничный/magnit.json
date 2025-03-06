@@ -32,7 +32,7 @@
             "ratings": {
                 "commentsCount": 41,
                 "rating": 4.7,
-                "scoresCount": 1157
+                "scoresCount": 1160
             },
             "seoCode": "lavina_khleb_tostovyy_pshenichnyy_v_narezke_0_4_kg_polietilenovaya_upakovka_ooo_khlebokombinat_lavin",
             "service": "core_gm",
@@ -73,7 +73,7 @@
                 "isPromotion": true,
                 "oldPrice": 7399
             },
-            "quantity": 4,
+            "quantity": 1,
             "ratings": {
                 "commentsCount": 15,
                 "rating": 4.7,
@@ -118,7 +118,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 10,
+            "quantity": 4,
             "ratings": null,
             "seoCode": "khleb_bezdrozhzhevoy_1s_pshenichnyy_v_narezke_formovoy_0_5kg_polietilenovaya_upakovka_khlebprodukt_o",
             "service": "core_gm",
@@ -159,7 +159,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 10,
+            "quantity": 8,
             "ratings": {
                 "commentsCount": 13,
                 "rating": 4.7,
@@ -249,58 +249,13 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 13,
+            "quantity": 10,
             "ratings": {
                 "commentsCount": 60,
                 "rating": 4.4,
                 "scoresCount": 841
             },
             "seoCode": "moya_tsena_khleb_pshenichnyy_formovoy_1_sort_550g_polietilenovaya_upakovka_ooo_kislovodskiy_khleboza",
-            "service": "core_gm",
-            "skuGroupId": null,
-            "storeCode": "992301",
-            "weighted": {
-                "isWeighted": false,
-                "minStep": null,
-                "shelfLabel": null,
-                "shelfWeight": null,
-                "step": null,
-                "unitLabel": null,
-                "unitPrice": null
-            }
-        },
-        {
-            "badges": [],
-            "catalogType": "1",
-            "gallery": [
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/Kuhl901jxKxS4gT6WXaNKCCThdwFgAd_c0VkLChut-Q/rs:fit:416:416/plain/s3://img-dostavka/uf/9be/9bec449a8b65fdeacf48891399321683/f6ad93507d558b104ed7f50708fb6a36.jpeg@webp"
-                }
-            ],
-            "id": "1000271135",
-            "isForAdults": false,
-            "isInFavorites": null,
-            "isLowStock": false,
-            "name": "Хлеб Деревенский пшеничный нарезанный Краснодарский хлебозавод №6 400г",
-            "needPassport": false,
-            "orders": null,
-            "pickupOnly": false,
-            "price": 8999,
-            "productId": "1000271135",
-            "promotion": {
-                "discountPercent": null,
-                "endDate": null,
-                "isPromotion": false,
-                "oldPrice": null
-            },
-            "quantity": 1,
-            "ratings": {
-                "commentsCount": 8,
-                "rating": 4.8,
-                "scoresCount": 54
-            },
-            "seoCode": "khleb_derevenskiy_psh_v_narezke_400g_p_up_krasnodarskiy_khz_6",
             "service": "core_gm",
             "skuGroupId": null,
             "storeCode": "992301",
@@ -343,11 +298,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 108,
+            "quantity": 105,
             "ratings": {
                 "commentsCount": 215,
                 "rating": 4.8,
-                "scoresCount": 3740
+                "scoresCount": 3741
             },
             "seoCode": "khleb_kharris_pshen_0_47kg_barilla_rus_10",
             "service": "core_gm",
@@ -413,7 +368,7 @@
         "hasMore": false,
         "limit": 36,
         "offset": 0,
-        "totalCount": 9
+        "totalCount": 8
     },
     "term": "хлеб пшеничный"
 }

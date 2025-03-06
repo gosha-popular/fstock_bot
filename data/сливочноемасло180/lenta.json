@@ -129,20 +129,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/icon/fb2d4c0a4ff8ef84.png",
-            "id": 3510,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/image/7122cb19b4e067d7.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/image_web/0b356d8b44cf8f62.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Для волос",
-            "parentId": 3509,
-            "parentName": "Уход и гигиена",
-            "slug": "dlya-volos"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/187/icon/5b353bcec6a9c0d7.png",
             "id": 187,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/187/image/45e53ffff886a9b7.png",
@@ -153,6 +139,20 @@
             "parentId": 183,
             "parentName": "Рыба, морепродукты",
             "slug": "moreprodukty"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/icon/fb2d4c0a4ff8ef84.png",
+            "id": 3510,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/image/7122cb19b4e067d7.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/image_web/0b356d8b44cf8f62.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Для волос",
+            "parentId": 3509,
+            "parentName": "Уход и гигиена",
+            "slug": "dlya-volos"
         },
         {
             "badges": [],
@@ -171,20 +171,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "",
-            "id": 20541,
-            "imageUrl": "",
-            "imageWebUrl": "",
-            "isAdult": false,
-            "level": 2,
-            "name": "Кондитерские изделия",
-            "parentId": 18427,
-            "parentName": "Товары до 99 рублей",
-            "slug": "konditerskie-izdeliya"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1177/icon/465b8897a9bb6490.png",
             "id": 1177,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1177/image/9f4fc132079d0a2b.png",
@@ -195,6 +181,20 @@
             "parentId": 183,
             "parentName": "Рыба, морепродукты",
             "slug": "ryba-solenaya-i-kopchenaya"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
+            "id": 20541,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Кондитерские изделия",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "konditerskie-izdeliya"
         },
         {
             "badges": [],
@@ -241,6 +241,20 @@
         {
             "badges": [],
             "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13646/icon/0a556d3d27728c75.png",
+            "id": 13646,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13646/image/f1664a68ae69c0f0.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13646/image_web/8f3cbb08c9e9b4d6.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Рыбные консервы",
+            "parentId": 183,
+            "parentName": "Рыба, морепродукты",
+            "slug": "rybnye-konservy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18000/icon/88087a849b743741.png",
             "id": 18000,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18000/image/a009b5e06be51dad.png",
@@ -269,6 +283,20 @@
         {
             "badges": [],
             "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/97/icon/c284fb00e4f5fe5f.png",
+            "id": 97,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/97/image/ec8a2f6cb6710f7c.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/97/image_web/03169be7cf6690ea.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Рыбные консервы",
+            "parentId": 94,
+            "parentName": "Консервы и соусы",
+            "slug": "rybnye-konservy"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3511/icon/3410146e5708771b.png",
             "id": 3511,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3511/image/0850974b2125831e.png",
@@ -279,20 +307,6 @@
             "parentId": 3509,
             "parentName": "Уход и гигиена",
             "slug": "dlya-lica"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13646/icon/0a556d3d27728c75.png",
-            "id": 13646,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13646/image/f1664a68ae69c0f0.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13646/image_web/8f3cbb08c9e9b4d6.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Рыбные консервы",
-            "parentId": 183,
-            "parentName": "Рыба, морепродукты",
-            "slug": "rybnye-konservy"
         },
         {
             "badges": [],
@@ -311,20 +325,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/97/icon/c284fb00e4f5fe5f.png",
-            "id": 97,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/97/image/ec8a2f6cb6710f7c.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/97/image_web/03169be7cf6690ea.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Рыбные консервы",
-            "parentId": 94,
-            "parentName": "Консервы и соусы",
-            "slug": "rybnye-konservy"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/icon/6000446a5c019a20.png",
             "id": 285,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/285/image/988beef05c03a28e.png",
@@ -335,6 +335,20 @@
             "parentId": 94,
             "parentName": "Консервы и соусы",
             "slug": "sousy-ketchupy-majjonez"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/icon/cfa1533cdb151265.png",
+            "id": 19501,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image/fd8ef741ed2b1c6a.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image_web/a0afb23097350012.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Гигиена и уход",
+            "parentId": 19433,
+            "parentName": "Товары для детей",
+            "slug": "gigiena-i-uhod"
         },
         {
             "badges": [],
@@ -363,20 +377,6 @@
             "parentId": 18359,
             "parentName": "Только в Ленте",
             "slug": "myaso-ryba-polufabrikaty"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/icon/cfa1533cdb151265.png",
-            "id": 19501,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image/fd8ef741ed2b1c6a.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19501/image_web/a0afb23097350012.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Гигиена и уход",
-            "parentId": 19433,
-            "parentName": "Товары для детей",
-            "slug": "gigiena-i-uhod"
         },
         {
             "badges": [],
@@ -444,13 +444,13 @@
                 "name": "Бренд",
                 "position": 1,
                 "slug": "brand",
-                "total": 1056,
+                "total": 1072,
                 "values": [
                     {
                         "id": 10721105,
                         "selected": false,
-                        "slug": "",
-                        "total": 48,
+                        "slug": "lenta",
+                        "total": 47,
                         "value": "ЛЕНТА"
                     },
                     {
@@ -510,18 +510,18 @@
                         "value": "Прочие Товары"
                     },
                     {
-                        "id": 10903973,
-                        "selected": false,
-                        "slug": "garnier",
-                        "total": 14,
-                        "value": "GARNIER"
-                    },
-                    {
                         "id": 10731199,
                         "selected": false,
                         "slug": "russkoe-more",
                         "total": 14,
                         "value": "РУССКОЕ МОРЕ"
+                    },
+                    {
+                        "id": 10903973,
+                        "selected": false,
+                        "slug": "garnier",
+                        "total": 13,
+                        "value": "GARNIER"
                     },
                     {
                         "id": 10739096,
@@ -550,13 +550,6 @@
                         "slug": "filippo-berio",
                         "total": 11,
                         "value": "FILIPPO BERIO"
-                    },
-                    {
-                        "id": 13728918,
-                        "selected": false,
-                        "slug": "laplandia",
-                        "total": 11,
-                        "value": "LAPLANDIA"
                     },
                     {
                         "id": 10733485,
@@ -601,6 +594,20 @@
                         "value": "HOMECLUB"
                     },
                     {
+                        "id": 13728918,
+                        "selected": false,
+                        "slug": "laplandia",
+                        "total": 9,
+                        "value": "LAPLANDIA"
+                    },
+                    {
+                        "id": 13148090,
+                        "selected": false,
+                        "slug": "monini",
+                        "total": 9,
+                        "value": "MONINI"
+                    },
+                    {
                         "id": 11090634,
                         "selected": false,
                         "slug": "natura",
@@ -629,13 +636,6 @@
                         "value": "INNAMORE"
                     },
                     {
-                        "id": 13148090,
-                        "selected": false,
-                        "slug": "monini",
-                        "total": 8,
-                        "value": "MONINI"
-                    },
-                    {
                         "id": 10766939,
                         "selected": false,
                         "slug": "agusha",
@@ -657,6 +657,13 @@
                         "value": "DOLCE ALBERO"
                     },
                     {
+                        "id": 15906283,
+                        "selected": false,
+                        "slug": "takayama",
+                        "total": 7,
+                        "value": "TAKAYAMA"
+                    },
+                    {
                         "id": 10754733,
                         "selected": false,
                         "slug": "karat",
@@ -669,13 +676,6 @@
                         "slug": "sloboda",
                         "total": 7,
                         "value": "СЛОБОДА"
-                    },
-                    {
-                        "id": 15906283,
-                        "selected": false,
-                        "slug": "takayama",
-                        "total": 6,
-                        "value": "TAKAYAMA"
                     },
                     {
                         "id": 10721108,
@@ -692,13 +692,6 @@
                         "value": "BONVIDA"
                     },
                     {
-                        "id": 10826153,
-                        "selected": false,
-                        "slug": "burenka-club",
-                        "total": 5,
-                        "value": "BURENKA CLUB"
-                    },
-                    {
                         "id": 10740056,
                         "selected": false,
                         "slug": "dove",
@@ -711,6 +704,13 @@
                         "slug": "fito-kosmetik",
                         "total": 5,
                         "value": "FITO КОСМЕТИК"
+                    },
+                    {
+                        "id": 10904934,
+                        "selected": false,
+                        "slug": "ingreen",
+                        "total": 5,
+                        "value": "INGREEN"
                     },
                     {
                         "id": 10733594,
@@ -748,9 +748,16 @@
                         "value": "БЛАГО"
                     },
                     {
+                        "id": 10988581,
+                        "selected": false,
+                        "slug": "glavbanya",
+                        "total": 5,
+                        "value": "ГЛАВБАНЯ"
+                    },
+                    {
                         "id": 10893404,
                         "selected": false,
-                        "slug": "",
+                        "slug": "lenta-life",
                         "total": 5,
                         "value": "ЛЕНТА LIFE"
                     },
@@ -788,6 +795,13 @@
                         "slug": "apollo",
                         "total": 4,
                         "value": "APOLLO"
+                    },
+                    {
+                        "id": 10826153,
+                        "selected": false,
+                        "slug": "burenka-club",
+                        "total": 4,
+                        "value": "BURENKA CLUB"
                     },
                     {
                         "id": 11080782,
@@ -832,6 +846,13 @@
                         "value": "PL Lenta TempSubst"
                     },
                     {
+                        "id": 11272985,
+                        "selected": false,
+                        "slug": "secretday",
+                        "total": 4,
+                        "value": "SECRETDAY"
+                    },
+                    {
                         "id": 10721919,
                         "selected": false,
                         "slug": "vici",
@@ -844,6 +865,13 @@
                         "slug": "aromaty-zhizni",
                         "total": 4,
                         "value": "АРОМАТЫ ЖИЗНИ"
+                    },
+                    {
+                        "id": 11047222,
+                        "selected": false,
+                        "slug": "baltijjskijj-bereg",
+                        "total": 4,
+                        "value": "БАЛТИЙСКИЙ БЕРЕГ"
                     },
                     {
                         "id": 10792709,
@@ -1000,13 +1028,6 @@
                         "value": "HERBAL ESSENCES"
                     },
                     {
-                        "id": 10904934,
-                        "selected": false,
-                        "slug": "ingreen",
-                        "total": 3,
-                        "value": "INGREEN"
-                    },
-                    {
                         "id": 11256229,
                         "selected": false,
                         "slug": "knorr",
@@ -1049,13 +1070,6 @@
                         "value": "АЛАНТАЛЬ"
                     },
                     {
-                        "id": 11047222,
-                        "selected": false,
-                        "slug": "baltijjskijj-bereg",
-                        "total": 3,
-                        "value": "БАЛТИЙСКИЙ БЕРЕГ"
-                    },
-                    {
                         "id": 10721076,
                         "selected": false,
                         "slug": "beljvskaya-pastilnaya",
@@ -1075,13 +1089,6 @@
                         "slug": "vkusnye-konservy",
                         "total": 3,
                         "value": "ВКУСНЫЕ КОНСЕРВЫ"
-                    },
-                    {
-                        "id": 10988581,
-                        "selected": false,
-                        "slug": "glavbanya",
-                        "total": 3,
-                        "value": "ГЛАВБАНЯ"
                     },
                     {
                         "id": 10791340,
@@ -1119,6 +1126,13 @@
                         "value": "ЛУКОЙЛ"
                     },
                     {
+                        "id": 1368711492,
+                        "selected": false,
+                        "slug": "nashe-proizvodstvo",
+                        "total": 3,
+                        "value": "НАШЕ ПРОИЗВОДСТВО"
+                    },
+                    {
                         "id": 10732946,
                         "selected": false,
                         "slug": "svitlogore",
@@ -1138,6 +1152,13 @@
                         "slug": "100-gold",
                         "total": 2,
                         "value": "100% GOLD"
+                    },
+                    {
+                        "id": 10720674,
+                        "selected": false,
+                        "slug": "berlingo",
+                        "total": 2,
+                        "value": "BERLINGO"
                     },
                     {
                         "id": 326907401,
@@ -1266,6 +1287,13 @@
                         "value": "LITTLE TIMES PREMIUM"
                     },
                     {
+                        "id": 10734080,
+                        "selected": false,
+                        "slug": "maggi",
+                        "total": 2,
+                        "value": "MAGGI"
+                    },
+                    {
                         "id": 10748358,
                         "selected": false,
                         "slug": "milkana",
@@ -1327,13 +1355,6 @@
                         "slug": "pretto",
                         "total": 2,
                         "value": "PRETTO"
-                    },
-                    {
-                        "id": 11272985,
-                        "selected": false,
-                        "slug": "secretday",
-                        "total": 2,
-                        "value": "SECRETDAY"
                     },
                     {
                         "id": 10817261,
@@ -1455,6 +1476,13 @@
                         "value": "ЗАБОТЛИВАЯ ХОЗЯЙКА"
                     },
                     {
+                        "id": 299523277,
+                        "selected": false,
+                        "slug": "krokdilli",
+                        "total": 2,
+                        "value": "КРОК&ДИЛЛИ"
+                    },
+                    {
                         "id": 10808685,
                         "selected": false,
                         "slug": "lebedyanmoloko",
@@ -1481,13 +1509,6 @@
                         "slug": "mu-u",
                         "total": 2,
                         "value": "МУ-У"
-                    },
-                    {
-                        "id": 1368711492,
-                        "selected": false,
-                        "slug": "nashe-proizvodstvo",
-                        "total": 2,
-                        "value": "НАШЕ ПРОИЗВОДСТВО"
                     },
                     {
                         "id": 1486140815,
@@ -1555,7 +1576,7 @@
                     {
                         "id": 11002885,
                         "selected": false,
-                        "slug": "",
+                        "slug": "u-palycha",
                         "total": 2,
                         "value": "У ПАЛЫЧА"
                     },
@@ -1656,13 +1677,6 @@
                         "slug": "beauty-desserts",
                         "total": 1,
                         "value": "BEAUTY DESSERTS"
-                    },
-                    {
-                        "id": 10720674,
-                        "selected": false,
-                        "slug": "berlingo",
-                        "total": 1,
-                        "value": "BERLINGO"
                     },
                     {
                         "id": 43692673,
@@ -1926,7 +1940,7 @@
                     {
                         "id": 12985060,
                         "selected": false,
-                        "slug": "",
+                        "slug": "johnsons",
                         "total": 1,
                         "value": "JOHNSON'S"
                     },
@@ -1943,6 +1957,13 @@
                         "slug": "karl-fazer",
                         "total": 1,
                         "value": "KARL FAZER"
+                    },
+                    {
+                        "id": 166699850,
+                        "selected": false,
+                        "slug": "kibox",
+                        "total": 1,
+                        "value": "KIBOX"
                     },
                     {
                         "id": 11262503,
@@ -2001,13 +2022,6 @@
                         "value": "M&M'S"
                     },
                     {
-                        "id": 10734080,
-                        "selected": false,
-                        "slug": "maggi",
-                        "total": 1,
-                        "value": "MAGGI"
-                    },
-                    {
                         "id": 11271477,
                         "selected": false,
                         "slug": "magic-grain",
@@ -2027,6 +2041,13 @@
                         "slug": "mars",
                         "total": 1,
                         "value": "MARS"
+                    },
+                    {
+                        "id": 13401410,
+                        "selected": false,
+                        "slug": "meggle",
+                        "total": 1,
+                        "value": "MEGGLE"
                     },
                     {
                         "id": 729265614,
@@ -2104,6 +2125,20 @@
                         "slug": "oliomania",
                         "total": 1,
                         "value": "OLIOMANIA"
+                    },
+                    {
+                        "id": 43689051,
+                        "selected": false,
+                        "slug": "olive-roots",
+                        "total": 1,
+                        "value": "OLIVE ROOTS"
+                    },
+                    {
+                        "id": 989319042,
+                        "selected": false,
+                        "slug": "omegin",
+                        "total": 1,
+                        "value": "OMEGIN"
                     },
                     {
                         "id": 11282201,
@@ -2197,6 +2232,13 @@
                         "value": "SEN SOY"
                     },
                     {
+                        "id": 13381645,
+                        "selected": false,
+                        "slug": "shell",
+                        "total": 1,
+                        "value": "SHELL"
+                    },
+                    {
                         "id": 10945070,
                         "selected": false,
                         "slug": "smile-of-milady",
@@ -2218,6 +2260,13 @@
                         "value": "SOJ"
                     },
                     {
+                        "id": 11262318,
+                        "selected": false,
+                        "slug": "super",
+                        "total": 1,
+                        "value": "SUPER"
+                    },
+                    {
                         "id": 10992575,
                         "selected": false,
                         "slug": "synergetic",
@@ -2237,13 +2286,6 @@
                         "slug": "tasty-tins",
                         "total": 1,
                         "value": "TASTY TINS"
-                    },
-                    {
-                        "id": 295104575,
-                        "selected": false,
-                        "slug": "tondi",
-                        "total": 1,
-                        "value": "TONDI"
                     },
                     {
                         "id": 10738102,
@@ -2321,6 +2363,13 @@
                         "slug": "art-dizajjn",
                         "total": 1,
                         "value": "АРТ ДИЗАЙН"
+                    },
+                    {
+                        "id": 11164258,
+                        "selected": false,
+                        "slug": "atlantika",
+                        "total": 1,
+                        "value": "АТЛАНТИКА"
                     },
                     {
                         "id": 10731484,
@@ -2554,13 +2603,6 @@
                         "value": "КРЕСТЬЯНСКИЙ"
                     },
                     {
-                        "id": 299523277,
-                        "selected": false,
-                        "slug": "krokdilli",
-                        "total": 1,
-                        "value": "КРОК&ДИЛЛИ"
-                    },
-                    {
                         "id": 11692126,
                         "selected": false,
                         "slug": "krokant",
@@ -2587,6 +2629,13 @@
                         "slug": "kf-egorevskaya",
                         "total": 1,
                         "value": "КФ ЕГОРЬЕВСКАЯ"
+                    },
+                    {
+                        "id": 14322992,
+                        "selected": false,
+                        "slug": "la-kri",
+                        "total": 1,
+                        "value": "ЛА-КРИ"
                     },
                     {
                         "id": 10733978,
@@ -2757,6 +2806,13 @@
                         "value": "РЕМИТ"
                     },
                     {
+                        "id": 13903127,
+                        "selected": false,
+                        "slug": "recepty-chistoty",
+                        "total": 1,
+                        "value": "РЕЦЕПТЫ ЧИСТОТЫ"
+                    },
+                    {
                         "id": 10731228,
                         "selected": false,
                         "slug": "rogachev",
@@ -2783,6 +2839,13 @@
                         "slug": "saratovskijj",
                         "total": 1,
                         "value": "САРАТОВСКИЙ"
+                    },
+                    {
+                        "id": 14835771,
+                        "selected": false,
+                        "slug": "sbermobajjl",
+                        "total": 1,
+                        "value": "СБЕРМОБАЙЛ"
                     },
                     {
                         "id": 15200391,
@@ -2855,6 +2918,13 @@
                         "value": "СОРМОВСКОЕ"
                     },
                     {
+                        "id": 10729145,
+                        "selected": false,
+                        "slug": "speczakaz",
+                        "total": 1,
+                        "value": "СПЕЦЗАКАЗ"
+                    },
+                    {
                         "id": 11020462,
                         "selected": false,
                         "slug": "starodvore",
@@ -2885,7 +2955,7 @@
                     {
                         "id": 10734322,
                         "selected": false,
-                        "slug": "",
+                        "slug": "frutonyanya",
                         "total": 1,
                         "value": "ФРУТОНЯНЯ"
                     },
@@ -2984,7 +3054,7 @@
                 "name": "Вес",
                 "position": 3,
                 "slug": "ves",
-                "total": 725,
+                "total": 730,
                 "values": [
                     {
                         "id": 1480797051,
@@ -3001,25 +3071,25 @@
                         "value": "250"
                     },
                     {
-                        "id": 1480791919,
-                        "selected": false,
-                        "slug": "150",
-                        "total": 31,
-                        "value": "150"
-                    },
-                    {
                         "id": 1480791423,
                         "selected": false,
                         "slug": "500",
-                        "total": 31,
+                        "total": 33,
                         "value": "500"
                     },
                     {
                         "id": 1480793785,
                         "selected": false,
                         "slug": "400",
-                        "total": 28,
+                        "total": 31,
                         "value": "400"
+                    },
+                    {
+                        "id": 1480791919,
+                        "selected": false,
+                        "slug": "150",
+                        "total": 30,
+                        "value": "150"
                     },
                     {
                         "id": 1480791959,
@@ -3080,16 +3150,9 @@
                     {
                         "id": 1480791401,
                         "selected": false,
-                        "slug": "",
-                        "total": 8,
+                        "slug": "130",
+                        "total": 9,
                         "value": "130"
-                    },
-                    {
-                        "id": 1480817558,
-                        "selected": false,
-                        "slug": "380",
-                        "total": 8,
-                        "value": "380"
                     },
                     {
                         "id": 1480794922,
@@ -3099,9 +3162,16 @@
                         "value": "240"
                     },
                     {
+                        "id": 1480817558,
+                        "selected": false,
+                        "slug": "380",
+                        "total": 7,
+                        "value": "380"
+                    },
+                    {
                         "id": 1480795787,
                         "selected": false,
-                        "slug": "",
+                        "slug": "70",
                         "total": 6,
                         "value": "70"
                     },
@@ -3129,7 +3199,7 @@
                     {
                         "id": 1480792661,
                         "selected": false,
-                        "slug": "",
+                        "slug": "50",
                         "total": 5,
                         "value": "50"
                     },
@@ -3146,13 +3216,6 @@
                         "slug": "330",
                         "total": 5,
                         "value": "330"
-                    },
-                    {
-                        "id": 1480794741,
-                        "selected": false,
-                        "slug": "",
-                        "total": 5,
-                        "value": "700"
                     },
                     {
                         "id": 1480792478,
@@ -3178,7 +3241,7 @@
                     {
                         "id": 1480853600,
                         "selected": false,
-                        "slug": "",
+                        "slug": "480",
                         "total": 4,
                         "value": "480"
                     },
@@ -3188,6 +3251,13 @@
                         "slug": "600",
                         "total": 4,
                         "value": "600"
+                    },
+                    {
+                        "id": 1480794741,
+                        "selected": false,
+                        "slug": "700",
+                        "total": 4,
+                        "value": "700"
                     },
                     {
                         "id": 1480798721,
@@ -3204,11 +3274,25 @@
                         "value": "4000"
                     },
                     {
+                        "id": 1480795445,
+                        "selected": false,
+                        "slug": "175",
+                        "total": 3,
+                        "value": "175"
+                    },
+                    {
                         "id": 1480791499,
                         "selected": false,
                         "slug": "190",
                         "total": 3,
                         "value": "190"
+                    },
+                    {
+                        "id": 1480791978,
+                        "selected": false,
+                        "slug": "270",
+                        "total": 3,
+                        "value": "270"
                     },
                     {
                         "id": 1480791362,
@@ -3220,7 +3304,7 @@
                     {
                         "id": 1480793847,
                         "selected": false,
-                        "slug": "",
+                        "slug": "360",
                         "total": 3,
                         "value": "360"
                     },
@@ -3276,7 +3360,7 @@
                     {
                         "id": 1480794870,
                         "selected": false,
-                        "slug": "",
+                        "slug": "120",
                         "total": 2,
                         "value": "120"
                     },
@@ -3286,20 +3370,6 @@
                         "slug": "145",
                         "total": 2,
                         "value": "145"
-                    },
-                    {
-                        "id": 1480795445,
-                        "selected": false,
-                        "slug": "175",
-                        "total": 2,
-                        "value": "175"
-                    },
-                    {
-                        "id": 1480791978,
-                        "selected": false,
-                        "slug": "270",
-                        "total": 2,
-                        "value": "270"
                     },
                     {
                         "id": 1480792279,
@@ -3332,7 +3402,7 @@
                     {
                         "id": 1480835063,
                         "selected": false,
-                        "slug": "",
+                        "slug": "440",
                         "total": 2,
                         "value": "440"
                     },
@@ -3465,7 +3535,7 @@
                     {
                         "id": 1480793251,
                         "selected": false,
-                        "slug": "",
+                        "slug": "90",
                         "total": 1,
                         "value": "90"
                     },
@@ -3505,6 +3575,13 @@
                         "value": "206"
                     },
                     {
+                        "id": 1480849385,
+                        "selected": false,
+                        "slug": "210",
+                        "total": 1,
+                        "value": "210"
+                    },
+                    {
                         "id": 1480795163,
                         "selected": false,
                         "slug": "220",
@@ -3535,7 +3612,7 @@
                     {
                         "id": 1480797803,
                         "selected": false,
-                        "slug": "",
+                        "slug": "290",
                         "total": 1,
                         "value": "290"
                     },
@@ -3690,7 +3767,7 @@
                 "name": "Тип Разделки/Форма Выпуска",
                 "position": 5,
                 "slug": "tip-razdelkiforma-vypuska",
-                "total": 230,
+                "total": 232,
                 "values": [
                     {
                         "id": 1489731571,
@@ -3717,7 +3794,7 @@
                         "id": 1489767086,
                         "selected": false,
                         "slug": "kusochki",
-                        "total": 20,
+                        "total": 23,
                         "value": "Кусочки"
                     },
                     {
@@ -3744,7 +3821,7 @@
                     {
                         "id": 1489931919,
                         "selected": false,
-                        "slug": "",
+                        "slug": "lomtiki",
                         "total": 5,
                         "value": "Ломтики"
                     },
@@ -3849,16 +3926,9 @@
                     {
                         "id": 1489736468,
                         "selected": false,
-                        "slug": "",
+                        "slug": "rezanyjj",
                         "total": 1,
                         "value": "Резаный"
-                    },
-                    {
-                        "id": 1489985025,
-                        "selected": false,
-                        "slug": "tertyjj",
-                        "total": 1,
-                        "value": "Тертый"
                     },
                     {
                         "id": 1490249100,
@@ -3901,7 +3971,7 @@
                     {
                         "id": 1495573936,
                         "selected": false,
-                        "slug": "",
+                        "slug": "koshki",
                         "total": 1,
                         "value": "Кошки"
                     }
@@ -3919,7 +3989,7 @@
                         "id": 1495984795,
                         "selected": false,
                         "slug": "nabor-dlya-bani-i-sauny",
-                        "total": 1,
+                        "total": 2,
                         "value": "Набор для бани и сауны"
                     }
                 ]
@@ -3930,13 +4000,13 @@
                 "name": "С добавками",
                 "position": 8,
                 "slug": "s-dobavkami",
-                "total": 100,
+                "total": 99,
                 "values": [
                     {
                         "id": 1315613770,
                         "selected": false,
                         "slug": "net",
-                        "total": 99,
+                        "total": 98,
                         "value": "Нет"
                     },
                     {
@@ -3978,18 +4048,18 @@
                         "value": "Орех фундук"
                     },
                     {
+                        "id": 6753845,
+                        "selected": false,
+                        "slug": "maslo-podsolnechnoe",
+                        "total": 7,
+                        "value": "Масло подсолнечное"
+                    },
+                    {
                         "id": 6833606,
                         "selected": false,
                         "slug": "arahis",
                         "total": 6,
                         "value": "Арахис"
-                    },
-                    {
-                        "id": 6753845,
-                        "selected": false,
-                        "slug": "maslo-podsolnechnoe",
-                        "total": 6,
-                        "value": "Масло подсолнечное"
                     },
                     {
                         "id": 7100096,
@@ -4174,13 +4244,6 @@
                         "value": "Манго"
                     },
                     {
-                        "id": 7017744,
-                        "selected": false,
-                        "slug": "marshmellou",
-                        "total": 1,
-                        "value": "Маршмеллоу"
-                    },
-                    {
                         "id": 8654313,
                         "selected": false,
                         "slug": "maslo-kukuruznoe",
@@ -4344,7 +4407,7 @@
                     {
                         "id": 6805676,
                         "selected": false,
-                        "slug": "",
+                        "slug": "shokolad",
                         "total": 1,
                         "value": "Шоколад"
                     },
@@ -4363,13 +4426,13 @@
                 "name": "Детский товар",
                 "position": 10,
                 "slug": "detskijj-tovar",
-                "total": 75,
+                "total": 77,
                 "values": [
                     {
                         "id": 6747507,
                         "selected": false,
                         "slug": "da",
-                        "total": 68,
+                        "total": 70,
                         "value": "Да"
                     },
                     {
@@ -4432,20 +4495,20 @@
                 "name": "Жирность, %",
                 "position": 12,
                 "slug": "zhirnost",
-                "total": 296,
+                "total": 293,
                 "values": [
                     {
                         "id": 6747614,
                         "selected": false,
                         "slug": "45",
-                        "total": 45,
+                        "total": 44,
                         "value": "45"
                     },
                     {
                         "id": 6844610,
                         "selected": false,
                         "slug": "825",
-                        "total": 36,
+                        "total": 35,
                         "value": "82,5"
                     },
                     {
@@ -4645,13 +4708,6 @@
                         "value": "6,5"
                     },
                     {
-                        "id": 7682796,
-                        "selected": false,
-                        "slug": "72",
-                        "total": 2,
-                        "value": "7,2"
-                    },
-                    {
                         "id": 7958073,
                         "selected": false,
                         "slug": "75",
@@ -4771,6 +4827,13 @@
                         "value": "67"
                     },
                     {
+                        "id": 7682796,
+                        "selected": false,
+                        "slug": "72",
+                        "total": 1,
+                        "value": "7,2"
+                    },
+                    {
                         "id": 7853214,
                         "selected": false,
                         "slug": "72",
@@ -4804,7 +4867,7 @@
                     {
                         "id": 6754091,
                         "selected": false,
-                        "slug": "",
+                        "slug": "svinina",
                         "total": 3,
                         "value": "Свинина"
                     },
@@ -4837,7 +4900,7 @@
                 "name": "Цвет",
                 "position": 14,
                 "slug": "cvet",
-                "total": 96,
+                "total": 98,
                 "values": [
                     {
                         "id": 6747519,
@@ -4866,6 +4929,13 @@
                         "slug": "belyjj",
                         "total": 6,
                         "value": "Белый"
+                    },
+                    {
+                        "id": 6762688,
+                        "selected": false,
+                        "slug": "slivochnyjj",
+                        "total": 5,
+                        "value": "Сливочный"
                     },
                     {
                         "id": 6890406,
@@ -4901,13 +4971,6 @@
                         "slug": "navy",
                         "total": 4,
                         "value": "Navy"
-                    },
-                    {
-                        "id": 6762688,
-                        "selected": false,
-                        "slug": "slivochnyjj",
-                        "total": 3,
-                        "value": "Сливочный"
                     },
                     {
                         "id": 6777293,
@@ -5071,20 +5134,20 @@
                 "name": "Вкус",
                 "position": 15,
                 "slug": "vkus",
-                "total": 173,
+                "total": 172,
                 "values": [
                     {
                         "id": 1364485430,
                         "selected": false,
                         "slug": "slivochnyjj",
-                        "total": 37,
+                        "total": 38,
                         "value": "Сливочный"
                     },
                     {
                         "id": 1353527203,
                         "selected": false,
                         "slug": "vanil",
-                        "total": 16,
+                        "total": 15,
                         "value": "Ваниль"
                     },
                     {
@@ -5111,8 +5174,8 @@
                     {
                         "id": 1353528644,
                         "selected": false,
-                        "slug": "",
-                        "total": 5,
+                        "slug": "malina",
+                        "total": 4,
                         "value": "Малина"
                     },
                     {
@@ -5212,13 +5275,6 @@
                         "slug": "olivki",
                         "total": 2,
                         "value": "Оливки"
-                    },
-                    {
-                        "id": 1437049067,
-                        "selected": false,
-                        "slug": "perec-sladkijj",
-                        "total": 2,
-                        "value": "Перец сладкий"
                     },
                     {
                         "id": 1364477859,
@@ -5480,11 +5536,25 @@
                         "value": "Мультифрукт"
                     },
                     {
+                        "id": 1364489250,
+                        "selected": false,
+                        "slug": "ovoshchi",
+                        "total": 1,
+                        "value": "Овощи"
+                    },
+                    {
                         "id": 1364555834,
                         "selected": false,
                         "slug": "oreh",
                         "total": 1,
                         "value": "Орех"
+                    },
+                    {
+                        "id": 1437049067,
+                        "selected": false,
+                        "slug": "perec-sladkijj",
+                        "total": 1,
+                        "value": "Перец сладкий"
                     },
                     {
                         "id": 1366728370,
@@ -5524,7 +5594,7 @@
                     {
                         "id": 1353528185,
                         "selected": false,
-                        "slug": "",
+                        "slug": "solenaya-karamel",
                         "total": 1,
                         "value": "Соленая карамель"
                     },
@@ -5644,13 +5714,13 @@
                 "name": "Страна",
                 "position": 17,
                 "slug": "strana",
-                "total": 1054,
+                "total": 1070,
                 "values": [
                     {
                         "id": 10720646,
                         "selected": false,
                         "slug": "rossiya",
-                        "total": 802,
+                        "total": 812,
                         "value": "Россия"
                     },
                     {
@@ -5664,14 +5734,14 @@
                         "id": 10720676,
                         "selected": false,
                         "slug": "kitajj",
-                        "total": 44,
+                        "total": 47,
                         "value": "Китай"
                     },
                     {
                         "id": 10720730,
                         "selected": false,
                         "slug": "italiya",
-                        "total": 32,
+                        "total": 33,
                         "value": "Италия"
                     },
                     {
@@ -5682,6 +5752,13 @@
                         "value": "Испания"
                     },
                     {
+                        "id": 10734027,
+                        "selected": false,
+                        "slug": "serbiya",
+                        "total": 12,
+                        "value": "Сербия"
+                    },
+                    {
                         "id": 10720887,
                         "selected": false,
                         "slug": "germaniya",
@@ -5689,32 +5766,25 @@
                         "value": "Германия"
                     },
                     {
-                        "id": 10734027,
+                        "id": 10723628,
                         "selected": false,
-                        "slug": "serbiya",
-                        "total": 11,
-                        "value": "Сербия"
-                    },
-                    {
-                        "id": 10720950,
-                        "selected": false,
-                        "slug": "polsha",
+                        "slug": "koreya",
                         "total": 10,
-                        "value": "Польша"
+                        "value": "Корея"
                     },
                     {
                         "id": 10725218,
                         "selected": false,
                         "slug": "turciya",
-                        "total": 9,
+                        "total": 10,
                         "value": "Турция"
                     },
                     {
-                        "id": 10723628,
+                        "id": 10720950,
                         "selected": false,
-                        "slug": "koreya",
-                        "total": 8,
-                        "value": "Корея"
+                        "slug": "polsha",
+                        "total": 9,
+                        "value": "Польша"
                     },
                     {
                         "id": 10720640,
@@ -5729,6 +5799,13 @@
                         "slug": "finlyandiya",
                         "total": 4,
                         "value": "Финляндия"
+                    },
+                    {
+                        "id": 10723440,
+                        "selected": false,
+                        "slug": "greciya",
+                        "total": 3,
+                        "value": "Греция"
                     },
                     {
                         "id": 10721367,
@@ -5750,13 +5827,6 @@
                         "slug": "vengriya",
                         "total": 2,
                         "value": "Венгрия"
-                    },
-                    {
-                        "id": 10723440,
-                        "selected": false,
-                        "slug": "greciya",
-                        "total": 2,
-                        "value": "Греция"
                     },
                     {
                         "id": 10723337,
@@ -5848,7 +5918,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 53,
+            "count": 51,
             "dimensions": {
                 "height": 27,
                 "length": 100,
@@ -5910,11 +5980,11 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.6,
-                "votes": 59
+                "votes": 60
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 53,
+                "maxSaleQuantity": 51,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-iz-vologdy-tradicionnoe-825-bez-zmzh-rossiya-180g",
@@ -6199,8 +6269,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.8,
-                "votes": 52
+                "rate": 4.9,
+                "votes": 95
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -6229,7 +6299,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 60,
+            "count": 57,
             "dimensions": {
                 "height": 24,
                 "length": 110,
@@ -6295,7 +6365,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 60,
+                "maxSaleQuantity": 57,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-rogachev-tradicionnoe-825-bez-zmzh-belarus-180g",
@@ -6470,11 +6540,102 @@
         },
         {
             "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-31%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 69,
+            "dimensions": {
+                "height": 45,
+                "length": 80,
+                "width": 68
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": true,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 627380,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
+                    "id": 642304,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
+                    "id": 642303,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
+                    "id": 642305,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/627380/74585384-4356-4516-966e-47923bdf8502.png"
+                }
+            ],
+            "name": "Масло сливочное ВКУСНОТЕЕВО Крестьянское 72,5%, без змж, 180г",
+            "prices": {
+                "cost": 20990,
+                "costRegular": 30529,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 20990,
+                "priceRegular": 30529
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.6,
+                "votes": 50
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 69,
+                "minSaleQuantity": 1
+            },
+            "slug": "maslo-slivochnoe-vkusnoteevo-krestyanskoe-725-bez-zmzh-rossiya-180g",
+            "storeId": 124,
+            "weight": {
+                "gross": 200,
+                "net": 0,
+                "package": "180г"
+            }
+        },
+        {
+            "badges": {
                 "discount": [],
                 "image": []
             },
             "chipsPrices": [],
-            "count": 21,
+            "count": 19,
             "dimensions": {
                 "height": 30,
                 "length": 110,
@@ -6540,7 +6701,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 21,
+                "maxSaleQuantity": 19,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-domik-v-derevne-825-folga-bez-zmzh-rossiya-180g",
@@ -6565,7 +6726,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 193,
+            "count": 191,
             "dimensions": {
                 "height": 27,
                 "length": 100,
@@ -6631,7 +6792,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 193,
+                "maxSaleQuantity": 191,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-iz-vologdy-krestyanskoe-725-bez-zmzh-rossiya-180g",
@@ -6730,7 +6891,7 @@
                 "discount": [
                     {
                         "backgroundColor": "#ef4544",
-                        "title": "-31%",
+                        "title": "-26%",
                         "tooltip": {
                             "description": ""
                         }
@@ -6739,11 +6900,11 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 69,
+            "count": 232,
             "dimensions": {
-                "height": 45,
-                "length": 80,
-                "width": 68
+                "height": 27,
+                "length": 110,
+                "width": 66
             },
             "features": {
                 "isAdult": false,
@@ -6759,59 +6920,233 @@
                 "isTobacco": false,
                 "isWeight": false
             },
-            "id": 627380,
+            "id": 230405,
             "images": [
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
-                    "id": 642304,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
+                    "id": 877712,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
                     "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/627380/3645a2cf-85fa-4d89-b7ea-d3a5891316f3.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
-                    "id": 642303,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
+                    "id": 877711,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
                     "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/627380/fd35924a-f020-4c4d-9cc9-23574b216a06.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
-                    "id": 642305,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/627380/74585384-4356-4516-966e-47923bdf8502.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
+                    "id": 877713,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
                     "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/627380/74585384-4356-4516-966e-47923bdf8502.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png"
                 }
             ],
-            "name": "Масло сливочное ВКУСНОТЕЕВО Крестьянское 72,5%, без змж, 180г",
+            "name": "Масло сливочное ЭКОМИЛК 82,5% высший сорт, без змж, 180г",
             "prices": {
-                "cost": 20990,
-                "costRegular": 30529,
+                "cost": 25999,
+                "costRegular": 35263,
                 "isLoyaltyCardPrice": true,
                 "isPromoactionPrice": true,
-                "price": 20990,
-                "priceRegular": 30529
+                "price": 25999,
+                "priceRegular": 35263
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.6,
-                "votes": 50
+                "rate": 4.5,
+                "votes": 466
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 69,
+                "maxSaleQuantity": 232,
                 "minSaleQuantity": 1
             },
-            "slug": "maslo-slivochnoe-vkusnoteevo-krestyanskoe-725-bez-zmzh-rossiya-180g",
+            "slug": "maslo-slivochnoe-ekomilk-vs-825-folga-bez-zmzh-rossiya-180g",
             "storeId": 124,
             "weight": {
-                "gross": 200,
+                "gross": 185,
+                "net": 0,
+                "package": "180г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-30%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 12,
+            "dimensions": {
+                "height": 33,
+                "length": 100,
+                "width": 60
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": true,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 436077,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
+                    "id": 851970,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/436077/80e0deaaeeffff3e.png",
+                    "id": 85969,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/436077/80e0deaaeeffff3e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/436077/80e0deaaeeffff3e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/436077/80e0deaaeeffff3e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/436077/80e0deaaeeffff3e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/436077/6d6d61270d6b2f3b.png",
+                    "id": 85987,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/436077/6d6d61270d6b2f3b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/436077/6d6d61270d6b2f3b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/436077/6d6d61270d6b2f3b.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/436077/6d6d61270d6b2f3b.png"
+                }
+            ],
+            "name": "Масло сливочное РАДОСТЬ ВКУСА Традиционное 82,5%, без змж, 180г",
+            "prices": {
+                "cost": 21999,
+                "costRegular": 31579,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 21999,
+                "priceRegular": 31579
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 2.8,
+                "votes": 12
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 12,
+                "minSaleQuantity": 1
+            },
+            "slug": "maslo-radost-vkusa-slivochnoe-tradicionnoe-825-bez-zmzh-rossiya-180g",
+            "storeId": 124,
+            "weight": {
+                "gross": 185,
+                "net": 0,
+                "package": "180г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 83,
+            "dimensions": {
+                "height": 100,
+                "length": 61,
+                "width": 35
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": true,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 723323,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
+                    "id": 835770,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
+                    "id": 835769,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
+                    "id": 835771,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png"
+                }
+            ],
+            "name": "Масло сливочное РУСЬ БЕЛОКАМЕННА Традиционное 82,5%, без змж, 180г",
+            "prices": {
+                "cost": 34499,
+                "costRegular": 36315,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 34499,
+                "priceRegular": 36315
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 29
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 83,
+                "minSaleQuantity": 1
+            },
+            "slug": "maslo-slivochnoe-rus-belokamenna-tradicionnoe-825-bez-zmzh-rossiya-180g",
+            "storeId": 124,
+            "weight": {
+                "gross": 192,
                 "net": 0,
                 "package": "180г"
             }
@@ -6913,7 +7248,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 59,
+            "count": 56,
             "dimensions": {
                 "height": 30,
                 "length": 97,
@@ -6988,278 +7323,13 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 59,
+                "maxSaleQuantity": 56,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-prostokvashino-vs-82-folga-bez-zmzh-rossiya-180g",
             "storeId": 124,
             "weight": {
                 "gross": 183,
-                "net": 0,
-                "package": "180г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-26%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 241,
-            "dimensions": {
-                "height": 27,
-                "length": 110,
-                "width": 66
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": true,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 230405,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
-                    "id": 877712,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/230405/13266009-aff7-42c1-962c-cd6a14b3d9d6.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
-                    "id": 877711,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/230405/f2c839a0-e49a-4148-89a5-f5d5a80e3d1d.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
-                    "id": 877713,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/230405/086a499d-3180-4d81-abeb-bd11f77d2b01.png"
-                }
-            ],
-            "name": "Масло сливочное ЭКОМИЛК 82,5% высший сорт, без змж, 180г",
-            "prices": {
-                "cost": 25999,
-                "costRegular": 35263,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 25999,
-                "priceRegular": 35263
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.5,
-                "votes": 466
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 241,
-                "minSaleQuantity": 1
-            },
-            "slug": "maslo-slivochnoe-ekomilk-vs-825-folga-bez-zmzh-rossiya-180g",
-            "storeId": 124,
-            "weight": {
-                "gross": 185,
-                "net": 0,
-                "package": "180г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-30%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 12,
-            "dimensions": {
-                "height": 33,
-                "length": 100,
-                "width": 60
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": true,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 436077,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
-                    "id": 851970,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/436077/d5b8f1f1-d7b7-4240-b820-0151779fc16f.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/436077/80e0deaaeeffff3e.png",
-                    "id": 85969,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/436077/80e0deaaeeffff3e.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/436077/80e0deaaeeffff3e.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/436077/80e0deaaeeffff3e.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/436077/80e0deaaeeffff3e.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/436077/6d6d61270d6b2f3b.png",
-                    "id": 85987,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/436077/6d6d61270d6b2f3b.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/436077/6d6d61270d6b2f3b.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/436077/6d6d61270d6b2f3b.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/436077/6d6d61270d6b2f3b.png"
-                }
-            ],
-            "name": "Масло сливочное РАДОСТЬ ВКУСА Традиционное 82,5%, без змж, 180г",
-            "prices": {
-                "cost": 21999,
-                "costRegular": 31579,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 21999,
-                "priceRegular": 31579
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 2.6,
-                "votes": 11
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 12,
-                "minSaleQuantity": 1
-            },
-            "slug": "maslo-radost-vkusa-slivochnoe-tradicionnoe-825-bez-zmzh-rossiya-180g",
-            "storeId": 124,
-            "weight": {
-                "gross": 185,
-                "net": 0,
-                "package": "180г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 84,
-            "dimensions": {
-                "height": 100,
-                "length": 61,
-                "width": 35
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": true,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 723323,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
-                    "id": 835770,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/723323/1d0bff25-2e36-498f-9279-9eff9a073ee1.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
-                    "id": 835769,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/723323/955bc99c-7e1c-4354-b4dd-488ba6f57517.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
-                    "id": 835771,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/723323/4a196057-6e23-44da-808f-98e06fb22696.png"
-                }
-            ],
-            "name": "Масло сливочное РУСЬ БЕЛОКАМЕННА Традиционное 82,5%, без змж, 180г",
-            "prices": {
-                "cost": 34499,
-                "costRegular": 36315,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 34499,
-                "priceRegular": 36315
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.8,
-                "votes": 29
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 84,
-                "minSaleQuantity": 1
-            },
-            "slug": "maslo-slivochnoe-rus-belokamenna-tradicionnoe-825-bez-zmzh-rossiya-180g",
-            "storeId": 124,
-            "weight": {
-                "gross": 192,
                 "net": 0,
                 "package": "180г"
             }
@@ -7278,7 +7348,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 62,
+            "count": 60,
             "dimensions": {
                 "height": 2,
                 "length": 10,
@@ -7344,13 +7414,104 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 62,
+                "maxSaleQuantity": 60,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-lebedyanmoloko-vs-725-folga-bez-zmzh-rossiya-180g",
             "storeId": 124,
             "weight": {
                 "gross": 185,
+                "net": 0,
+                "package": "180г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-31%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 256,
+            "dimensions": {
+                "height": 33,
+                "length": 100,
+                "width": 60
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": true,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 443280,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
+                    "id": 648564,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
+                    "id": 648563,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
+                    "id": 648565,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png"
+                }
+            ],
+            "name": "Масло сливочное СЕВЕРНОЕ МОЛОКО Из Вологды Традиционное 82,5%, без змж, 180г",
+            "prices": {
+                "cost": 23999,
+                "costRegular": 34736,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 23999,
+                "priceRegular": 34736
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 334
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 256,
+                "minSaleQuantity": 1
+            },
+            "slug": "maslo-slivochnoe-severnoe-moloko-tradicionnoe-iz-vologdy-825-bez-zmzh-rossiya-180g",
+            "storeId": 124,
+            "weight": {
+                "gross": 183,
                 "net": 0,
                 "package": "180г"
             }
@@ -7377,7 +7538,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 93,
+            "count": 86,
             "dimensions": {
                 "height": 25,
                 "length": 75,
@@ -7443,104 +7604,13 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 93,
+                "maxSaleQuantity": 86,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-severnaya-dolina-krestyanskoe-gost-725-bez-zmzh-rossiya-180g",
             "storeId": 124,
             "weight": {
                 "gross": 200,
-                "net": 0,
-                "package": "180г"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-31%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 262,
-            "dimensions": {
-                "height": 33,
-                "length": 100,
-                "width": 60
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": true,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 443280,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
-                    "id": 648564,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/443280/ede5d3da-32b5-45ff-8946-2ad85d92c072.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
-                    "id": 648563,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/443280/d0d4ec2d-1bda-4330-82e4-f0593f230ff5.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
-                    "id": 648565,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/443280/7a099690-cf4a-41d0-90bf-e50f6f66906a.png"
-                }
-            ],
-            "name": "Масло сливочное СЕВЕРНОЕ МОЛОКО Из Вологды Традиционное 82,5%, без змж, 180г",
-            "prices": {
-                "cost": 23999,
-                "costRegular": 34736,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 23999,
-                "priceRegular": 34736
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.8,
-                "votes": 333
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 262,
-                "minSaleQuantity": 1
-            },
-            "slug": "maslo-slivochnoe-severnoe-moloko-tradicionnoe-iz-vologdy-825-bez-zmzh-rossiya-180g",
-            "storeId": 124,
-            "weight": {
-                "gross": 183,
                 "net": 0,
                 "package": "180г"
             }
@@ -7658,7 +7728,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 43,
+            "count": 40,
             "dimensions": {
                 "height": 23,
                 "length": 110,
@@ -7724,7 +7794,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 43,
+                "maxSaleQuantity": 40,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-viola-825-bez-zmzh-rossiya-150g",
@@ -7832,7 +7902,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 30,
+            "count": 29,
             "dimensions": {
                 "height": 100,
                 "length": 30,
@@ -7880,7 +7950,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 30,
+                "maxSaleQuantity": 29,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-alantal-725-bez-zmzh-rossiya-150g",
@@ -7897,7 +7967,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 25,
+            "count": 24,
             "dimensions": {
                 "height": 195,
                 "length": 66,
@@ -7954,7 +8024,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 25,
+                "maxSaleQuantity": 24,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-alantal-tradicionnoe-825-bez-zmzh-rossiya-380g",
@@ -7979,7 +8049,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 36,
+            "count": 35,
             "dimensions": {
                 "height": 29,
                 "length": 75,
@@ -8045,7 +8115,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 36,
+                "maxSaleQuantity": 35,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-ekomilk-nesolenoe-825-bez-zmzh-rossiya-100g",
@@ -8178,7 +8248,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 69,
+            "count": 65,
             "dimensions": {
                 "height": 75,
                 "length": 40,
@@ -8307,7 +8377,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 69,
+                "maxSaleQuantity": 65,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-ekoniva-tradicionnoe-825-bez-zmzh-rossiya-350g",
@@ -8324,7 +8394,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 8,
+            "count": 6,
             "dimensions": {
                 "height": 65,
                 "length": 195,
@@ -8390,7 +8460,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 8,
+                "maxSaleQuantity": 6,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-molsbyt-tradicionnoe-825-bez-zmzh-rossiya-500g",
@@ -8407,7 +8477,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 77,
+            "count": 76,
             "dimensions": {
                 "height": 30,
                 "length": 110,
@@ -8464,7 +8534,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 77,
+                "maxSaleQuantity": 76,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-selo-zelenoe-825-folga-bez-zmzh-rossiya-175g",
@@ -8625,7 +8695,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.9,
-                "votes": 401
+                "votes": 402
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8654,7 +8724,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 139,
+            "count": 138,
             "dimensions": {
                 "height": 40,
                 "length": 155,
@@ -8720,7 +8790,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 139,
+                "maxSaleQuantity": 138,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-vkusnoteevo-tradicionnoe-825-pljnka-bez-zmzh-rossiya-340g",
@@ -9019,7 +9089,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 40,
+            "count": 38,
             "dimensions": {
                 "height": 30,
                 "length": 61,
@@ -9085,7 +9155,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 40,
+                "maxSaleQuantity": 38,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-zabotlivaya-hozyajjka-tradicionnoe-825-bez-zmzh-rossiya-150g",
@@ -9118,7 +9188,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 56,
+            "count": 54,
             "dimensions": {
                 "height": 20,
                 "length": 100,
@@ -9184,7 +9254,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 56,
+                "maxSaleQuantity": 54,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-lenta-fresh-nesolenoe-825-bez-zmzh-rossiya-100g",
@@ -9391,7 +9461,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 150,
+            "count": 139,
             "dimensions": {
                 "height": 47,
                 "length": 80,
@@ -9466,7 +9536,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 150,
+                "maxSaleQuantity": 139,
                 "minSaleQuantity": 1
             },
             "slug": "maslo-slivochnoe-vkusnoteevo-tradicionnoe-vs-825-bez-zmzh-rossiya-200g",
@@ -9479,19 +9549,11 @@
         },
         {
             "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-15%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
+                "discount": [],
                 "image": [
                     {
-                        "backgroundColor": "#1660f3",
-                        "title": "Наша марка",
+                        "backgroundColor": "#6abe00",
+                        "title": "Местный продукт",
                         "tooltip": {
                             "description": ""
                         }
@@ -9499,11 +9561,11 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 3,
+            "count": 14,
             "dimensions": {
-                "height": 40,
-                "length": 138,
-                "width": 83
+                "height": 50,
+                "length": 130,
+                "width": 50
             },
             "features": {
                 "isAdult": false,
@@ -9519,54 +9581,63 @@
                 "isTobacco": false,
                 "isWeight": false
             },
-            "id": 702459,
+            "id": 562353,
             "images": [
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/702459/9b4484d2-ca17-4b06-b659-5c69d6608ac7.png",
-                    "id": 693083,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/702459/9b4484d2-ca17-4b06-b659-5c69d6608ac7.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/702459/9b4484d2-ca17-4b06-b659-5c69d6608ac7.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/702459/9b4484d2-ca17-4b06-b659-5c69d6608ac7.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/562353/919e050c-b164-4833-80fd-6a660082fe56.png",
+                    "id": 788203,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/562353/919e050c-b164-4833-80fd-6a660082fe56.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/562353/919e050c-b164-4833-80fd-6a660082fe56.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/562353/919e050c-b164-4833-80fd-6a660082fe56.png",
                     "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/702459/9b4484d2-ca17-4b06-b659-5c69d6608ac7.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/562353/919e050c-b164-4833-80fd-6a660082fe56.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/702459/94f971c3-1ba3-40f2-8aee-9f66a2e5d26e.png",
-                    "id": 693082,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/702459/94f971c3-1ba3-40f2-8aee-9f66a2e5d26e.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/702459/94f971c3-1ba3-40f2-8aee-9f66a2e5d26e.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/702459/94f971c3-1ba3-40f2-8aee-9f66a2e5d26e.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/562353/da8ce21b-f774-4489-b526-29b9d96520cd.png",
+                    "id": 788202,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/562353/da8ce21b-f774-4489-b526-29b9d96520cd.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/562353/da8ce21b-f774-4489-b526-29b9d96520cd.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/562353/da8ce21b-f774-4489-b526-29b9d96520cd.png",
                     "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/702459/94f971c3-1ba3-40f2-8aee-9f66a2e5d26e.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/562353/da8ce21b-f774-4489-b526-29b9d96520cd.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/562353/4b5ef775-bd71-4b6a-a39d-a919e9f5638f.png",
+                    "id": 788204,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/562353/4b5ef775-bd71-4b6a-a39d-a919e9f5638f.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/562353/4b5ef775-bd71-4b6a-a39d-a919e9f5638f.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/562353/4b5ef775-bd71-4b6a-a39d-a919e9f5638f.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/562353/4b5ef775-bd71-4b6a-a39d-a919e9f5638f.png"
                 }
             ],
-            "name": "Масло сливочное ЛЕНТА высший сорт 82,5% ГОСТ, без змж, 380г",
+            "name": "Масло сливочное МК ТУЛЬСКИЙ Тульское 72,5% высший сорт, без змж, 350г",
             "prices": {
-                "cost": 44900,
-                "costRegular": 52631,
+                "cost": 45999,
+                "costRegular": 48429,
                 "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 44900,
-                "priceRegular": 52631
+                "isPromoactionPrice": false,
+                "price": 45999,
+                "priceRegular": 48429
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.8,
-                "votes": 244
+                "rate": 4.9,
+                "votes": 35
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 3,
+                "maxSaleQuantity": 14,
                 "minSaleQuantity": 1
             },
-            "slug": "maslo-slivochnoe-lenta-gost-vs-825-bez-zmzh-rossiya-380g",
+            "slug": "maslo-slivochnoe-mk-tulskijj-tulskoe-vs-725-bez-zmzh-rossiya-350g",
             "storeId": 124,
             "weight": {
-                "gross": 382,
+                "gross": 360,
                 "net": 0,
-                "package": "380г"
+                "package": "350г"
             }
         }
     ],
-    "total": 978
+    "total": 999
 }

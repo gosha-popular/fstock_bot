@@ -16,24 +16,18 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 9121
+                "rates_count": 9483
             },
             "promo": null,
             "prices": {
-                "regular": "302.39",
-                "discount": "269.99",
+                "regular": "299.99",
+                "discount": null,
                 "cpd_promo_price": null
             },
-            "labels": [
-                {
-                    "label": "-10%",
-                    "bg_color": "#FBAC29",
-                    "text_color": "#130000"
-                }
-            ],
+            "labels": null,
             "property_clarification": "200 г",
             "has_age_restriction": false,
-            "stock_limit": "30.00"
+            "stock_limit": "29.00"
         },
         {
             "plu": 3948153,
@@ -50,7 +44,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 10499
+                "rates_count": 10386
             },
             "promo": null,
             "prices": {
@@ -77,8 +71,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.9,
-                "rates_count": 5489
+                "rating_average": 4.91,
+                "rates_count": 5334
             },
             "promo": null,
             "prices": {
@@ -106,7 +100,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.86,
-                "rates_count": 4231
+                "rates_count": 4346
             },
             "promo": null,
             "prices": {
@@ -117,7 +111,7 @@
             "labels": null,
             "property_clarification": "100 г",
             "has_age_restriction": false,
-            "stock_limit": "22.00"
+            "stock_limit": "21.00"
         },
         {
             "plu": 4214829,
@@ -133,22 +127,16 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.81,
-                "rates_count": 2671
+                "rating_average": 4.82,
+                "rates_count": 3030
             },
             "promo": null,
             "prices": {
                 "regular": "189.99",
-                "discount": "169.99",
+                "discount": null,
                 "cpd_promo_price": null
             },
-            "labels": [
-                {
-                    "label": "-10%",
-                    "bg_color": "#FBAC29",
-                    "text_color": "#130000"
-                }
-            ],
+            "labels": null,
             "property_clarification": "180 г",
             "has_age_restriction": false,
             "stock_limit": "4.00"
@@ -177,7 +165,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.9,
-                "rates_count": 1486
+                "rates_count": 1514
             },
             "promo": null,
             "prices": {
@@ -211,7 +199,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 1613
+                "rates_count": 1507
             },
             "promo": null,
             "prices": {
@@ -228,7 +216,7 @@
             ],
             "property_clarification": "160 г",
             "has_age_restriction": false,
-            "stock_limit": "18.00"
+            "stock_limit": "17.00"
         },
         {
             "plu": 4331188,
@@ -244,8 +232,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.87,
-                "rates_count": 582
+                "rating_average": 4.86,
+                "rates_count": 584
             },
             "promo": null,
             "prices": {
@@ -256,7 +244,7 @@
             "labels": null,
             "property_clarification": "160 г",
             "has_age_restriction": false,
-            "stock_limit": "13.00"
+            "stock_limit": "12.00"
         },
         {
             "plu": 3629937,
@@ -273,7 +261,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.89,
-                "rates_count": 429
+                "rates_count": 405
             },
             "promo": null,
             "prices": {
@@ -301,7 +289,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.9,
-                "rates_count": 39429
+                "rates_count": 38750
             },
             "promo": null,
             "prices": {
@@ -312,7 +300,7 @@
             "labels": null,
             "property_clarification": "180 г",
             "has_age_restriction": false,
-            "stock_limit": "21.00"
+            "stock_limit": "19.00"
         },
         {
             "plu": 4113532,
@@ -329,7 +317,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 16736
+                "rates_count": 16613
             },
             "promo": null,
             "prices": {
@@ -346,7 +334,7 @@
             ],
             "property_clarification": "180 г",
             "has_age_restriction": false,
-            "stock_limit": "96.00"
+            "stock_limit": "90.00"
         },
         {
             "plu": 3696828,
@@ -362,8 +350,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.88,
-                "rates_count": 19884
+                "rating_average": 4.89,
+                "rates_count": 19220
             },
             "promo": null,
             "prices": {
@@ -374,7 +362,7 @@
             "labels": null,
             "property_clarification": "180 г",
             "has_age_restriction": false,
-            "stock_limit": "69.00"
+            "stock_limit": "68.00"
         }
     ],
     "categories": [

@@ -1028,17 +1028,17 @@
             ],
             "name": "Филе куриное 365 ДНЕЙ, весовое",
             "prices": {
-                "cost": 44999,
-                "costRegular": 47368,
+                "cost": 45999,
+                "costRegular": 48420,
                 "isLoyaltyCardPrice": true,
                 "isPromoactionPrice": false,
-                "price": 44999,
-                "priceRegular": 47368
+                "price": 45999,
+                "priceRegular": 48420
             },
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 2915
+                "votes": 2917
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -1227,8 +1227,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.7,
-                "votes": 43
+                "rate": 4.8,
+                "votes": 44
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -1545,7 +1545,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 105
+                "votes": 106
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -1589,7 +1589,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 20,
+            "count": 19,
             "dimensions": {
                 "height": 0,
                 "length": 0,
@@ -1664,7 +1664,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 20,
+                "maxSaleQuantity": 19,
                 "minSaleQuantity": 1
             },
             "slug": "grudka-lenta-fresh-kurinaya-kopcheno-varenaya-rossiya",
@@ -1689,7 +1689,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 12,
+            "count": 9,
             "dimensions": {
                 "height": 25,
                 "length": 150,
@@ -1755,7 +1755,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 12,
+                "maxSaleQuantity": 9,
                 "minSaleQuantity": 1
             },
             "slug": "sosiski-cherkizovo-premium-filejjnye-s-kurinojj-grudkojj-rossiya-270g",
@@ -1768,93 +1768,11 @@
         },
         {
             "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-37%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 54,
-            "dimensions": {
-                "height": 193,
-                "length": 8,
-                "width": 127
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": false,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 353199,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
-                    "id": 650958,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
-                    "id": 650957,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png"
-                }
-            ],
-            "name": "Приправа MAGGI На второе для куриной грудки по-итальянски, смесь на бумаге, 30,6г",
-            "prices": {
-                "cost": 5999,
-                "costRegular": 9479,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 5999,
-                "priceRegular": 9479
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.8,
-                "votes": 78
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 54,
-                "minSaleQuantity": 1
-            },
-            "slug": "smes-na-bumage-maggi-dkurinojj-grudki-po-italyanski-rossiya-306g",
-            "storeId": 124,
-            "weight": {
-                "gross": 34,
-                "net": 0,
-                "package": "30,6г"
-            }
-        },
-        {
-            "badges": {
                 "discount": [],
                 "image": []
             },
             "chipsPrices": [],
-            "count": 5,
+            "count": 4,
             "dimensions": {
                 "height": 36,
                 "length": 187,
@@ -1947,7 +1865,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 5,
+                "maxSaleQuantity": 4,
                 "minSaleQuantity": 1
             },
             "slug": "grudka-kurinaya-naturbufet-v-slivochno-morkovnom-souse-s-kus-kusom-rossiya-250g",
@@ -1956,6 +1874,88 @@
                 "gross": 260,
                 "net": 0,
                 "package": "250г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-37%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 51,
+            "dimensions": {
+                "height": 193,
+                "length": 8,
+                "width": 127
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 353199,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "id": 650958,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353199/ba2cab7d-94c8-476e-af86-e9736a2e463b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "id": 650957,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/353199/2455b60a-e4bd-4119-a067-de79d9a3fdb4.png"
+                }
+            ],
+            "name": "Приправа MAGGI На второе для куриной грудки по-итальянски, смесь на бумаге, 30,6г",
+            "prices": {
+                "cost": 5999,
+                "costRegular": 9479,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 5999,
+                "priceRegular": 9479
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 78
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 51,
+                "minSaleQuantity": 1
+            },
+            "slug": "smes-na-bumage-maggi-dkurinojj-grudki-po-italyanski-rossiya-306g",
+            "storeId": 124,
+            "weight": {
+                "gross": 34,
+                "net": 0,
+                "package": "30,6г"
             }
         },
         {
@@ -2234,7 +2234,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 19,
+            "count": 20,
             "dimensions": {
                 "height": 0,
                 "length": 0,
@@ -2309,7 +2309,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 19,
+                "maxSaleQuantity": 20,
                 "minSaleQuantity": 1
             },
             "slug": "file-lenta-fresh-kurinoe-kopcheno-varenoe-rossiya",
@@ -2417,7 +2417,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 11,
+            "count": 10,
             "dimensions": {
                 "height": 45,
                 "length": 125,
@@ -2483,7 +2483,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 11,
+                "maxSaleQuantity": 10,
                 "minSaleQuantity": 1
             },
             "slug": "naggetsy-morozko-kurinye-s-file-indejjki-rossiya-300g",
@@ -2515,7 +2515,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 19,
+            "count": 20,
             "dimensions": {
                 "height": 0,
                 "length": 0,
@@ -2581,7 +2581,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 19,
+                "maxSaleQuantity": 20,
                 "minSaleQuantity": 1
             },
             "slug": "kurinoe-file-v-kislo-sladkom-souse-s-ovoshchami-ves-lenta-fresh-sp-rossiya",

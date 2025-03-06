@@ -19,7 +19,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000269325/",
                 "ratio": 1,
                 "src": "/upload/iblock/460/sry2ylulc8wvj23qr500die66qlzr0ey.webp",
-                "amount": 30,
+                "amount": 26,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -48,7 +48,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "212330 1 30 шт 0",
+                "bskFields": "212330 1 26 шт 0",
                 "status": "in-time",
                 "oldPrice": "121.<span>90</span><span class='rub'>руб.</span>",
                 "price": "114.<span>90</span><span class='rub'>руб.</span>",
@@ -107,9 +107,9 @@
                 },
                 "canBuy": true,
                 "bskFields": "209701 1 3 шт 0",
-                "price": "70.<span>99</span><span class='rub'>руб.</span>",
+                "price": "72.<span>99</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
-                "priceSimple": "70.99",
+                "priceSimple": "72.99",
                 "oldPriceSimple": "0.00",
                 "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
@@ -123,7 +123,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/yaytso/%D0%A6%D0%A20034516/",
                 "ratio": 1,
                 "src": "/upload/iblock/20d/u7e1fbk1fcapzuwygt9hpqwejktrx9r0.webp",
-                "amount": 9,
+                "amount": 6,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -160,7 +160,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "223678 1 9 шт 0",
+                "bskFields": "223678 1 6 шт 0",
                 "price": "138.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "138.90",
@@ -177,7 +177,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000269323/",
                 "ratio": 1,
                 "src": "/upload/iblock/14e/0oxbo5n1b67qasnl1vzta4ihme5e020m.webp",
-                "amount": 15,
+                "amount": 12,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -211,7 +211,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "212417 1 15 шт 0",
+                "bskFields": "212417 1 12 шт 0",
                 "status": "in-time",
                 "oldPrice": "112.<span>90</span><span class='rub'>руб.</span>",
                 "price": "99.<span>99</span><span class='rub'>руб.</span>",
@@ -286,7 +286,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000326489/",
                 "ratio": 1,
                 "src": "/upload/iblock/6c3/q334wn15or207czxcj55dolnwxzntn12.webp",
-                "amount": 19,
+                "amount": 18,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -315,7 +315,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "215340 1 19 шт 0",
+                "bskFields": "215340 1 18 шт 0",
                 "price": "138.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "138.90",
@@ -332,7 +332,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/yaytso/%D0%A6%D0%A20034515/",
                 "ratio": 1,
                 "src": "/upload/iblock/226/b7tmnc74aizu6wx2ksuvq8yeagw4ned9.webp",
-                "amount": 51,
+                "amount": 42,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -361,7 +361,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "223985 1 51 шт 0",
+                "bskFields": "223985 1 42 шт 0",
                 "price": "119.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "119.90",
@@ -417,14 +417,14 @@
                 "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
             },
             {
-                "id": "218765",
-                "xml_id": "2000541153",
-                "title": "Яйца куриные Окское Столовое высшая категория 10шт",
-                "weight": "950 гр",
-                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000541153/",
+                "id": "226044",
+                "xml_id": "2000596671",
+                "title": "Яйцо куриное Волжанин С1 белое 10шт",
+                "weight": "600 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000596671/",
                 "ratio": 1,
-                "src": "/upload/iblock/e58/i0mizs0qw8cabj94x7njt69l7si3a41x.webp",
-                "amount": 17,
+                "src": "/upload/iblock/cab/q71yxes19vcck89s4v2k7mkxsfiz46gb.webp",
+                "amount": 23,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -441,6 +441,72 @@
                 "section": "Яйцо",
                 "parent_section": "Молочные продукты, яйцо",
                 "index": 9,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/cab/q71yxes19vcck89s4v2k7mkxsfiz46gb.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/89f/wbg8l1vc7ug33bggfqzkbhynultpinmq.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/08d/49b611vnssa7oenh6pg544rg0ak3oy94.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "226044 1 23 шт 0",
+                "status": "in-time",
+                "oldPrice": "118.<span>90</span><span class='rub'>руб.</span>",
+                "price": "109.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-7%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 18.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "109.90",
+                "oldPriceSimple": "118.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "218765",
+                "xml_id": "2000541153",
+                "title": "Яйца куриные Окское Столовое высшая категория 10шт",
+                "weight": "950 гр",
+                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000541153/",
+                "ratio": 1,
+                "src": "/upload/iblock/e58/i0mizs0qw8cabj94x7njt69l7si3a41x.webp",
+                "amount": 16,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Яйцо",
+                "parent_section": "Молочные продукты, яйцо",
+                "index": 10,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -467,7 +533,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "218765 1 17 шт 0",
+                "bskFields": "218765 1 16 шт 0",
                 "price": "159.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "159.90",
@@ -475,72 +541,6 @@
                 "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
                 "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
-            },
-            {
-                "id": "226044",
-                "xml_id": "2000596671",
-                "title": "Яйцо куриное Волжанин С1 белое 10шт",
-                "weight": "600 гр",
-                "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000596671/",
-                "ratio": 1,
-                "src": "/upload/iblock/cab/q71yxes19vcck89s4v2k7mkxsfiz46gb.webp",
-                "amount": 25,
-                "symbol": "шт",
-                "quantity": 0,
-                "bskState": [
-                    "not"
-                ],
-                "hideAlko": false,
-                "canBeFavoriteListing": false,
-                "canBeFavorite": false,
-                "bs-not": true,
-                "bs-in": false,
-                "bs-del": false,
-                "bs-limit": false,
-                "tpl_path": "/local/templates/dixy_ru",
-                "section": "Яйцо",
-                "parent_section": "Молочные продукты, яйцо",
-                "index": 10,
-                "variant": "штучный",
-                "store": {
-                    "storeAddress": null
-                },
-                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
-                "previews": [
-                    {
-                        "src": "/upload/iblock/cab/q71yxes19vcck89s4v2k7mkxsfiz46gb.webp"
-                    },
-                    {
-                        "src": "/upload/iblock/89f/wbg8l1vc7ug33bggfqzkbhynultpinmq.webp"
-                    },
-                    {
-                        "src": "/upload/iblock/08d/49b611vnssa7oenh6pg544rg0ak3oy94.webp"
-                    }
-                ],
-                "details": {
-                    "src": "/local/templates/dixy_ru/images/img-product.webp"
-                },
-                "canBuy": true,
-                "bskFields": "226044 1 25 шт 0",
-                "status": "in-time",
-                "oldPrice": "118.<span>90</span><span class='rub'>руб.</span>",
-                "price": "109.<span>90</span><span class='rub'>руб.</span>",
-                "badges": [
-                    {
-                        "class": "yellow",
-                        "num": "-7%",
-                        "title": "по акции"
-                    },
-                    {
-                        "class": "grey",
-                        "title": "до 18.03.2025"
-                    }
-                ],
-                "crossPrice": true,
-                "priceSimple": "109.90",
-                "oldPriceSimple": "118.90",
-                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
             },
             {
                 "id": "212000",
@@ -667,7 +667,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000284425/",
                 "ratio": 1,
                 "src": "/upload/iblock/1c2/ptwpc92zsq764aa2my4i7rc0f3izlz3w.webp",
-                "amount": 17,
+                "amount": 16,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -707,7 +707,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "212872 1 17 шт 0",
+                "bskFields": "212872 1 16 шт 0",
                 "price": "128.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "128.90",
@@ -781,7 +781,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/yaytso/2000212529/",
                 "ratio": 1,
                 "src": "/upload/iblock/795/d7aw5lvn2jjsvx0mge7vtvfzp2o5obsv.webp",
-                "amount": 44,
+                "amount": 42,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -815,7 +815,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "211389 1 44 шт 0",
+                "bskFields": "211389 1 42 шт 0",
                 "status": "in-time",
                 "oldPrice": "147.<span>90</span><span class='rub'>руб.</span>",
                 "price": "129.<span>90</span><span class='rub'>руб.</span>",
@@ -856,7 +856,7 @@
                 "id": "price",
                 "identifier": "price",
                 "type": "digit",
-                "min": "70.99",
+                "min": "72.99",
                 "max": "159.9"
             },
             {

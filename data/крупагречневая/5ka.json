@@ -17,7 +17,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 6775
+                "rates_count": 6241
             },
             "promo": null,
             "prices": {
@@ -44,8 +44,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.86,
-                "rates_count": 637
+                "rating_average": 4.85,
+                "rates_count": 641
             },
             "promo": null,
             "prices": {
@@ -73,8 +73,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.94,
-                "rates_count": 82
+                "rating_average": 4.91,
+                "rates_count": 185
             },
             "promo": null,
             "prices": {
@@ -102,8 +102,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.91,
-                "rates_count": 66
+                "rating_average": 4.89,
+                "rates_count": 131
             },
             "promo": null,
             "prices": {
@@ -131,24 +131,24 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 17057
+                "rates_count": 16851
             },
             "promo": null,
             "prices": {
                 "regular": "94.99",
-                "discount": "79.99",
+                "discount": "84.99",
                 "cpd_promo_price": null
             },
             "labels": [
                 {
-                    "label": "-15%",
+                    "label": "-10%",
                     "bg_color": "#FBAC29",
                     "text_color": "#130000"
                 }
             ],
             "property_clarification": "900 г",
             "has_age_restriction": false,
-            "stock_limit": "54.00"
+            "stock_limit": "53.00"
         },
         {
             "plu": 3231481,
@@ -165,7 +165,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 37660
+                "rates_count": 37348
             },
             "promo": null,
             "prices": {
@@ -176,7 +176,7 @@
             "labels": null,
             "property_clarification": "900 г",
             "has_age_restriction": false,
-            "stock_limit": "97.00"
+            "stock_limit": "96.00"
         },
         {
             "plu": 3934932,
@@ -193,7 +193,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 14894
+                "rates_count": 14716
             },
             "promo": null,
             "prices": {
@@ -227,7 +227,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 5001
+                "rates_count": 4880
             },
             "promo": null,
             "prices": {
@@ -246,6 +246,34 @@
             "property_clarification": "400 г",
             "has_age_restriction": false,
             "stock_limit": "16.00"
+        },
+        {
+            "plu": 3601120,
+            "name": "Крупа пшеничная 800г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1177601-main/320x320.jpeg?updated_at=2025-01-31T14:12:27.404Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1177601-main/800x800.jpeg?updated_at=2025-01-31T14:12:27.404Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 9673
+            },
+            "promo": null,
+            "prices": {
+                "regular": "27.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "800 г",
+            "has_age_restriction": false,
+            "stock_limit": "7.00"
         },
         {
             "plu": 3198640,
@@ -270,7 +298,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 4988
+                "rates_count": 5066
             },
             "promo": null,
             "prices": {
@@ -290,34 +318,6 @@
             "stock_limit": "26.00"
         },
         {
-            "plu": 3601120,
-            "name": "Крупа пшеничная 800г",
-            "image_links": {
-                "small": [
-                    "https://photos.okolo.app/product/1177601-main/320x320.jpeg?updated_at=2025-01-31T14:12:27.404Z"
-                ],
-                "normal": [
-                    "https://photos.okolo.app/product/1177601-main/800x800.jpeg?updated_at=2025-01-31T14:12:27.404Z"
-                ]
-            },
-            "uom": "шт",
-            "step": "1.0",
-            "rating": {
-                "rating_average": 4.92,
-                "rates_count": 9822
-            },
-            "promo": null,
-            "prices": {
-                "regular": "27.99",
-                "discount": null,
-                "cpd_promo_price": null
-            },
-            "labels": null,
-            "property_clarification": "800 г",
-            "has_age_restriction": false,
-            "stock_limit": "12.00"
-        },
-        {
             "plu": 3601122,
             "name": "Крупа ячменная ячневая №2 800г",
             "image_links": {
@@ -333,7 +333,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 9887
+                "rates_count": 9771
             },
             "promo": null,
             "prices": {
@@ -360,8 +360,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.94,
-                "rates_count": 5607
+                "rating_average": 4.93,
+                "rates_count": 5605
             },
             "promo": null,
             "prices": {

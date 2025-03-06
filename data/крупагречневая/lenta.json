@@ -183,7 +183,7 @@
                     {
                         "id": 10721105,
                         "selected": false,
-                        "slug": "",
+                        "slug": "lenta",
                         "total": 4,
                         "value": "ЛЕНТА"
                     },
@@ -211,7 +211,7 @@
                     {
                         "id": 10734322,
                         "selected": false,
-                        "slug": "",
+                        "slug": "frutonyanya",
                         "total": 3,
                         "value": "ФРУТОНЯНЯ"
                     },
@@ -246,7 +246,7 @@
                     {
                         "id": 10893404,
                         "selected": false,
-                        "slug": "",
+                        "slug": "lenta-life",
                         "total": 2,
                         "value": "ЛЕНТА LIFE"
                     },
@@ -706,7 +706,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 266,
+            "count": 260,
             "dimensions": {
                 "height": 180,
                 "length": 70,
@@ -759,11 +759,11 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 875
+                "votes": 876
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 266,
+                "maxSaleQuantity": 260,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-lenta-rossiya-1000g",
@@ -788,7 +788,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 510,
+            "count": 506,
             "dimensions": {
                 "height": 160,
                 "length": 60,
@@ -854,7 +854,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 510,
+                "maxSaleQuantity": 506,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-mistral-yadrica-vs-rossiya-900g",
@@ -1031,7 +1031,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.9,
-                "votes": 148
+                "votes": 149
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -1052,7 +1052,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 59,
+            "count": 58,
             "dimensions": {
                 "height": 200,
                 "length": 47,
@@ -1118,7 +1118,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 59,
+                "maxSaleQuantity": 58,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-mistral-grechnevaya-yadrica-vysshijj-sort-80g5-pak-rossiya-400g",
@@ -1135,7 +1135,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 46,
+            "count": 45,
             "dimensions": {
                 "height": 80,
                 "length": 220,
@@ -1192,7 +1192,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 46,
+                "maxSaleQuantity": 45,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-makfa-yadrica-bystrorazvarivayushchayasya-vs-rossiya-800g",
@@ -1217,7 +1217,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 38,
+            "count": 37,
             "dimensions": {
                 "height": 160,
                 "length": 80,
@@ -1283,7 +1283,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 38,
+                "maxSaleQuantity": 37,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-nacional-grechnevaya-yadrbystrazvarpervyjj-sort-rossiya-900g",
@@ -1308,7 +1308,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 86,
+            "count": 84,
             "dimensions": {
                 "height": 174,
                 "length": 40,
@@ -1383,7 +1383,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 86,
+                "maxSaleQuantity": 84,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-passim-altajjskaya-vysshijj-sort-125g4-pak-rossiya-500g",
@@ -1571,7 +1571,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 16,
+            "count": 15,
             "dimensions": {
                 "height": 200,
                 "length": 130,
@@ -1637,7 +1637,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 16,
+                "maxSaleQuantity": 15,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-lenta-grechnevaya-bystrorazvar-rossiya-1500g",
@@ -1715,7 +1715,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 590
+                "votes": 591
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -1744,7 +1744,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 40,
+            "count": 38,
             "dimensions": {
                 "height": 55,
                 "length": 210,
@@ -1801,7 +1801,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 40,
+                "maxSaleQuantity": 38,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-vybor-semi-1-sort-rossiya-1000g",
@@ -2334,7 +2334,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.9,
-                "votes": 29
+                "votes": 30
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -2454,7 +2454,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 16,
+            "count": 15,
             "dimensions": {
                 "height": 50,
                 "length": 200,
@@ -2511,7 +2511,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 16,
+                "maxSaleQuantity": 15,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-altajjskaya-skazka-yadrica-bystrorazvarivayushchayasya-ekstra-rossiya-800g",
@@ -2701,7 +2701,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 20,
+            "count": 19,
             "dimensions": {
                 "height": 185,
                 "length": 128,
@@ -2785,7 +2785,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 20,
+                "maxSaleQuantity": 19,
                 "minSaleQuantity": 1
             },
             "slug": "krupa-grechnevaya-zdorovoe-menyu-zelenaya-5pak-rossiya-400g",
@@ -3156,7 +3156,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 63,
+            "count": 61,
             "dimensions": {
                 "height": 150,
                 "length": 8,
@@ -3213,7 +3213,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 63,
+                "maxSaleQuantity": 61,
                 "minSaleQuantity": 1
             },
             "slug": "smes-na-vtoroe-maggi-dgrechki-rossiya-41g",
@@ -3282,8 +3282,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4,
-                "votes": 1
+                "rate": 5,
+                "votes": 2
             },
             "saleLimit": {
                 "foldQuantity": 1,

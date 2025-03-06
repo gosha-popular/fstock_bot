@@ -3,20 +3,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "",
-            "id": 20501,
-            "imageUrl": "",
-            "imageWebUrl": "",
-            "isAdult": false,
-            "level": 2,
-            "name": "Молочный прилавок",
-            "parentId": 18427,
-            "parentName": "Товары до 99 рублей",
-            "slug": "molochnyjj-prilavok"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19554/icon/45c0ee5ce76b0651.png",
             "id": 19554,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19554/image/2b69c08192c4e90b.png",
@@ -45,20 +31,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/icon/fdeb1ec5193dd90b.png",
-            "id": 2692,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/image/b8ecb1b1e9ef8797.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/image_web/2af59e8cf64328b6.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Детская одежда",
-            "parentId": 2673,
-            "parentName": "Одежда и аксессуары",
-            "slug": "detskaya-odezhda"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18038/icon/bb2b1d5741b664db.png",
             "id": 18038,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18038/image/688b7c49c4c81df5.png",
@@ -74,6 +46,34 @@
             "badges": [],
             "hasChildren": true,
             "iconUrl": "",
+            "id": 20501,
+            "imageUrl": "",
+            "imageWebUrl": "",
+            "isAdult": false,
+            "level": 2,
+            "name": "Молочный прилавок",
+            "parentId": 18427,
+            "parentName": "Товары до 99 рублей",
+            "slug": "molochnyjj-prilavok"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/icon/c21054001fad9f2a.png",
+            "id": 85,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image/942336bf6980a58b.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image_web/af6d78e633365dc5.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Мороженое",
+            "parentId": 77,
+            "parentName": "Заморозка",
+            "slug": "morozhenoe"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "",
             "id": 20594,
             "imageUrl": "",
             "imageWebUrl": "",
@@ -83,6 +83,20 @@
             "parentId": 18427,
             "parentName": "Товары до 99 рублей",
             "slug": "detskie-tovary"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/icon/fdeb1ec5193dd90b.png",
+            "id": 2692,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/image/b8ecb1b1e9ef8797.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2692/image_web/2af59e8cf64328b6.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Детская одежда",
+            "parentId": 2673,
+            "parentName": "Одежда и аксессуары",
+            "slug": "detskaya-odezhda"
         },
         {
             "badges": [],
@@ -115,20 +129,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/icon/c21054001fad9f2a.png",
-            "id": 85,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image/942336bf6980a58b.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/85/image_web/af6d78e633365dc5.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Мороженое",
-            "parentId": 77,
-            "parentName": "Заморозка",
-            "slug": "morozhenoe"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19363/icon/aa8957bbea235fbe.png",
             "id": 19363,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19363/image/a13c0471140fa730.png",
@@ -143,16 +143,16 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2674/icon/a66a86e336da31a2.png",
-            "id": 2674,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2674/image/aed1b573a8f598ad.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2674/image_web/871e3e480b34cea1.png",
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18032/icon/2add0dd970653561.png",
+            "id": 18032,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18032/image/f7d30c4c87616517.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18032/image_web/75195a5082d72ed9.png",
             "isAdult": false,
             "level": 2,
-            "name": "Женская одежда",
-            "parentId": 2673,
-            "parentName": "Одежда и аксессуары",
-            "slug": "zhenskaya-odezhda"
+            "name": "Бумажная продукция",
+            "parentId": 18030,
+            "parentName": "Канцтовары, хобби, книги",
+            "slug": "bumazhnaya-produkciya"
         },
         {
             "badges": [],
@@ -171,30 +171,16 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/132/icon/20ebd662e10a7422.png",
-            "id": 132,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/132/image/89e9fb59831d6e32.jpg",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/132/image_web/3f8aea05ce556cad.png",
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2674/icon/a66a86e336da31a2.png",
+            "id": 2674,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2674/image/aed1b573a8f598ad.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/2674/image_web/871e3e480b34cea1.png",
             "isAdult": false,
             "level": 2,
-            "name": "Сметана",
-            "parentId": 3,
-            "parentName": "Молочные продукты",
-            "slug": "smetana"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18358/icon/7259e91789e8dac6.png",
-            "id": 18358,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18358/image/34164281b9c05d3e.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18358/image_web/77e4c5508a6a85dc.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Бальзамы, ликер, абсент",
-            "parentId": 17036,
-            "parentName": "Алкоголь",
-            "slug": "balzamy-liker-absent"
+            "name": "Женская одежда",
+            "parentId": 2673,
+            "parentName": "Одежда и аксессуары",
+            "slug": "zhenskaya-odezhda"
         },
         {
             "badges": [],
@@ -227,6 +213,48 @@
         {
             "badges": [],
             "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18358/icon/7259e91789e8dac6.png",
+            "id": 18358,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18358/image/34164281b9c05d3e.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18358/image_web/77e4c5508a6a85dc.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Бальзамы, ликер, абсент",
+            "parentId": 17036,
+            "parentName": "Алкоголь",
+            "slug": "balzamy-liker-absent"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19530/icon/b214a359f31392db.png",
+            "id": 19530,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19530/image/b5e478620f0ad441.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19530/image_web/3d5f6e7ff2c8b57f.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Игрушки и игры",
+            "parentId": 19433,
+            "parentName": "Товары для детей",
+            "slug": "igrushki-i-igry"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/132/icon/20ebd662e10a7422.png",
+            "id": 132,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/132/image/89e9fb59831d6e32.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/132/image_web/3f8aea05ce556cad.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сметана",
+            "parentId": 3,
+            "parentName": "Молочные продукты",
+            "slug": "smetana"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/icon/fb2d4c0a4ff8ef84.png",
             "id": 3510,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/3510/image/7122cb19b4e067d7.png",
@@ -237,34 +265,6 @@
             "parentId": 3509,
             "parentName": "Уход и гигиена",
             "slug": "dlya-volos"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/128/icon/969accca8c45f57b.png",
-            "id": 128,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/128/image/df12ee876fb5756b.jpg",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/128/image_web/d1d70c5af27b3174.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Молоко и сливки",
-            "parentId": 3,
-            "parentName": "Молочные продукты",
-            "slug": "moloko-i-slivki"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/195/icon/72e995c5406540d2.png",
-            "id": 195,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/195/image/0342f3d80d54a018.jpg",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/195/image_web/bc6985b7165b72dc.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Специи",
-            "parentId": 25,
-            "parentName": "Бакалея",
-            "slug": "specii"
         },
         {
             "badges": [],
@@ -297,30 +297,58 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18032/icon/2add0dd970653561.png",
-            "id": 18032,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18032/image/f7d30c4c87616517.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18032/image_web/75195a5082d72ed9.png",
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/128/icon/969accca8c45f57b.png",
+            "id": 128,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/128/image/df12ee876fb5756b.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/128/image_web/d1d70c5af27b3174.png",
             "isAdult": false,
             "level": 2,
-            "name": "Бумажная продукция",
-            "parentId": 18030,
-            "parentName": "Канцтовары, хобби, книги",
-            "slug": "bumazhnaya-produkciya"
+            "name": "Молоко и сливки",
+            "parentId": 3,
+            "parentName": "Молочные продукты",
+            "slug": "moloko-i-slivki"
         },
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19530/icon/b214a359f31392db.png",
-            "id": 19530,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19530/image/b5e478620f0ad441.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19530/image_web/3d5f6e7ff2c8b57f.png",
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/195/icon/72e995c5406540d2.png",
+            "id": 195,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/195/image/0342f3d80d54a018.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/195/image_web/bc6985b7165b72dc.png",
             "isAdult": false,
             "level": 2,
-            "name": "Игрушки и игры",
+            "name": "Специи",
+            "parentId": 25,
+            "parentName": "Бакалея",
+            "slug": "specii"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18037/icon/fa3829a7c536f462.png",
+            "id": 18037,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18037/image/8d5ba18919b73547.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18037/image_web/b98135da226d3532.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Книги и журналы",
+            "parentId": 18030,
+            "parentName": "Канцтовары, хобби, книги",
+            "slug": "knigi-i-zhurnaly"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19565/icon/b76bbcad4149198f.png",
+            "id": 19565,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19565/image/ba796ae31b0948ed.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19565/image_web/3336682ba515c0cf.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Книги и учебники",
             "parentId": 19433,
             "parentName": "Товары для детей",
-            "slug": "igrushki-i-igry"
+            "slug": "knigi-i-uchebniki"
         },
         {
             "badges": [],
@@ -353,20 +381,6 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18037/icon/fa3829a7c536f462.png",
-            "id": 18037,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18037/image/8d5ba18919b73547.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18037/image_web/b98135da226d3532.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Книги и журналы",
-            "parentId": 18030,
-            "parentName": "Канцтовары, хобби, книги",
-            "slug": "knigi-i-zhurnaly"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18356/icon/049b682b95634058.png",
             "id": 18356,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/18356/image/20888e763e20f6ad.png",
@@ -395,30 +409,16 @@
         {
             "badges": [],
             "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19565/icon/b76bbcad4149198f.png",
-            "id": 19565,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19565/image/ba796ae31b0948ed.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/19565/image_web/3336682ba515c0cf.png",
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/icon/0248ca6395fc3272.png",
+            "id": 1759,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/image/8047b58dec918275.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/image_web/fa4c16b83908c8c0.png",
             "isAdult": false,
             "level": 2,
-            "name": "Книги и учебники",
-            "parentId": 19433,
-            "parentName": "Товары для детей",
-            "slug": "knigi-i-uchebniki"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/icon/a2cc2de7ad6df6c2.png",
-            "id": 123,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/image/c4c10e105931727c.jpg",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/image_web/6a51b927d03951c5.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Сырки и десерты",
-            "parentId": 3,
-            "parentName": "Молочные продукты",
-            "slug": "syrki-i-deserty"
+            "name": "Средства от насекомых и грызунов",
+            "parentId": 1731,
+            "parentName": "Дача и сад",
+            "slug": "sredstva-ot-nasekomyh-i-gryzunov"
         },
         {
             "badges": [],
@@ -437,6 +437,20 @@
         {
             "badges": [],
             "hasChildren": true,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/icon/a2cc2de7ad6df6c2.png",
+            "id": 123,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/image/c4c10e105931727c.jpg",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/123/image_web/6a51b927d03951c5.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Сырки и десерты",
+            "parentId": 3,
+            "parentName": "Молочные продукты",
+            "slug": "syrki-i-deserty"
+        },
+        {
+            "badges": [],
+            "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1506/icon/769349af2a931bb1.png",
             "id": 1506,
             "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1506/image/59414ffb95cb2a4c.png",
@@ -447,20 +461,6 @@
             "parentId": 17400,
             "parentName": "Дом, интерьер",
             "slug": "batarejjki-lampochki-udliniteli"
-        },
-        {
-            "badges": [],
-            "hasChildren": true,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/icon/0248ca6395fc3272.png",
-            "id": 1759,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/image/8047b58dec918275.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/1759/image_web/fa4c16b83908c8c0.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Средства от насекомых и грызунов",
-            "parentId": 1731,
-            "parentName": "Дача и сад",
-            "slug": "sredstva-ot-nasekomyh-i-gryzunov"
         }
     ],
     "filters": {
@@ -472,20 +472,20 @@
                 "name": "Бренд",
                 "position": 1,
                 "slug": "brand",
-                "total": 1187,
+                "total": 1259,
                 "values": [
                     {
                         "id": 10721199,
                         "selected": false,
                         "slug": "inwin",
-                        "total": 103,
+                        "total": 104,
                         "value": "INWIN"
                     },
                     {
                         "id": 10983565,
                         "selected": false,
                         "slug": "apollo",
-                        "total": 45,
+                        "total": 46,
                         "value": "APOLLO"
                     },
                     {
@@ -499,42 +499,42 @@
                         "id": 10732443,
                         "selected": false,
                         "slug": "365-dnejj",
-                        "total": 28,
+                        "total": 32,
                         "value": "365 ДНЕЙ"
                     },
                     {
                         "id": 10721105,
                         "selected": false,
-                        "slug": "",
-                        "total": 27,
+                        "slug": "lenta",
+                        "total": 30,
                         "value": "ЛЕНТА"
-                    },
-                    {
-                        "id": 10734322,
-                        "selected": false,
-                        "slug": "",
-                        "total": 26,
-                        "value": "ФРУТОНЯНЯ"
                     },
                     {
                         "id": 10724907,
                         "selected": false,
                         "slug": "umka",
-                        "total": 25,
+                        "total": 28,
                         "value": "УМКА"
+                    },
+                    {
+                        "id": 10734322,
+                        "selected": false,
+                        "slug": "frutonyanya",
+                        "total": 26,
+                        "value": "ФРУТОНЯНЯ"
                     },
                     {
                         "id": 10771769,
                         "selected": false,
                         "slug": "domashnyaya-kuhnya",
-                        "total": 23,
+                        "total": 24,
                         "value": "ДОМАШНЯЯ КУХНЯ"
                     },
                     {
                         "id": 10720665,
                         "selected": false,
                         "slug": "prochie-tovary",
-                        "total": 22,
+                        "total": 24,
                         "value": "Прочие Товары"
                     },
                     {
@@ -548,14 +548,14 @@
                         "id": 11030473,
                         "selected": false,
                         "slug": "grin-belt",
-                        "total": 16,
+                        "total": 19,
                         "value": "ГРИН БЭЛТ"
                     },
                     {
                         "id": 10732377,
                         "selected": false,
                         "slug": "bigga",
-                        "total": 15,
+                        "total": 16,
                         "value": "BIGGA"
                     },
                     {
@@ -573,11 +573,25 @@
                         "value": "ELSKIN"
                     },
                     {
+                        "id": 10726076,
+                        "selected": false,
+                        "slug": "bg",
+                        "total": 12,
+                        "value": "BG"
+                    },
+                    {
                         "id": 10730799,
                         "selected": false,
                         "slug": "huggies",
                         "total": 12,
                         "value": "HUGGIES"
+                    },
+                    {
+                        "id": 10721124,
+                        "selected": false,
+                        "slug": "gamma",
+                        "total": 12,
+                        "value": "ГАММА"
                     },
                     {
                         "id": 10766939,
@@ -608,6 +622,13 @@
                         "value": "BURENKA CLUB"
                     },
                     {
+                        "id": 10721039,
+                        "selected": false,
+                        "slug": "erichkrause",
+                        "total": 9,
+                        "value": "ERICHKRAUSE"
+                    },
+                    {
                         "id": 579761834,
                         "selected": false,
                         "slug": "palett",
@@ -627,13 +648,6 @@
                         "slug": "actiwell",
                         "total": 8,
                         "value": "ACTIWELL"
-                    },
-                    {
-                        "id": 10726076,
-                        "selected": false,
-                        "slug": "bg",
-                        "total": 8,
-                        "value": "BG"
                     },
                     {
                         "id": 10906644,
@@ -664,6 +678,13 @@
                         "value": "ВЫБОР СЕМЬИ"
                     },
                     {
+                        "id": 10725041,
+                        "selected": false,
+                        "slug": "luch",
+                        "total": 8,
+                        "value": "ЛУЧ"
+                    },
+                    {
                         "id": 10722750,
                         "selected": false,
                         "slug": "pzbm",
@@ -671,11 +692,11 @@
                         "value": "ПЗБМ"
                     },
                     {
-                        "id": 10721039,
+                        "id": 10720674,
                         "selected": false,
-                        "slug": "erichkrause",
+                        "slug": "berlingo",
                         "total": 7,
-                        "value": "ERICHKRAUSE"
+                        "value": "BERLINGO"
                     },
                     {
                         "id": 10902741,
@@ -762,13 +783,6 @@
                         "value": "ВОЛЖАНИН"
                     },
                     {
-                        "id": 10721124,
-                        "selected": false,
-                        "slug": "gamma",
-                        "total": 6,
-                        "value": "ГАММА"
-                    },
-                    {
                         "id": 10750242,
                         "selected": false,
                         "slug": "starejjshina",
@@ -790,11 +804,25 @@
                         "value": "GIARDINO CLUB"
                     },
                     {
+                        "id": 10775933,
+                        "selected": false,
+                        "slug": "goodyear",
+                        "total": 5,
+                        "value": "GOODYEAR"
+                    },
+                    {
                         "id": 10736757,
                         "selected": false,
                         "slug": "gp",
                         "total": 5,
                         "value": "GP"
+                    },
+                    {
+                        "id": 11204609,
+                        "selected": false,
+                        "slug": "maped",
+                        "total": 5,
+                        "value": "MAPED"
                     },
                     {
                         "id": 10736539,
@@ -839,6 +867,13 @@
                         "value": "ALCA"
                     },
                     {
+                        "id": 10721024,
+                        "selected": false,
+                        "slug": "bic",
+                        "total": 4,
+                        "value": "BIC"
+                    },
+                    {
                         "id": 10733804,
                         "selected": false,
                         "slug": "colgate",
@@ -860,18 +895,18 @@
                         "value": "CREAM LIQUOR"
                     },
                     {
+                        "id": 10731433,
+                        "selected": false,
+                        "slug": "gerber",
+                        "total": 4,
+                        "value": "GERBER"
+                    },
+                    {
                         "id": 13435076,
                         "selected": false,
                         "slug": "glenfiddich",
                         "total": 4,
                         "value": "GLENFIDDICH"
-                    },
-                    {
-                        "id": 10775933,
-                        "selected": false,
-                        "slug": "goodyear",
-                        "total": 4,
-                        "value": "GOODYEAR"
                     },
                     {
                         "id": 10722438,
@@ -888,11 +923,18 @@
                         "value": "HOPPS"
                     },
                     {
-                        "id": 11204609,
+                        "id": 10734209,
                         "selected": false,
-                        "slug": "maped",
+                        "slug": "kinder",
                         "total": 4,
-                        "value": "MAPED"
+                        "value": "KINDER"
+                    },
+                    {
+                        "id": 12908755,
+                        "selected": false,
+                        "slug": "mozart",
+                        "total": 4,
+                        "value": "MOZART"
                     },
                     {
                         "id": 10731029,
@@ -937,11 +979,25 @@
                         "value": "PLAST TEAM"
                     },
                     {
+                        "id": 11272985,
+                        "selected": false,
+                        "slug": "secretday",
+                        "total": 4,
+                        "value": "SECRETDAY"
+                    },
+                    {
                         "id": 1133288961,
                         "selected": false,
                         "slug": "sibsa",
                         "total": 4,
                         "value": "SIBSA"
+                    },
+                    {
+                        "id": 11208880,
+                        "selected": false,
+                        "slug": "sweet-box",
+                        "total": 4,
+                        "value": "SWEET BOX"
                     },
                     {
                         "id": 1003440077,
@@ -979,11 +1035,11 @@
                         "value": "КОРОВКА ИЗ КОРЕНОВКИ"
                     },
                     {
-                        "id": 10725041,
+                        "id": 299523277,
                         "selected": false,
-                        "slug": "luch",
+                        "slug": "krokdilli",
                         "total": 4,
-                        "value": "ЛУЧ"
+                        "value": "КРОК&ДИЛЛИ"
                     },
                     {
                         "id": 11216345,
@@ -1035,13 +1091,6 @@
                         "value": "GENERICA"
                     },
                     {
-                        "id": 10731433,
-                        "selected": false,
-                        "slug": "gerber",
-                        "total": 3,
-                        "value": "GERBER"
-                    },
-                    {
                         "id": 1486149342,
                         "selected": false,
                         "slug": "green-belt",
@@ -1077,11 +1126,11 @@
                         "value": "JOONIES"
                     },
                     {
-                        "id": 10734209,
+                        "id": 166699850,
                         "selected": false,
-                        "slug": "",
+                        "slug": "kibox",
                         "total": 3,
-                        "value": "KINDER"
+                        "value": "KIBOX"
                     },
                     {
                         "id": 729266161,
@@ -1103,13 +1152,6 @@
                         "slug": "merries",
                         "total": 3,
                         "value": "MERRIES"
-                    },
-                    {
-                        "id": 12908755,
-                        "selected": false,
-                        "slug": "mozart",
-                        "total": 3,
-                        "value": "MOZART"
                     },
                     {
                         "id": 10777579,
@@ -1152,6 +1194,13 @@
                         "slug": "singleton",
                         "total": 3,
                         "value": "SINGLETON"
+                    },
+                    {
+                        "id": 729265395,
+                        "selected": false,
+                        "slug": "tanoshi",
+                        "total": 3,
+                        "value": "TANOSHI"
                     },
                     {
                         "id": 10992242,
@@ -1315,13 +1364,6 @@
                         "value": "BARILLA"
                     },
                     {
-                        "id": 10720674,
-                        "selected": false,
-                        "slug": "berlingo",
-                        "total": 2,
-                        "value": "BERLINGO"
-                    },
-                    {
                         "id": 12109941,
                         "selected": false,
                         "slug": "big-city-life",
@@ -1383,13 +1425,6 @@
                         "slug": "dolce-albero",
                         "total": 2,
                         "value": "DOLCE ALBERO"
-                    },
-                    {
-                        "id": 936441286,
-                        "selected": false,
-                        "slug": "dooleys",
-                        "total": 2,
-                        "value": "DOOLEY'S"
                     },
                     {
                         "id": 11252006,
@@ -1525,13 +1560,6 @@
                         "value": "ROLF"
                     },
                     {
-                        "id": 11272985,
-                        "selected": false,
-                        "slug": "secretday",
-                        "total": 2,
-                        "value": "SECRETDAY"
-                    },
-                    {
                         "id": 11210073,
                         "selected": false,
                         "slug": "sen-soy",
@@ -1539,18 +1567,11 @@
                         "value": "SEN SOY"
                     },
                     {
-                        "id": 11208880,
+                        "id": 10743983,
                         "selected": false,
-                        "slug": "sweet-box",
+                        "slug": "similac",
                         "total": 2,
-                        "value": "SWEET BOX"
-                    },
-                    {
-                        "id": 729265395,
-                        "selected": false,
-                        "slug": "tanoshi",
-                        "total": 2,
-                        "value": "TANOSHI"
+                        "value": "SIMILAC"
                     },
                     {
                         "id": 10738769,
@@ -1572,6 +1593,13 @@
                         "slug": "whiskas",
                         "total": 2,
                         "value": "WHISKAS"
+                    },
+                    {
+                        "id": 11758668,
+                        "selected": false,
+                        "slug": "agrikola",
+                        "total": 2,
+                        "value": "АГРИКОЛА"
                     },
                     {
                         "id": 10769188,
@@ -1616,6 +1644,13 @@
                         "value": "ИСКРЕННЕ ВАШ"
                     },
                     {
+                        "id": 11032613,
+                        "selected": false,
+                        "slug": "kalyaka-malyaka",
+                        "total": 2,
+                        "value": "КАЛЯКА-МАЛЯКА"
+                    },
+                    {
                         "id": 10754733,
                         "selected": false,
                         "slug": "karat",
@@ -1623,18 +1658,18 @@
                         "value": "КАРАТ"
                     },
                     {
-                        "id": 299523277,
-                        "selected": false,
-                        "slug": "krokdilli",
-                        "total": 2,
-                        "value": "КРОК&ДИЛЛИ"
-                    },
-                    {
                         "id": 10800520,
                         "selected": false,
                         "slug": "mozhajjskoe",
                         "total": 2,
                         "value": "МОЖАЙСКОЕ"
+                    },
+                    {
+                        "id": 10722664,
+                        "selected": false,
+                        "slug": "multi-pulti",
+                        "total": 2,
+                        "value": "МУЛЬТИ-ПУЛЬТИ"
                     },
                     {
                         "id": 1133289070,
@@ -1656,13 +1691,6 @@
                         "slug": "parfe",
                         "total": 2,
                         "value": "ПАРФЭ"
-                    },
-                    {
-                        "id": 1097464089,
-                        "selected": false,
-                        "slug": "pechagin",
-                        "total": 2,
-                        "value": "ПЕЧАГИН"
                     },
                     {
                         "id": 11014873,
@@ -1805,13 +1833,6 @@
                         "value": "BEAUTY DESSERTS"
                     },
                     {
-                        "id": 10721024,
-                        "selected": false,
-                        "slug": "bic",
-                        "total": 1,
-                        "value": "BIC"
-                    },
-                    {
                         "id": 10771841,
                         "selected": false,
                         "slug": "bimax",
@@ -1896,11 +1917,25 @@
                         "value": "DELIKAT'E"
                     },
                     {
+                        "id": 936441286,
+                        "selected": false,
+                        "slug": "dooleys",
+                        "total": 1,
+                        "value": "DOOLEY'S"
+                    },
+                    {
                         "id": 11164058,
                         "selected": false,
                         "slug": "ego",
                         "total": 1,
                         "value": "EGO"
+                    },
+                    {
+                        "id": 11026906,
+                        "selected": false,
+                        "slug": "expert",
+                        "total": 1,
+                        "value": "EXPERT"
                     },
                     {
                         "id": 10735083,
@@ -1915,6 +1950,20 @@
                         "slug": "fin-tippa",
                         "total": 1,
                         "value": "FIN TIPPA"
+                    },
+                    {
+                        "id": 13375084,
+                        "selected": false,
+                        "slug": "finwhale",
+                        "total": 1,
+                        "value": "FINWHALE"
+                    },
+                    {
+                        "id": 11172000,
+                        "selected": false,
+                        "slug": "fish--more",
+                        "total": 1,
+                        "value": "FISH & MORE"
                     },
                     {
                         "id": 11164138,
@@ -2001,6 +2050,13 @@
                         "value": "HOUSE LUX"
                     },
                     {
+                        "id": 12908306,
+                        "selected": false,
+                        "slug": "idiland",
+                        "total": 1,
+                        "value": "IDILAND"
+                    },
+                    {
                         "id": 10734383,
                         "selected": false,
                         "slug": "johnnie-walker",
@@ -2085,6 +2141,13 @@
                         "value": "MALLONY"
                     },
                     {
+                        "id": 13400605,
+                        "selected": false,
+                        "slug": "masculan",
+                        "total": 1,
+                        "value": "MASCULAN"
+                    },
+                    {
                         "id": 45611373,
                         "selected": false,
                         "slug": "mepsi",
@@ -2120,6 +2183,13 @@
                         "value": "NAVIGATOR"
                     },
                     {
+                        "id": 10786872,
+                        "selected": false,
+                        "slug": "nerf",
+                        "total": 1,
+                        "value": "NERF"
+                    },
+                    {
                         "id": 11258105,
                         "selected": false,
                         "slug": "nordic",
@@ -2153,6 +2223,13 @@
                         "slug": "peptamen",
                         "total": 1,
                         "value": "PEPTAMEN"
+                    },
+                    {
+                        "id": 11062231,
+                        "selected": false,
+                        "slug": "phibo",
+                        "total": 1,
+                        "value": "PHIBO"
                     },
                     {
                         "id": 1003440273,
@@ -2225,6 +2302,13 @@
                         "value": "SARAJISHVILI"
                     },
                     {
+                        "id": 1478998134,
+                        "selected": false,
+                        "slug": "sbox",
+                        "total": 1,
+                        "value": "SBOX"
+                    },
+                    {
                         "id": 10721685,
                         "selected": false,
                         "slug": "schneider",
@@ -2232,11 +2316,11 @@
                         "value": "SCHNEIDER"
                     },
                     {
-                        "id": 10743983,
+                        "id": 13381645,
                         "selected": false,
-                        "slug": "similac",
+                        "slug": "shell",
                         "total": 1,
-                        "value": "SIMILAC"
+                        "value": "SHELL"
                     },
                     {
                         "id": 11046209,
@@ -2276,7 +2360,7 @@
                     {
                         "id": 10733916,
                         "selected": false,
-                        "slug": "",
+                        "slug": "splat",
                         "total": 1,
                         "value": "SPLAT"
                     },
@@ -2337,6 +2421,13 @@
                         "value": "URZANTE"
                     },
                     {
+                        "id": 15917126,
+                        "selected": false,
+                        "slug": "watashi",
+                        "total": 1,
+                        "value": "WATASHI"
+                    },
+                    {
                         "id": 11157114,
                         "selected": false,
                         "slug": "wonder-lab",
@@ -2386,13 +2477,6 @@
                         "value": "АВТОПАНОРАМА"
                     },
                     {
-                        "id": 11758668,
-                        "selected": false,
-                        "slug": "agrikola",
-                        "total": 1,
-                        "value": "АГРИКОЛА"
-                    },
-                    {
                         "id": 10933419,
                         "selected": false,
                         "slug": "alpijjskaya-korovka",
@@ -2440,13 +2524,6 @@
                         "slug": "buba",
                         "total": 1,
                         "value": "БУБА"
-                    },
-                    {
-                        "id": 10826929,
-                        "selected": false,
-                        "slug": "buterbrodov",
-                        "total": 1,
-                        "value": "БУТЕРБРОДОВ"
                     },
                     {
                         "id": 10747281,
@@ -2617,13 +2694,6 @@
                         "value": "МОСКОВСКОЕ"
                     },
                     {
-                        "id": 10722664,
-                        "selected": false,
-                        "slug": "multi-pulti",
-                        "total": 1,
-                        "value": "МУЛЬТИ-ПУЛЬТИ"
-                    },
-                    {
                         "id": 10827690,
                         "selected": false,
                         "slug": "nastoyashchijj-plombir-ru",
@@ -2659,11 +2729,25 @@
                         "value": "ОТЛИЧНАЯ ЦЕНА"
                     },
                     {
+                        "id": 989318797,
+                        "selected": false,
+                        "slug": "paketiko",
+                        "total": 1,
+                        "value": "ПАКЕТИКО"
+                    },
+                    {
                         "id": 10984900,
                         "selected": false,
                         "slug": "passim",
                         "total": 1,
                         "value": "ПАССИМ"
+                    },
+                    {
+                        "id": 1097464089,
+                        "selected": false,
+                        "slug": "pechagin",
+                        "total": 1,
+                        "value": "ПЕЧАГИН"
                     },
                     {
                         "id": 11383001,
@@ -2734,6 +2818,20 @@
                         "slug": "sady-pridonya",
                         "total": 1,
                         "value": "САДЫ ПРИДОНЬЯ"
+                    },
+                    {
+                        "id": 11259100,
+                        "selected": false,
+                        "slug": "sayanskaya",
+                        "total": 1,
+                        "value": "САЯНСКАЯ"
+                    },
+                    {
+                        "id": 14835771,
+                        "selected": false,
+                        "slug": "sbermobajjl",
+                        "total": 1,
+                        "value": "СБЕРМОБАЙЛ"
                     },
                     {
                         "id": 10755042,
@@ -2882,34 +2980,34 @@
                 "name": "Вес",
                 "position": 4,
                 "slug": "ves",
-                "total": 484,
+                "total": 489,
                 "values": [
                     {
                         "id": 1480815981,
                         "selected": false,
                         "slug": "10",
-                        "total": 57,
+                        "total": 59,
                         "value": "10"
                     },
                     {
                         "id": 1480791423,
                         "selected": false,
                         "slug": "500",
-                        "total": 42,
+                        "total": 43,
                         "value": "500"
                     },
                     {
                         "id": 1480794741,
                         "selected": false,
-                        "slug": "",
-                        "total": 36,
+                        "slug": "700",
+                        "total": 35,
                         "value": "700"
                     },
                     {
                         "id": 1480793423,
                         "selected": false,
                         "slug": "20",
-                        "total": 32,
+                        "total": 33,
                         "value": "20"
                     },
                     {
@@ -2936,7 +3034,7 @@
                     {
                         "id": 1480795787,
                         "selected": false,
-                        "slug": "",
+                        "slug": "70",
                         "total": 18,
                         "value": "70"
                     },
@@ -2944,7 +3042,7 @@
                         "id": 1480793785,
                         "selected": false,
                         "slug": "400",
-                        "total": 15,
+                        "total": 14,
                         "value": "400"
                     },
                     {
@@ -2958,8 +3056,15 @@
                         "id": 1480791637,
                         "selected": false,
                         "slug": "750",
-                        "total": 11,
+                        "total": 12,
                         "value": "750"
+                    },
+                    {
+                        "id": 1480792478,
+                        "selected": false,
+                        "slug": "800",
+                        "total": 11,
+                        "value": "800"
                     },
                     {
                         "id": 1480816124,
@@ -2969,18 +3074,18 @@
                         "value": "15"
                     },
                     {
-                        "id": 1480792478,
-                        "selected": false,
-                        "slug": "800",
-                        "total": 10,
-                        "value": "800"
-                    },
-                    {
                         "id": 1483018283,
                         "selected": false,
                         "slug": "42",
                         "total": 8,
                         "value": "4.2"
+                    },
+                    {
+                        "id": 1480914695,
+                        "selected": false,
+                        "slug": "12",
+                        "total": 8,
+                        "value": "12"
                     },
                     {
                         "id": 1480797109,
@@ -2997,25 +3102,18 @@
                         "value": "600"
                     },
                     {
-                        "id": 1480792538,
-                        "selected": false,
-                        "slug": "1000",
-                        "total": 8,
-                        "value": "1000"
-                    },
-                    {
-                        "id": 1480914695,
-                        "selected": false,
-                        "slug": "12",
-                        "total": 7,
-                        "value": "12"
-                    },
-                    {
                         "id": 1480819160,
                         "selected": false,
                         "slug": "25",
                         "total": 7,
                         "value": "25"
+                    },
+                    {
+                        "id": 1480792538,
+                        "selected": false,
+                        "slug": "1000",
+                        "total": 7,
+                        "value": "1000"
                     },
                     {
                         "id": 1480797051,
@@ -3118,14 +3216,14 @@
                     {
                         "id": 1480793251,
                         "selected": false,
-                        "slug": "",
+                        "slug": "90",
                         "total": 3,
                         "value": "90"
                     },
                     {
                         "id": 1480791401,
                         "selected": false,
-                        "slug": "",
+                        "slug": "130",
                         "total": 3,
                         "value": "130"
                     },
@@ -3139,7 +3237,7 @@
                     {
                         "id": 1480793847,
                         "selected": false,
-                        "slug": "",
+                        "slug": "360",
                         "total": 3,
                         "value": "360"
                     },
@@ -3181,7 +3279,7 @@
                     {
                         "id": 1480792661,
                         "selected": false,
-                        "slug": "",
+                        "slug": "50",
                         "total": 2,
                         "value": "50"
                     },
@@ -3256,6 +3354,13 @@
                         "value": "29"
                     },
                     {
+                        "id": 1480812626,
+                        "selected": false,
+                        "slug": "35",
+                        "total": 1,
+                        "value": "35"
+                    },
+                    {
                         "id": 1480801113,
                         "selected": false,
                         "slug": "52",
@@ -3314,7 +3419,7 @@
                     {
                         "id": 1480794870,
                         "selected": false,
-                        "slug": "",
+                        "slug": "120",
                         "total": 1,
                         "value": "120"
                     },
@@ -3384,7 +3489,7 @@
                     {
                         "id": 1480835063,
                         "selected": false,
-                        "slug": "",
+                        "slug": "440",
                         "total": 1,
                         "value": "440"
                     },
@@ -3398,7 +3503,7 @@
                     {
                         "id": 1480853600,
                         "selected": false,
-                        "slug": "",
+                        "slug": "480",
                         "total": 1,
                         "value": "480"
                     },
@@ -3412,7 +3517,7 @@
                     {
                         "id": 1480793346,
                         "selected": false,
-                        "slug": "",
+                        "slug": "540",
                         "total": 1,
                         "value": "540"
                     },
@@ -3443,6 +3548,13 @@
                         "slug": "762",
                         "total": 1,
                         "value": "762"
+                    },
+                    {
+                        "id": 1484309756,
+                        "selected": false,
+                        "slug": "816",
+                        "total": 1,
+                        "value": "816"
                     },
                     {
                         "id": 1480811361,
@@ -3636,7 +3748,7 @@
                 "name": "Тип товара",
                 "position": 8,
                 "slug": "tip-tovara",
-                "total": 10,
+                "total": 13,
                 "values": [
                     {
                         "id": 1496157071,
@@ -3644,6 +3756,13 @@
                         "slug": "nabor-stolovyh-priborov",
                         "total": 2,
                         "value": "Набор столовых приборов"
+                    },
+                    {
+                        "id": 1496237048,
+                        "selected": false,
+                        "slug": "flomastery",
+                        "total": 2,
+                        "value": "Фломастеры"
                     },
                     {
                         "id": 1496212399,
@@ -3662,7 +3781,7 @@
                     {
                         "id": 1496054213,
                         "selected": false,
-                        "slug": "",
+                        "slug": "igrushka-myagkaya",
                         "total": 1,
                         "value": "Игрушка мягкая"
                     },
@@ -3700,6 +3819,13 @@
                         "slug": "raskraska",
                         "total": 1,
                         "value": "Раскраска"
+                    },
+                    {
+                        "id": 1496237506,
+                        "selected": false,
+                        "slug": "folga",
+                        "total": 1,
+                        "value": "Фольга"
                     }
                 ]
             },
@@ -3773,7 +3899,7 @@
                     {
                         "id": 7070824,
                         "selected": false,
-                        "slug": "",
+                        "slug": "yajjco",
                         "total": 2,
                         "value": "Яйцо"
                     },
@@ -3925,13 +4051,13 @@
                 "name": "Детский товар",
                 "position": 11,
                 "slug": "detskijj-tovar",
-                "total": 303,
+                "total": 333,
                 "values": [
                     {
                         "id": 6747507,
                         "selected": false,
                         "slug": "da",
-                        "total": 301,
+                        "total": 332,
                         "value": "Да"
                     },
                     {
@@ -3976,7 +4102,7 @@
                         "id": 6971092,
                         "selected": false,
                         "slug": "kofejjno-molochnyjj",
-                        "total": 4,
+                        "total": 3,
                         "value": "Кофейно-молочный"
                     },
                     {
@@ -4041,6 +4167,13 @@
                         "slug": "korichnevyjj",
                         "total": 1,
                         "value": "Коричневый"
+                    },
+                    {
+                        "id": 7666909,
+                        "selected": false,
+                        "slug": "kofejjnyjj",
+                        "total": 1,
+                        "value": "Кофейный"
                     },
                     {
                         "id": 9367920,
@@ -4127,13 +4260,13 @@
                 "name": "Жирность, %",
                 "position": 13,
                 "slug": "zhirnost",
-                "total": 152,
+                "total": 150,
                 "values": [
                     {
                         "id": 6849229,
                         "selected": false,
                         "slug": "15",
-                        "total": 59,
+                        "total": 58,
                         "value": "15"
                     },
                     {
@@ -4193,13 +4326,6 @@
                         "value": "18"
                     },
                     {
-                        "id": 6748801,
-                        "selected": false,
-                        "slug": "50",
-                        "total": 2,
-                        "value": "50"
-                    },
-                    {
                         "id": 7631752,
                         "selected": false,
                         "slug": "11",
@@ -4242,6 +4368,13 @@
                         "value": "40"
                     },
                     {
+                        "id": 6748801,
+                        "selected": false,
+                        "slug": "50",
+                        "total": 1,
+                        "value": "50"
+                    },
+                    {
                         "id": 6756745,
                         "selected": false,
                         "slug": "55",
@@ -4256,13 +4389,13 @@
                 "name": "Цвет",
                 "position": 14,
                 "slug": "cvet",
-                "total": 319,
+                "total": 333,
                 "values": [
                     {
                         "id": 6747519,
                         "selected": false,
                         "slug": "v-assortimente",
-                        "total": 45,
+                        "total": 47,
                         "value": "В ассортименте"
                     },
                     {
@@ -4283,8 +4416,15 @@
                         "id": 6749793,
                         "selected": false,
                         "slug": "seryjj",
-                        "total": 12,
+                        "total": 13,
                         "value": "Серый"
+                    },
+                    {
+                        "id": 6760260,
+                        "selected": false,
+                        "slug": "sinijj",
+                        "total": 13,
+                        "value": "Синий"
                     },
                     {
                         "id": 6747656,
@@ -4294,11 +4434,11 @@
                         "value": "Nero"
                     },
                     {
-                        "id": 6760260,
+                        "id": 6763365,
                         "selected": false,
-                        "slug": "sinijj",
-                        "total": 11,
-                        "value": "Синий"
+                        "slug": "zelenyjj",
+                        "total": 8,
+                        "value": "Зеленый"
                     },
                     {
                         "id": 6751576,
@@ -4308,18 +4448,18 @@
                         "value": "Розовый"
                     },
                     {
-                        "id": 6763365,
-                        "selected": false,
-                        "slug": "zelenyjj",
-                        "total": 7,
-                        "value": "Зеленый"
-                    },
-                    {
                         "id": 6880974,
                         "selected": false,
                         "slug": "serebristyjj",
                         "total": 5,
                         "value": "Серебристый"
+                    },
+                    {
+                        "id": 6777600,
+                        "selected": false,
+                        "slug": "seryjj-melanzh",
+                        "total": 5,
+                        "value": "Серый меланж"
                     },
                     {
                         "id": 6890406,
@@ -4357,6 +4497,13 @@
                         "value": "Navy"
                     },
                     {
+                        "id": 6758496,
+                        "selected": false,
+                        "slug": "bezhevyjj",
+                        "total": 4,
+                        "value": "Бежевый"
+                    },
+                    {
                         "id": 6777100,
                         "selected": false,
                         "slug": "bordovyjj",
@@ -4369,6 +4516,13 @@
                         "slug": "grafit",
                         "total": 4,
                         "value": "Графит"
+                    },
+                    {
+                        "id": 6758384,
+                        "selected": false,
+                        "slug": "zheltyjj",
+                        "total": 4,
+                        "value": "Желтый"
                     },
                     {
                         "id": 6776569,
@@ -4385,11 +4539,11 @@
                         "value": "Мультиколор"
                     },
                     {
-                        "id": 6777600,
+                        "id": 7120943,
                         "selected": false,
-                        "slug": "seryjj-melanzh",
+                        "slug": "raznocvetnyjj",
                         "total": 4,
-                        "value": "Серый меланж"
+                        "value": "Разноцветный"
                     },
                     {
                         "id": 6748114,
@@ -4397,20 +4551,6 @@
                         "slug": "stalnojj",
                         "total": 4,
                         "value": "Стальной"
-                    },
-                    {
-                        "id": 6758496,
-                        "selected": false,
-                        "slug": "bezhevyjj",
-                        "total": 3,
-                        "value": "Бежевый"
-                    },
-                    {
-                        "id": 6758384,
-                        "selected": false,
-                        "slug": "",
-                        "total": 3,
-                        "value": "Желтый"
                     },
                     {
                         "id": 6854658,
@@ -4427,11 +4567,11 @@
                         "value": "Оранжевый"
                     },
                     {
-                        "id": 7120943,
+                        "id": 6768531,
                         "selected": false,
-                        "slug": "raznocvetnyjj",
-                        "total": 3,
-                        "value": "Разноцветный"
+                        "slug": "prozrachnyjj",
+                        "total": 2,
+                        "value": "Прозрачный"
                     },
                     {
                         "id": 9309653,
@@ -4446,6 +4586,13 @@
                         "slug": "sinijj-melanzh",
                         "total": 2,
                         "value": "Синий меланж"
+                    },
+                    {
+                        "id": 6769799,
+                        "selected": false,
+                        "slug": "sinijj-zheltyjj",
+                        "total": 2,
+                        "value": "Синий, желтый"
                     },
                     {
                         "id": 6873601,
@@ -4735,13 +4882,6 @@
                         "value": "Оливковый"
                     },
                     {
-                        "id": 6768531,
-                        "selected": false,
-                        "slug": "prozrachnyjj",
-                        "total": 1,
-                        "value": "Прозрачный"
-                    },
-                    {
                         "id": 9570213,
                         "selected": false,
                         "slug": "rozovyjj-biryuzovyjj",
@@ -4826,13 +4966,6 @@
                         "value": "Синий, васильковый, белый, голубой, зеленый"
                     },
                     {
-                        "id": 6769799,
-                        "selected": false,
-                        "slug": "sinijj-zheltyjj",
-                        "total": 1,
-                        "value": "Синий, желтый"
-                    },
-                    {
                         "id": 7597605,
                         "selected": false,
                         "slug": "sinijj-krasnyjj-zelenyjj-zheltyjj",
@@ -4873,6 +5006,20 @@
                         "slug": "fioletovyjj",
                         "total": 1,
                         "value": "Фиолетовый"
+                    },
+                    {
+                        "id": 8681412,
+                        "selected": false,
+                        "slug": "fioletovyjj-rozovyjj",
+                        "total": 1,
+                        "value": "Фиолетовый, розовый"
+                    },
+                    {
+                        "id": 6994459,
+                        "selected": false,
+                        "slug": "cherno-belyjj",
+                        "total": 1,
+                        "value": "Черно-белый"
                     },
                     {
                         "id": 6996112,
@@ -5004,7 +5151,7 @@
                 "name": "Вкус",
                 "position": 16,
                 "slug": "vkus",
-                "total": 190,
+                "total": 194,
                 "values": [
                     {
                         "id": 1353527203,
@@ -5084,6 +5231,13 @@
                         "value": "Сливки"
                     },
                     {
+                        "id": 1353527097,
+                        "selected": false,
+                        "slug": "apelsin",
+                        "total": 3,
+                        "value": "Апельсин"
+                    },
+                    {
                         "id": 1398090237,
                         "selected": false,
                         "slug": "assorti",
@@ -5128,7 +5282,7 @@
                     {
                         "id": 1353528644,
                         "selected": false,
-                        "slug": "",
+                        "slug": "malina",
                         "total": 2,
                         "value": "Малина"
                     },
@@ -5149,7 +5303,7 @@
                     {
                         "id": 1353528185,
                         "selected": false,
-                        "slug": "",
+                        "slug": "solenaya-karamel",
                         "total": 2,
                         "value": "Соленая карамель"
                     },
@@ -5280,6 +5434,13 @@
                         "value": "Миндаль"
                     },
                     {
+                        "id": 1353546250,
+                        "selected": false,
+                        "slug": "morkov",
+                        "total": 1,
+                        "value": "Морковь"
+                    },
+                    {
                         "id": 1399875166,
                         "selected": false,
                         "slug": "mohito",
@@ -5381,20 +5542,20 @@
                 "name": "Страна",
                 "position": 18,
                 "slug": "strana",
-                "total": 1186,
+                "total": 1257,
                 "values": [
                     {
                         "id": 10720646,
                         "selected": false,
                         "slug": "rossiya",
-                        "total": 730,
+                        "total": 776,
                         "value": "Россия"
                     },
                     {
                         "id": 10720676,
                         "selected": false,
                         "slug": "kitajj",
-                        "total": 242,
+                        "total": 259,
                         "value": "Китай"
                     },
                     {
@@ -5415,7 +5576,7 @@
                         "id": 10723628,
                         "selected": false,
                         "slug": "koreya",
-                        "total": 22,
+                        "total": 24,
                         "value": "Корея"
                     },
                     {
@@ -5424,6 +5585,13 @@
                         "slug": "ispaniya",
                         "total": 14,
                         "value": "Испания"
+                    },
+                    {
+                        "id": 10721228,
+                        "selected": false,
+                        "slug": "avstriya",
+                        "total": 9,
+                        "value": "Австрия"
                     },
                     {
                         "id": 10720887,
@@ -5438,13 +5606,6 @@
                         "slug": "turkmeniya",
                         "total": 9,
                         "value": "Туркмения"
-                    },
-                    {
-                        "id": 10721228,
-                        "selected": false,
-                        "slug": "avstriya",
-                        "total": 8,
-                        "value": "Австрия"
                     },
                     {
                         "id": 10734027,
@@ -5466,6 +5627,13 @@
                         "slug": "italiya",
                         "total": 6,
                         "value": "Италия"
+                    },
+                    {
+                        "id": 10720640,
+                        "selected": false,
+                        "slug": "franciya",
+                        "total": 6,
+                        "value": "Франция"
                     },
                     {
                         "id": 10731994,
@@ -5517,17 +5685,10 @@
                         "value": "Нидерланды"
                     },
                     {
-                        "id": 10720640,
-                        "selected": false,
-                        "slug": "franciya",
-                        "total": 4,
-                        "value": "Франция"
-                    },
-                    {
                         "id": 10722544,
                         "selected": false,
                         "slug": "yuar",
-                        "total": 3,
+                        "total": 4,
                         "value": "ЮАР"
                     },
                     {
@@ -5543,6 +5704,13 @@
                         "slug": "armeniya",
                         "total": 2,
                         "value": "Армения"
+                    },
+                    {
+                        "id": 10724319,
+                        "selected": false,
+                        "slug": "daniya",
+                        "total": 2,
+                        "value": "Дания"
                     },
                     {
                         "id": 10721367,
@@ -5601,13 +5769,6 @@
                         "value": "Грузия"
                     },
                     {
-                        "id": 10724319,
-                        "selected": false,
-                        "slug": "daniya",
-                        "total": 1,
-                        "value": "Дания"
-                    },
-                    {
                         "id": 10731275,
                         "selected": false,
                         "slug": "egipet",
@@ -5636,6 +5797,13 @@
                         "value": "Польша"
                     },
                     {
+                        "id": 10721617,
+                        "selected": false,
+                        "slug": "portugaliya",
+                        "total": 1,
+                        "value": "Португалия"
+                    },
+                    {
                         "id": 10762107,
                         "selected": false,
                         "slug": "rumyniya",
@@ -5648,6 +5816,13 @@
                         "slug": "slovakiya",
                         "total": 1,
                         "value": "Словакия"
+                    },
+                    {
+                        "id": 10725218,
+                        "selected": false,
+                        "slug": "turciya",
+                        "total": 1,
+                        "value": "Турция"
                     }
                 ]
             }
@@ -5669,7 +5844,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 37,
+            "count": 35,
             "dimensions": {
                 "height": 75,
                 "length": 250,
@@ -5735,7 +5910,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 37,
+                "maxSaleQuantity": 35,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-smetanino-s0-boks-rossiya-10sht",
@@ -5760,7 +5935,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 87,
+            "count": 80,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -5844,7 +6019,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 87,
+                "maxSaleQuantity": 80,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-c0-rossiya-10sht",
@@ -5869,7 +6044,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 25,
+            "count": 24,
             "dimensions": {
                 "height": 70,
                 "length": 155,
@@ -5935,7 +6110,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 25,
+                "maxSaleQuantity": 24,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-s0-rossiya-6sht",
@@ -5944,6 +6119,198 @@
                 "gross": 440,
                 "net": 0,
                 "package": "6шт"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#ff0000",
+                        "title": "Кэшбек 15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 55,
+            "dimensions": {
+                "height": 70,
+                "length": 250,
+                "width": 110
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 556720,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
+                    "id": 640882,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
+                    "id": 640881,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
+                    "id": 640883,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
+                    "id": 640884,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png"
+                }
+            ],
+            "name": "Яйцо куриное ВОЛЖАНИН СВ, 10шт",
+            "prices": {
+                "cost": 16499,
+                "costRegular": 17369,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 16499,
+                "priceRegular": 17369
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 93
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 55,
+                "minSaleQuantity": 1
+            },
+            "slug": "yajjco-kurinoe-volzhanin-sv-rossiya-10sht",
+            "storeId": 124,
+            "weight": {
+                "gross": 800,
+                "net": 0,
+                "package": "10шт"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 5,
+            "dimensions": {
+                "height": 70,
+                "length": 247,
+                "width": 107
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 683306,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
+                    "id": 634133,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
+                    "id": 634132,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
+                    "id": 634134,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
+                    "id": 634135,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png"
+                }
+            ],
+            "name": "Яйцо куриное NN С1, 10шт",
+            "prices": {
+                "cost": 11299,
+                "costRegular": 11899,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 11299,
+                "priceRegular": 11899
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.4,
+                "votes": 5
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 5,
+                "minSaleQuantity": 1
+            },
+            "slug": "yajjco-kurinoe-chtm-fantasy-brands-s1-rossiya-10sht",
+            "storeId": 124,
+            "weight": {
+                "gross": 600,
+                "net": 0,
+                "package": "10шт"
             }
         },
         {
@@ -6052,7 +6419,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 90,
+            "count": 80,
             "dimensions": {
                 "height": 67,
                 "length": 247,
@@ -6118,7 +6485,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 90,
+                "maxSaleQuantity": 80,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-varaksino-derevenskoe-so-rossiya-10sht",
@@ -6135,7 +6502,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 17,
+            "count": 13,
             "dimensions": {
                 "height": 69,
                 "length": 105,
@@ -6219,7 +6586,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 17,
+                "maxSaleQuantity": 13,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-praksis-s1-rossiya-10sht",
@@ -6236,7 +6603,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 45,
+            "count": 41,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -6302,7 +6669,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 45,
+                "maxSaleQuantity": 41,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-s1-rossiya-10sht",
@@ -6327,7 +6694,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 45,
+            "count": 37,
             "dimensions": {
                 "height": 72,
                 "length": 248,
@@ -6402,7 +6769,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 45,
+                "maxSaleQuantity": 37,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-sinyavinskoe-derevenskoe-s0-rossiya-10sht",
@@ -6427,7 +6794,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 22,
+            "count": 16,
             "dimensions": {
                 "height": 70,
                 "length": 244,
@@ -6507,11 +6874,11 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 1321
+                "votes": 1322
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 22,
+                "maxSaleQuantity": 16,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-lenta-s1-rossiya-10sht",
@@ -6536,10 +6903,10 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 57,
+            "count": 121,
             "dimensions": {
-                "height": 70,
-                "length": 250,
+                "height": 65,
+                "length": 240,
                 "width": 110
             },
             "features": {
@@ -6556,260 +6923,68 @@
                 "isTobacco": false,
                 "isWeight": false
             },
-            "id": 556720,
+            "id": 25080,
             "images": [
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
-                    "id": 640882,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
+                    "id": 640028,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
                     "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/78b36369-f035-4118-9904-b7f2f5e76828.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
-                    "id": 640881,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
+                    "id": 640027,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
                     "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/35bf4d3c-a519-4063-b2e2-a82724916cb9.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
-                    "id": 640883,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
+                    "id": 640029,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
                     "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/e994c825-29e4-4ec7-b223-e197763a3abc.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
-                    "id": 640884,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
+                    "id": 640030,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
                     "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556720/65f77c4a-89c2-4a88-886c-e63e5d6fd1fb.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png"
                 }
             ],
-            "name": "Яйцо куриное ВОЛЖАНИН СВ, 10шт",
+            "name": "Яйцо куриное РОСКАР Экстра СО столовое, 10шт",
             "prices": {
-                "cost": 16499,
-                "costRegular": 17369,
+                "cost": 13999,
+                "costRegular": 14739,
                 "isLoyaltyCardPrice": true,
                 "isPromoactionPrice": false,
-                "price": 16499,
-                "priceRegular": 17369
+                "price": 13999,
+                "priceRegular": 14739
             },
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.7,
-                "votes": 93
+                "votes": 261
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 57,
+                "maxSaleQuantity": 121,
                 "minSaleQuantity": 1
             },
-            "slug": "yajjco-kurinoe-volzhanin-sv-rossiya-10sht",
+            "slug": "yajjco-kurinoe-roskar-stolovoe-ekstra-s0-rossiya-10sht",
             "storeId": 124,
             "weight": {
-                "gross": 800,
-                "net": 0,
-                "package": "10шт"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": [
-                    {
-                        "backgroundColor": "#1660f3",
-                        "title": "Наша марка",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ]
-            },
-            "chipsPrices": [],
-            "count": 5,
-            "dimensions": {
-                "height": 6,
-                "length": 25,
-                "width": 11
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 674564,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/674564/c1659146-d224-4b05-b4e1-97148bae8120.png",
-                    "id": 878258,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/674564/c1659146-d224-4b05-b4e1-97148bae8120.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/674564/c1659146-d224-4b05-b4e1-97148bae8120.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/674564/c1659146-d224-4b05-b4e1-97148bae8120.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/674564/c1659146-d224-4b05-b4e1-97148bae8120.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/674564/ed732236-93a3-48e6-b49f-b3a037546026.png",
-                    "id": 878257,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/674564/ed732236-93a3-48e6-b49f-b3a037546026.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/674564/ed732236-93a3-48e6-b49f-b3a037546026.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/674564/ed732236-93a3-48e6-b49f-b3a037546026.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/674564/ed732236-93a3-48e6-b49f-b3a037546026.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/674564/cf6bc4c5-f358-473e-a36a-e70b3615754f.png",
-                    "id": 878259,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/674564/cf6bc4c5-f358-473e-a36a-e70b3615754f.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/674564/cf6bc4c5-f358-473e-a36a-e70b3615754f.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/674564/cf6bc4c5-f358-473e-a36a-e70b3615754f.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/674564/cf6bc4c5-f358-473e-a36a-e70b3615754f.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/674564/2cc77928-375c-4c3b-bccb-b79940a2cc96.png",
-                    "id": 881265,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/674564/2cc77928-375c-4c3b-bccb-b79940a2cc96.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/674564/2cc77928-375c-4c3b-bccb-b79940a2cc96.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/674564/2cc77928-375c-4c3b-bccb-b79940a2cc96.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/674564/2cc77928-375c-4c3b-bccb-b79940a2cc96.png"
-                }
-            ],
-            "name": "Яйцо куриное 365 ДНЕЙ СО, 10шт",
-            "prices": {
-                "cost": 12299,
-                "costRegular": 12949,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 12299,
-                "priceRegular": 12949
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.8,
-                "votes": 1882
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 5,
-                "minSaleQuantity": 1
-            },
-            "slug": "yajjco-kurinoe-365-dnejj-s0-rossiya-10sht",
-            "storeId": 124,
-            "weight": {
-                "gross": 710,
-                "net": 0,
-                "package": "10шт"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 5,
-            "dimensions": {
-                "height": 70,
-                "length": 247,
-                "width": 107
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 683306,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
-                    "id": 634133,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/867f92dd-f05c-42ed-9d12-dbc8d6122393.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
-                    "id": 634132,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/4a31538b-afdb-47a0-b81f-8d72dcee8cd8.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
-                    "id": 634134,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/3b7626f6-d3be-4990-9f18-ea60630b30aa.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
-                    "id": 634135,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683306/eaed7b8e-934e-4628-a417-c8ce3dac3295.png"
-                }
-            ],
-            "name": "Яйцо куриное NN С1, 10шт",
-            "prices": {
-                "cost": 11299,
-                "costRegular": 11899,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 11299,
-                "priceRegular": 11899
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.7,
-                "votes": 418
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 5,
-                "minSaleQuantity": 1
-            },
-            "slug": "yajjco-kurinoe-chtm-fantasy-brands-s1-rossiya-10sht",
-            "storeId": 124,
-            "weight": {
-                "gross": 600,
+                "gross": 750,
                 "net": 0,
                 "package": "10шт"
             }
@@ -6828,7 +7003,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 198,
+            "count": 196,
             "dimensions": {
                 "height": 72,
                 "length": 245,
@@ -6907,12 +7082,12 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.8,
-                "votes": 150
+                "rate": 5,
+                "votes": 2
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 198,
+                "maxSaleQuantity": 196,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-roskar-stolovoe-ekstra-s0-rossiya-15sht",
@@ -6937,7 +7112,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 52,
+            "count": 44,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -7012,7 +7187,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 52,
+                "maxSaleQuantity": 44,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-lenta-fresh-s2-rossiya-10sht",
@@ -7124,7 +7299,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 4223
+                "votes": 4229
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -7215,7 +7390,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 2016
+                "votes": 2015
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -7244,7 +7419,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 19,
+            "count": 15,
             "dimensions": {
                 "height": 75,
                 "length": 150,
@@ -7310,7 +7485,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 19,
+                "maxSaleQuantity": 15,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-selo-zeljnoe-derevenskoe-s0-rossiya-15sht",
@@ -7335,10 +7510,10 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 129,
+            "count": 25,
             "dimensions": {
-                "height": 65,
-                "length": 240,
+                "height": 70,
+                "length": 155,
                 "width": 110
             },
             "features": {
@@ -7355,68 +7530,193 @@
                 "isTobacco": false,
                 "isWeight": false
             },
-            "id": 25080,
+            "id": 683792,
             "images": [
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
-                    "id": 640028,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
+                    "id": 631977,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
                     "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/8df4a66a-977c-40f3-9ee8-f64564f242ad.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
-                    "id": 640027,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
+                    "id": 631976,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
                     "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/558c4a0c-1ed9-422c-a246-16466835d305.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
-                    "id": 640029,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
+                    "id": 599778,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
                     "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/f5548e63-8d63-4a1b-8333-5f1ba9194714.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png"
                 },
                 {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
-                    "id": 640030,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png",
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
+                    "id": 631978,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
                     "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/25080/a6884866-57a4-45d2-8159-07c87fe386b6.png"
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
+                    "id": 631988,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png"
                 }
             ],
-            "name": "Яйцо куриное РОСКАР Экстра СО столовое, 10шт",
+            "name": "Яйцо куриное ВАУ МЯУ! Омега-3 СО, 6шт",
             "prices": {
-                "cost": 13999,
-                "costRegular": 14739,
+                "cost": 7999,
+                "costRegular": 8429,
                 "isLoyaltyCardPrice": true,
                 "isPromoactionPrice": false,
-                "price": 13999,
-                "priceRegular": 14739
+                "price": 7999,
+                "priceRegular": 8429
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.7,
-                "votes": 261
+                "rate": 4.9,
+                "votes": 470
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 129,
+                "maxSaleQuantity": 25,
                 "minSaleQuantity": 1
             },
-            "slug": "yajjco-kurinoe-roskar-stolovoe-ekstra-s0-rossiya-10sht",
+            "slug": "yajjco-kurinoe-vau-myau-omega-3-s0-rossiya-6sht",
             "storeId": 124,
             "weight": {
-                "gross": 750,
+                "gross": 440,
+                "net": 0,
+                "package": "6шт"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#ff0000",
+                        "title": "Кэшбек 15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 20,
+            "dimensions": {
+                "height": 74,
+                "length": 262,
+                "width": 113
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 687479,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
+                    "id": 592338,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
+                    "id": 727276,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
+                    "id": 727277,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
+                    "id": 727278,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
+                    "id": 727279,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png"
+                }
+            ],
+            "name": "Яйцо куриное ЛЕНТА FRESH XXL СВ, 10шт",
+            "prices": {
+                "cost": 14999,
+                "costRegular": 15789,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 14999,
+                "priceRegular": 15789
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 345
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 20,
+                "minSaleQuantity": 1
+            },
+            "slug": "yajjco-kurinoe-lenta-fresh-xxl-sv-rossiya-10sht",
+            "storeId": 124,
+            "weight": {
+                "gross": 793,
                 "net": 0,
                 "package": "10шт"
             }
@@ -7427,7 +7727,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 29,
+            "count": 27,
             "dimensions": {
                 "height": 75,
                 "length": 250,
@@ -7475,7 +7775,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 29,
+                "maxSaleQuantity": 27,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-smetanino-ot-molodojj-kuricy-s2-boks-rossiya-10sht",
@@ -7507,7 +7807,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 189,
+            "count": 173,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -7595,12 +7895,12 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.8,
-                "votes": 1366
+                "rate": 4.4,
+                "votes": 10
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 189,
+                "maxSaleQuantity": 173,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-lenta-fresh-yarkijj-zhelt-so-rossiya-10sht",
@@ -7616,122 +7916,6 @@
                 "discount": [],
                 "image": [
                     {
-                        "backgroundColor": "#ff0000",
-                        "title": "Кэшбек 15%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ]
-            },
-            "chipsPrices": [],
-            "count": 29,
-            "dimensions": {
-                "height": 70,
-                "length": 155,
-                "width": 110
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 683792,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
-                    "id": 631977,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/fbc86fae-dee9-4186-924e-215e17feb829.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
-                    "id": 631976,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/bb319feb-df89-467c-a417-786a1db64ff2.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
-                    "id": 599778,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/48bd15e9-bb44-4ca4-9caf-97e5d848eddf.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
-                    "id": 631978,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/0160b679-7848-4de6-92c4-a49ab9a250cf.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
-                    "id": 631988,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png",
-                    "position": 5,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/683792/43787be6-3c4a-4e22-869a-e95fafc2041b.png"
-                }
-            ],
-            "name": "Яйцо куриное ВАУ МЯУ! Омега-3 СО, 6шт",
-            "prices": {
-                "cost": 7999,
-                "costRegular": 8429,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 7999,
-                "priceRegular": 8429
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.9,
-                "votes": 470
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 29,
-                "minSaleQuantity": 1
-            },
-            "slug": "yajjco-kurinoe-vau-myau-omega-3-s0-rossiya-6sht",
-            "storeId": 124,
-            "weight": {
-                "gross": 440,
-                "net": 0,
-                "package": "6шт"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": [
-                    {
-                        "backgroundColor": "#ff0000",
-                        "title": "Кэшбек 15%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    },
-                    {
                         "backgroundColor": "#1660f3",
                         "title": "Наша марка",
                         "tooltip": {
@@ -7741,116 +7925,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 24,
-            "dimensions": {
-                "height": 74,
-                "length": 262,
-                "width": 113
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 687479,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
-                    "id": 592338,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/70fcfdbb-5429-48b3-a547-3671df087be3.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
-                    "id": 727276,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/3af859f2-d0ea-4af1-8c5f-efbe65785553.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
-                    "id": 727277,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/c61d6c4c-9cf5-4954-8a98-9eb6b1ff6409.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
-                    "id": 727278,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/5b9fcbed-77c8-4895-a98d-67a374bfda20.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
-                    "id": 727279,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png",
-                    "position": 5,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/687479/09889411-9214-402d-8142-f3d71b502db7.png"
-                }
-            ],
-            "name": "Яйцо куриное ЛЕНТА FRESH XXL СВ, 10шт",
-            "prices": {
-                "cost": 14999,
-                "costRegular": 15789,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 14999,
-                "priceRegular": 15789
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.8,
-                "votes": 345
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 24,
-                "minSaleQuantity": 1
-            },
-            "slug": "yajjco-kurinoe-lenta-fresh-xxl-sv-rossiya-10sht",
-            "storeId": 124,
-            "weight": {
-                "gross": 793,
-                "net": 0,
-                "package": "10шт"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": [
-                    {
-                        "backgroundColor": "#1660f3",
-                        "title": "Наша марка",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ]
-            },
-            "chipsPrices": [],
-            "count": 23,
+            "count": 22,
             "dimensions": {
                 "height": 70,
                 "length": 247,
@@ -7907,7 +7982,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 23,
+                "maxSaleQuantity": 22,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-lenta-fresh-selen-jjod-s1-rossiya-10sht",
@@ -7932,7 +8007,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 38,
+            "count": 36,
             "dimensions": {
                 "height": 40,
                 "length": 250,
@@ -8007,7 +8082,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 38,
+                "maxSaleQuantity": 36,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-smetanino-s0-rossiya-20sht",
@@ -8016,207 +8091,6 @@
                 "gross": 1400,
                 "net": 0,
                 "package": "20шт"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": [
-                    {
-                        "backgroundColor": "#1660f3",
-                        "title": "Наша марка",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ]
-            },
-            "chipsPrices": [],
-            "count": 5,
-            "dimensions": {
-                "height": 70,
-                "length": 300,
-                "width": 300
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 143016,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
-                    "id": 846515,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
-                    "id": 602336,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
-                    "id": 846516,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/f8e8b8e2ecc0c0c0.png",
-                    "id": 23576,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/f8e8b8e2ecc0c0c0.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/f8e8b8e2ecc0c0c0.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/f8e8b8e2ecc0c0c0.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/f8e8b8e2ecc0c0c0.png"
-                }
-            ],
-            "name": "Яйцо куриное 365 ДНЕЙ СО, 30шт",
-            "prices": {
-                "cost": 36999,
-                "costRegular": 38949,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 36999,
-                "priceRegular": 38949
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.7,
-                "votes": 821
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 5,
-                "minSaleQuantity": 1
-            },
-            "slug": "yajjco-kurinoe-365-dnejj-c0-rossiya-30sht",
-            "storeId": 124,
-            "weight": {
-                "gross": 2150,
-                "net": 0,
-                "package": "30шт"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 31,
-            "dimensions": {
-                "height": 70,
-                "length": 295,
-                "width": 255
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 522879,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
-                    "id": 800358,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
-                    "id": 800357,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
-                    "id": 800359,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
-                    "id": 800360,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
-                    "id": 277619,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
-                    "position": 5,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png"
-                }
-            ],
-            "name": "Яйцо куриное ВОЛЖАНИН С1, 30шт",
-            "prices": {
-                "cost": 37999,
-                "costRegular": 39999,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 37999,
-                "priceRegular": 39999
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.3,
-                "votes": 79
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 31,
-                "minSaleQuantity": 1
-            },
-            "slug": "yajjco-kurinoe-volzhanin-s1-rossiya-30sht",
-            "storeId": 124,
-            "weight": {
-                "gross": 1700,
-                "net": 0,
-                "package": "30шт"
             }
         },
         {
@@ -8411,6 +8285,207 @@
             "dimensions": {
                 "height": 70,
                 "length": 300,
+                "width": 300
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 143016,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
+                    "id": 846515,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/66bd9dc8-f114-4156-88b4-8ae81eefed54.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
+                    "id": 602336,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/24ae514a-5327-4b3a-85f9-f1df3a55ffdd.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
+                    "id": 846516,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/3d86f345-9c51-4ccb-9a35-2e8cc2f64ba4.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/143016/f8e8b8e2ecc0c0c0.png",
+                    "id": 23576,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/143016/f8e8b8e2ecc0c0c0.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/143016/f8e8b8e2ecc0c0c0.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/143016/f8e8b8e2ecc0c0c0.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/143016/f8e8b8e2ecc0c0c0.png"
+                }
+            ],
+            "name": "Яйцо куриное 365 ДНЕЙ СО, 30шт",
+            "prices": {
+                "cost": 36999,
+                "costRegular": 38949,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 36999,
+                "priceRegular": 38949
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 822
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 5,
+                "minSaleQuantity": 1
+            },
+            "slug": "yajjco-kurinoe-365-dnejj-c0-rossiya-30sht",
+            "storeId": 124,
+            "weight": {
+                "gross": 2150,
+                "net": 0,
+                "package": "30шт"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 30,
+            "dimensions": {
+                "height": 70,
+                "length": 295,
+                "width": 255
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 522879,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
+                    "id": 800358,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/95c16e0c-4263-420e-b2ad-04969a7db1b5.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
+                    "id": 800357,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/d2108bcf-f742-4be9-9cd4-abd02896c995.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
+                    "id": 800359,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/e20b4195-d7a9-4975-9bfe-b13f92235f20.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
+                    "id": 800360,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/ba9e81db-cc67-4cb8-b7c3-e5acf6e9fb4d.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
+                    "id": 277619,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/522879/d4ab5dd7-70e7-4292-99be-22439169c08a.png"
+                }
+            ],
+            "name": "Яйцо куриное ВОЛЖАНИН С1, 30шт",
+            "prices": {
+                "cost": 37999,
+                "costRegular": 39999,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 37999,
+                "priceRegular": 39999
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 3.8,
+                "votes": 4
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 30,
+                "minSaleQuantity": 1
+            },
+            "slug": "yajjco-kurinoe-volzhanin-s1-rossiya-30sht",
+            "storeId": 124,
+            "weight": {
+                "gross": 1700,
+                "net": 0,
+                "package": "30шт"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 5,
+            "dimensions": {
+                "height": 70,
+                "length": 300,
                 "width": 250
             },
             "features": {
@@ -8569,7 +8644,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.7,
-                "votes": 1352
+                "votes": 1353
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -8598,7 +8673,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 24,
+            "count": 18,
             "dimensions": {
                 "height": 75,
                 "length": 205,
@@ -8664,13 +8739,120 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 24,
+                "maxSaleQuantity": 18,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-volzhanin-s0-rossiya-20sht",
             "storeId": 124,
             "weight": {
                 "gross": 1350,
+                "net": 0,
+                "package": "20шт"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#ff0000",
+                        "title": "Кэшбек 15%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 27,
+            "dimensions": {
+                "height": 75,
+                "length": 205,
+                "width": 250
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 680665,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
+                    "id": 588264,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
+                    "id": 588265,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
+                    "id": 588266,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
+                    "id": 588267,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png"
+                }
+            ],
+            "name": "Яйцо куриное ЛЕНТА FRESH Яркий желток СО, 20шт",
+            "prices": {
+                "cost": 25999,
+                "costRegular": 27369,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 25999,
+                "priceRegular": 27369
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.8,
+                "votes": 373
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 27,
+                "minSaleQuantity": 1
+            },
+            "slug": "yajjco-kurinoe-lenta-fresh-yarkijj-zhelt-so-rossiya-20sht",
+            "storeId": 124,
+            "weight": {
+                "gross": 1400,
                 "net": 0,
                 "package": "20шт"
             }
@@ -8772,13 +8954,6 @@
                 "discount": [],
                 "image": [
                     {
-                        "backgroundColor": "#ff0000",
-                        "title": "Кэшбек 15%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    },
-                    {
                         "backgroundColor": "#1660f3",
                         "title": "Наша марка",
                         "tooltip": {
@@ -8788,107 +8963,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 30,
-            "dimensions": {
-                "height": 75,
-                "length": 205,
-                "width": 250
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 680665,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
-                    "id": 588264,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/fd516e57-07c3-41f8-b49e-ab9ffb5bc7d4.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
-                    "id": 588265,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/33f771b2-2724-4170-ad41-4821b9a8f68b.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
-                    "id": 588266,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/d5d0408a-82f5-4c88-b48b-1312d4a30464.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
-                    "id": 588267,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/680665/18648274-7534-496b-8d0d-0bce5de0827e.png"
-                }
-            ],
-            "name": "Яйцо куриное ЛЕНТА FRESH Яркий желток СО, 20шт",
-            "prices": {
-                "cost": 25999,
-                "costRegular": 27369,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": false,
-                "price": 25999,
-                "priceRegular": 27369
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.8,
-                "votes": 373
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 30,
-                "minSaleQuantity": 1
-            },
-            "slug": "yajjco-kurinoe-lenta-fresh-yarkijj-zhelt-so-rossiya-20sht",
-            "storeId": 124,
-            "weight": {
-                "gross": 1400,
-                "net": 0,
-                "package": "20шт"
-            }
-        },
-        {
-            "badges": {
-                "discount": [],
-                "image": [
-                    {
-                        "backgroundColor": "#1660f3",
-                        "title": "Наша марка",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ]
-            },
-            "chipsPrices": [],
-            "count": 30,
+            "count": 27,
             "dimensions": {
                 "height": 75,
                 "length": 205,
@@ -8963,7 +9038,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 30,
+                "maxSaleQuantity": 27,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-kurinoe-lenta-fresh-selen-jjod-s1-rossiya-20sht",
@@ -9169,11 +9244,193 @@
         },
         {
             "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-25%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 48,
+            "dimensions": {
+                "height": 65,
+                "length": 45,
+                "width": 45
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 556544,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
+                    "id": 701149,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
+                    "id": 701150,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
+                    "id": 701151,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
+                    "id": 701152,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png"
+                }
+            ],
+            "name": "Яйцо шоколадное ZAINI с сюрпризом, 20г",
+            "prices": {
+                "cost": 7499,
+                "costRegular": 9999,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 7499,
+                "priceRegular": 9999
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 3.3,
+                "votes": 51
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 48,
+                "minSaleQuantity": 1
+            },
+            "slug": "shokoladnoe-yajjco-zaini-s-syurprizom-italiya-20g",
+            "storeId": 124,
+            "weight": {
+                "gross": 33,
+                "net": 0,
+                "package": "20г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-23%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 95,
+            "dimensions": {
+                "height": 65,
+                "length": 45,
+                "width": 45
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 669750,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/669750/d15759c2-00b9-45ff-a865-9b7ba9a0cc80.png",
+                    "id": 551316,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/669750/d15759c2-00b9-45ff-a865-9b7ba9a0cc80.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/669750/d15759c2-00b9-45ff-a865-9b7ba9a0cc80.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/669750/d15759c2-00b9-45ff-a865-9b7ba9a0cc80.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/669750/d15759c2-00b9-45ff-a865-9b7ba9a0cc80.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/669750/49fea8a2-de57-4eee-98ee-017b56675ec2.png",
+                    "id": 771927,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/669750/49fea8a2-de57-4eee-98ee-017b56675ec2.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/669750/49fea8a2-de57-4eee-98ee-017b56675ec2.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/669750/49fea8a2-de57-4eee-98ee-017b56675ec2.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/669750/49fea8a2-de57-4eee-98ee-017b56675ec2.png"
+                }
+            ],
+            "name": "Яйцо из глазури ЧЕБУРАШКА с подарком, 20г",
+            "prices": {
+                "cost": 6499,
+                "costRegular": 8420,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 6499,
+                "priceRegular": 8420
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 3.9,
+                "votes": 58
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 95,
+                "minSaleQuantity": 1
+            },
+            "slug": "yajjco-iz-glazuri-cheburashka-s-podarkom-rossiya-20g",
+            "storeId": 124,
+            "weight": {
+                "gross": 33,
+                "net": 0,
+                "package": "20г"
+            }
+        },
+        {
+            "badges": {
                 "discount": [],
                 "image": []
             },
             "chipsPrices": [],
-            "count": 28,
+            "count": 27,
             "dimensions": {
                 "height": 38,
                 "length": 166,
@@ -9275,7 +9532,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 28,
+                "maxSaleQuantity": 27,
                 "minSaleQuantity": 1
             },
             "slug": "yajjco-perepelinoe-eko-pticefabrika-rossiya-20sht",
@@ -9432,107 +9689,7 @@
                 "net": 0,
                 "package": "20г"
             }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-25%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 48,
-            "dimensions": {
-                "height": 65,
-                "length": 45,
-                "width": 45
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": false,
-                "isMercurial": false,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 556544,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
-                    "id": 701149,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/cf36c7d9-4a13-4964-872c-5ab5e31b2238.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
-                    "id": 701150,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/486a7f70-85a3-4b77-a92c-f7b8045beb7e.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
-                    "id": 701151,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/9c0a763e-ad5e-4edf-ab32-e39de6d86356.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
-                    "id": 701152,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png",
-                    "position": 4,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/556544/bdd10d04-2aa6-404c-8112-be1e66155db4.png"
-                }
-            ],
-            "name": "Яйцо шоколадное ZAINI с сюрпризом, 20г",
-            "prices": {
-                "cost": 7499,
-                "costRegular": 9999,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 7499,
-                "priceRegular": 9999
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 3.3,
-                "votes": 51
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 48,
-                "minSaleQuantity": 1
-            },
-            "slug": "shokoladnoe-yajjco-zaini-s-syurprizom-italiya-20g",
-            "storeId": 124,
-            "weight": {
-                "gross": 33,
-                "net": 0,
-                "package": "20г"
-            }
         }
     ],
-    "total": 927
+    "total": 1000
 }

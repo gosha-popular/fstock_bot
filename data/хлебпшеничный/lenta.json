@@ -150,13 +150,13 @@
                 "name": "Бренд",
                 "position": 1,
                 "slug": "brand",
-                "total": 13,
+                "total": 14,
                 "values": [
                     {
                         "id": 10962909,
                         "selected": false,
                         "slug": "lenta-fresh",
-                        "total": 4,
+                        "total": 5,
                         "value": "ЛЕНТА FRESH"
                     },
                     {
@@ -209,7 +209,7 @@
                 "name": "Вес",
                 "position": 2,
                 "slug": "ves",
-                "total": 12,
+                "total": 13,
                 "values": [
                     {
                         "id": 1480792006,
@@ -259,6 +259,13 @@
                         "slug": "350",
                         "total": 1,
                         "value": "350"
+                    },
+                    {
+                        "id": 1480797109,
+                        "selected": false,
+                        "slug": "450",
+                        "total": 1,
+                        "value": "450"
                     }
                 ]
             },
@@ -280,7 +287,7 @@
                     {
                         "id": 7894953,
                         "selected": false,
-                        "slug": "",
+                        "slug": "solod",
                         "total": 1,
                         "value": "Солод"
                     }
@@ -316,13 +323,13 @@
                 "name": "Страна",
                 "position": 5,
                 "slug": "strana",
-                "total": 13,
+                "total": 14,
                 "values": [
                     {
                         "id": 10720646,
                         "selected": false,
                         "slug": "rossiya",
-                        "total": 13,
+                        "total": 14,
                         "value": "Россия"
                     }
                 ]
@@ -337,7 +344,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 13,
+            "count": 8,
             "dimensions": {
                 "height": 75,
                 "length": 70,
@@ -412,7 +419,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 13,
+                "maxSaleQuantity": 8,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-rizhskijj-hleb-borodinskijj-formovojj-iz-smesi-rzhi-pshenichmuki-bdrozhzh-rossiya-300g",
@@ -444,7 +451,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 98,
+            "count": 100,
             "dimensions": {
                 "height": 0,
                 "length": 0,
@@ -519,7 +526,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 98,
+                "maxSaleQuantity": 100,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-pshenichno-rzhanojj-bezdrozhzhevojj-sp-lenta-fresh-rossiya-300g",
@@ -536,7 +543,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 9,
+            "count": 4,
             "dimensions": {
                 "height": 90,
                 "length": 190,
@@ -584,7 +591,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 9,
+                "maxSaleQuantity": 4,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-danilovskijj-rzhano-pshenichnyjj-bezdrozh-nar-rossiya-350g",
@@ -601,7 +608,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 8,
+            "count": 5,
             "dimensions": {
                 "height": 90,
                 "length": 90,
@@ -667,7 +674,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 8,
+                "maxSaleQuantity": 5,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-rizhskijj-hleb-aromatnyjj-pod-po-starrec-iz-smesi-rzhi-pshmuki-zavar-bdrozh-rossiya-300g",
@@ -951,7 +958,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 419
+                "votes": 421
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -972,7 +979,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 9,
+            "count": 4,
             "dimensions": {
                 "height": 120,
                 "length": 100,
@@ -1029,7 +1036,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 9,
+                "maxSaleQuantity": 4,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-kolomenskoe-tostovyjj-pshenichnyjj-rossiya-320g",
@@ -1046,7 +1053,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 49,
+            "count": 41,
             "dimensions": {
                 "height": 140,
                 "length": 130,
@@ -1094,7 +1101,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 49,
+                "maxSaleQuantity": 41,
                 "minSaleQuantity": 1
             },
             "slug": "hleb-harrys-american-sandwich-pshenichnyjj-rossiya-470g",
@@ -1206,7 +1213,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.6,
-                "votes": 1366
+                "votes": 1368
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -1219,6 +1226,113 @@
                 "gross": 300,
                 "net": 0,
                 "package": "300г"
+            }
+        },
+        {
+            "badges": {
+                "discount": [],
+                "image": [
+                    {
+                        "backgroundColor": "#1660f3",
+                        "title": "Наша марка",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    },
+                    {
+                        "backgroundColor": "#ff006f",
+                        "title": "Заказ с 09:00 до 21:00",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ]
+            },
+            "chipsPrices": [],
+            "count": 20,
+            "dimensions": {
+                "height": 0,
+                "length": 0,
+                "width": 0
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": false,
+                "isMercurial": false,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 688683,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/688683/bbb7840f-cc7f-4f10-9ad4-7d20dd9a370a.png",
+                    "id": 887026,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/688683/bbb7840f-cc7f-4f10-9ad4-7d20dd9a370a.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/688683/bbb7840f-cc7f-4f10-9ad4-7d20dd9a370a.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/688683/bbb7840f-cc7f-4f10-9ad4-7d20dd9a370a.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/688683/bbb7840f-cc7f-4f10-9ad4-7d20dd9a370a.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/688683/b49407b6-5f7f-44a1-9673-6ae4e700656d.png",
+                    "id": 887027,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/688683/b49407b6-5f7f-44a1-9673-6ae4e700656d.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/688683/b49407b6-5f7f-44a1-9673-6ae4e700656d.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/688683/b49407b6-5f7f-44a1-9673-6ae4e700656d.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/688683/b49407b6-5f7f-44a1-9673-6ae4e700656d.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/688683/247ac656-17ae-46c9-913c-2596cdf37b39.png",
+                    "id": 887028,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/688683/247ac656-17ae-46c9-913c-2596cdf37b39.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/688683/247ac656-17ae-46c9-913c-2596cdf37b39.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/688683/247ac656-17ae-46c9-913c-2596cdf37b39.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/688683/247ac656-17ae-46c9-913c-2596cdf37b39.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/688683/d82f2495-d0e8-482c-9054-c4266349de44.png",
+                    "id": 887029,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/688683/d82f2495-d0e8-482c-9054-c4266349de44.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/688683/d82f2495-d0e8-482c-9054-c4266349de44.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/688683/d82f2495-d0e8-482c-9054-c4266349de44.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/688683/d82f2495-d0e8-482c-9054-c4266349de44.png"
+                }
+            ],
+            "name": "Хлеб пшеничный формовой ЛЕНТА FRESH 1-й сорт, на закваске, 450г",
+            "prices": {
+                "cost": 4999,
+                "costRegular": 5269,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": false,
+                "price": 4999,
+                "priceRegular": 5269
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.7,
+                "votes": 374
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 20,
+                "minSaleQuantity": 1
+            },
+            "slug": "hleb-pshenichnyjj-formovojj-1-go-sorta-na-zakvaske-sp-lenta-fresh-rossiya-450g",
+            "storeId": 124,
+            "weight": {
+                "gross": 450,
+                "net": 0,
+                "package": "450г"
             }
         },
         {
@@ -1243,7 +1357,7 @@
                 ]
             },
             "chipsPrices": [],
-            "count": 14,
+            "count": 10,
             "dimensions": {
                 "height": 70,
                 "length": 120,
@@ -1300,7 +1414,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 14,
+                "maxSaleQuantity": 10,
                 "minSaleQuantity": 1
             },
             "slug": "baton-kolomenskoe-pshenichnyjj-s-otrubyami-v-up-rossiya-300g",
@@ -1325,7 +1439,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 62,
+            "count": 61,
             "dimensions": {
                 "height": 220,
                 "length": 40,
@@ -1400,7 +1514,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 62,
+                "maxSaleQuantity": 61,
                 "minSaleQuantity": 1
             },
             "slug": "suhariki-hrusteam-baget-krasnaya-ikra-340047278-rossiya-60g",
@@ -1477,5 +1591,5 @@
             }
         }
     ],
-    "total": 13
+    "total": 14
 }

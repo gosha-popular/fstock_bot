@@ -6,5 +6,5 @@ from .channel import router as channel_router
 
 router = Router(name=__name__)
 router.include_routers(
-    user_router, channel_router
+    user_router, channel_router,
 )

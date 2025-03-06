@@ -16,7 +16,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 24076
+                "rates_count": 23591
             },
             "promo": null,
             "prices": {
@@ -44,7 +44,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 25327
+                "rates_count": 25121
             },
             "promo": null,
             "prices": {
@@ -73,7 +73,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 27278
+                "rates_count": 26215
             },
             "promo": null,
             "prices": {
@@ -90,7 +90,7 @@
             ],
             "property_clarification": "450 г",
             "has_age_restriction": false,
-            "stock_limit": "26.00"
+            "stock_limit": "25.00"
         },
         {
             "plu": 3484605,
@@ -108,7 +108,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 24104
+                "rates_count": 23580
             },
             "promo": null,
             "prices": {
@@ -142,7 +142,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 19339
+                "rates_count": 18744
             },
             "promo": null,
             "prices": {
@@ -159,7 +159,7 @@
             ],
             "property_clarification": "370 г",
             "has_age_restriction": false,
-            "stock_limit": "21.00"
+            "stock_limit": "20.00"
         },
         {
             "plu": 3661282,
@@ -176,7 +176,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.89,
-                "rates_count": 12895
+                "rates_count": 12638
             },
             "promo": null,
             "prices": {
@@ -212,7 +212,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.89,
-                "rates_count": 6333
+                "rates_count": 6013
             },
             "promo": null,
             "prices": {
@@ -229,7 +229,7 @@
             ],
             "property_clarification": "400 г",
             "has_age_restriction": false,
-            "stock_limit": "30.00"
+            "stock_limit": "29.00"
         },
         {
             "plu": 4332884,
@@ -246,7 +246,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 22330
+                "rates_count": 21770
             },
             "promo": null,
             "prices": {
@@ -281,7 +281,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 9033
+                "rates_count": 9167
             },
             "promo": null,
             "prices": {
@@ -315,7 +315,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.88,
-                "rates_count": 5767
+                "rates_count": 5574
             },
             "promo": null,
             "prices": {
@@ -349,7 +349,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.88,
-                "rates_count": 5375
+                "rates_count": 5446
             },
             "promo": null,
             "prices": {
@@ -369,40 +369,33 @@
             "stock_limit": "29.00"
         },
         {
-            "plu": 3931387,
-            "name": "Колбаса Велком Телячья вареная 500г",
+            "plu": 3347584,
+            "name": "Колбаса Мясной дом Бородина Докторская вареная 500г",
             "image_links": {
                 "small": [
-                    "https://photos.okolo.app/product/1194773-main/320x320.jpeg?updated_at=2025-02-25T14:26:55.522Z"
+                    "https://photos.okolo.app/product/1166325-main/320x320.jpeg?updated_at=2025-02-25T14:26:50.802Z"
                 ],
                 "normal": [
-                    "https://photos.okolo.app/product/1194773-main/800x800.jpeg?updated_at=2025-02-25T14:26:55.522Z",
-                    "https://photos.okolo.app/product/3102b0a46f013758b36bb462d99f283e-additional/800x800.jpeg",
-                    "https://photos.okolo.app/product/0ceb3ccb09de3afcede894f06813e93e-additional/800x800.jpeg"
+                    "https://photos.okolo.app/product/1166325-main/800x800.jpeg?updated_at=2025-02-25T14:26:50.802Z",
+                    "https://photos.okolo.app/product/d003d44c48ad98a225268f7285997aa1-additional/800x800.jpeg"
                 ]
             },
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.9,
-                "rates_count": 4066
+                "rating_average": 4.86,
+                "rates_count": 3672
             },
             "promo": null,
             "prices": {
-                "regular": "429.99",
-                "discount": "299.99",
+                "regular": "449.99",
+                "discount": null,
                 "cpd_promo_price": null
             },
-            "labels": [
-                {
-                    "label": "-30%",
-                    "bg_color": "#FBAC29",
-                    "text_color": "#130000"
-                }
-            ],
+            "labels": null,
             "property_clarification": "500 г",
             "has_age_restriction": false,
-            "stock_limit": "7.00"
+            "stock_limit": "5.00"
         }
     ],
     "categories": [

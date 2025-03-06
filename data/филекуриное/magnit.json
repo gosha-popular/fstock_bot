@@ -24,15 +24,15 @@
             "productId": "1000233462",
             "promotion": {
                 "discountPercent": null,
-                "endDate": "2025-03-10T23:59:59Z",
+                "endDate": "2025-03-17T23:59:59Z",
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 37827,
+            "quantity": 16190,
             "ratings": {
-                "commentsCount": 2111,
+                "commentsCount": 2113,
                 "rating": 4.6,
-                "scoresCount": 44669
+                "scoresCount": 44684
             },
             "seoCode": "file_tsb_okhl_lotok_1_kg_v_lotok_ooo_soyuzptitseprom_5",
             "service": "core_gm",
@@ -46,51 +46,6 @@
                 "step": 900,
                 "unitLabel": "1кг",
                 "unitPrice": 36999
-            }
-        },
-        {
-            "badges": [],
-            "catalogType": "1",
-            "gallery": [
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/porpOFhesRfRJ7z0xhHuOKsGTLPrgr_QImrepcQHMuQ/rs:fit:416:416/plain/s3://img-dostavka/uf/4cc/4cc6c94245347c3e4cb883238dd2f696/12d2e5ae38bc6b1d65584318d26f22a4.jpeg@webp"
-                }
-            ],
-            "id": "1000233459",
-            "isForAdults": false,
-            "isInFavorites": null,
-            "isLowStock": false,
-            "name": "Грудка цыпленка-бройлера в ассортименте",
-            "needPassport": false,
-            "orders": null,
-            "pickupOnly": false,
-            "price": 33598,
-            "productId": "1000233459",
-            "promotion": {
-                "discountPercent": null,
-                "endDate": "2025-04-09T23:59:59Z",
-                "isPromotion": true,
-                "oldPrice": null
-            },
-            "quantity": 4358,
-            "ratings": {
-                "commentsCount": 570,
-                "rating": 4.6,
-                "scoresCount": 12323
-            },
-            "seoCode": "grudka_tsb_okhl_lotok_1_kg_v_lotok_ooo_soyuzptitseprom_5",
-            "service": "core_gm",
-            "skuGroupId": null,
-            "storeCode": "992301",
-            "weighted": {
-                "isWeighted": true,
-                "minStep": 1,
-                "shelfLabel": "1.20кг",
-                "shelfWeight": 1200,
-                "step": 1200,
-                "unitLabel": "1кг",
-                "unitPrice": 27999
             }
         },
         {
@@ -171,11 +126,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 4527,
+            "quantity": 2813,
             "ratings": {
                 "commentsCount": 183,
                 "rating": 4.6,
-                "scoresCount": 3294
+                "scoresCount": 3299
             },
             "seoCode": "file-grudki-petelinka-bez-kozhi",
             "service": "core_gm",
@@ -220,11 +175,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 43,
+            "quantity": 41,
             "ratings": {
                 "commentsCount": 42,
                 "rating": 4.9,
-                "scoresCount": 1063
+                "scoresCount": 1064
             },
             "seoCode": "sukhaya_smes_maggi_na_vtoroe_dlya_nezhnogo_file_kurinoy_grudki_po_italyanski_30_6g",
             "service": "core_gm",
@@ -265,7 +220,7 @@
                 "isPromotion": true,
                 "oldPrice": 18899
             },
-            "quantity": 19289,
+            "quantity": 17943,
             "ratings": {
                 "commentsCount": 20,
                 "rating": 4.6,
@@ -283,59 +238,6 @@
                 "step": 300,
                 "unitLabel": "1кг",
                 "unitPrice": 29990
-            }
-        },
-        {
-            "badges": [],
-            "catalogType": "1",
-            "gallery": [
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/PVtW1sLs5_x4TwVZdjnFrJ_dftDUqsk7LFO7FnwxOyU/rs:fit:416:416/plain/s3://img-dostavka/uf/387/387d5ab14b6e1959d58d17de5f620b06/767e1d4ecead1fd3e1b16e1d3d321844.jpeg@webp"
-                },
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/oRpAumpAhgqKNCTIcGVGqly7K8VSdMtChOgmmDLHUmo/rs:fit:416:416/plain/s3://img-dostavka/uf/e2e/e2e3abb854e4a7ca4db8aa5b2ada7662/21fd9b3785e0397555421cd70652ddc6.png@webp"
-                },
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/sCs6a3M394M973mHfN2jLiWrE8Kiko6EXz4-yhndKns/rs:fit:416:416/plain/s3://img-dostavka/uf/9b1/9b139770c766e865a2b7db93c49c6ffb/98ed2955ea4ca77e0fb48b702bb4e6e8.png@webp"
-                }
-            ],
-            "id": "1999900091",
-            "isForAdults": false,
-            "isInFavorites": null,
-            "isLowStock": false,
-            "name": "Грудка цыплят гриль",
-            "needPassport": false,
-            "orders": null,
-            "pickupOnly": false,
-            "price": 17497,
-            "productId": "1999900091",
-            "promotion": {
-                "discountPercent": null,
-                "endDate": null,
-                "isPromotion": false,
-                "oldPrice": null
-            },
-            "quantity": 0,
-            "ratings": {
-                "commentsCount": 19,
-                "rating": 4.5,
-                "scoresCount": 353
-            },
-            "seoCode": "grudka_tsyplyat_gril_sp_gm",
-            "service": "core_gm",
-            "skuGroupId": null,
-            "storeCode": "992301",
-            "weighted": {
-                "isWeighted": true,
-                "minStep": 1,
-                "shelfLabel": "250г",
-                "shelfWeight": 250,
-                "step": 250,
-                "unitLabel": "1кг",
-                "unitPrice": 69990
             }
         },
         {
@@ -420,7 +322,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 11360,
+            "quantity": 10515,
             "ratings": {
                 "commentsCount": 7,
                 "rating": 4.6,
@@ -487,59 +389,6 @@
             "gallery": [
                 {
                     "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/g6J40Y0l7F6ziSgx-regiSwbCpmZEr5dA3jyTwU25z0/rs:fit:416:416/plain/s3://img-dostavka/uf/17e/17e3f1a79ea01d971066cd3fa2d4088a/ae7fb1552f7573f9b00b4e38b418eeb3.jpeg@webp"
-                },
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/wEv870-rH5qxpgKniLjfpLXiN0zC4eRWhknQ4IG9SLw/rs:fit:416:416/plain/s3://img-dostavka/uf/994/994c63ed5cccefe456f54bd24c8296b5/c3a3792a3694ccf7818700609a377d75.jpeg@webp"
-                },
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/1Kx7VkoqxalXAjV8grs_q2wtti_H_SY-wzY8etOYrJU/rs:fit:416:416/plain/s3://img-dostavka/uf/08b/08b952ce79ebd86bcdd23ada8cd9d6cf/92efbd3ae73a378eb3b7d27f46a8b21b.jpeg@webp"
-                }
-            ],
-            "id": "1000308161",
-            "isForAdults": false,
-            "isInFavorites": null,
-            "isLowStock": false,
-            "name": "Филе куриное в кляре",
-            "needPassport": false,
-            "orders": null,
-            "pickupOnly": false,
-            "price": 21998,
-            "productId": "1000308161",
-            "promotion": {
-                "discountPercent": null,
-                "endDate": null,
-                "isPromotion": false,
-                "oldPrice": null
-            },
-            "quantity": 0,
-            "ratings": {
-                "commentsCount": 3,
-                "rating": 4.5,
-                "scoresCount": 49
-            },
-            "seoCode": "file_kurinoe_v_klyare_kulinariya",
-            "service": "core_gm",
-            "skuGroupId": null,
-            "storeCode": "992301",
-            "weighted": {
-                "isWeighted": true,
-                "minStep": 1,
-                "shelfLabel": "200г",
-                "shelfWeight": 200,
-                "step": 200,
-                "unitLabel": "1кг",
-                "unitPrice": 109990
-            }
-        },
-        {
-            "badges": [],
-            "catalogType": "1",
-            "gallery": [
-                {
-                    "type": "IMAGE",
                     "url": "https://images-foodtech.magnit.ru/mBA9u2UOdnXssDl_mzP6Tc5lNgb7PuiO5TDF_9dVbdc/rs:fit:416:416/plain/s3://img-dostavka/uf/e74/e74356cf3e927b32f964d46c8ca32cbe/90d910159182301cbccb8ae55cd6bd29.jpeg@webp"
                 }
             ],
@@ -559,7 +408,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 14,
+            "quantity": 13,
             "ratings": {
                 "commentsCount": 10,
                 "rating": 4.2,
@@ -638,59 +487,6 @@
             "gallery": [
                 {
                     "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/eg79w74upfB3WBlX0CNtwdVOiNtR7oTSKzWaIX5Z970/rs:fit:416:416/plain/s3://img-dostavka/uf/7cc/7cced05c11e18058127869cc1d2c27ee/5fa557e7a752993e1a4439a82668d460.jpeg@webp"
-                },
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/4cP6to8KSh_bgEgBn879HhUP8sJjN_npDsfauMlIgsc/rs:fit:416:416/plain/s3://img-dostavka/uf/baa/baaddfccb81edbd70b42a18ec87979d9/89dd537c9b4495166ec98414c6b24924.jpeg@webp"
-                },
-                {
-                    "type": "IMAGE",
-                    "url": "https://images-foodtech.magnit.ru/YpQxoH6rg4kiD7XhM6bXs7pSKxyHafjBZH9w3m8JWO8/rs:fit:416:416/plain/s3://img-dostavka/uf/7ea/7eaaad76768f00addd85510b6e5c2d61/cdf00bda5025c3098442d8f0fdb559a4.jpeg@webp"
-                }
-            ],
-            "id": "1000424781",
-            "isForAdults": false,
-            "isInFavorites": null,
-            "isLowStock": false,
-            "name": "Филе куриное Огонёк",
-            "needPassport": false,
-            "orders": null,
-            "pickupOnly": false,
-            "price": 22497,
-            "productId": "1000424781",
-            "promotion": {
-                "discountPercent": null,
-                "endDate": null,
-                "isPromotion": false,
-                "oldPrice": null
-            },
-            "quantity": 0,
-            "ratings": {
-                "commentsCount": 20,
-                "rating": 4.5,
-                "scoresCount": 188
-            },
-            "seoCode": "file_kurinoe_ogonyek_kulinariya",
-            "service": "core_gm",
-            "skuGroupId": null,
-            "storeCode": "992301",
-            "weighted": {
-                "isWeighted": true,
-                "minStep": 1,
-                "shelfLabel": "250г",
-                "shelfWeight": 250,
-                "step": 250,
-                "unitLabel": "1кг",
-                "unitPrice": 89990
-            }
-        },
-        {
-            "badges": [],
-            "catalogType": "1",
-            "gallery": [
-                {
-                    "type": "IMAGE",
                     "url": "https://images-foodtech.magnit.ru/bVbtCDu1Smx1Dge9jQLHRRdR0VGrNg8KuM7eEy3XWic/rs:fit:416:416/plain/s3://img-dostavka/uf/bb8/bb8e2eafd20e32e920a1eda751a0f527/e923f5ec450b7a0fa0dcb06cf8eb0f56.jpeg@webp"
                 }
             ],
@@ -710,7 +506,7 @@
                 "isPromotion": true,
                 "oldPrice": 25999
             },
-            "quantity": 11,
+            "quantity": 10,
             "ratings": {
                 "commentsCount": 13,
                 "rating": 4.6,
@@ -755,7 +551,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 43,
+            "quantity": 37,
             "ratings": {
                 "commentsCount": 221,
                 "rating": 4.7,
@@ -780,7 +576,7 @@
         "hasMore": false,
         "limit": 36,
         "offset": 0,
-        "totalCount": 16
+        "totalCount": 12
     },
     "term": "филе куриное"
 }

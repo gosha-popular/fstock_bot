@@ -19,7 +19,7 @@
                 "url": "/catalog/bakaleya/krupy-bobovye/%D0%A6%D0%A20042599/",
                 "ratio": 1,
                 "src": "/upload/iblock/b90/bvos3ypkoa1fewdcbn9d77wt9e77cv51.webp",
-                "amount": 65,
+                "amount": 64,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -62,7 +62,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "224405 1 65 шт 0",
+                "bskFields": "224405 1 64 шт 0",
                 "status": "in-time",
                 "oldPrice": "139.<span>90</span><span class='rub'>руб.</span>",
                 "price": "94.<span>99</span><span class='rub'>руб.</span>",
@@ -137,7 +137,7 @@
                 "url": "/catalog/bakaleya/krupy-bobovye/2000539995/",
                 "ratio": 1,
                 "src": "/upload/iblock/b38/x2ekok5qd9mwatka63rziqhvw816gdox.webp",
-                "amount": 26,
+                "amount": 25,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -171,7 +171,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "219264 1 26 шт 0",
+                "bskFields": "219264 1 25 шт 0",
                 "status": "in-time",
                 "oldPrice": "89.<span>99</span><span class='rub'>руб.</span>",
                 "price": "69.<span>99</span><span class='rub'>руб.</span>",

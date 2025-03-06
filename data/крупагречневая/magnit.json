@@ -20,19 +20,19 @@
             "needPassport": false,
             "orders": null,
             "pickupOnly": false,
-            "price": 3489,
+            "price": 3299,
             "productId": "3152910002",
             "promotion": {
                 "discountPercent": null,
-                "endDate": "2025-03-10T23:59:59Z",
+                "endDate": "2025-03-17T23:59:59Z",
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 57,
+            "quantity": 47,
             "ratings": {
                 "commentsCount": 601,
                 "rating": 4.7,
-                "scoresCount": 15195
+                "scoresCount": 15203
             },
             "seoCode": "krupa_grechnevaya_1_sort_fasovannaya_800g",
             "service": "core_gm",
@@ -89,7 +89,7 @@
                 "isPromotion": true,
                 "oldPrice": 14499
             },
-            "quantity": 73,
+            "quantity": 71,
             "ratings": {
                 "commentsCount": 117,
                 "rating": 4.7,
@@ -150,11 +150,11 @@
                 "isPromotion": true,
                 "oldPrice": 11999
             },
-            "quantity": 251,
+            "quantity": 244,
             "ratings": {
                 "commentsCount": 220,
                 "rating": 4.8,
-                "scoresCount": 5344
+                "scoresCount": 5350
             },
             "seoCode": "krupa_grechnevaya_uvelka_ekstra_5pak_kh80g",
             "service": "core_gm",
@@ -219,7 +219,7 @@
                 "isPromotion": true,
                 "oldPrice": 10939
             },
-            "quantity": 40,
+            "quantity": 39,
             "ratings": {
                 "commentsCount": 9,
                 "rating": 4.7,
@@ -264,7 +264,7 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 73,
+            "quantity": 72,
             "ratings": {
                 "commentsCount": 109,
                 "rating": 4.7,
@@ -317,11 +317,11 @@
                 "isPromotion": true,
                 "oldPrice": 11999
             },
-            "quantity": 49,
+            "quantity": 47,
             "ratings": {
                 "commentsCount": 48,
                 "rating": 4.8,
-                "scoresCount": 1620
+                "scoresCount": 1623
             },
             "seoCode": "makfa_krupa_grechnevaya_yadritsa_800g_p_up_makfa_6",
             "service": "core_gm",
@@ -374,7 +374,7 @@
                 "isPromotion": true,
                 "oldPrice": 8599
             },
-            "quantity": 48,
+            "quantity": 45,
             "ratings": {
                 "commentsCount": 52,
                 "rating": 4.8,
@@ -427,11 +427,11 @@
                 "isPromotion": true,
                 "oldPrice": 12299
             },
-            "quantity": 44,
+            "quantity": 43,
             "ratings": {
                 "commentsCount": 66,
                 "rating": 4.8,
-                "scoresCount": 1343
+                "scoresCount": 1346
             },
             "seoCode": "grechnevaya_krupa_agro_alyans_elitnaya_900g",
             "service": "core_gm",
@@ -537,7 +537,7 @@
             "ratings": {
                 "commentsCount": 33,
                 "rating": 4.8,
-                "scoresCount": 712
+                "scoresCount": 713
             },
             "seoCode": "grechka_yadritsa_mistral_900g",
             "service": "core_gm",
@@ -651,7 +651,7 @@
                 "isPromotion": true,
                 "oldPrice": 10299
             },
-            "quantity": 27,
+            "quantity": 26,
             "ratings": {
                 "commentsCount": 6,
                 "rating": 4.7,
@@ -704,7 +704,7 @@
                 "isPromotion": true,
                 "oldPrice": 11399
             },
-            "quantity": 13,
+            "quantity": 12,
             "ratings": {
                 "commentsCount": 1,
                 "rating": 4.8,

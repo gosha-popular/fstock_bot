@@ -30,6 +30,20 @@
         },
         {
             "badges": [],
+            "hasChildren": false,
+            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13615/icon/027cfa44d400ca1a.png",
+            "id": 13615,
+            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13615/image/a3283bd2f0250886.png",
+            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13615/image_web/b09a29904eb425de.png",
+            "isAdult": false,
+            "level": 2,
+            "name": "Без лактозы",
+            "parentId": 1879,
+            "parentName": "Здоровое питание",
+            "slug": "bez-laktozy"
+        },
+        {
+            "badges": [],
             "hasChildren": true,
             "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/17390/icon/586f23ca45a873d7.png",
             "id": 17390,
@@ -55,20 +69,6 @@
             "parentId": 19327,
             "parentName": "Детское питание",
             "slug": "detskoe-moloko"
-        },
-        {
-            "badges": [],
-            "hasChildren": false,
-            "iconUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13615/icon/027cfa44d400ca1a.png",
-            "id": 13615,
-            "imageUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13615/image/a3283bd2f0250886.png",
-            "imageWebUrl": "https://cdn.lentochka.lenta.com/resample/0x0/category_images_v2/13615/image_web/b09a29904eb425de.png",
-            "isAdult": false,
-            "level": 2,
-            "name": "Без лактозы",
-            "parentId": 1879,
-            "parentName": "Здоровое питание",
-            "slug": "bez-laktozy"
         },
         {
             "badges": [],
@@ -108,7 +108,7 @@
                 "name": "Бренд",
                 "position": 1,
                 "slug": "brand",
-                "total": 58,
+                "total": 57,
                 "values": [
                     {
                         "id": 10757316,
@@ -174,23 +174,16 @@
                         "value": "BONVIDA"
                     },
                     {
-                        "id": 10792663,
-                        "selected": false,
-                        "slug": "vologzhanka",
-                        "total": 2,
-                        "value": "ВОЛОГЖАНКА"
-                    },
-                    {
                         "id": 10721105,
                         "selected": false,
-                        "slug": "",
+                        "slug": "lenta",
                         "total": 2,
                         "value": "ЛЕНТА"
                     },
                     {
                         "id": 10893404,
                         "selected": false,
-                        "slug": "",
+                        "slug": "lenta-life",
                         "total": 2,
                         "value": "ЛЕНТА LIFE"
                     },
@@ -244,6 +237,13 @@
                         "value": "БМК"
                     },
                     {
+                        "id": 10792663,
+                        "selected": false,
+                        "slug": "vologzhanka",
+                        "total": 1,
+                        "value": "ВОЛОГЖАНКА"
+                    },
+                    {
                         "id": 10808039,
                         "selected": false,
                         "slug": "volshebnaya-dolina",
@@ -281,7 +281,7 @@
                     {
                         "id": 10734322,
                         "selected": false,
-                        "slug": "",
+                        "slug": "frutonyanya",
                         "total": 1,
                         "value": "ФРУТОНЯНЯ"
                     }
@@ -293,7 +293,7 @@
                 "name": "Вес",
                 "position": 2,
                 "slug": "ves",
-                "total": 58,
+                "total": 57,
                 "values": [
                     {
                         "id": 1480811361,
@@ -324,13 +324,6 @@
                         "value": "925"
                     },
                     {
-                        "id": 1481008807,
-                        "selected": false,
-                        "slug": "1030",
-                        "total": 3,
-                        "value": "1030"
-                    },
-                    {
                         "id": 1481077970,
                         "selected": false,
                         "slug": "970",
@@ -357,6 +350,13 @@
                         "slug": "1028",
                         "total": 2,
                         "value": "1028"
+                    },
+                    {
+                        "id": 1481008807,
+                        "selected": false,
+                        "slug": "1030",
+                        "total": 2,
+                        "value": "1030"
                     },
                     {
                         "id": 1482522933,
@@ -411,7 +411,7 @@
                 "name": "Жирность, %",
                 "position": 4,
                 "slug": "zhirnost",
-                "total": 58,
+                "total": 57,
                 "values": [
                     {
                         "id": 6747677,
@@ -424,7 +424,7 @@
                         "id": 6846549,
                         "selected": false,
                         "slug": "25",
-                        "total": 16,
+                        "total": 15,
                         "value": "2,5"
                     },
                     {
@@ -484,13 +484,13 @@
                 "name": "Страна",
                 "position": 5,
                 "slug": "strana",
-                "total": 58,
+                "total": 57,
                 "values": [
                     {
                         "id": 10720646,
                         "selected": false,
                         "slug": "rossiya",
-                        "total": 58,
+                        "total": 57,
                         "value": "Россия"
                     }
                 ]
@@ -566,8 +566,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 5,
-                "votes": 4
+                "rate": 4.7,
+                "votes": 19
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -771,97 +771,6 @@
                 "gross": 1050,
                 "net": 0,
                 "package": "975мл"
-            }
-        },
-        {
-            "badges": {
-                "discount": [
-                    {
-                        "backgroundColor": "#ef4544",
-                        "title": "-20%",
-                        "tooltip": {
-                            "description": ""
-                        }
-                    }
-                ],
-                "image": []
-            },
-            "chipsPrices": [],
-            "count": 3,
-            "dimensions": {
-                "height": 210,
-                "length": 58,
-                "width": 90
-            },
-            "features": {
-                "isAdult": false,
-                "isAlcohol": false,
-                "isBlockedForSale": false,
-                "isFavorite": false,
-                "isMarkType": true,
-                "isMercurial": true,
-                "isOnlyPickup": false,
-                "isPartner": false,
-                "isPromo": false,
-                "isPurchased": false,
-                "isTobacco": false,
-                "isWeight": false
-            },
-            "id": 728652,
-            "images": [
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/728652/7dd7c334-12b2-4fe7-9aa3-54c5110048a6.png",
-                    "id": 857122,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/728652/7dd7c334-12b2-4fe7-9aa3-54c5110048a6.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/728652/7dd7c334-12b2-4fe7-9aa3-54c5110048a6.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/728652/7dd7c334-12b2-4fe7-9aa3-54c5110048a6.png",
-                    "position": 1,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/728652/7dd7c334-12b2-4fe7-9aa3-54c5110048a6.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/728652/f2caece2-6b8f-4d74-8c9b-83f818aecb37.png",
-                    "id": 857121,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/728652/f2caece2-6b8f-4d74-8c9b-83f818aecb37.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/728652/f2caece2-6b8f-4d74-8c9b-83f818aecb37.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/728652/f2caece2-6b8f-4d74-8c9b-83f818aecb37.png",
-                    "position": 2,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/728652/f2caece2-6b8f-4d74-8c9b-83f818aecb37.png"
-                },
-                {
-                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/728652/0bd9d654-c60c-4e70-b5de-8d174517b32e.png",
-                    "id": 857123,
-                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/728652/0bd9d654-c60c-4e70-b5de-8d174517b32e.png",
-                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/728652/0bd9d654-c60c-4e70-b5de-8d174517b32e.png",
-                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/728652/0bd9d654-c60c-4e70-b5de-8d174517b32e.png",
-                    "position": 3,
-                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/728652/0bd9d654-c60c-4e70-b5de-8d174517b32e.png"
-                }
-            ],
-            "name": "Молоко ультрапастеризованное ВОЛОГЖАНКА 2,5%, без змж, 1000мл",
-            "prices": {
-                "cost": 7999,
-                "costRegular": 9999,
-                "isLoyaltyCardPrice": true,
-                "isPromoactionPrice": true,
-                "price": 7999,
-                "priceRegular": 9999
-            },
-            "quantityDiscount": [],
-            "rating": {
-                "rate": 4.6,
-                "votes": 9
-            },
-            "saleLimit": {
-                "foldQuantity": 1,
-                "maxSaleQuantity": 3,
-                "minSaleQuantity": 1
-            },
-            "slug": "moloko-vologzhanka-upast-25-bez-zmzh-rossiya-1000ml",
-            "storeId": 124,
-            "weight": {
-                "gross": 1060,
-                "net": 0,
-                "package": "1000мл"
             }
         },
         {
@@ -1997,7 +1906,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 64
+                "votes": 65
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -2227,7 +2136,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 34,
+            "count": 31,
             "dimensions": {
                 "height": 190,
                 "length": 90,
@@ -2311,7 +2220,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 34,
+                "maxSaleQuantity": 31,
                 "minSaleQuantity": 1
             },
             "slug": "moloko-prostokvashino-bezlaktoznoe-ultrapast-15-bez-zmzh-rossiya-970ml",
@@ -2534,7 +2443,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.8,
-                "votes": 44
+                "votes": 45
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -2898,8 +2807,8 @@
             },
             "quantityDiscount": [],
             "rating": {
-                "rate": 4.7,
-                "votes": 36
+                "rate": 4.8,
+                "votes": 230
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -3328,7 +3237,7 @@
                 "image": []
             },
             "chipsPrices": [],
-            "count": 7,
+            "count": 6,
             "dimensions": {
                 "height": 166,
                 "length": 63,
@@ -3385,7 +3294,7 @@
             },
             "saleLimit": {
                 "foldQuantity": 1,
-                "maxSaleQuantity": 7,
+                "maxSaleQuantity": 6,
                 "minSaleQuantity": 1
             },
             "slug": "moloko-vybor-semi-upaster-32-bez-zmzh-rossiya-1000g",
@@ -4116,7 +4025,7 @@
             "quantityDiscount": [],
             "rating": {
                 "rate": 4.9,
-                "votes": 575
+                "votes": 577
             },
             "saleLimit": {
                 "foldQuantity": 1,
@@ -4457,7 +4366,116 @@
                 "net": 0,
                 "package": "950мл"
             }
+        },
+        {
+            "badges": {
+                "discount": [
+                    {
+                        "backgroundColor": "#ef4544",
+                        "title": "-20%",
+                        "tooltip": {
+                            "description": ""
+                        }
+                    }
+                ],
+                "image": []
+            },
+            "chipsPrices": [],
+            "count": 14,
+            "dimensions": {
+                "height": 205,
+                "length": 72,
+                "width": 71
+            },
+            "features": {
+                "isAdult": false,
+                "isAlcohol": false,
+                "isBlockedForSale": false,
+                "isFavorite": false,
+                "isMarkType": true,
+                "isMercurial": true,
+                "isOnlyPickup": false,
+                "isPartner": false,
+                "isPromo": false,
+                "isPurchased": false,
+                "isTobacco": false,
+                "isWeight": false
+            },
+            "id": 624988,
+            "images": [
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/624988/232bac7e-b503-4b4d-a1e0-f4f005cf7fef.png",
+                    "id": 596896,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/624988/232bac7e-b503-4b4d-a1e0-f4f005cf7fef.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/624988/232bac7e-b503-4b4d-a1e0-f4f005cf7fef.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/624988/232bac7e-b503-4b4d-a1e0-f4f005cf7fef.png",
+                    "position": 1,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/624988/232bac7e-b503-4b4d-a1e0-f4f005cf7fef.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/624988/10947da0-8383-4823-a1b6-8451b5332ff7.png",
+                    "id": 596900,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/624988/10947da0-8383-4823-a1b6-8451b5332ff7.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/624988/10947da0-8383-4823-a1b6-8451b5332ff7.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/624988/10947da0-8383-4823-a1b6-8451b5332ff7.png",
+                    "position": 2,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/624988/10947da0-8383-4823-a1b6-8451b5332ff7.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/624988/f2567538-2fd4-4780-91a7-ae61ff979c6b.png",
+                    "id": 596897,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/624988/f2567538-2fd4-4780-91a7-ae61ff979c6b.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/624988/f2567538-2fd4-4780-91a7-ae61ff979c6b.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/624988/f2567538-2fd4-4780-91a7-ae61ff979c6b.png",
+                    "position": 3,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/624988/f2567538-2fd4-4780-91a7-ae61ff979c6b.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/624988/158c7e1f-5923-4b34-b4f7-a89c7ceb1b58.png",
+                    "id": 596898,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/624988/158c7e1f-5923-4b34-b4f7-a89c7ceb1b58.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/624988/158c7e1f-5923-4b34-b4f7-a89c7ceb1b58.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/624988/158c7e1f-5923-4b34-b4f7-a89c7ceb1b58.png",
+                    "position": 4,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/624988/158c7e1f-5923-4b34-b4f7-a89c7ceb1b58.png"
+                },
+                {
+                    "icon": "https://cdn.lentochka.lenta.com/resample/webp/100x100/photo/624988/fb844f47-4ae4-47db-bbd7-92f842f22b6e.png",
+                    "id": 596899,
+                    "large": "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/624988/fb844f47-4ae4-47db-bbd7-92f842f22b6e.png",
+                    "medium": "https://cdn.lentochka.lenta.com/resample/webp/500x500/photo/624988/fb844f47-4ae4-47db-bbd7-92f842f22b6e.png",
+                    "original": "https://cdn.lentochka.lenta.com/resample/webp/0x0/photo/624988/fb844f47-4ae4-47db-bbd7-92f842f22b6e.png",
+                    "position": 5,
+                    "preview": "https://cdn.lentochka.lenta.com/resample/webp/250x250/photo/624988/fb844f47-4ae4-47db-bbd7-92f842f22b6e.png"
+                }
+            ],
+            "name": "Молоко ультрапастеризованное PARMALAT Comfort безлактозное 0,05%, без змж, 1000мл",
+            "prices": {
+                "cost": 15999,
+                "costRegular": 19999,
+                "isLoyaltyCardPrice": true,
+                "isPromoactionPrice": true,
+                "price": 15999,
+                "priceRegular": 19999
+            },
+            "quantityDiscount": [],
+            "rating": {
+                "rate": 4.2,
+                "votes": 29
+            },
+            "saleLimit": {
+                "foldQuantity": 1,
+                "maxSaleQuantity": 14,
+                "minSaleQuantity": 1
+            },
+            "slug": "moloko-parmalat-comfort-bezlaktoznoe-upast-005-bez-zmzh-rossiya-1000ml",
+            "storeId": 124,
+            "weight": {
+                "gross": 1060,
+                "net": 0,
+                "package": "1000мл"
+            }
         }
     ],
-    "total": 58
+    "total": 57
 }

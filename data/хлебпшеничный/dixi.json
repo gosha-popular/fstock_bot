@@ -3,11 +3,11 @@
         "title": null,
         "class": null,
         "pagenData": {
-            "element_count": "11",
+            "element_count": "10",
             "page": 1,
             "pages_count": 1,
             "page_size": 30,
-            "pagen_text": "Показать ещё -19 товаров",
+            "pagen_text": "Показать ещё -20 товаров",
             "isLastPage": true
         },
         "cards": [
@@ -172,57 +172,6 @@
                 "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
             },
             {
-                "id": "233611",
-                "xml_id": "2000580171",
-                "title": "Хлеб Пролетарец Пшеничный 500 г",
-                "weight": "501 гр",
-                "url": "/catalog/khleb-i-vypechka/belyy-khleb/2000580171/",
-                "ratio": 1,
-                "src": "/upload/iblock/1d2/50hnslyedvkecpuytxheub12weimo6lj.webp",
-                "amount": 1,
-                "symbol": "шт",
-                "quantity": 0,
-                "bskState": [
-                    "not"
-                ],
-                "hideAlko": false,
-                "canBeFavoriteListing": false,
-                "canBeFavorite": false,
-                "bs-not": true,
-                "bs-in": false,
-                "bs-del": false,
-                "bs-limit": false,
-                "tpl_path": "/local/templates/dixy_ru",
-                "section": "Белый хлеб",
-                "parent_section": "Хлеб и выпечка",
-                "index": 4,
-                "variant": "штучный",
-                "store": {
-                    "storeAddress": null
-                },
-                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
-                "previews": [
-                    {
-                        "src": "/upload/iblock/1d2/50hnslyedvkecpuytxheub12weimo6lj.webp"
-                    },
-                    {
-                        "src": "/upload/iblock/37b/7ucculgba2hbgkj38h7yo0hjrrh2yfpm.webp"
-                    }
-                ],
-                "details": {
-                    "src": "/local/templates/dixy_ru/images/img-product.webp"
-                },
-                "canBuy": true,
-                "bskFields": "233611 1 1 шт 0",
-                "price": "39.<span>99</span><span class='rub'>руб.</span>",
-                "crossPrice": false,
-                "priceSimple": "39.99",
-                "oldPriceSimple": "0.00",
-                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
-            },
-            {
                 "id": "227592",
                 "xml_id": "2000211329",
                 "title": "Лепешки пшеничные Mission Deli Тортильи оригинальные, 250 г",
@@ -246,7 +195,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Лепешки, лаваш",
                 "parent_section": "Хлеб и выпечка",
-                "index": 5,
+                "index": 4,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -281,7 +230,53 @@
                 "url": "/catalog/khleb-i-vypechka/belyy-khleb/2000410110/",
                 "ratio": 1,
                 "src": "/upload/iblock/0f0/400t8vs8aho04m0rl3x7r3morur88vz5.webp",
-                "amount": 6,
+                "amount": 5,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Белый хлеб",
+                "parent_section": "Хлеб и выпечка",
+                "index": 5,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/0f0/400t8vs8aho04m0rl3x7r3morur88vz5.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "230837 1 5 шт 0",
+                "price": "69.<span>99</span><span class='rub'>руб.</span>",
+                "crossPrice": false,
+                "priceSimple": "69.99",
+                "oldPriceSimple": "0.00",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "231301",
+                "xml_id": "2000539394",
+                "title": "Хлеб Вкусно и просто Тостовый пшеничный 320г",
+                "weight": "320 гр",
+                "url": "/catalog/khleb-i-vypechka/belyy-khleb/2000539394/",
+                "ratio": 1,
+                "src": "/upload/iblock/f33/yyps2y2930aboznw3xibuvj0z3jvh4s5.webp",
+                "amount": 1,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -304,59 +299,13 @@
                 },
                 "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
                 "previews": {
-                    "src": "/upload/iblock/0f0/400t8vs8aho04m0rl3x7r3morur88vz5.webp"
-                },
-                "details": {
-                    "src": "/local/templates/dixy_ru/images/img-product.webp"
-                },
-                "canBuy": true,
-                "bskFields": "230837 1 6 шт 0",
-                "price": "69.<span>99</span><span class='rub'>руб.</span>",
-                "crossPrice": false,
-                "priceSimple": "69.99",
-                "oldPriceSimple": "0.00",
-                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
-            },
-            {
-                "id": "231301",
-                "xml_id": "2000539394",
-                "title": "Хлеб Вкусно и просто Тостовый пшеничный 320г",
-                "weight": "320 гр",
-                "url": "/catalog/khleb-i-vypechka/belyy-khleb/2000539394/",
-                "ratio": 1,
-                "src": "/upload/iblock/f33/yyps2y2930aboznw3xibuvj0z3jvh4s5.webp",
-                "amount": 2,
-                "symbol": "шт",
-                "quantity": 0,
-                "bskState": [
-                    "not"
-                ],
-                "hideAlko": false,
-                "canBeFavoriteListing": false,
-                "canBeFavorite": false,
-                "bs-not": true,
-                "bs-in": false,
-                "bs-del": false,
-                "bs-limit": false,
-                "tpl_path": "/local/templates/dixy_ru",
-                "section": "Белый хлеб",
-                "parent_section": "Хлеб и выпечка",
-                "index": 7,
-                "variant": "штучный",
-                "store": {
-                    "storeAddress": null
-                },
-                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
-                "previews": {
                     "src": "/upload/iblock/f33/yyps2y2930aboznw3xibuvj0z3jvh4s5.webp"
                 },
                 "details": {
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "231301 1 2 шт 0",
+                "bskFields": "231301 1 1 шт 0",
                 "price": "61.<span>99</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "61.99",
@@ -373,7 +322,7 @@
                 "url": "/catalog/khleb-i-vypechka/chernyy-seryy-khleb/2000595653/",
                 "ratio": 1,
                 "src": "/upload/iblock/5a6/0j0vpn60tmv26ndcrku9dx7i0jwyigz9.webp",
-                "amount": 2,
+                "amount": 1,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -389,7 +338,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Чёрный, серый хлеб",
                 "parent_section": "Хлеб и выпечка",
-                "index": 8,
+                "index": 7,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -407,7 +356,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "233685 1 2 шт 0",
+                "bskFields": "233685 1 1 шт 0",
                 "price": "49.<span>49</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
                 "priceSimple": "49.49",
@@ -424,7 +373,7 @@
                 "url": "/catalog/khleb-i-vypechka/vypechka/2000291446/",
                 "ratio": 1,
                 "src": "/upload/iblock/dcf/yaq0gxcolfm16cigtggntk915z2046b9.webp",
-                "amount": 5,
+                "amount": 2,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -440,7 +389,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Выпечка",
                 "parent_section": "Хлеб и выпечка",
-                "index": 9,
+                "index": 8,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -453,7 +402,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "213375 1 5 шт 0",
+                "bskFields": "213375 1 2 шт 0",
                 "status": "in-time",
                 "oldPrice": "60.<span>99</span><span class='rub'>руб.</span>",
                 "price": "49.<span>99</span><span class='rub'>руб.</span>",
@@ -498,7 +447,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Чёрный, серый хлеб",
                 "parent_section": "Хлеб и выпечка",
-                "index": 10,
+                "index": 9,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -544,7 +493,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Лепешки, лаваш",
                 "parent_section": "Хлеб и выпечка",
-                "index": 11,
+                "index": 10,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -605,7 +554,7 @@
                 "id": "price",
                 "identifier": "price",
                 "type": "digit",
-                "min": "39.99",
+                "min": "49.49",
                 "max": "149.9"
             },
             {
@@ -645,12 +594,6 @@
                         "id": "3432"
                     },
                     {
-                        "title": "Пролетарец",
-                        "title_to_lower": "пролетарец",
-                        "count": "1",
-                        "id": "3734"
-                    },
-                    {
                         "title": "Mission",
                         "title_to_lower": "mission",
                         "count": "1",
@@ -679,7 +622,7 @@
                     {
                         "title": "Россия",
                         "title_to_lower": "россия",
-                        "count": "11",
+                        "count": "10",
                         "id": "1"
                     }
                 ]
@@ -699,7 +642,7 @@
                     {
                         "title": "Хлеб",
                         "title_to_lower": "хлеб",
-                        "count": "5",
+                        "count": "4",
                         "id": "817"
                     },
                     {
@@ -733,14 +676,14 @@
             {
                 "list_title": "Поиск по запросу:&nbsp;<span>хлеб пшеничный</span>",
                 "title": "Поиск",
-                "count": "11",
-                "format_count": "11 товаров",
+                "count": "10",
+                "format_count": "10 товаров",
                 "href": "/catalog/",
                 "items": [
                     {
                         "title": "Белый хлеб",
                         "href": "/catalog/khleb-i-vypechka/belyy-khleb/?q=хлеб пшеничный",
-                        "count": "6",
+                        "count": "5",
                         "hideAlko": false,
                         "active": false
                     },

@@ -28,11 +28,11 @@
                 "isPromotion": true,
                 "oldPrice": 34999
             },
-            "quantity": 138,
+            "quantity": 130,
             "ratings": {
                 "commentsCount": 594,
                 "rating": 4.7,
-                "scoresCount": 12322
+                "scoresCount": 12323
             },
             "seoCode": "vyazanka_kolbasa_doktorskaya_gost_var_0_4kg_p_o_10",
             "service": "core_gm",
@@ -81,11 +81,11 @@
                 "isPromotion": true,
                 "oldPrice": 23999
             },
-            "quantity": 43,
+            "quantity": 41,
             "ratings": {
-                "commentsCount": 596,
+                "commentsCount": 597,
                 "rating": 4.5,
-                "scoresCount": 8713
+                "scoresCount": 8716
             },
             "seoCode": "velikolukskiy_mk_kolbasa_doktorskaya_kata_var_gost_0_4kg_p_o",
             "service": "core_gm",
@@ -130,7 +130,7 @@
             "ratings": {
                 "commentsCount": 70,
                 "rating": 4.5,
-                "scoresCount": 1071
+                "scoresCount": 1073
             },
             "seoCode": "papa_mozhet_kolbasa_govyazhya_var_400g_p_o",
             "service": "core_gm",
@@ -216,7 +216,7 @@
                 "isPromotion": true,
                 "oldPrice": 21999
             },
-            "quantity": 19,
+            "quantity": 13,
             "ratings": {
                 "commentsCount": 61,
                 "rating": 4.6,
@@ -314,11 +314,11 @@
                 "isPromotion": true,
                 "oldPrice": 32999
             },
-            "quantity": 29,
+            "quantity": 28,
             "ratings": {
                 "commentsCount": 53,
                 "rating": 4.6,
-                "scoresCount": 495
+                "scoresCount": 496
             },
             "seoCode": "indilayt_kolbasa_var_iz_file_indeyki_400g",
             "service": "core_gm",
@@ -408,7 +408,7 @@
             "ratings": {
                 "commentsCount": 143,
                 "rating": 4.3,
-                "scoresCount": 2623
+                "scoresCount": 2624
             },
             "seoCode": "kolbasa_varenaya_moya_tsena_400g",
             "service": "core_gm",

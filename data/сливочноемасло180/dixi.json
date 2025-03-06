@@ -19,7 +19,7 @@
                 "url": "/catalog/molochnye-produkty-yaytsa/maslo-i-margarin/2000602271/",
                 "ratio": 1,
                 "src": "/upload/iblock/3ac/tk0tb4fttg5p63ed88wqxmzdjgfyh7vv.webp",
-                "amount": 39,
+                "amount": 32,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -48,7 +48,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "226261 1 39 шт 0",
+                "bskFields": "226261 1 32 шт 0",
                 "status": "in-time",
                 "oldPrice": "183.<span>90</span><span class='rub'>руб.</span>",
                 "price": "159.<span>90</span><span class='rub'>руб.</span>",
@@ -60,7 +60,7 @@
                     },
                     {
                         "class": "grey",
-                        "title": "до 05.03.2025"
+                        "title": "до 11.03.2025"
                     }
                 ],
                 "crossPrice": true,
@@ -290,9 +290,9 @@
                 },
                 "canBuy": true,
                 "bskFields": "216813 1 18 шт 0",
-                "price": "164.<span>90</span><span class='rub'>руб.</span>",
+                "price": "169.<span>90</span><span class='rub'>руб.</span>",
                 "crossPrice": false,
-                "priceSimple": "164.90",
+                "priceSimple": "169.90",
                 "oldPriceSimple": "0.00",
                 "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>",

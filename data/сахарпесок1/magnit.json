@@ -24,15 +24,15 @@
             "productId": "3133780401",
             "promotion": {
                 "discountPercent": null,
-                "endDate": "2025-03-10T23:59:59Z",
+                "endDate": "2025-03-17T23:59:59Z",
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 374,
+            "quantity": 345,
             "ratings": {
                 "commentsCount": 2543,
                 "rating": 4.7,
-                "scoresCount": 90590
+                "scoresCount": 90615
             },
             "seoCode": "sakhar_belyy_kristallicheskiy_fas_1kg",
             "service": "core_gm",

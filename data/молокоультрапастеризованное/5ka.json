@@ -16,7 +16,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 15042
+                "rates_count": 14666
             },
             "promo": {
                 "rebate": {
@@ -54,7 +54,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 24874
+                "rates_count": 23425
             },
             "promo": null,
             "prices": {
@@ -82,7 +82,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 17207
+                "rates_count": 16806
             },
             "promo": null,
             "prices": {
@@ -110,7 +110,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 9604
+                "rates_count": 9605
             },
             "promo": null,
             "prices": {
@@ -121,7 +121,7 @@
             "labels": null,
             "property_clarification": "925 мл",
             "has_age_restriction": false,
-            "stock_limit": "114.00"
+            "stock_limit": "113.00"
         },
         {
             "plu": 4045383,
@@ -137,8 +137,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.91,
-                "rates_count": 5338
+                "rating_average": 4.92,
+                "rates_count": 5129
             },
             "promo": null,
             "prices": {
@@ -172,7 +172,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 10010
+                "rates_count": 9780
             },
             "promo": null,
             "prices": {
@@ -189,17 +189,17 @@
             ],
             "property_clarification": "925 мл",
             "has_age_restriction": false,
-            "stock_limit": "338.00"
+            "stock_limit": "334.00"
         },
         {
             "plu": 3199747,
             "name": "Молоко Домик в деревне ультрапастеризованное 2.5% БЗМЖ 950г",
             "image_links": {
                 "small": [
-                    "https://photos.okolo.app/product/1163553-main/320x320.jpeg?updated_at=2025-03-05T14:47:24.443Z"
+                    "https://photos.okolo.app/product/1163553-main/320x320.jpeg?updated_at=2025-03-05T15:13:33.991Z"
                 ],
                 "normal": [
-                    "https://photos.okolo.app/product/1163553-main/800x800.jpeg?updated_at=2025-03-05T14:47:24.443Z",
+                    "https://photos.okolo.app/product/1163553-main/800x800.jpeg?updated_at=2025-03-05T15:13:33.991Z",
                     "https://photos.okolo.app/product/e99c39082395a153455325b3fbc8dfea-additional/800x800.jpeg",
                     "https://photos.okolo.app/product/5a964e4fcbb4eac3288a9c3cc991d7c9-additional/800x800.jpeg",
                     "https://photos.okolo.app/product/d9f5a891b28d0bcf57a2f50619c81f5a-additional/800x800.jpeg",
@@ -211,7 +211,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 5711
+                "rates_count": 5907
             },
             "promo": null,
             "prices": {
@@ -239,7 +239,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.9,
-                "rates_count": 6055
+                "rates_count": 5714
             },
             "promo": null,
             "prices": {
@@ -274,7 +274,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 7056
+                "rates_count": 7123
             },
             "promo": null,
             "prices": {
@@ -302,7 +302,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 5993
+                "rates_count": 5587
             },
             "promo": null,
             "prices": {
@@ -313,7 +313,7 @@
             "labels": null,
             "property_clarification": "970 мл",
             "has_age_restriction": false,
-            "stock_limit": "36.00"
+            "stock_limit": "32.00"
         },
         {
             "plu": 70709,
@@ -335,11 +335,11 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.94,
-                "rates_count": 4671
+                "rates_count": 4663
             },
             "promo": null,
             "prices": {
-                "regular": "139.99",
+                "regular": "149.99",
                 "discount": null,
                 "cpd_promo_price": null
             },
@@ -371,7 +371,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 4992
+                "rates_count": 5000
             },
             "promo": null,
             "prices": {
@@ -388,7 +388,7 @@
             ],
             "property_clarification": "1 л",
             "has_age_restriction": false,
-            "stock_limit": "62.00"
+            "stock_limit": "61.00"
         }
     ],
     "categories": [

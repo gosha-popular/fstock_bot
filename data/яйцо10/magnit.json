@@ -28,15 +28,15 @@
             "productId": "2047000014",
             "promotion": {
                 "discountPercent": null,
-                "endDate": "2025-03-10T23:59:59Z",
+                "endDate": "2025-03-17T23:59:59Z",
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 596,
+            "quantity": 318,
             "ratings": {
-                "commentsCount": 2975,
+                "commentsCount": 2977,
                 "rating": 4.7,
-                "scoresCount": 60539
+                "scoresCount": 60564
             },
             "seoCode": "yaytso_kurinoe_stolovoe_so_10sht",
             "service": "core_gm",
@@ -81,11 +81,11 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 418,
+            "quantity": 329,
             "ratings": {
-                "commentsCount": 2532,
+                "commentsCount": 2533,
                 "rating": 4.6,
-                "scoresCount": 69398
+                "scoresCount": 69417
             },
             "seoCode": "yaytso_stolovoe_s1_10sht_boks_20",
             "service": "core_gm",
@@ -126,7 +126,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 8,
+            "quantity": 6,
             "ratings": {
                 "commentsCount": 24,
                 "rating": 4.6,
@@ -179,7 +179,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 40,
+            "quantity": 39,
             "ratings": {
                 "commentsCount": 20,
                 "rating": 4.7,
@@ -228,7 +228,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 63,
+            "quantity": 54,
             "ratings": {
                 "commentsCount": 11,
                 "rating": 4.7,
@@ -285,11 +285,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 80,
+            "quantity": 69,
             "ratings": {
                 "commentsCount": 64,
                 "rating": 4.8,
-                "scoresCount": 1125
+                "scoresCount": 1129
             },
             "seoCode": "leto_yaytsa_kurinoe_kategoriya_pervaya_10_0_65_kg_kartonnaya_upakovka_ooo_belyanka_16",
             "service": "core_gm",
@@ -330,11 +330,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 66,
+            "quantity": 61,
             "ratings": {
                 "commentsCount": 62,
                 "rating": 4.8,
-                "scoresCount": 946
+                "scoresCount": 950
             },
             "seoCode": "tulskaya_yaytso_kurinoe_s0_10_sht_boks",
             "service": "core_gm",
@@ -379,11 +379,11 @@
                 "isPromotion": true,
                 "oldPrice": 51999
             },
-            "quantity": 114,
+            "quantity": 113,
             "ratings": {
                 "commentsCount": 57,
                 "rating": 4.8,
-                "scoresCount": 1051
+                "scoresCount": 1053
             },
             "seoCode": "kinder_shok_yaytso_maksi_shokolad_100g_ferrero_russiya_12",
             "service": "core_gm",

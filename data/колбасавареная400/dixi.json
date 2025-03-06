@@ -65,7 +65,7 @@
                     },
                     {
                         "class": "grey",
-                        "title": "до 05.03.2025"
+                        "title": "до 09.03.2025"
                     }
                 ],
                 "crossPrice": true,
@@ -267,7 +267,7 @@
                 "url": "/catalog/myasnaya-gastronomiya/kolbasa-varenaya/2000265924/",
                 "ratio": 1,
                 "src": "/upload/iblock/924/dvfqfoxhoba2ga1rmow8k2lrlbh56yk1.webp",
-                "amount": 16,
+                "amount": 11,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -307,7 +307,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "212174 1 16 шт 0",
+                "bskFields": "212174 1 11 шт 0",
                 "status": "in-time",
                 "oldPrice": "199.<span>90</span><span class='rub'>руб.</span>",
                 "price": "99.<span>99</span><span class='rub'>руб.</span>",
@@ -321,6 +321,65 @@
                 "crossPrice": true,
                 "priceSimple": "99.99",
                 "oldPriceSimple": "199.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "216886",
+                "xml_id": "2000404595",
+                "title": "Колбаса Мясной дом Бородина Докторская вареная 400г",
+                "weight": "404 гр",
+                "url": "/catalog/myasnaya-gastronomiya/kolbasa-varenaya/2000404595/",
+                "ratio": 1,
+                "src": "/upload/iblock/aa3/gv40gnswchjhs4lvflcirjvcrawmluug.webp",
+                "amount": 2,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Колбаса варёная",
+                "parent_section": "Мясная гастрономия",
+                "index": 6,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/aa3/gv40gnswchjhs4lvflcirjvcrawmluug.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/fb4/ynq4yw042d4g5wr7sgfztbhfxtlsp33q.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "216886 1 2 шт 0",
+                "status": "in-time",
+                "oldPrice": "369.<span>90</span><span class='rub'>руб.</span>",
+                "price": "239.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-35%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "239.90",
+                "oldPriceSimple": "369.90",
                 "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
             },
@@ -348,7 +407,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Колбаса варёная",
                 "parent_section": "Мясная гастрономия",
-                "index": 6,
+                "index": 7,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -375,65 +434,6 @@
                 "crossPrice": true,
                 "priceSimple": "109.90",
                 "oldPriceSimple": "219.90",
-                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
-            },
-            {
-                "id": "216886",
-                "xml_id": "2000404595",
-                "title": "Колбаса Мясной дом Бородина Докторская вареная 400г",
-                "weight": "404 гр",
-                "url": "/catalog/myasnaya-gastronomiya/kolbasa-varenaya/2000404595/",
-                "ratio": 1,
-                "src": "/upload/iblock/aa3/gv40gnswchjhs4lvflcirjvcrawmluug.webp",
-                "amount": 3,
-                "symbol": "шт",
-                "quantity": 0,
-                "bskState": [
-                    "not"
-                ],
-                "hideAlko": false,
-                "canBeFavoriteListing": false,
-                "canBeFavorite": false,
-                "bs-not": true,
-                "bs-in": false,
-                "bs-del": false,
-                "bs-limit": false,
-                "tpl_path": "/local/templates/dixy_ru",
-                "section": "Колбаса варёная",
-                "parent_section": "Мясная гастрономия",
-                "index": 7,
-                "variant": "штучный",
-                "store": {
-                    "storeAddress": null
-                },
-                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
-                "previews": [
-                    {
-                        "src": "/upload/iblock/aa3/gv40gnswchjhs4lvflcirjvcrawmluug.webp"
-                    },
-                    {
-                        "src": "/upload/iblock/fb4/ynq4yw042d4g5wr7sgfztbhfxtlsp33q.webp"
-                    }
-                ],
-                "details": {
-                    "src": "/local/templates/dixy_ru/images/img-product.webp"
-                },
-                "canBuy": true,
-                "bskFields": "216886 1 3 шт 0",
-                "status": "in-time",
-                "oldPrice": "369.<span>90</span><span class='rub'>руб.</span>",
-                "price": "239.<span>90</span><span class='rub'>руб.</span>",
-                "badges": [
-                    {
-                        "class": "yellow",
-                        "num": "-35%",
-                        "title": "по акции"
-                    }
-                ],
-                "crossPrice": true,
-                "priceSimple": "239.90",
-                "oldPriceSimple": "369.90",
                 "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
             },
@@ -501,6 +501,69 @@
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
             },
             {
+                "id": "226161",
+                "xml_id": "2000595016",
+                "title": "Колбаса Стародворье Стародворская с окороком, вареная, 400г",
+                "weight": "401 гр",
+                "url": "/catalog/myasnaya-gastronomiya/kolbasa-varenaya/2000595016/",
+                "ratio": 1,
+                "src": "/upload/iblock/b39/m35oz89pnjfolokqd3qo3r3zdiiir4fq.webp",
+                "amount": 3,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Колбаса варёная",
+                "parent_section": "Мясная гастрономия",
+                "index": 9,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": [
+                    {
+                        "src": "/upload/iblock/b39/m35oz89pnjfolokqd3qo3r3zdiiir4fq.webp"
+                    },
+                    {
+                        "src": "/upload/iblock/65d/emyamvarzgqdvvjwlwbbqbmhjsasd7n1.webp"
+                    }
+                ],
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "226161 1 3 шт 0",
+                "status": "in-time",
+                "oldPrice": "269.<span>90</span><span class='rub'>руб.</span>",
+                "price": "129.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-51%",
+                        "title": "по акции"
+                    },
+                    {
+                        "class": "grey",
+                        "title": "до 23.03.2025"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "129.90",
+                "oldPriceSimple": "269.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
                 "id": "238687",
                 "xml_id": "2000610591",
                 "title": "Колбаса Мясницкий ряд Русская вареная 400г",
@@ -524,7 +587,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Колбаса варёная",
                 "parent_section": "Мясная гастрономия",
-                "index": 9,
+                "index": 10,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -559,69 +622,6 @@
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
             },
             {
-                "id": "226161",
-                "xml_id": "2000595016",
-                "title": "Колбаса Стародворье Стародворская с окороком, вареная, 400г",
-                "weight": "401 гр",
-                "url": "/catalog/myasnaya-gastronomiya/kolbasa-varenaya/2000595016/",
-                "ratio": 1,
-                "src": "/upload/iblock/b39/m35oz89pnjfolokqd3qo3r3zdiiir4fq.webp",
-                "amount": 4,
-                "symbol": "шт",
-                "quantity": 0,
-                "bskState": [
-                    "not"
-                ],
-                "hideAlko": false,
-                "canBeFavoriteListing": false,
-                "canBeFavorite": false,
-                "bs-not": true,
-                "bs-in": false,
-                "bs-del": false,
-                "bs-limit": false,
-                "tpl_path": "/local/templates/dixy_ru",
-                "section": "Колбаса варёная",
-                "parent_section": "Мясная гастрономия",
-                "index": 10,
-                "variant": "штучный",
-                "store": {
-                    "storeAddress": null
-                },
-                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
-                "previews": [
-                    {
-                        "src": "/upload/iblock/b39/m35oz89pnjfolokqd3qo3r3zdiiir4fq.webp"
-                    },
-                    {
-                        "src": "/upload/iblock/65d/emyamvarzgqdvvjwlwbbqbmhjsasd7n1.webp"
-                    }
-                ],
-                "details": {
-                    "src": "/local/templates/dixy_ru/images/img-product.webp"
-                },
-                "canBuy": true,
-                "bskFields": "226161 1 4 шт 0",
-                "status": "in-time",
-                "oldPrice": "269.<span>90</span><span class='rub'>руб.</span>",
-                "price": "129.<span>90</span><span class='rub'>руб.</span>",
-                "badges": [
-                    {
-                        "class": "yellow",
-                        "num": "-51%",
-                        "title": "по акции"
-                    },
-                    {
-                        "class": "grey",
-                        "title": "до 23.03.2025"
-                    }
-                ],
-                "crossPrice": true,
-                "priceSimple": "129.90",
-                "oldPriceSimple": "269.90",
-                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
-            },
-            {
                 "id": "214823",
                 "xml_id": "2000322516",
                 "title": "Колбаса вареная Рублевский МК Докторская 400г",
@@ -629,7 +629,7 @@
                 "url": "/catalog/myasnaya-gastronomiya/kolbasa-varenaya/2000322516/",
                 "ratio": 1,
                 "src": "/upload/iblock/8d7/6mvfi82p2av7bq3d7e3z5acgvi5z51l6.webp",
-                "amount": 11,
+                "amount": 10,
                 "symbol": "шт",
                 "quantity": 0,
                 "bskState": [
@@ -663,7 +663,7 @@
                     "src": "/local/templates/dixy_ru/images/img-product.webp"
                 },
                 "canBuy": true,
-                "bskFields": "214823 1 11 шт 0",
+                "bskFields": "214823 1 10 шт 0",
                 "status": "in-time",
                 "oldPrice": "409.<span>90</span><span class='rub'>руб.</span>",
                 "price": "219.<span>90</span><span class='rub'>руб.</span>",
@@ -797,60 +797,6 @@
                 "oldPrice": "0.<span>00</span><span class='rub'>руб.</span>"
             },
             {
-                "id": "225439",
-                "xml_id": "2000601454",
-                "title": "Колбаса Мясоедов Докторская вареная ГОСТ 400г",
-                "weight": "400 гр",
-                "url": "/catalog/myasnaya-gastronomiya/kolbasa-vareno--kopchenaya/2000601454/",
-                "ratio": 1,
-                "src": "/upload/iblock/f08/j6loz1rswiy9pkdb0jsrk07tx6p5hcrg.webp",
-                "amount": 1,
-                "symbol": "шт",
-                "quantity": 0,
-                "bskState": [
-                    "not"
-                ],
-                "hideAlko": false,
-                "canBeFavoriteListing": false,
-                "canBeFavorite": false,
-                "bs-not": true,
-                "bs-in": false,
-                "bs-del": false,
-                "bs-limit": false,
-                "tpl_path": "/local/templates/dixy_ru",
-                "section": "Колбаса варено- копченая",
-                "parent_section": "Мясная гастрономия",
-                "index": 14,
-                "variant": "штучный",
-                "store": {
-                    "storeAddress": null
-                },
-                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
-                "previews": {
-                    "src": "/upload/iblock/f08/j6loz1rswiy9pkdb0jsrk07tx6p5hcrg.webp"
-                },
-                "details": {
-                    "src": "/local/templates/dixy_ru/images/img-product.webp"
-                },
-                "canBuy": true,
-                "bskFields": "225439 1 1 шт 0",
-                "status": "in-time",
-                "oldPrice": "249.<span>90</span><span class='rub'>руб.</span>",
-                "price": "219.<span>90</span><span class='rub'>руб.</span>",
-                "badges": [
-                    {
-                        "class": "yellow",
-                        "num": "-12%",
-                        "title": "по акции"
-                    }
-                ],
-                "crossPrice": true,
-                "priceSimple": "219.90",
-                "oldPriceSimple": "249.90",
-                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
-                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
-            },
-            {
                 "id": "221873",
                 "xml_id": "2000567151",
                 "title": "Колбаса Мираторг Докторская вареная ГОСТ 400г",
@@ -874,7 +820,7 @@
                 "tpl_path": "/local/templates/dixy_ru",
                 "section": "Колбаса варёная",
                 "parent_section": "Мясная гастрономия",
-                "index": 15,
+                "index": 14,
                 "variant": "штучный",
                 "store": {
                     "storeAddress": null
@@ -910,6 +856,60 @@
                 "crossPrice": true,
                 "priceSimple": "249.90",
                 "oldPriceSimple": "369.90",
+                "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
+                "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
+            },
+            {
+                "id": "225439",
+                "xml_id": "2000601454",
+                "title": "Колбаса Мясоедов Докторская вареная ГОСТ 400г",
+                "weight": "400 гр",
+                "url": "/catalog/myasnaya-gastronomiya/kolbasa-vareno--kopchenaya/2000601454/",
+                "ratio": 1,
+                "src": "/upload/iblock/f08/j6loz1rswiy9pkdb0jsrk07tx6p5hcrg.webp",
+                "amount": 1,
+                "symbol": "шт",
+                "quantity": 0,
+                "bskState": [
+                    "not"
+                ],
+                "hideAlko": false,
+                "canBeFavoriteListing": false,
+                "canBeFavorite": false,
+                "bs-not": true,
+                "bs-in": false,
+                "bs-del": false,
+                "bs-limit": false,
+                "tpl_path": "/local/templates/dixy_ru",
+                "section": "Колбаса варено- копченая",
+                "parent_section": "Мясная гастрономия",
+                "index": 15,
+                "variant": "штучный",
+                "store": {
+                    "storeAddress": null
+                },
+                "detail_src": "/local/templates/dixy_ru/images/img-product.webp",
+                "previews": {
+                    "src": "/upload/iblock/f08/j6loz1rswiy9pkdb0jsrk07tx6p5hcrg.webp"
+                },
+                "details": {
+                    "src": "/local/templates/dixy_ru/images/img-product.webp"
+                },
+                "canBuy": true,
+                "bskFields": "225439 1 1 шт 0",
+                "status": "in-time",
+                "oldPrice": "249.<span>90</span><span class='rub'>руб.</span>",
+                "price": "219.<span>90</span><span class='rub'>руб.</span>",
+                "badges": [
+                    {
+                        "class": "yellow",
+                        "num": "-12%",
+                        "title": "по акции"
+                    }
+                ],
+                "crossPrice": true,
+                "priceSimple": "219.90",
+                "oldPriceSimple": "249.90",
                 "priceAll": "0.<span>00</span><span class='rub'>руб.</span>",
                 "oldPriceAll": "0.<span>00</span><span class='rub'>руб.</span>"
             }

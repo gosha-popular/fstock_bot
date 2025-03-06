@@ -32,7 +32,7 @@
             "ratings": {
                 "commentsCount": 104,
                 "rating": 4.8,
-                "scoresCount": 1292
+                "scoresCount": 1294
             },
             "seoCode": "volgodonskoe_maslo_sliv_82_5_180g_fl_p_belyy_medved_18",
             "service": "core_gm",
@@ -73,11 +73,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 171,
+            "quantity": 169,
             "ratings": {
                 "commentsCount": 240,
                 "rating": 4.5,
-                "scoresCount": 4082
+                "scoresCount": 4084
             },
             "seoCode": "maslo_krestyanskoe_sliv_72_5_180g_fol_mol_kompaniya_20",
             "service": "core_gm",
@@ -118,11 +118,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 147,
+            "quantity": 139,
             "ratings": {
                 "commentsCount": 38,
                 "rating": 4.8,
-                "scoresCount": 430
+                "scoresCount": 431
             },
             "seoCode": "vkusnoteevo_maslo_slivochnoe_krestyanskoe_72_5_180g",
             "service": "core_gm",
@@ -163,11 +163,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 193,
+            "quantity": 248,
             "ratings": {
                 "commentsCount": 71,
                 "rating": 4.5,
-                "scoresCount": 911
+                "scoresCount": 912
             },
             "seoCode": "maslo_traditsionnoe_sliv_82_5_180g",
             "service": "core_gm",
@@ -298,7 +298,7 @@
                 "isPromotion": true,
                 "oldPrice": 20999
             },
-            "quantity": 220,
+            "quantity": 209,
             "ratings": {
                 "commentsCount": 23,
                 "rating": 4.5,
@@ -343,11 +343,11 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 72,
+            "quantity": 70,
             "ratings": {
                 "commentsCount": 311,
                 "rating": 4.8,
-                "scoresCount": 2855
+                "scoresCount": 2856
             },
             "seoCode": "maslo_belorusskoe_sl_sliv_nesol_82_5_180g_fol_shchuchinskiy_20",
             "service": "core_gm",
@@ -404,7 +404,7 @@
             "ratings": {
                 "commentsCount": 346,
                 "rating": 4.7,
-                "scoresCount": 5797
+                "scoresCount": 5799
             },
             "seoCode": "moloko_domik_v_derevne_maslo_krestyanskoe_72_5_180g",
             "service": "core_gm",
@@ -518,11 +518,11 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 68,
+            "quantity": 65,
             "ratings": {
-                "commentsCount": 335,
+                "commentsCount": 336,
                 "rating": 4.7,
-                "scoresCount": 6264
+                "scoresCount": 6269
             },
             "seoCode": "maslo_ekomilk_slivochnoe_82_5_180g",
             "service": "core_gm",
@@ -565,9 +565,9 @@
             },
             "quantity": 100,
             "ratings": {
-                "commentsCount": 420,
+                "commentsCount": 422,
                 "rating": 4.6,
-                "scoresCount": 5868
+                "scoresCount": 5872
             },
             "seoCode": "magnit_maslo_traditsionnoe_v_s_82_5_gost_180g_12",
             "service": "core_gm",
@@ -608,11 +608,11 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 29,
+            "quantity": 27,
             "ratings": {
                 "commentsCount": 7,
                 "rating": 4.4,
-                "scoresCount": 37
+                "scoresCount": 38
             },
             "seoCode": "gutendorf_maslo_izgotovleno_iz_pasterizovannykh_slivok_tverdoe_82_5_180g_folga_ooo_magnoliya_8",
             "service": "core_gm",
@@ -743,7 +743,7 @@
                 "isPromotion": false,
                 "oldPrice": null
             },
-            "quantity": 29,
+            "quantity": 28,
             "ratings": {
                 "commentsCount": 1,
                 "rating": 4.6,
@@ -788,9 +788,70 @@
                 "isPromotion": true,
                 "oldPrice": null
             },
-            "quantity": 18,
+            "quantity": 17,
             "ratings": null,
             "seoCode": "klyuchevskoe_maslo_slivochnoe_traditsionnoe_82_5_180g",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [
+                {
+                    "backgroundColor": "#FF2A66",
+                    "backgroundGradient": "gradient/loyalty/plus small",
+                    "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+                    "text": "По карте",
+                    "textColor": "#FFFFFF"
+                }
+            ],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/0F-5hMSVI0aN5WlF4GJq3YBId7VU1-pHmUbAFlPHbLM/rs:fit:416:416/plain/s3://img-dostavka/uf/2c1/2c17b2a34c1ea5c2bce0e20d13942b71/84d9f2501f9f08619b5b2b12f18e9d34.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/nGipDvcTEWMJ6-VozqhgCSqhRkjU4nDP1wdFEgTVLDk/rs:fit:416:416/plain/s3://img-dostavka/uf/336/336dd658eab5fd6b48610c7624951d81/f3a1cfb6682d12dcf320b23476f1dda4.jpeg@webp"
+                },
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/9zxvWzN4R-GgcxxMpxaXRjaNsg2xaEuw54JluwrSUSo/rs:fit:416:416/plain/s3://img-dostavka/uf/d93/d93ec1708930fb5d36234ec98df1efe8/4a1f0020bad1e0d93a136b1ea6c55f78.jpeg@webp"
+                }
+            ],
+            "id": "1000290092",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное President несоленое 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 26999,
+            "productId": "1000290092",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "2025-03-11T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 3,
+            "ratings": {
+                "commentsCount": 27,
+                "rating": 4.7,
+                "scoresCount": 162
+            },
+            "seoCode": "president_maslo_kisl_sliv_nesol_82_180g_folga_laktalis_10",
             "service": "core_gm",
             "skuGroupId": null,
             "storeCode": "992301",
@@ -836,6 +897,47 @@
                 "scoresCount": 177
             },
             "seoCode": "chaban_maslo_slivochnoe_72_5_180g_folga_ooo_nalchikskiy_molochnyy_kombinat_20",
+            "service": "core_gm",
+            "skuGroupId": null,
+            "storeCode": "992301",
+            "weighted": {
+                "isWeighted": false,
+                "minStep": null,
+                "shelfLabel": null,
+                "shelfWeight": null,
+                "step": null,
+                "unitLabel": null,
+                "unitPrice": null
+            }
+        },
+        {
+            "badges": [],
+            "catalogType": "1",
+            "gallery": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://images-foodtech.magnit.ru/SI7pCKz90_SSjZrfkcoslr64bewHmtbPhX8z3leeS3I/rs:fit:416:416/plain/s3://img-dostavka/uf/a81/a810d79c8de96bed8572c4375f4a1635/2f28d470d73ee6504c18be536da51853.jpeg@webp"
+                }
+            ],
+            "id": "1000320641",
+            "isForAdults": false,
+            "isInFavorites": null,
+            "isLowStock": false,
+            "name": "Масло сливочное Gutendorf 72.5% 180г",
+            "needPassport": false,
+            "orders": null,
+            "pickupOnly": false,
+            "price": 19599,
+            "productId": "1000320641",
+            "promotion": {
+                "discountPercent": null,
+                "endDate": "4000-01-01T23:59:59Z",
+                "isPromotion": true,
+                "oldPrice": null
+            },
+            "quantity": 2,
+            "ratings": null,
+            "seoCode": "gutendorf_maslo_izgotovleno_iz_pasterizovannykh_slivok_tverdoe_72_5_180g_folga_ooo_magnoliya_8",
             "service": "core_gm",
             "skuGroupId": null,
             "storeCode": "992301",
@@ -911,7 +1013,7 @@
         "hasMore": false,
         "limit": 36,
         "offset": 0,
-        "totalCount": 19
+        "totalCount": 21
     },
     "term": "сливочное масло 180"
 }

@@ -16,7 +16,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.92,
-                "rates_count": 25640
+                "rates_count": 25273
             },
             "promo": null,
             "prices": {
@@ -27,7 +27,7 @@
             "labels": null,
             "property_clarification": "10 шт",
             "has_age_restriction": false,
-            "stock_limit": "18.00"
+            "stock_limit": "15.00"
         },
         {
             "plu": 3062835,
@@ -44,7 +44,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 22039
+                "rates_count": 21505
             },
             "promo": null,
             "prices": {
@@ -55,7 +55,7 @@
             "labels": null,
             "property_clarification": "10 шт",
             "has_age_restriction": false,
-            "stock_limit": "68.00"
+            "stock_limit": "62.00"
         },
         {
             "plu": 3446505,
@@ -75,7 +75,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 21165
+                "rates_count": 21104
             },
             "promo": null,
             "prices": {
@@ -86,7 +86,7 @@
             "labels": null,
             "property_clarification": "10 шт",
             "has_age_restriction": false,
-            "stock_limit": "18.00"
+            "stock_limit": "15.00"
         },
         {
             "plu": 44323,
@@ -105,7 +105,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 11179
+                "rates_count": 10904
             },
             "promo": null,
             "prices": {
@@ -137,7 +137,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 10002
+                "rates_count": 9780
             },
             "promo": null,
             "prices": {
@@ -148,7 +148,7 @@
             "labels": null,
             "property_clarification": "20 шт",
             "has_age_restriction": false,
-            "stock_limit": "8.00"
+            "stock_limit": "6.00"
         },
         {
             "plu": 3001671,
@@ -168,7 +168,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 13214
+                "rates_count": 12975
             },
             "promo": null,
             "prices": {
@@ -179,38 +179,7 @@
             "labels": null,
             "property_clarification": "10 шт",
             "has_age_restriction": false,
-            "stock_limit": "21.00"
-        },
-        {
-            "plu": 4236458,
-            "name": "Яйцо куриное Лето столовое СО 10шт.",
-            "image_links": {
-                "small": [
-                    "https://photos.okolo.app/product/1460079-main/320x320.jpeg?updated_at=2025-02-24T07:59:20.023Z"
-                ],
-                "normal": [
-                    "https://photos.okolo.app/product/1460079-main/800x800.jpeg?updated_at=2025-02-24T07:59:20.023Z",
-                    "https://photos.okolo.app/product/2457af565f400a84c0f9c98a20affe95-additional/800x800.jpeg",
-                    "https://photos.okolo.app/product/271f5f64c7761e3a531213c36fac97ad-additional/800x800.jpeg",
-                    "https://photos.okolo.app/product/4ae128a50c01a87c8d99545593b1a488-additional/800x800.jpeg"
-                ]
-            },
-            "uom": "шт",
-            "step": "1.0",
-            "rating": {
-                "rating_average": 4.93,
-                "rates_count": 8923
-            },
-            "promo": null,
-            "prices": {
-                "regular": "129.99",
-                "discount": null,
-                "cpd_promo_price": null
-            },
-            "labels": null,
-            "property_clarification": "10 шт",
-            "has_age_restriction": false,
-            "stock_limit": "2.00"
+            "stock_limit": "16.00"
         },
         {
             "plu": 3432532,
@@ -230,7 +199,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.93,
-                "rates_count": 9358
+                "rates_count": 9335
             },
             "promo": null,
             "prices": {
@@ -241,7 +210,7 @@
             "labels": null,
             "property_clarification": "10 шт",
             "has_age_restriction": false,
-            "stock_limit": "10.00"
+            "stock_limit": "9.00"
         },
         {
             "plu": 4364694,
@@ -259,7 +228,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 5723
+                "rates_count": 5293
             },
             "promo": null,
             "prices": {
@@ -287,7 +256,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.91,
-                "rates_count": 8987
+                "rates_count": 9052
             },
             "promo": null,
             "prices": {
@@ -298,7 +267,7 @@
             "labels": null,
             "property_clarification": "10 шт",
             "has_age_restriction": false,
-            "stock_limit": "11.00"
+            "stock_limit": "8.00"
         },
         {
             "plu": 4200767,
@@ -314,8 +283,8 @@
             "uom": "шт",
             "step": "1.0",
             "rating": {
-                "rating_average": 4.9,
-                "rates_count": 3104
+                "rating_average": 4.91,
+                "rates_count": 3187
             },
             "promo": null,
             "prices": {
@@ -326,7 +295,7 @@
             "labels": null,
             "property_clarification": "10 шт",
             "has_age_restriction": false,
-            "stock_limit": "17.00"
+            "stock_limit": "15.00"
         },
         {
             "plu": 4213682,
@@ -343,7 +312,7 @@
             "step": "1.0",
             "rating": {
                 "rating_average": 4.95,
-                "rates_count": 1109
+                "rates_count": 1048
             },
             "promo": null,
             "prices": {
@@ -354,7 +323,35 @@
             "labels": null,
             "property_clarification": "200 г",
             "has_age_restriction": false,
-            "stock_limit": "13.00"
+            "stock_limit": "12.00"
+        },
+        {
+            "plu": 2039251,
+            "name": "Яйцо перепелиное Молодецкие 20шт",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1159664-main/320x320.jpeg?updated_at=2025-02-17T14:05:23.130Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1159664-main/800x800.jpeg?updated_at=2025-02-17T14:05:23.130Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.79,
+                "rates_count": 254
+            },
+            "promo": null,
+            "prices": {
+                "regular": "139.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "20 шт",
+            "has_age_restriction": false,
+            "stock_limit": "5.00"
         }
     ],
     "categories": [
